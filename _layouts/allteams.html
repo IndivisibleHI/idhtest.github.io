@@ -23,7 +23,7 @@ layout: default
       interface. {% endcomment %}
       {% assign sorted_teams = (site.teams | sort: "position", "last") %}
       {% for team in sorted_teams %}
-        <div class="col-12 col-md-6 col-lg-4" style="padding-bottom: 10px;">
+        <div class="col-12 col-md-6 col-lg-4" style="padding-bottom:40px;">
 
           <h3>
               <a class="team-title" href="{{ team.url | relative_url }}">{{ team.title }}</a>
