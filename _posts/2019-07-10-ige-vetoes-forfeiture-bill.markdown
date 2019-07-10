@@ -17,7 +17,7 @@ On July 9, Governor Ige vetoed this bill.
 
 At present the Legislature does not plan to hold the special session that would be required to override this veto.  It is anticipated that this bill will be reintroduced at the next legislative session.
 
-**In the interim, we will work with Representatives Lee and San Buenaventura, Senator Rhoads, and the press to educate the public and maintain pressure to insure this bill becomes law in the next session.**
+**In the interim, we will work with Representatives Lee and San Buenaventura, Senator Rhoads, and the press to educate the public and maintain pressure to insure this bill becomes law when it is reintroduced.**
 
 
 
