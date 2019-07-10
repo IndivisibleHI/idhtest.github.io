@@ -5,4 +5,4 @@ categories:
 - update
 ---
 
-https://www.salon.com/2019/06/02/there-is-hard-data-that-shows-that-a-centrist-democrat-would-be-a-losing-candidate/
+[https://www.salon.com/2019/06/02/there-is-hard-data-that-shows-that-a-centrist-democrat-would-be-a-losing-candidate/](https://www.salon.com/2019/06/02/there-is-hard-data-that-shows-that-a-centrist-democrat-would-be-a-losing-candidate/)
