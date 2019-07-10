@@ -60,12 +60,13 @@ layout: default
           {% assign featured_posts = (site.posts|where_exp:"post","post['is featured'] == true") %}
           {% assign not_featured_posts = (site.posts|where_exp:"post","post['is featured'] == false") %}
 
+          {% assign curDate = site.time | date: '%s' %}
           {% for post in featured_posts %}
-            {% if post.categories contains 'event' %}
+            {% if post.categories == 'event' %}
               {% assign postEndDate = post.event-start-date | date: '%s' %}
-            {% elsif post.categories contains 'action' %}
+            {% elsif post.categories == 'action' %}
               {% assign postEndDate = post.event-end-date | date: '%s' %}
-            {% elsif post.categories contains 'update' %}
+            {% elsif post.categories == 'update' %}
               {% assign postEndDate = post.event-end-date | date: '%s' %}
             {% endif %}
             {% if postEndDate >= curDate - 3 %}
