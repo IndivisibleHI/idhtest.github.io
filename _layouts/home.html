@@ -64,7 +64,6 @@ layout: default
 	  {% include sort-by-date.html %}
 	  {% assign featured_posts = S_posts %}
 
-          {% assign curDate = site.time | date: '%s' %}
           {% for post in featured_posts %}
             <hr class="mt-0 mb-2">
           <!-- BADGE FOR FEATURED POSTS -->
