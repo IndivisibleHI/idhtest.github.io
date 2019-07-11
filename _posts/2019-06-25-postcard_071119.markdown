@@ -6,8 +6,9 @@ categories:
 tags:
 - elections
 - postcard
-event-start-date: 2019-07-11 15:00:00 -10:00
-event-end-date: 2019-07-11 17:00:00 -10:00
+is featured: true
+event-start-date: 2019-07-13 15:00:00 -10:00
+event-end-date: 2019-07-13 17:00:00 -10:00
 Location: North Berkeley home
 RSVP-link: https://forms.gle/hoLzV3ZvZRKLUJC6A
 ---

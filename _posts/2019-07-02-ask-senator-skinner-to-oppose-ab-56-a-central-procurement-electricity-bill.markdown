@@ -8,7 +8,7 @@ tags:
 - call
 is featured: true
 main-image: "/uploads/3%20red%20phones%20copy.jpg"
-event-end-date: 2019-07-12 20:59:00 -10:00
+event-end-date: 2019-07-15 20:59:00 -10:00
 ---
 
 ### Action
