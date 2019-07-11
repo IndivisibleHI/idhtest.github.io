@@ -62,6 +62,7 @@ layout: default
 
 
 	  {% assign curDate = site.time | date: '%s' %}
+	  <h2>{{ curDate | minus: 259200 }}</h2>
           {% for post in featured_posts %}
 	    {% if post.categories contains 'event' %}
               {% assign postEndDate = post.event-start-date | date: '%s' %}
