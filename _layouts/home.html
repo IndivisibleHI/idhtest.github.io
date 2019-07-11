@@ -62,7 +62,6 @@ layout: default
 
 
 	  {% assign curDate = site.time | date: '%s' %}
-	  {% assign refDate = curDate | minus: 259200 %}
           {% for post in featured_posts %}
 	    {% if post.categories contains 'event' %}
               {% assign postEndDate = post.event-start-date | date: '%s' %}
@@ -71,14 +70,12 @@ layout: default
             {% elsif post.categories contains 'update' %}
               {% assign postEndDate = post.date | date: '%s' %}
             {% endif %}
-	    {% if postEndDate >= curDate | minus 259200 %}
             <hr class="mt-0 mb-2">
-	    <h2>hi</h2>
+	    <h2>{{ postEndDate }}</h2>
           <!-- BADGE FOR FEATURED POSTS -->
 	    <!--<span class="badge {% if post.categories contains 'action' %}badge-danger{% else %}badge-primary{% endif %}">PINNED</span> -->
             <!-- POST TEMPLATE -->
             {% include post-list.html %}
-	    {% endif %}
           {% endfor %}
 
         </div><!-- END BLOG POSTS -->
