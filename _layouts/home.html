@@ -60,10 +60,6 @@ layout: default
           {% assign featured_posts = (site.posts|where_exp:"post","post['is featured'] == true") %}
           {% assign not_featured_posts = (site.posts|where_exp:"post","post['is featured'] == false") %}
 
-<!--          {% assign posts_to_sort = featured_posts %}
-          {% include sort-by-date.html %}
-	  {% assign featured_posts = S_posts %}-->
-
           {% assign curDate = site.time | date: '%s' %}
           {% for post in featured_posts %}
             {% if post.categories contains 'event' %}
@@ -76,7 +72,7 @@ layout: default
             {% if postEndDate >= curDate - 3 %}
             <hr class="mt-0 mb-2">
           <!-- BADGE FOR FEATURED POSTS -->
-<!--             <span class="badge {% if post.categories contains 'action' %}badge-danger{% else %}badge-primary{% endif %}">PINNED</span> -->
+	    <!--<span class="badge {% if post.categories contains 'action' %}badge-danger{% else %}badge-primary{% endif %}">PINNED</span> -->
             <!-- POST TEMPLATE -->
             {% include post-list.html %}
             {% endif %}
