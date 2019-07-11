@@ -6,6 +6,7 @@ categories:
 tags:
 - elections
 - postcard
+is featured: true
 event-start-date: 2019-07-11 15:00:00 -10:00
 event-end-date: 2019-07-11 17:00:00 -10:00
 Location: North Berkeley home
