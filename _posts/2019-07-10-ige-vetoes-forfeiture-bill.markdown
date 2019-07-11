@@ -6,6 +6,7 @@ categories:
 tags:
 - stategov
 is featured: true
+event-end-date: 2019-07-10 00:00:00 -10:00
 ---
 
 There is a procedure known as forfeiture where the government can seize your property alleging it has been involved in a crime without finding you guilty of any crime, or even charging you.   Proceeds of sale of the property have been used as a slush fund for law enforcement.  An audit in Hawaii found that the procedure has long-been subject to insufficient oversight.
