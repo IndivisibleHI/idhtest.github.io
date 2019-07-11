@@ -68,14 +68,16 @@ layout: default
             {% elsif post.categories contains 'action' %}
               {% assign postEndDate = post.event-end-date | date: '%s' %}
             {% elsif post.categories contains 'update' %}
-              {% assign postEndDate = post.date | date: '%s' %}
+              {% assign postEndDate = post.event-end-date | date: '%s' %}
             {% endif %}
+	    {% if postEndDate >= curDate - 3 %}
               <hr class="mt-0 mb-2">
               <!-- BADGE FOR FEATURED POSTS -->
 	      <!--<span class="badge {% if post.categories contains 'action' %}badge-danger{% else %}badge-primary{% endif %}">PINNED</span> -->
               <!-- POST TEMPLATE -->
               {% include post-list.html %}
-          {% endfor %}
+	    {% endif %}
+	    {% endfor %}
 
         </div><!-- END BLOG POSTS -->
 
