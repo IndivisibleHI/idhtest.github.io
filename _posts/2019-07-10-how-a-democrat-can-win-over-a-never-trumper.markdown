@@ -3,6 +3,7 @@ title: How a Democrat Can Win Over a Never-Trumper
 date: 2019-07-10 12:40:00 -10:00
 categories:
 - update
+event-end-date: 2019-07-10 00:00:00 -10:00
 ---
 
 
