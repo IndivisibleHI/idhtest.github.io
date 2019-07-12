@@ -5,6 +5,6 @@ teamtag: Membership
 team-email: Membership
 ---
 
-**Mission** Get from Maya Maxym
+**Mission** Get info from Maya Maxym
 
-**Objectives** Get from Maxym
+**Objectives** Get info from Maya Maxym
