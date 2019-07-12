@@ -5,6 +5,8 @@ position: 1
 nav: true
 ---
 
+**Lisa Gibson to replace this info with Indivisible Hawaii info.** 
+
 Indivisible Berkeley brings the Trump Resistance to {{ site.member-count }} of our closest neighbors in Berkeley and surrounding communities.
 
 Our mission is to resist the Trump agenda by engaging our elected officials at all levels of government and promote progressive and democratic values. Read our entire mission statement [here](https://www.indivisibleberkeley.org/mission)
