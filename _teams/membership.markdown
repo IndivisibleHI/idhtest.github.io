@@ -5,6 +5,4 @@ teamtag: Membership
 team-email: Membership
 ---
 
-**Mission** Get info from Maya Maxym
-
-**Objectives** Get info from Maya Maxym
+**Mission, Objectives +** Get info from Maya Maxym
