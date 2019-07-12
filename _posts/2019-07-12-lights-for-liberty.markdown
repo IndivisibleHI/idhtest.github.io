@@ -2,7 +2,7 @@
 title: Lights for Liberty
 date: 2019-07-12 16:00:00 -10:00
 categories:
-- event
+- Event
 tags:
 - immigration
 is featured: true
