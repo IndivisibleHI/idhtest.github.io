@@ -7,8 +7,8 @@ tags:
 - immigration
 - stategov
 is featured: true
-event-start-date: 2019-07-12 16:00:00 -10:00
-event-end-date: 2019-07-12 18:00:00 -10:00
+event-start-date: 2019-07-15 16:00:00 -10:00
+event-end-date: 2019-07-15 18:00:00 -10:00
 Location: Hawaii State Capitol Rotunda
 ---
 
