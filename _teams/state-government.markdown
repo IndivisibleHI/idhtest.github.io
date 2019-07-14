@@ -3,6 +3,7 @@ title: State Government
 date: 2019-07-10 10:41:00 -10:00
 teamtag: stategov
 team-email: stategov
+team-description: 
 ---
 
 **MISSION: TO PARTNER WITH THE HAWAII STATE LEGISLATURE TO IMPROVE WHAT THEY DO AND HOW THEY DO IT**

@@ -81,7 +81,7 @@ defaults:
     layout: team
     teamtag: 
     team-email: 
-    team-description:
+    team-description: 
 subtitle: 
 email: info@indivisiblehi.org
 baseurl: 
