@@ -25,21 +25,15 @@ layout: default
           <ul class="list-group list-group-flush">
             {% if page.team-email %}
               <li class="list-group-item">
-              <small>SUBSCRIBE</small>
+		      <small>JOIN THE TEAM<br />CLICK HERE</small>
               <br>
               <a href="mailto:{{ email-subscribe }}">{{ page.team-email }}+subscribe
                   <br><small>{{ email-domain }}</small></a>
               </li>
               <li class="list-group-item">
-              <small>TEAM LEADS</small>
+		      <small>CONTACT THE TEAM LEADERS<br />CLICK HERE</small>
               <br>
               <a href="mailto:{{ email-owner }}">{{ page.team-email }}+owner
-                  <br><small>{{ email-domain }}</small></a>
-              </li>
-              <li class="list-group-item">
-              <small>EMAIL LIST</small>
-              <br>
-              <a href="mailto:{{ email-list }}">{{ page.team-email }}
                   <br><small>{{ email-domain }}</small></a>
               </li>
             {% else %}
