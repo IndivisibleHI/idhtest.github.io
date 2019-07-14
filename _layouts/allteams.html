@@ -99,8 +99,7 @@ layout: default
               {% include post-list.html %}
             {% else %}
               <span class="text-muted">
-              Email {{ team.team-email }}+owner<wbr>@indivisiblehi.org to learn
-              about this team's upcoming actions and events!
+	      {{ team.team-description }}
               </span>
             {% endif %}
             {% if numposts > 1 %}
