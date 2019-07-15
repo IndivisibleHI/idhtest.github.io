@@ -3,7 +3,7 @@ title: Indivisible Hawaii
 date: 2019-07-13 17:01:00 -10:00
 ---
 
-# Automatic Voter Registration - Legislation 
+### AVR **`Automatic Voter Registration - Legislation` **
 
 * [link 1](https://drive.google.com/open?id=1buAEk7IXg0shUyDG_j8ZOcXQuCI5iaoe)
 
