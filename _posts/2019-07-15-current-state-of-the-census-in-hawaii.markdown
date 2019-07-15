@@ -4,6 +4,9 @@ date: 2019-07-15 11:01:00 -10:00
 categories:
 - Census
 - '2020'
+tags:
+- census
+- '2020'
 event-start-date: 2019-07-23 12:00:00 -10:00
 event-end-date: 2019-07-23 13:00:00 -10:00
 Location: 'Impact Hub Honolulu, 1050 Queen St.  '
