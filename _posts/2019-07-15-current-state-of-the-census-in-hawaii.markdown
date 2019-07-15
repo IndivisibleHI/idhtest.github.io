@@ -2,8 +2,7 @@
 title: Current state of the Census in Hawaii
 date: 2019-07-15 11:01:00 -10:00
 categories:
-- Census
-- '2020'
+- event
 tags:
 - census
 - '2020'
