@@ -1,9 +1,13 @@
 ---
 title: Indivisible Hawaii
 date: 2019-07-13 17:01:00 -10:00
+tags:
+- AVR
+- elections
+- Census
 ---
 
-# AVR ** **
+# AVR \*\* \*\*
 
 * [link 1](https://drive.google.com/open?id=1buAEk7IXg0shUyDG_j8ZOcXQuCI5iaoe)
 
@@ -11,7 +15,7 @@ date: 2019-07-13 17:01:00 -10:00
 
 # Elections
 
-* [Citizen Education Project](https://drive.google.com/open?id=1MTmLMaiUWOqLHQOy4Ph87Qf93u3Q9fkM) 
+* [Citizen Education Project](https://drive.google.com/open?id=1MTmLMaiUWOqLHQOy4Ph87Qf93u3Q9fkM)
 
 * [Google](http://google.com)
 
@@ -22,3 +26,5 @@ date: 2019-07-13 17:01:00 -10:00
 * [Hawaii Census bureau](https://census.hawaii.gov/)
 
 * [US Census bureau Hawaii dashboard](https://www.census.gov/quickfacts/fact/dashboard/honolulucountyhawaii,hawaiicountyhawaii,US/PST045218)
+
+* [How to get involved in the 2020 complete count](https://census.gov/programs-surveys/decennial-census/2020-census/complete_count.html)
