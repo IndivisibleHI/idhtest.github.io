@@ -7,7 +7,7 @@ tags:
 - Census
 ---
 
-# AVR \*\* \*\*
+# AVR 
 
 * [link 1](https://drive.google.com/open?id=1buAEk7IXg0shUyDG_j8ZOcXQuCI5iaoe)
 
