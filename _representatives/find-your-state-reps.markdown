@@ -1,6 +1,6 @@
 ---
-title: Find Your State Reps
+title: Find Your State Legislators
 date: 2019-07-15 15:24:00 -10:00
-website: https://www.capitol.hawaii.gov/findleg.aspx
+website: https://openstates.org/find_your_legislator/
 ---
 
