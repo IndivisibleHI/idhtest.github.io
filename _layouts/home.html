@@ -65,7 +65,7 @@ layout: default
           {% assign sorted_featured_posts = S_posts %}
 
           {% assign curDate = site.time | date: '%s' %}
-          {% for post in sorted_featured_posts %}
+          {% for post in featured_posts %}
             {% if post.categories contains 'event' %}
               {% assign postEndDate = post.event-start-date | date: '%s' %}
             {% elsif post.categories contains 'action' %}
