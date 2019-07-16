@@ -10,6 +10,7 @@ is featured: true
 event-start-date: 2019-07-23 12:00:00 -10:00
 event-end-date: 2019-07-23 13:00:00 -10:00
 Location: Impact Hub Honolulu, 1050 Queen St.  Suite 100
+RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSfN5YvewJp-LYdRzhNQdK3VPuym7oE760Pauj_uNyCvzc7dOQ/viewform?usp=sf_link
 layout: post
 ---
 
