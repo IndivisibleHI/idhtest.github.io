@@ -102,7 +102,7 @@ layout: default
         <!-- MEMBER COUND AND INVITE MEMBERS BUTTON -->
         <div class="hidden-xs-down">
           <hr class="mt-0 mb-4">
-          {% if site.member-count %}<h5 class="d-flex"><span class="mt-1">{{ site.member-count }} Volunteers</span> {% endif %}<a href="mailto:?subject=Join {{ site.title | escape }}&body=Join {{ site.url }} today!" class="btn btn-sm ml-auto btn-primary"><strong>Invite Friends!</strong></a></h5>
+	  {% if site.logo %}<img src="{{ site.logo }}" />
         </div>
 
         <!-- SUCCESSES -->
