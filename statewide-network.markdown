@@ -5,4 +5,4 @@ position: 11
 nav: true
 ---
 
-Info on neighbor islands
+Info on neighbor islands.
