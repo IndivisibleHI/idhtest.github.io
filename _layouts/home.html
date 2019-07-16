@@ -67,7 +67,7 @@ layout: default
           {% assign sorted_featured_posts_home = (featured_posts | sort: 'date') | reverse %}
           
           {% assign curDate = site.time | date: '%s' %}
-          {% for post in sorted_featured_posts_home %}
+          {% for post in S_events %}
             {% if post.categories contains 'event' %}
               {% assign postEndDate = post.event-start-date | date: '%s' %}
             {% elsif post.categories contains 'action' %}
