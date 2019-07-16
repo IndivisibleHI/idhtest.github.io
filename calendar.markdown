@@ -7,6 +7,3 @@ nav: true
 layout: calendar
 ---
 
-Current state of the Census in Hawaii
-
-Ms. Annie Solkol, Filipino coummunity outreach liaison will be briefing Indivisible Hawaii and others on the current state of the US Census in Hawaii: The challenges and opportunities.
