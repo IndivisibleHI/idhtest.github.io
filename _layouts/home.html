@@ -72,11 +72,11 @@ layout: default
           <p>{{ refDateIn }}</p>
           {% for post in S_posts %}
             {% if post.categories contains 'event' %}
-              {% assign postEndDate = post.event-start-date | date: '%s' %}
+              {% assign postEndDate = post.event-start-date | date: '%s' | times: 1 %}
             {% elsif post.categories contains 'action' %}
-              {% assign postEndDate = post.event-end-date | date: '%s' %}
+              {% assign postEndDate = post.event-end-date | date: '%s' |times: 1 %}
             {% elsif post.categories contains 'update' %}
-              {% assign postEndDate = post.date | date: '%s' %}
+              {% assign postEndDate = post.date | date: '%s' | times: 1 %}
             {% endif %}
 	    {% if postEndDate > refDateIn %}
 		
