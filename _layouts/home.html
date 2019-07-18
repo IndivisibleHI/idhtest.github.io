@@ -64,16 +64,16 @@ layout: default
           {% include sort-by-date.html %}
           {% assign sorted_featured_posts = S_posts %}
 
-          {% assign curDate = site.time | date: '%s' %}
+          {% assign curDate = "now" | date: '%s' %}
           {% for post in S_posts %}
             {% if post.categories contains 'event' %}
               {% assign postEndDate = post.event-start-date | date: '%s' %}
             {% elsif post.categories contains 'action' %}
               {% assign postEndDate = post.event-end-date | date: '%s' %}
             {% elsif post.categories contains 'update' %}
-              {% assign postEndDate = post.event-end-date | date: '%s' %}
+              {% assign postEndDate = post.date | date: '%s' %}
             {% endif %}
-            {% if postEndDate >= curDate - 3 %}
+            {% if postEndDate > (curDate | minus 259200) %}
             <hr class="mt-0 mb-2">
           <!-- BADGE FOR FEATURED POSTS -->
 <!--             <span class="badge {% if post.categories contains 'action' %}badge-danger{% else %}badge-primary{% endif %}">PINNED</span> -->
