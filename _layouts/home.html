@@ -65,8 +65,9 @@ layout: default
           {% assign sorted_featured_posts = S_posts %}
 
           {% assign curDate = "now" | date: "%s" %}
+	  {% assign curDate = (puts curDate.to_i)
           {% assign timeframe = 259200 %}
-	  {% assign refDate = ( "now" | date: "%s" | minus: timeframe ) %}
+	  {% assign refDate = ( curDate | minus: 259200 ) %}
 	  <p>Current time is {{ curDate }}</p>
 	  <p>Reference time is {{ refDate }}</p>
           {% for post in S_posts %}
