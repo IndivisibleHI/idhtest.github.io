@@ -26,7 +26,7 @@ The return variable is S_posts, the array of sorted posts.
 
 {% assign S_posts = site.emptyArray %}
 
-{% assign S_used_events = [] %}
+{% assign S_used_events = site.emptyArray %}
 {% assign S_used_actions = site.emptyArray %}
 {% for S_i in S_events %}
   {% assign S_next_ev_date = (S_ev_dates[S_event_index] | date: '%s') %}
