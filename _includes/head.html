@@ -11,7 +11,6 @@
   <meta property="og:title"         content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
   <meta property="og:description"   content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}" />
   <meta property="og:image"         content="{{ site.url }}{{ page.main-image | default: site.default-image }}" />
-  <link rel="shortcut icon" type="image/jpg" href="/favicon.jpg">
   <meta name="description"          content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
@@ -22,6 +21,18 @@
   {% if site.google_analytics %}
     {% include google_analytics.html %}
   {% endif %}
+
+  <!-- Site icon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=NmP4g8mWyn">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=NmP4g8mWyn">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=NmP4g8mWyn">
+  <link rel="manifest" href="/site.webmanifest?v=NmP4g8mWyn">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg?v=NmP4g8mWyn" color="#5bbad5">
+  <link rel="shortcut icon" href="/favicon.ico?v=NmP4g8mWyn">
+  <meta name="msapplication-TileColor" content="#2d89ef">
+  <meta name="msapplication-TileImage" content="/mstile-144x144.png?v=NmP4g8mWyn">
+  <meta name="theme-color" content="#ffffff">
+  <!-- End site icon -->
 
 </head>
 
