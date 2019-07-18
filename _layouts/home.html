@@ -63,7 +63,6 @@ layout: default
           {% assign posts_to_sort = featured_posts %}
           {% include sort-by-date.html %}
           {% assign sorted_featured_posts = S_posts %}
-	  <p>Number of updates: {{ S_updates }}</p>
 
           {% assign curDate = "now" | date: '%s' %}
           {% for post in S_posts %}
