@@ -55,11 +55,13 @@ The return variable is S_posts, the array of sorted posts.
     {% assign S_next_event = S_events[S_event_index] %}
     {% assign S_posts = (S_posts | push: S_next_event) %}
     {% assign S_used_events = (S_used_events | push: S_next_event) %}
-    {% assign S_event_index = S_used_events | size %}
+    {% assign S_event_index = (S_used_events | size) %}
+    <p>Number of processed events: {{ S_used_events }}</p>
   {% else %}
     {% assign S_next_action = S_actions[S_action_index] %}
     {% assign S_posts = (S_posts | push: S_next_action) %}
     {% assign S_used_actions = (S_used_actions | push: S_next_action) %}
     {% assign S_action_index = (S_used_actions | size) %}
+    <p>Number of processed actions: {{ S_used_actions }}</p>
   {% endif %}
 {% endfor %}
