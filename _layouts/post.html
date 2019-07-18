@@ -117,11 +117,11 @@ layout: default
               {% if page.event-end-date %} - {{ page.event-end-date | date: "%l:%M %p" }}{% endif %}
             </li>
             {% endif %}
-            {% if page.Location %}<li class="list-group-item"><a href="https://www.google.com/maps/search/{{ page.Location | escape }}">{{ page.Location | escape }}</a></li>{% endif %}
+            {% if page.Location %}<li class="list-group-item"><a href="https://www.google.com/maps/search/{{ page.Location | escape }}" target="_blank">{{ page.Location | escape }}</a></li>{% endif %}
           </ul>
           {% if page.RSVP-link %}
           <div class="card-block">
-            <a href="{{ page.RSVP-link | escape }}" class="btn btn-primary btn-block" tartget="_blank">RSVP</a>
+            <a href="{{ page.RSVP-link | escape }}" class="btn btn-primary btn-block" target="_blank">RSVP</a>
           </div>
           {% endif %}
           <!--Add IB team if event is tagged with teamtag-->
@@ -209,7 +209,7 @@ layout: default
                 <!-- END list -->
 
                 <div class="card-footer">
-                  <p class="card-text"><a href="http://www.house.gov/representatives/find/">Find your representative</a></p>
+                  <p class="card-text"><a href="http://www.house.gov/representatives/find/" target="_blank">Find your representative</a></p>
                 </div>
               
               {% endif %}
