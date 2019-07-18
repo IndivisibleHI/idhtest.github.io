@@ -66,7 +66,7 @@ layout: default
 
           {% assign curDate = site.time | date: '%s' %}
           {% assign timeframe = 259200 %}
-	  {% assign refDate = ( curDate | minus: timeframe ) %}
+	  {% assign refDate = curDate | minus: timeframe %}
 	  <p>Current time is {{ curDate }}</p>
 	  <p>Reference time is {{ refDate }}</p>
           {% for post in S_posts %}
