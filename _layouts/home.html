@@ -78,7 +78,7 @@ layout: default
             {% elsif post.categories contains 'update' %}
               {% assign postEndDate = post.date | date: '%s' %}
             {% endif %}
-	    {% if postEndDate > curDate %}
+	    {% if postEndDate > refDateIn %}
 		
               <hr class="mt-0 mb-2">
               {% include post-list.html %}
