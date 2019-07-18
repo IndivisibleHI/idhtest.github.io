@@ -64,11 +64,11 @@ layout: default
           {% include sort-by-date.html %}
           {% assign sorted_featured_posts = S_posts %}
 
-          {% assign curDate = ( "now" | date: "%s" ) %}
+          {% assign curDate = ( site.time | date: "%s" ) %}
           {% assign timeframe = 259200 %}
 	  {% assign curDateIn = curDate.to_i %}
-	  {% assign refDate = ( curDateIn | minus: timeframe ) %}
-	  <p>Current time new is {{ curDateIn }}</p>
+	  {% assign refDate = ( curDate | minus: timeframe ) %}
+	  <p>Current time is {{ curDate }}</p>
 	  <p>Reference time is {{ refDate }}</p>
           {% for post in S_posts %}
             {% if post.categories contains 'event' %}
