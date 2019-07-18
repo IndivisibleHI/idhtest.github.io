@@ -68,6 +68,8 @@ layout: default
           {% assign timeframe = 259200 %}
 	  {% assign refDate = curDate | minus: timeframe %}
           <p>{{ refDate }}</p>
+          {% assign refDateIn = refDate | times: 1 %}
+          <p>{{ refDateIn }}</p>
           {% for post in S_posts %}
             {% if post.categories contains 'event' %}
               {% assign postEndDate = post.event-start-date | date: '%s' %}
