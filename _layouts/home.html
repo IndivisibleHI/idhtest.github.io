@@ -67,8 +67,6 @@ layout: default
           {% assign curDate = site.time | date: '%s' %}
           {% assign timeframe = 259200 %}
 	  {% assign refDate = curDate | minus: timeframe %}
-	  <p>Current time is {{ curDate }}</p>
-	  <p>Reference time is {{ refDate }}</p>
           {% for post in S_posts %}
             {% if post.categories contains 'event' %}
               {% assign postEndDate = post.event-start-date | date: '%s' %}
@@ -77,12 +75,13 @@ layout: default
             {% elsif post.categories contains 'update' %}
               {% assign postEndDate = post.date | date: '%s' %}
             {% endif %}
-            <hr class="mt-0 mb-2">
-	    <p>Post end date is {{ postEndDate }}</p>
-          <!-- BADGE FOR FEATURED POSTS -->
-<!--             <span class="badge {% if post.categories contains 'action' %}badge-danger{% else %}badge-primary{% endif %}">PINNED</span> -->
-            <!-- POST TEMPLATE -->
-            {% include post-list.html %}
+	    {% if postEndDate >= refDate %}
+              <hr class="mt-0 mb-2">
+              <!-- BADGE FOR FEATURED POSTS -->
+              <!--<span class="badge {% if post.categories contains 'action' %}badge-danger{% else %}badge-primary{% endif %}">PINNED</span> -->
+              <!-- POST TEMPLATE -->
+              {% include post-list.html %}
+	    {% endif %}
           {% endfor %}
 
         </div><!-- END BLOG POSTS -->
