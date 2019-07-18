@@ -18,7 +18,7 @@ The return variable is S_posts, the array of sorted posts.
 
 {% assign S_events = (S_unsorted_events|sort:"event-start-date","last") %}
 {% assign S_actions = (S_unsorted_actions|sort:"event-end-date","last") %}
-{% assign S_updates = (S_unsorted_updates|sort:page.date,"last") %}
+{% assign S_updates = (S_unsorted_updates|sort:"date","last") %}
 
 {% assign S_ev_dates = (S_events | map: "event-start-date") %}
 {% assign S_act_dates = (S_actions | map: "event-end-date") %}
