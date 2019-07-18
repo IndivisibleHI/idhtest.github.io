@@ -67,6 +67,7 @@ layout: default
           {% assign curDate = site.time | date: '%s' %}
           {% assign timeframe = 259200 %}
 	  {% assign refDate = curDate | minus: timeframe %}
+          <p>{{ refDate }}</p>
           {% for post in S_posts %}
             {% if post.categories contains 'event' %}
               {% assign postEndDate = post.event-start-date | date: '%s' %}
@@ -75,7 +76,7 @@ layout: default
             {% elsif post.categories contains 'update' %}
               {% assign postEndDate = post.date | date: '%s' %}
             {% endif %}
-	    {% if postEndDate > refDate %}
+	    {% if postEndDate > curDate %}
 		
               <hr class="mt-0 mb-2">
               {% include post-list.html %}
