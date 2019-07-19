@@ -10,6 +10,7 @@
 		    <span class="badge badge-partner">Partner Event</span>
 		  {% else %}
 		    <span class="badge badge-primary">Event</span>
+		  {% endif %}
             <p class="mb-1 mt-1">{{ post.event-start-date | date: "%b" }}</p>
             {% if short-post %}
             <h4 class="itemdate">
