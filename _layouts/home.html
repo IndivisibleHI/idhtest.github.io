@@ -64,16 +64,16 @@ layout: default
           {% include sort-by-date.html %}
           {% assign sorted_featured_posts = S_posts %}
 
-          {% assign curDate = site.time | date: '%s' | times: 1 %}
+          {% assign curDate = site.time | date: '%s' %}
           {% assign timeframe = 0 %}
 	  {% assign refDate = curDate | minus: timeframe %}
           {% for post in S_posts %}
             {% if post.categories contains 'event' %}
-              {% assign postEndDate = post.event-start-date | date: '%s' | times: 1 %}
+              {% assign postEndDate = post.event-start-date | date: '%s' %}
             {% elsif post.categories contains 'action' %}
-              {% assign postEndDate = post.event-end-date | date: '%s' |times: 1 %}
+              {% assign postEndDate = post.event-end-date | date: '%s' %}
             {% elsif post.categories contains 'update' %}
-              {% assign postEndDate = post.date | date: '%s' | times: 1 %}
+              {% assign postEndDate = post.date | date: '%s' %}
             {% endif %}
 	    {% if postEndDate > curDate %}
 		
