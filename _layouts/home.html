@@ -68,6 +68,7 @@ layout: default
           {% assign timeframe = 0 %}
 	  {% assign refDate = curDate | minus: timeframe %}
 	  <p>{{ curDate }}</p>
+	  <p>Number of posts is {{ S_posts | size }}</p>
           {% for post in S_posts %}
             {% if post.categories contains 'event' %}
               {% assign postEndDate = post.event-start-date | date: '%s' %}
