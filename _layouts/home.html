@@ -64,23 +64,18 @@ layout: default
           {% include sort-by-date.html %}
           {% assign sorted_featured_posts = S_posts %}
 
-          {% assign curDate = site.time | date: '%s' %}
+          {% assign curDate = site.time | date: '%s' | times: 1 %}
           {% assign timeframe = 0 %}
 	  {% assign refDate = curDate | minus: timeframe %}
-	  <p>{{ curDate }}</p>
-	  <p>Number of events is {{ S_events | size }}</p>
-	  <p>Number of actions is {{ S_actions | size }}</p>
-	  <p>Number of posts is {{ S_posts | size }}</p>
           {% for post in S_posts %}
             {% if post.categories contains 'event' %}
-              {% assign postEndDate = post.event-start-date | date: '%s' %}
+              {% assign postEndDate = post.event-start-date | date: '%s' | times: 1%}
             {% elsif post.categories contains 'action' %}
-              {% assign postEndDate = post.event-end-date | date: '%s' %}
+              {% assign postEndDate = post.event-end-date | date: '%s' | times: 1 %}
             {% elsif post.categories contains 'update' %}
-              {% assign postEndDate = post.date | date: '%s' %}
+              {% assign postEndDate = post.date | date: '%s' | times: 1 %}
             {% endif %}
-	    <p>{{ postEndDate }}</p>
-	    {% if postEndDate > curDate %}
+	    {% if postEndDate > refDate %}
 		
               <hr class="mt-0 mb-2">
               {% include post-list.html %}
