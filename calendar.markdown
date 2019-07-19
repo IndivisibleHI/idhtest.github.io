@@ -2,7 +2,8 @@
 title: Events
 date: 2019-07-23 12:00:00 -10:00
 position: 8
-embed-code: 
+embed-code:
+  Key: https://www.eventbrite.com/e/the-2020-census-in-hawaii-tickets-65595338423?aff=ebdssbdestsearch
 nav: true
 layout: calendar
 ---
