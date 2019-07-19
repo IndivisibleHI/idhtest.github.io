@@ -6,9 +6,9 @@ nav: true
 layout: actions
 ---
 
-This page lists actions you can take *from the comfort of your home!* We recommend making a habit of taking one action per day or one action per week.
+This page lists actions you can take *from the comfort of your home!* We recommend making a habit of taking one action per day or week.
 
-To see our list of events that you can *show up to in person*, [check out our calendar page](/calendar).
+In addition to actions, you may want to check our Events page. These are scheduled events that you may wish to attend in person. 
 
 Watch now 
 
