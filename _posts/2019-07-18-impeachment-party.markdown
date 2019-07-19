@@ -12,3 +12,5 @@ Location: Everywhere
 Both Trump and Pence have been impeached. Nancy is now our President! It's time to take back our country and clean up the mess Trump and his cohorts have created. 
 
 No more nasty tweets. No more ugly, bully, stink talk.  
+
+Join us and all the other sane people of the USA and planet Earth to celebrate!
