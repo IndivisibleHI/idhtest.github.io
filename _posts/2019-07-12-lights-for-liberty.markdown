@@ -6,6 +6,7 @@ categories:
 tags:
 - immigration
 - stategov
+- partner
 is featured: true
 event-start-date: 2019-07-17 16:00:00 -10:00
 event-end-date: 2019-07-17 18:00:00 -10:00
