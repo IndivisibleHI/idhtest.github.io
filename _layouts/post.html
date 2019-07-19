@@ -18,13 +18,9 @@ layout: default
     <div class="row">
       <div class="col">
         <header class="post-header">
-	  {% if post.tags contains 'partner' %}
-	    <span class="badge badge-lg mb-2 badge-partner">Partner Event</span>
-	  {% else %}
 	    {% for category in post.categories %}
 	    <span class="badge badge-lg mb-2 {% if category == 'event' %}badge-primary{% elsif category == 'action' %}badge-danger{% else %}badge-default{% endif %}">{{ category }}</span>
             {% endfor %}
-	  {% endif %}
           <h1 class="page-title mb-2">{{ page.title | escape }}</h1>
           {% if page.categories contains 'action' %}
           <label class="custom-control align-self-start custom-checkbox d-inline-block mr-3 mt-2 mb-0">
