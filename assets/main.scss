@@ -93,6 +93,10 @@ a:hover, a:active {
   background-color: #127025;
 }
 
+a.text-danger:focus, a.text-danger:hover {
+  color: #127025;
+}
+
 .btn-action {
   width: 6.25rem;
   height: 6.25rem;
