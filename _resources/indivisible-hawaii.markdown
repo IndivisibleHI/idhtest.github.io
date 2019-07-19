@@ -5,6 +5,7 @@ tags:
 - AVR
 - elections
 - Census
+main-image: "/uploads/2019%20IH%20Sq%20sticker%20v9%20Ok-05c2b5.jpg"
 ---
 
 # AVR 
