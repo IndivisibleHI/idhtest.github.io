@@ -6,4 +6,3 @@ nav: true
 layout: media-grid-resources
 ---
 
-Resources go here
