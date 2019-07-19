@@ -65,7 +65,7 @@ layout: default
           {% assign sorted_featured_posts = S_posts %}
 
           {% assign curDate = site.time | date: '%s' %}
-          {% assign timeframe = 259200 %}
+          {% assign timeframe = 0 %}
 	  {% assign refDate = curDate | minus: timeframe %}
           {% for post in S_posts %}
             {% if post.categories contains 'event' %}
