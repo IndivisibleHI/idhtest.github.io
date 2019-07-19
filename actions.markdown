@@ -3,7 +3,6 @@ title: Actions
 position: 7
 main-image: 
 nav: true
-Watch Now!: https://t.co/JmgpJx1urp
 layout: actions
 ---
 
