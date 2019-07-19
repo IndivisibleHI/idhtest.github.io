@@ -6,6 +6,6 @@ nav: true
 layout: calendar
 ---
 
-These are scheduled events sponsored by Indivisible Hawaii (Blue Events) or by community partners or national organizations (Green Events). 
+These are scheduled events sponsored by Indivisible Hawaii (Blue Events) or by community partners or national organizations (Green Partner Events). 
 
 Select an event for more detailed information. Some events may request that you RSVP.
