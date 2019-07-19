@@ -21,7 +21,7 @@ layout: default
           
 
           {% assign curDate = site.time | date: '%s' %}
-          {% assign sortedEvents = (site.categories.event | sort: 'event-start-date') %}
+          {% assign sortedEvents = (site.categories.event | sort: 'event-start-date','last') %}
             {% for post in sortedEvents %}
             {% assign postStartDate = post.event-start-date | date: '%s' %}
             {% if postStartDate >= curDate %}
