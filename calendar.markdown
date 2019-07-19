@@ -6,6 +6,6 @@ nav: true
 layout: calendar
 ---
 
-Current state of the Census in Hawaii
+These are scheduled events sponsored by Indivisible Hawaii (Blue Events) or by community partners or national organizations (Green Events). 
 
-Ms. Annie Solkol, Filipino community outreach liaison will be briefing Indivisible Hawaii and others on the current state of the US Census in Hawaii: The challenges and opportunities.
+Select an event for more detailed information. Some events may request that you RSVP.
