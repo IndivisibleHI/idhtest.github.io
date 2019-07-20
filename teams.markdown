@@ -8,7 +8,3 @@ layout: allteams
 ---
 
 Indivisible teams are organized around specific issues. Team members plan events and actions and bring in the entire Indivisible Hawaii community to participate. Any community member is welcome to attend a team event or action. All of the team's contact information is on the corresponding team page. 
-
-To join a team, select the team you would like to join, and 
-- Click the email address under "Join the Team", or 
-- Click the email address under "Contact the Team Lead"
