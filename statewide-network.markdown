@@ -5,4 +5,4 @@ position: 11
 nav: true
 ---
 
-Info on neighbor islands.
+This page will initially be used to hold contact information for other Hawaii Indivisible Chapters. 
