@@ -5,4 +5,4 @@ categories:
 - update
 ---
 
-https://t.co/JmgpJx1urp
+Hawaii KITV 4 story on how the rep is working for her election campaign alot and not so much for the people of Hawaii
