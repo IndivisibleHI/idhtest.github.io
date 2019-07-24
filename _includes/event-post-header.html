@@ -44,7 +44,7 @@
             {% if short-post %}
             <div class="col-12 text-muted">
             {% else %}
-            <div class="col-12 col-sm-3 text-muted">
+            <div class="col-12 col-sm-4 text-muted">
             {% endif %}
              <p class="mb-0">{{ post.event-start-date | date: "%l:%M %p" }} {% if post.event-end-date %}-{% endif %} {{ post.event-end-date | date: "%l:%M %p" }}</p>
             </div>
@@ -53,7 +53,7 @@
             <div class="col-12 text-muted">
               <p>{{ post.Location | escape | truncate: 35 }}</p>
             {% else %}
-            <div class="col-7 col-sm-9 text-muted">
+            <div class="col-7 col-sm-8 text-muted">
               <p>{{ post.Location | escape }}</p>
             {% endif %}
             </div>
