@@ -27,7 +27,7 @@ layout: default
         <div class="col-sm-3 col-md-4">
           <hr class="mt-3 mb-3">
           <a href="{{ resources.url | relative_url }}" class="media-thumbnail mb-2" style="background-image: url('{{ resources.main-image }}')"></a>
-          <h3 class="mb-1" style="text-align: center;"><a href="{{ resources.url | relative_url }}">{{ resources.title | truncate: 140 }}</a></h3>
+          <h3 class="mb-1"><a href="{{ resources.url | relative_url }}">{{ resources.title | truncate: 140 }}</a></h3>
         </div>
       {% endfor %}
     </div>
