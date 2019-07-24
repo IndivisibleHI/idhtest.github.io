@@ -43,20 +43,19 @@
             {% if post.event-start-date %}
             {% if short-post %}
             <div class="col-12 text-muted">
-            {% else %}
-            <div class="col-12 col-sm-3 text-muted">
             {% endif %}
              <p class="mb-0">{{ post.event-start-date | date: "%l:%M %p" }} {% if post.event-end-date %}-{% endif %} {{ post.event-end-date | date: "%l:%M %p" }}</p>
-            </div>
+	    {% if short-post %}
+	    </div>
+	    {% endif %}
             {% endif %}
             {% if short-post %}
             <div class="col-12 text-muted">
               <p>{{ post.Location | escape | truncate: 35 }}</p>
+            </div>
             {% else %}
-            <div class="col-7 col-sm-9 text-muted">
               <p>{{ post.Location | escape }}</p>
             {% endif %}
-            </div>
           </div>
         </div>
         <!-- POST MAIN IMAGE FIELD -->
