@@ -9,6 +9,9 @@ layout: default
       <h1 class="post-title">{{ page.title | escape }}</h1>
     </header>
     <div class="row">
+        <div class="col col-sm-8">
+          {{ content }}
+        </div>
         <div class="col-12">
             <p>Click on a team name to see all of their events and
             actions!</p>
@@ -111,12 +114,6 @@ layout: default
       {% endfor %}
     </div>
     <hr>
-
-    <div class="row post-content">
-      <div class="col col-sm-8">
-        {{ content }}
-      </div>
-    </div>
 
   </div>
 </article>
