@@ -84,7 +84,12 @@ defaults:
     team-description: 
 subtitle: Democracy with Aloha
 email: info@indivisiblehawaii.org
-address: 
+address: |-
+  Impact Hub
+  C/O Lawrence Basha
+  Indivisible Hawaii
+  1050 Queen St
+  Honolulu, Hawaii 96814
 baseurl: 
 url: indivisiblehi.github.io
 logo: "/uploads/2019%20IH%20Sq%20sticker%20v9%20Ok-05c2b5.jpg"
@@ -106,4 +111,3 @@ exclude:
 - Gemfile.lock
 google_analytics: 
 permalink: "/:categories/:title"
-emptyArray: []
