@@ -2,13 +2,13 @@
 title: Postcard Party at Paula's for Reclaim Our Vote
 date: 2019-06-25 07:03:00 -10:00
 categories:
-- event
+- action
 tags:
 - elections
 - postcard
 is featured: true
-event-start-date: 2019-07-18 15:00:00 -10:00
-event-end-date: 2019-07-18 17:00:00 -10:00
+event-start-date: 2019-10-18 15:00:00 -10:00
+event-end-date: 2019-10-18 17:00:00 -10:00
 Location: North Berkeley home
 RSVP-link: https://forms.gle/hoLzV3ZvZRKLUJC6A
 ---
