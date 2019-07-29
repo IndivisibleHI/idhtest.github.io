@@ -1,6 +1,8 @@
 ---
 title: ACLU Event
 date: 2019-07-29 09:52:00 -10:00
+categories:
+- event
 tags:
 - partner
 is featured: true
