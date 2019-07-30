@@ -98,7 +98,12 @@ layout: default
           <hr class="mt-4 mb-3">
 	  {% if site.logo %}<img src="{{ site.logo }}" style="height: 150px; width: auto;" />{% endif %}
         </div>
-
+	<!-- TWITTER FEED -->
+	{% if site.twitter-embed %}
+	  <div class="hidden-xs-down">
+	    {{ site.twitter-embed }}
+	  </div>
+	{% endif %}
         <!-- SUCCESSES -->
         {% if site.successes %}
           <!-- <div class="spacer"></div> -->
