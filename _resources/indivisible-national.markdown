@@ -8,4 +8,4 @@ layout: resource
 The Indivisible National group is at [indivisible.org](http://indivisible.org).
 
 The Indivisible Guide
-[](https://indivisible.org/resource/indivisible-guide-conclusion)
+(https://indivisible.org/resource/indivisible-guide-conclusion)
