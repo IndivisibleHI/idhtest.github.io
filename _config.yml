@@ -36,6 +36,7 @@ defaults:
     Location: 
     RSVP-link: 
     embed-code: 
+    news-link: 
     layout: post
 - scope:
     path: ''

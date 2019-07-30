@@ -11,7 +11,7 @@
           <h3 class="mt-2 mb-2">
             <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
           </h3>
-          <div class="text-muted post-body mb-2">{{ post.content | truncate: 140 }}</div>
+	  <div class="text-muted post-body mb-2">{% if post.news-link %}<a href="{{ post.news-link | strip-html }}">{{ post.news-link | strip-html }}</a>{% else %}{{ post.content | strip-html | truncate: 140 }}{% endif %}</div>
         </div>
         <!-- POST MAIN IMAGE FIELD -->
         {% if post.main-image %}
