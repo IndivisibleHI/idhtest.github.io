@@ -44,4 +44,4 @@ On the right sidebar of the new/edit post page, there are a few extra controls:
 
 + Tags. You must add your team's tag to your posts in order for them to show up on your team page! You can also add other tags, e.g. phonebank or call (for MoC calls), if you'd like. (Pro tip: if you tag your post with "call," we will include MoC phone numbers on the event page automatically!) When you start typing, a menu will pop up with a list of previously-used tags which you can choose from. You can also make a new one just by typing in a new tag.
 
-+ Categories. We use three categories, and each post must belong to exactly one: event, action or update. I already described events and actions. An update is simply a blog post with no associated real-world action, e.g. [our post about the Berkeley United posters](https://www.indivisibleberkeley.org/update/berkeley-united).
++ Categories. We use three categories, and each post must belong to exactly one: event, action or update. I already described events and actions. An update is simply a blog post with no associated real-world action.
