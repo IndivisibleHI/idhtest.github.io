@@ -1,7 +1,13 @@
 <!-- FOOTER -->
 <nav class="navbar navbar-inverse pt-4 pb-4 bg-inverse navbar-toggleable-md mb-0">
 
-  <div class="justify-content-center container-fluid">
+    {% if site.twitter-feed %}
+      <div class="justify-content-left container-fluid">
+	      {{ twitter-feed }}
+      </div>
+    {% endif %}
+
+    <div class="justify-content-center container-fluid">
 
     <div class="spacer clearfix"></div>
 
