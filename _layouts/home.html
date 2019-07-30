@@ -94,10 +94,12 @@ layout: default
       <div class="col-sm-4">
 
         <!-- MEMBER COUND AND INVITE MEMBERS BUTTON -->
+	{% if site.logo %}
 	<div class="hidden-xs-down" style="text-align: right;">
           <hr class="mt-4 mb-3">
-	  {% if site.logo %}<img src="{{ site.logo }}" style="height: 150px; width: auto;" />{% endif %}
+	  <img src="{{ site.logo }}" style="height: 150px; width: auto;" />
         </div>
+	{% endif %}
 	<!-- TWITTER FEED -->
 	{% if site.twitter-embed %}
 	   <div class="hidden-xs-down">
