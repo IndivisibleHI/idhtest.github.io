@@ -95,7 +95,9 @@ baseurl:
 url: indivisiblehi.github.io
 logo: "/uploads/2019%20IH%20Sq%20sticker%20v9%20Ok-05c2b5.jpg"
 twitter_username: "@IndivisibleHI"
-twitter-embed: <a class="twitter-timeline" data-height="500" href="https://twitter.com/IndivisibleHI?ref_src=twsrc%5Etfw">Tweets by IndivisibleHI</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+twitter-embed: <a class="twitter-timeline" data-height="500" href="https://twitter.com/IndivisibleHI?ref_src=twsrc%5Etfw">Tweets
+  by IndivisibleHI</a> <script async src="https://platform.twitter.com/widgets.js"
+  charset="utf-8"></script>
 facebook_username: Indivisible-Hawaii-102454510271701
 background-image: "/uploads/line%20background%20dark2.jpg"
 member-count: 2000+
