@@ -7,7 +7,7 @@ team-description: "<b>MISSION: TO PARTNER WITH THE HAWAII STATE LEGISLATURE TO I
   WHAT THEY DO AND HOW THEY DO IT</b>"
 ---
 
-**MISSION: TO PARTNER WITH HAWAII STATE GOVERNMENT TO IMPROVE WHAT THEY DO AND HOW THEY DO IT**
+**MISSION: TO PARTNER WITH HAWAII STATE GOVERNMENT TO IMPROVE WHAT IT DOES AND HOW IT GETS DONE**
 
 **Background:**  The Leg considers 3000-4000 bills each year.  There are duplicate bills between the House and Senate.   There are duplicate bills within the House and Senate.  Even if the bills are reduced by 50%, no one reads 1500-2000 bills per year.  The bills that are passed or killed each year are traded behind closed doors.  We need to reduce redundancy, improve transparency and accountability, and vote out the dead wood.
 
