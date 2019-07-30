@@ -7,7 +7,7 @@ team-description: "<b>MISSION: TO PARTNER WITH THE HAWAII STATE LEGISLATURE TO I
   WHAT THEY DO AND HOW THEY DO IT</b>"
 ---
 
-**MISSION: TO PARTNER WITH THE HAWAII STATE LEGISLATURE TO IMPROVE WHAT THEY DO AND HOW THEY DO IT**
+**MISSION: TO PARTNER WITH HAWAII STATE GOVERNMENT TO IMPROVE WHAT THEY DO AND HOW THEY DO IT**
 
 **Background:**  The Leg considers 3000-4000 bills each year.  There are duplicate bills between the House and Senate.   There are duplicate bills within the House and Senate.  Even if the bills are reduced by 50%, no one reads 1500-2000 bills per year.  The bills that are passed or killed each year are traded behind closed doors.  We need to reduce redundancy, improve transparency and accountability, and vote out the dead wood.
 
@@ -22,12 +22,12 @@ Support Common Cause, League of Women Voters, and Civil Beat in their appeal fro
 
 **Communication:** Encourage House and Senate to communicate internally and with each other to eliminate redundant bills (50%), encourage state and federal officials to work together on areas of common concern
 
-**Oversight:** encourage oversight of executive branch incl gov office and all state agencies
+**Oversight:** encourage oversight of executive branch incl Governor's office and all state agencies
 
 **Focus topics:** Identify 3 primary areas of focus (criminal justice reform, voting/elections, environment and land use incl land/air/water use incl development, zoning incl AirB&B and helicopters, climate change, affordable housing and homelessness incl rent control, education incl funding, healthcare incl abortion and mental health, Concon, taxes, $15 minimum wage)
 
 **Partner with Indivisible on other islands** on topics of common interest; help them get their voices heard at the Leg
 
-**Partner with other activist groups** on topics of common interest
+**Partner with other activist groups** on topics of common interest; work with schools and universities to educate next gen voters on the system at a practical level
 
 **Be an information resource for others**
