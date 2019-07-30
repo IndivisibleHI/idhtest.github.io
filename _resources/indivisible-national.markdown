@@ -7,4 +7,4 @@ layout: resource
 
 The Indivisible National group is at [indivisible.org](http://indivisible.org).
 
-Indivisible Guide: [](https://indivisible.org/resource/indivisible-guide-conclusion)
+The Indivisible Guide 
