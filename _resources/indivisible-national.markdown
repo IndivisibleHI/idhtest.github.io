@@ -1,7 +1,7 @@
 ---
 title: Indivisible National
 date: 2019-07-10 10:07:00 -10:00
-main-image: "/uploads/Indivisible%20national%20square%202.jpg"
+main-image: "/uploads/Indivisible%20national%20square%20v2.png"
 layout: resource
 ---
 
