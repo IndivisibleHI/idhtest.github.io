@@ -11,4 +11,4 @@ embed-code: "<script type='text/javascript' src='https://KITV.images.worldnow.co
 news-link: https://www.kitv.com/story/40798449/tulsi-gabbard-shown-to-have-poor-voting-attendance-records-in-congress?utm_medium=social&utm_source=twitter_KITV4
 ---
 
-[A news story from KITV-4 ](https://www.kitv.com/story/40798449/tulsi-gabbard-shown-to-have-poor-voting-attendance-records-in-congress?utm_medium=social&utm_source=twitter_KITV4)
+A news story from KITV-4
