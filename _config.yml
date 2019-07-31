@@ -118,4 +118,4 @@ exclude:
 - Gemfile.lock
 google_analytics: 
 permalink: "/:categories/:title"
-emptyArray:[]
+emptyArray: []
