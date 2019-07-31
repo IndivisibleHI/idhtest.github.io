@@ -9,9 +9,9 @@
       <div class="row">
         <div class="{% if post.main-image %}col-sm-9 col-lg-10{% else %}col-sm-12{% endif %}">
           <h3 class="mt-2 mb-2">
-            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+		  <a class="post-link" href="{% if post.news-link %}{{ post.news-link}}{% else %}{{ post.url | relative_url }}{% endif %}" {% if post.news-link %}target="_blank"{% endif %}>{{ post.title | escape }}</a>
           </h3>
-	  <div class="text-muted post-body mb-2">{% if post.news-link %}<a href="{{ post.news-link | strip_html }}" target="_blank">{{ post.news-link | strip_html }}</a>{% else %}{{ post.content | strip_html | truncate: 140 }}{% endif %}</div>
+	  <div class="text-muted post-body mb-2">{% if post.news-link %} {% else %}{{ post.content | strip_html | truncate: 140 }}{% endif %}</div>
         </div>
         <!-- POST MAIN IMAGE FIELD -->
         {% if post.main-image %}
