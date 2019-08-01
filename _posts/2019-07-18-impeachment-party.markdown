@@ -7,7 +7,7 @@ is featured: true
 event-start-date: 2019-08-15 18:00:00 -10:00
 event-end-date: 2019-08-15 00:00:00 -10:00
 Location: Everywhere
-RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSe7YxrMuyD-w64yoU_86xQdkkVW7j7qQcjzra9z3ds9A2KhUA/viewform?usp=sf_link
+RSVP-link: https://www.eventbrite.com/e/trump-impeachment-party-tickets-67367067713
 ---
 
 Both Trump and Pence have been impeached. Nancy is now our President! It's time to take back our country and clean up the mess Trump and his cohorts have created. 
