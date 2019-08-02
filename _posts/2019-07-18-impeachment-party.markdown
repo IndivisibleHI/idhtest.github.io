@@ -4,8 +4,8 @@ date: 2019-07-18 14:23:00 -10:00
 categories:
 - event
 is featured: true
-event-start-date: 2019-08-15 18:00:00 -10:00
-event-end-date: 2019-08-15 00:00:00 -10:00
+event-start-date: 2019-10-31 19:00:00 -10:00
+event-end-date: 2019-10-31 22:00:00 -10:00
 Location: Everywhere
 RSVP-link: https://www.eventbrite.com/e/trump-impeachment-party-tickets-67367067713
 ---
