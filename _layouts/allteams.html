@@ -27,84 +27,11 @@ layout: default
           <h3>
               <a class="team-title" href="{{ team.url | relative_url }}">{{ team.title }}</a>
           </h3>
-          {% assign isfeature = "post['is featured'] == true" %}
-          {% assign isteam  = "post.tags contains team.teamtag" %}
-          {% assign isevent  = "post.categories contains 'event'" %}
-          {% assign isaction  = "post.categories contains 'action'" %}
-          {% capture event %} {{ isteam }} and {{ isevent }} {% endcapture %}
-          {% capture action %} {{ isteam }} and {{ isaction }} {% endcapture %}
-
-          {% assign teamposts = (site.posts|where_exp:"post",isteam) %}
-          {% assign unsorted_events = (teamposts|where_exp:"post",isevent) %}
-          {% assign unsorted_actions = (teamposts|where_exp:"post",isaction) %}
-
-          {% assign all_sorted_events = (unsorted_events|sort:"event-start-date","last") %}
-          {% assign all_sorted_actions = (unsorted_actions|sort:"event-end-date","last") %}
-
-          {% comment %} note events and actions lists are limited to
-          the max number of posts per team {% endcomment %}
-          {% assign curDate = site.time | date: '%s' %}
-          {% assign events = site.emptyArray %}
-          {% for event in all_sorted_events %}
-            {% assign eventDate = event.event-start-date | date: '%s' %}
-            {% if eventDate >= curDate %}
-              {% assign events = events | push: event %}
-              {% if events.size >= 2 %}
-                {% break %}
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-
-          {% assign actions = site.emptyArray %}
-          {% for action in all_sorted_actions %}
-            {% assign actionDate = action.event-end-date | date: '%s' %}
-            {% if actionDate >= curDate %}
-              {% assign actions = actions | push: action %}
-              {% if actions.size >= 2 %}
-                {% break %}
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-
-          {% if events.size >= 1 and actions.size >= 1 %}
-            {% assign numposts = 2 %}
-            {% assign post1 = events[0] %}
-            {% assign post2 = actions[0] %}
-          {% elsif events.size >= 2 %}
-            {% assign numposts = 2 %}
-            {% assign post1 = events[0] %}
-            {% assign post2 = events[1] %}
-          {% elsif actions.size >= 2 %}
-            {% assign numposts = 2 %}
-            {% assign post1 = actions[0] %}
-            {% assign post2 = actions[1] %}
-          {% else %}
-            {% if events.size == 1 %}
-              {% assign numposts = 1 %}
-              {% assign post1 = events[0] %}
-            {% elsif actions.size == 1 %}
-              {% assign numposts = 1 %}
-              {% assign post1 = actions[0] %}
-            {% else %}
-              {% assign numposts = 0 %}
-            {% endif %}
-          {% endif %}
-
           <!-- Blog Posts -->
           <div class="post-list">
-            {% assign short-post = 1 %}
-            {% if numposts > 0 %}
-              {% assign post = post1 %}
-              {% include post-list.html %}
-            {% else %}
-              <span class="text-muted">
-	      {{ team.team-description }}
-              </span>
-            {% endif %}
-            {% if numposts > 1 %}
-              {% assign post = post2 %}
-              {% include post-list.html %}
-            {% endif %}
+            <span class="text-muted">
+	    {{ team.team-description }}
+            </span>
           </div>
         </div>
       {% endfor %}
