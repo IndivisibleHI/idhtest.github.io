@@ -3,8 +3,6 @@ title: Blue Wave Postcard Writing
 date: 2019-08-19 15:42:00 -10:00
 categories:
 - event
-tags:
-- ISN
 is featured: true
 event-start-date: 2019-08-24 12:00:00 -10:00
 event-end-date: 2019-08-24 12:00:00 -10:00
