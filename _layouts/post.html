@@ -18,8 +18,8 @@ layout: default
     <div class="row">
       <div class="col">
         <header class="post-header">
-	  {% if page.tags contains 'partner' %}
-	    <span class="badge badge-lg mb-2 badge-partner">Partner Event</span>
+	  {% if page.tags contains 'other' %}
+	    <span class="badge badge-lg mb-2 badge-partner">Other Event</span>
 	  {% else %}
 	    {% for category in page.categories %}
 	    <span class="badge badge-lg mb-2 {% if category == 'event' %}badge-primary{% elsif category == 'action' %}badge-danger{% else %}badge-default{% endif %}">{{ category }}</span>
