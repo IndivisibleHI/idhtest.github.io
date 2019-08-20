@@ -15,6 +15,7 @@ Location: |-
   Honolulu, Hawaii, 96813
   United States
 RSVP-link: https://act.plannedparenthoodaction.org/events/meeting-with-senator-mazie-hirono-protect-x
+news-link: https://www.washingtonpost.com/national/health-science/planned-parenthood-leaves-federal-family-planning-program/2019/08/19/756d4284-c2b2-11e9-8bf7-cde2d9e09055_story.html
 ---
 
 Join us for a meeting with Senator Hirono to condemn the Trump administration's attacks on Title X and call on Congress to protect it.
