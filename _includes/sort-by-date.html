@@ -27,9 +27,7 @@ The return variable is S_posts, the array of sorted posts.
 {% assign S_event_index = 0 %}
 {% assign S_action_index = 0 %}
 
-{% assign emptyArray = '' | split: '' %}
-
-{% assign S_posts = emptyArray %}
+{% assign S_posts = '' | split: '' %}
 
 {% for S_update in S_updates %}
   {% assign S_posts = S_posts | push: S_update %}
