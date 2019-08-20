@@ -2,7 +2,7 @@
 title: Pledge to Protect Title X
 date: 2019-08-19 16:18:00 -10:00
 categories:
-- Action
+- action
 tags:
 - partner
 - natel
