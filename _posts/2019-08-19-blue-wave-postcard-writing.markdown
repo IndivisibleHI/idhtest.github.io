@@ -2,7 +2,7 @@
 title: Blue Wave Postcard Writing
 date: 2019-08-19 15:42:00 -10:00
 categories:
-- Even t
+- event
 tags:
 - ISN
 is featured: false
