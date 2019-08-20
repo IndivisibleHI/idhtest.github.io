@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - ISN
-is featured: false
+is featured: true
 event-start-date: 2019-08-24 12:00:00 -10:00
 event-end-date: 2019-08-24 12:00:00 -10:00
 Location: Varsity Building
