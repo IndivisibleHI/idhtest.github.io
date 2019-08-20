@@ -3,6 +3,8 @@ title: Postcards4VA
 date: 2019-08-16 13:33:00 -10:00
 categories:
 - action
+tags:
+- natel
 is featured: true
 event-start-date: 2019-08-24 12:00:00 -10:00
 event-end-date: 2019-08-24 14:00:00 -10:00
