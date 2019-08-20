@@ -9,6 +9,7 @@ tags:
 is featured: true
 event-start-date: 2019-08-19 16:00:00 -10:00
 event-end-date: 2019-08-26 00:00:00 -10:00
+RSVP-link: https://www.weareplannedparenthood.org/onlineactions/iQrHCFeMvUeB5eAuAoP1NA2?sourceid=1006642&ms=3NALz1908S1N1A&_ga=2.1892721.1960242811.1565903004-855386583.1559174219
 news-link: https://www.weareplannedparenthood.org/onlineactions/iQrHCFeMvUeB5eAuAoP1NA2?sourceid=1006642&ms=3NALz1908S1N1A&_ga=2.1892721.1960242811.1565903004-855386583.1559174219
 ---
 
