@@ -7,7 +7,6 @@ tags:
 - ISN
 is featured: true
 call-script-text: Impeach now!
-event-start-date: 2019-08-21 00:00:00 -10:00
 event-end-date: 2019-08-30 00:00:00 -10:00
 Location: At home
 ---
