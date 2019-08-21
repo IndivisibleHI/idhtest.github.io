@@ -5,6 +5,7 @@ teamtag: voters
 team-email: voters
 team-description: |-
   When We Vote, We Win
+
   Ever Qualified Voter, Votes.
 ---
 
