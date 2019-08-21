@@ -592,9 +592,19 @@ td {
 .modal-content {
   background-color: #fefefe;
   margin: auto;
+  margin-top: 200px;
   padding: 20px;
   border: 1px solid #888;
   width: 80%;
+}
+
+input.modal-content {
+  width: 80%;
+}
+
+textarea.modal-content {
+  width: 80%;
+  height: 150px;
 }
 
 /* The Close Button */
