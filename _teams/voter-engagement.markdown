@@ -7,12 +7,10 @@ team-description: |-
   When We Vote, We Win
 
   Our goal is Massive Voter turnout for Progressive Democratic Candidates.
-
-  We engage our volunteers to support Voter Registration drives in Hawaii and other key states. We encourage all Citizens to participate in our Elections and vote for Progressive candidates. We are strategic in seeking out Citizens who likely will vote Progressive and who may not usually register or vote.
-
-  ![2019-08-21 09.39.42-1-596bd4.jpg](/uploads/2019-08-21%2009.39.42-1-596bd4.jpg)
 ---
 
 When We Vote, We WIN.
 
 Our goal is Massive Voter turnout for Progressive Democratic Candidates.
+
+We engage our volunteers to support Voter Registration drives in Hawaii and other key states. We encourage all Citizens to participate in our Elections and vote for Progressive candidates. We are strategic in seeking out Citizens who likely will vote Progressive and who may not usually register or vote.
