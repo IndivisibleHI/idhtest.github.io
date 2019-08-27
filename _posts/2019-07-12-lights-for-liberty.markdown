@@ -2,10 +2,11 @@
 title: Lights for Liberty
 date: 2019-07-12 16:00:00 -10:00
 categories:
-- other
+- partner
 tags:
 - immigration
 - stategov
+- partner
 is featured: true
 event-start-date: 2019-07-12 16:00:00 -10:00
 event-end-date: 2019-07-12 18:00:00 -10:00
