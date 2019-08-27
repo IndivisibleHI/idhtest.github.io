@@ -1,6 +1,8 @@
 ---
 title: More Postcards for Virginia (9.7.19)
 date: 2019-08-26 14:22:00 -10:00
+categories:
+- event
 tags:
 - voters
 is featured: true
