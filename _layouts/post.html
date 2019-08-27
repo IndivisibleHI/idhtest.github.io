@@ -102,6 +102,11 @@ layout: default
             <a href="{{ page.RSVP-link | escape }}" class="btn btn-primary btn-block">Donate Now &rarr;</a>
           {% endif %}
 
+
+          {% if page.tags contains 'take-action' %}
+            <a href="{{ page.RSVP-link | escape }}" class="btn btn-primary btn-block">Take Action Now &rarr;</a>
+          {% endif %}
+
         </div>
         <div class="clearfix spacer visibile-xs-down"></div>
         <div class="clearfix spacer visibile-xs-down"></div>
