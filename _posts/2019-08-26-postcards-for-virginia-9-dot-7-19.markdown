@@ -10,4 +10,4 @@ Dan, a West Point Grad and veteran, FaceTimed us to thank us for support and emp
 
 Join us Saturday, September 7 at noon at the Varsity building second floor to continue our postcarding.
 
-Check out (http://postcards4va.com) to see how easy it is for all of us to build the Blue Wave .
+Check out http://postcards4va.com to see how easy it is for all of us to build the Blue Wave .
