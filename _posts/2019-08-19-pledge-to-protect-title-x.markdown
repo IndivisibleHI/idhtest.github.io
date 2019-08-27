@@ -3,8 +3,6 @@ title: Pledge to Protect Title X
 date: 2019-08-19 16:18:00 -10:00
 categories:
 - action
-tags:
-- donate
 is featured: true
 event-start-date: 2019-08-19 16:00:00 -10:00
 event-end-date: 2019-08-26 00:00:00 -10:00
