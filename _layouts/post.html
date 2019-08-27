@@ -96,16 +96,11 @@ layout: default
           
           {% if page.tags contains 'comment' %}
             <a href="{{ page.RSVP-link | escape }}" class="btn btn-primary btn-block">Comment Now &rarr;</a>
-          {% endif %}
-
-          {% if page.tags contains 'donate' %}
+          {% elsif page.tags contains 'donate' %}
             <a href="{{ page.RSVP-link | escape }}" class="btn btn-primary btn-block">Donate Now &rarr;</a>
-          {% endif %}
-
-
-          {% if page.tags contains 'take-action' %}
-            <a href="{{ page.RSVP-link | escape }}" class="btn btn-primary btn-block">Take Action Now &rarr;</a>
-          {% endif %}
+          {% elsif page.RSVP-link %}
+	    <a href="{{page.RSVP-link | escape }}" class="btn btn-primary btn-block">Take Action Now &rarr;</a>
+	  {% endif %}
 
         </div>
         <div class="clearfix spacer visibile-xs-down"></div>
