@@ -5,7 +5,7 @@ categories:
 - event
 is featured: true
 event-start-date: 2019-08-29 17:00:00 -10:00
-event-end-date: 2019-08-29 17:00:00 -10:00
+event-end-date: 2019-08-29 19:00:00 -10:00
 Location: 700 Queen Street, Honolulu, HI
 ---
 
