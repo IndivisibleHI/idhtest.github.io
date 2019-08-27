@@ -6,4 +6,4 @@ categories:
 news-link: https://www.irishtimes.com/opinion/fintan-o-toole-trial-runs-for-fascism-are-in-full-flow-1.3543375#.XVhi4BkzLVk.mailto
 ---
 
-Irish Times
+Irish Times article 
