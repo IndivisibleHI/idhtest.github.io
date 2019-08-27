@@ -1,5 +1,5 @@
 ---
-title: Visit to offices of Senators Schatz and Hirono
+title: Visit to offices of Senators Schatz and Hirono (9.3.19)
 date: 2019-08-16 13:14:00 -10:00
 categories:
 - event
@@ -11,4 +11,4 @@ Location: Prince Kuihio Bldg., 300 Ala Moana Blvd., Honolulu, HI 96850
 
 On the first Tuesday of every month, we visit the offices of Senators Schatz and Hirono at the Prince Kuhio Federal Building, 300 Ala Moana Blvd., Honolulu, HI 96850, from noon-1pm to discuss issues of mutual importance.
 
-We meet outside the makai security entrance on Ala Moana and go first to Schatz's office (room 7-212) and then to Hirono's office (room 3-106). 
+We meet outside the makai security entrance on Ala Moana and go first to Schatz's office (room 7-212) and then to Hirono's office (room 3-106). Don't forget to bring an ID in order to enter the building.
