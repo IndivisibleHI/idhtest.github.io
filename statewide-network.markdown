@@ -5,4 +5,6 @@ position: 11
 nav: true
 ---
 
-This page will initially be used to hold contact information for other Hawaii Indivisible Chapters. 
+This page is under construction. 
+
+It will display contact information for other Hawaii Indivisible Chapters. 
