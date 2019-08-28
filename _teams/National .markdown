@@ -3,8 +3,8 @@ title: National Elections
 date: 2019-07-11 15:32:00 -10:00
 teamtag: natel
 team-email: natel
-team-description: "<b> We're going to flip the White House, flip the U.S. Senate,
-  and keep the U.S. House Blue to protect democracy.</b>"
+team-description: We're going to flip the White House, flip the U.S. Senate, and keep
+  the U.S. House Blue to protect democracy.
 ---
 
 **Goal**: flip the White House, flip the U.S. Senate, and keep the U.S. House blue
