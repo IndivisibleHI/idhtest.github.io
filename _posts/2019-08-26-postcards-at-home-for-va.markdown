@@ -9,6 +9,7 @@ is featured: true
 event-start-date: 2019-08-27 00:00:00 -10:00
 event-end-date: 2019-10-15 00:00:00 -10:00
 Location: At your home
+RSVP-link: https://postcards4va.com
 embed-code: <iframe src="https://postcards4va.com/" width="100%" height="400"></iframe>
 ---
 
