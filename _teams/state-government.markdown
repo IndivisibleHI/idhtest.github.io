@@ -7,11 +7,11 @@ tags:
 - stategov
 teamtag: stategov
 team-email: stategov
-team-description: Work with the Hawaii State government to improve transparency and
-  accountability on topics of interest to us
+team-description: 'Our government, our power: work with all branches of state government
+  to address our priorities and improve transparency and accountability'
 ---
 
-Mission:  To work with the Hawaii State government on topics of interest to us
+Mission:  To work with the Hawaii State government to improve transparency and accountability on topics of interest to us
 
 Legislature:  The Leg considers 3000-4000 bills each year, approximately half of which are duplicates.  The bills that are passed or killed each year are traded behind closed doors.  We need to reduce redundancy, improve transparency and accountability, and vote out the dead wood.
 
