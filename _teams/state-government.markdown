@@ -7,8 +7,8 @@ tags:
 - stategov
 teamtag: stategov
 team-email: stategov
-team-description: "<b>Mission:  To work with the Hawaii State government on topics
-  of interest to us</b>"
+team-description: 'Mission:  To work with the Hawaii State government on topics of
+  interest to us'
 ---
 
 Mission:  To work with the Hawaii State government on topics of interest to us
