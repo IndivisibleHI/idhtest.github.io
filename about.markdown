@@ -15,10 +15,10 @@ The Indivisible Hawaii Leadership Group is composed of organizers, tech speciali
 
 Indivisible Hawaii fulfills its mission through action by collections of individuals.  This includes regularly scheduled actions such as monthly visits to the offices of our Members of Congress, Trump Tower protests or social events.  These and regularly scheduled actions appear on the All Events website page.  Other actions are primarily organized by and through teams - See our Teams page, https://indivisiblehawaii.org/teams, for detailed descriptions of each team.
 
-Current Teams  include:
-National Elections
-State Government 
-Voter Engagement
-Indivisible Statewide Network
+Current Teams include:
+* National Elections
+* State Government 
+* Voter Engagement
+* Indivisible Statewide Network
 
 **Our power lies in a growing number of engaged citizens and voters who participate in our democracy.  We hope you will join us!**
