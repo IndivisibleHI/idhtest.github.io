@@ -14,10 +14,10 @@ RSVP-link: https://postcards4va.com
 
 We've scheduled a number of postcard writing events to support the 2019 Virginia election. 
 
-However, if you would prefer to write post cards in the quiet and comfort of your own home, please check out this website [postcards4va.com](https://postcards4va.com) to
+However, if you would prefer to write post cards in the quiet and comfort of your own home, please check out this website [postcards4va.com](https://postcards4va.com) or hit the Take Action Now button to the left. This will explain how to:
 * Register with PostCards4VA
 * Order postcards
-* Select the candidate you want to write for
+* Select the candidate you want to support
 * Obtain VA addresses for voters in the candidate's district
 * Write your postcards. Include your first name on the front of the card to indicate that you've paid for the card and postage.  
 * Mail your postcards on Oct 15
