@@ -13,12 +13,12 @@ Indivisible Hawaii participates with the Indivisible National Distributed Fundra
 
 The Indivisible Hawaii Leadership Group is composed of organizers, tech specialists, and political gurus.  Its function is to help guide Indivisible Hawaii on a path of productive and impactful action. Like everyone in our organization, Leadership Council members are all volunteers.  To contact the Leadership Council, please email info@indivisiblehawaii.org.
 
-Indivisible Hawaii fulfills its mission through action by collections of individuals.  This includes regularly scheduled actions such as monthly visits to the offices of our Members of Congress, Trump Tower protests or social events.  These and regularly scheduled actions appear on the All Events website page.  Other actions are primarily organized by and through teams - See our Teams page, https://indivisiblehawaii.org/teams, for detailed descriptions of each team. 
+Indivisible Hawaii fulfills its mission through action by collections of individuals.  This includes regularly scheduled actions such as monthly visits to the offices of our Members of Congress, Trump Tower protests or social events.  These and regularly scheduled actions appear on the All Events website page.  Other actions are primarily organized by and through teams - See our Teams page, https://indivisiblehawaii.org/teams, for detailed descriptions of each team.
 
 Current Teams  include:
-National BlueWave for 2020: Keep the House, Flip the Senate and take the Presidency
-State Government Action Team
-Voter Outreach Indivisible
-Statewide Network
+National Elections
+State Government 
+Voter Engagement
+Indivisible Statewide Network
 
 **Our power lies in a growing number of engaged citizens and voters who participate in our democracy.  We hope you will join us!**
