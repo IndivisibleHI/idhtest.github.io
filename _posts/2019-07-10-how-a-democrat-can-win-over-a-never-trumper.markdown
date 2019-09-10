@@ -7,5 +7,4 @@ event-end-date: 2019-07-10 00:00:00 -10:00
 news-link: https://www.politico.com/magazine/story/2019/07/09/never-trumpers-2020-democrats-227255
 ---
 
-
 [c](https://www.politico.com/magazine/story/2019/07/09/never-trumpers-2020-democrats-227255)
