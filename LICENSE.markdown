@@ -1,5 +1,6 @@
                     
  Copyright (C) 2017 Sahadeva Hammari <http://sahadeva.com/>                   
+ Modified 2019 Michael Gasidlo <michael@gasidlo.com>
                     
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
