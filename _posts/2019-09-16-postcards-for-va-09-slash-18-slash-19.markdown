@@ -5,7 +5,6 @@ categories:
 - event
 tags:
 - voters
-- national
 is featured: true
 event-start-date: 2019-09-18 17:00:00 -10:00
 event-end-date: 2019-09-18 19:00:00 -10:00
