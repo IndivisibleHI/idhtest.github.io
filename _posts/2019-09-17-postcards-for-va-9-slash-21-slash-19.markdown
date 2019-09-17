@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - voters
+- natel
 is featured: true
 event-start-date: 2019-09-21 12:00:00 -10:00
 event-end-date: 2019-09-21 15:00:00 -10:00
