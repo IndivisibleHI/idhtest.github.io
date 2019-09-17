@@ -8,7 +8,9 @@ tags:
 is featured: true
 event-start-date: 2019-09-22 12:00:00 -10:00
 event-end-date: 2019-09-22 15:00:00 -10:00
-Location: Democratic Party of Hawaii
+Location: 'Democratic Party of Hawaii, 627 South St Suite 105, Honolulu
+
+'
 ---
 
 Postcarding for Virginia House of Delegates
