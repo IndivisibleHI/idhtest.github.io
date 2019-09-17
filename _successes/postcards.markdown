@@ -2,7 +2,9 @@
 title: Supporting Virginia State Election
 date: 2019-08-20 09:55:00 -10:00
 is featured: true
-main-image: "/uploads/IMG_1444.jpg"
+main-image:
+- "/uploads/70608579_10215383667121126_2275988244862599168_n-129cff.jpg"
+- "/uploads/IMG_1444.jpg"
 ---
 
 Postcarding for Virginia House of Delegates
