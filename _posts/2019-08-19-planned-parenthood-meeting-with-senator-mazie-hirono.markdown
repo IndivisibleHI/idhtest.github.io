@@ -4,8 +4,7 @@ date: 2019-08-19 15:54:00 -10:00
 categories:
 - event
 tags:
-- natel
-- partner
+- other
 is featured: true
 event-start-date: 2019-08-23 15:30:00 -10:00
 event-end-date: 2019-08-23 16:30:00 -10:00
