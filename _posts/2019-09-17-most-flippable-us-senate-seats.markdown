@@ -5,7 +5,6 @@ categories:
 - update
 tags:
 - national
-- natel
 news-link: https://beta.washingtonpost.com/politics/2019/07/12/senate-seats-most-likely-flip/
 ---
 
