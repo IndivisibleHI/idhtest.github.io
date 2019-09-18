@@ -14,6 +14,6 @@ Location: Down to Earth, 573 Kailua Rd Suite 101, Kailua, HI 96734
 
 Postcarding for Virginia House of Delegates
 
-The purpose of this effort is to help flip the Virginia statehouse blue by reaching out to voters with handwritten postcards up and down the state. We can help turn Virginia Blue by flipping just one more seat in Virginia.  We write. We Vote. We WIN!
+The purpose of this effort is to help flip the Virginia statehouse blue by reaching out to voters with handwritten postcards up and down the state. **We can help turn Virginia Blue by flipping just one more seat in Virginia.  We write.** We Vote. We WIN!
 
 We'll meet in the new Kailua Down To Earth (formerly Macy's) - inside, on the street side of the building.
