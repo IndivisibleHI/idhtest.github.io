@@ -16,8 +16,8 @@ Location: 'Democratic Party of Hawaii, 627 South St Suite 105, Honolulu
 
 Postcarding for Virginia House of Delegates
 
-The purpose of this effort is to help flip the Virginia statehouse blue by reaching out to voters with handwritten postcards up and down the state. We can help turn Virginia Blue by flipping just one more seat in Virginia.  
+The purpose of this effort is to help flip the Virginia statehouse blue by reaching out to voters with handwritten postcards up and down the state. **We can help turn Virginia Blue by flipping just one more seat in Virginia**.  
  
-We will meet at the Democratic Party Hawaii HQ - free parking on the street.  
+We will meet at the Democratic Party Hawaii HQ - free parking on the street if you cannot find parking in front of the building.
 
 We write. We Vote. We WIN!
