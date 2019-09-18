@@ -13,7 +13,7 @@ Location: At your home
 RSVP-link: https://postcards4va.com
 ---
 
-We've scheduled a number of postcard writing events to support the 2019 Virginia election. 
+The purpose of this effort is to help flip the Virginia statehouse blue by reaching out to voters with handwritten postcards up and down the state. **We can help turn Virginia Blue by flipping just one more seat in Virginia.** We've scheduled a number of postcard writing events to support the 2019 Virginia election. 
 
 However, if you would prefer to write post cards in the quiet and comfort of your own home, please check out this website [postcards4va.com](https://postcards4va.com) or hit the Take Action Now button to the left. This will explain how to:
 * Register with PostCards4VA
