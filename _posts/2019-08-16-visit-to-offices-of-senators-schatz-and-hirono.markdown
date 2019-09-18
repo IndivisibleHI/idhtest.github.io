@@ -1,5 +1,5 @@
 ---
-title: Visit to offices of Senators Schatz and Hirono (9.3.19)
+title: Visit to offices of Senators Schatz and Hirono (9/3/19)
 date: 2019-08-16 13:14:00 -10:00
 categories:
 - event
