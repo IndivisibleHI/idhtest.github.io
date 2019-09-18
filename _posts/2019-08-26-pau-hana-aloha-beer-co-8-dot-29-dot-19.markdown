@@ -1,5 +1,5 @@
 ---
-title: Pau Hana Aloha Beer Co (8.29.19)
+title: Pau Hana Aloha Beer Co (8/29/19)
 date: 2019-08-26 14:33:00 -10:00
 categories:
 - event
