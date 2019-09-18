@@ -1,5 +1,5 @@
 ---
-title: Meet with Office of Ed Case (9.10.19)
+title: Meet with Office of Ed Case (9/10/19)
 date: 2019-08-16 13:45:00 -10:00
 categories:
 - event
