@@ -8,17 +8,9 @@ tags:
 main-image: "/uploads/2019%20IH%20Sq%20sticker%20v9%20Ok-05c2b5.jpg"
 ---
 
-# AVR 
-
-* [link 1](https://drive.google.com/open?id=1buAEk7IXg0shUyDG_j8ZOcXQuCI5iaoe)
-
-* link 2
-
 # Elections
 
 * [Citizen Education Project](https://drive.google.com/open?id=1MTmLMaiUWOqLHQOy4Ph87Qf93u3Q9fkM)
-
-* [Google](http://google.com)
 
 # **Census**
 
