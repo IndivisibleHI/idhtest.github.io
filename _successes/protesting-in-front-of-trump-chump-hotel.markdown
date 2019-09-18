@@ -1,5 +1,5 @@
 ---
-title: Protesting in front of Trump Chump hotel
+title: Protesting in front of Trump Chump Hotel
 date: 2019-07-30 17:44:00 -10:00
 is featured: true
 main-image: "/uploads/IMG_1191-917ef6.jpg"
@@ -13,4 +13,12 @@ Trump supporters often tell us to get over it, get a job, have we been in the se
 
 For those on our side we are told we are doing God’s work, we are constantly thanked and many, many people want to take a picture of us and many join us for a photo.
 
-Join us Wednesday evenings
+**Please join us!**
+
+* **When: Every Wednesday and Friday evening, 5:30 - 7:00 pm**
+
+* **Where: Trump International Hotel Waikiki, 223 Saratoga Rd, Honolulu, HI 96815**
+
+* **Questions: email us at info@IndivisibleHawaii.org**
+
+The time may change as sunset becomes earlier. We bring extra signs but feel free to bring your own. 
