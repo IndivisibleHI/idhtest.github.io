@@ -1,5 +1,5 @@
 ---
-title: Most flippable U.S. Senate seats
+title: Most Flippable U.S. Senate Seats
 date: 2019-09-17 10:48:00 -10:00
 categories:
 - update
