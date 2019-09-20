@@ -7,7 +7,7 @@ tags:
 - Census
 - stategov
 is featured: true
-main-image: "/uploads/2019%20Sep%20data%20workshop%20v10.jpg"
+main-image: "/uploads/2019%20Sep%20data%20workshop%20v7%20eventbrite.jpg"
 event-start-date: 2019-09-23 00:00:00 -10:00
 event-end-date: 2019-09-23 16:00:00 -10:00
 Location: Impact Hub Honolulu
