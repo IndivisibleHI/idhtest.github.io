@@ -21,4 +21,4 @@ This workshop will consist of:
 - presentation on how to find and analyze data from various government sources
 - practical exercise on how to access the sources discussed earlier 
 
-The space we have will hold about 15 people.  It is recommended to bring their own laptop or tablet with a wifi connection.  ![2019 Sep data workshop v8 eventbrite.jpg](/uploads/2019%20Sep%20data%20workshop%20v8%20eventbrite.jpg)
+The space we have will hold about 15 people.  It is recommended to bring their own laptop or tablet with a wifi connection.  
