@@ -14,11 +14,11 @@ Location: Impact Hub Honolulu
 RSVP-link: https://www.eventbrite.com/e/how-to-find-and-use-government-data-tickets-72478708769
 ---
 
-Indivisible Hawaii is going to hold a second census related event at Impact Hub 1-4pm September 23.   A workshop with the lead data specialist for the Census Bureau western region will be here to provide data workshops for nonprofit organizations.  This event is being coordinated between Indivisible Hawaii, the Hawaii State office of Research & Economic Analysis, and the US Census bureau.  
+![2019 Sep data workshop v8 eventbrite.jpg](/uploads/2019%20Sep%20data%20workshop%20v8%20eventbrite.jpg)Indivisible Hawaii is going to hold a second census related event at Impact Hub 1-4pm September 23.   A workshop with the lead data specialist for the Census Bureau western region will be here to provide data workshops for nonprofit organizations.  This event is being coordinated between Indivisible Hawaii, the Hawaii State office of Research & Economic Analysis, and the US Census bureau.  
 
 This workshop will consist of:
 - a briefing on the how the census is developing in Hawaii
 - presentation on how to find and analyze data from various government sources
 - practical exercise on how to access the sources discussed earlier 
 
-The space we have will hold about 15 people.  It is recommended to bring their own laptop or tablet with a wifi connection.  
+The space we have will hold about 15 people.  It is recommended to bring their own laptop or tablet with a wifi connection.  ![2019 Sep data workshop v8 eventbrite.jpg](/uploads/2019%20Sep%20data%20workshop%20v8%20eventbrite.jpg)
