@@ -7,7 +7,7 @@ tags:
 - Census
 - stategov
 is featured: true
-main-image: "/uploads/Mchimp%20Horizontal(copy).jpg"
+main-image: "/uploads/2019%20data%20Horizontal%20300%20pix%20web.jpg"
 event-start-date: 2019-09-23 13:00:00 -10:00
 event-end-date: 2019-09-23 16:00:00 -10:00
 Location: Impact Hub Honolulu
