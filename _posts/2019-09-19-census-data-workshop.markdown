@@ -21,4 +21,5 @@ This workshop will consist of:
 - presentation on how to find and analyze data from various government sources
 - practical exercise on how to access the sources discussed earlier 
 
-The space we have will hold about 15 people.  It is recommended to bring their own laptop or tablet with a wifi connection.  ![2019 Sep census 300pix web.jpg](/uploads/2019%20Sep%20census%20300pix%20web.jpg)
+The space we have will hold about 15 people.  It is recommended to bring their own laptop or tablet with a wifi connection.  
+![2019 Sep census 300pix web.jpg](/uploads/2019%20Sep%20census%20300pix%20web.jpg)
