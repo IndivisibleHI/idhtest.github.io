@@ -11,7 +11,7 @@ The purpose of this effort is to help flip the Virginia statehouse blue by reach
 
 Last week our [postcards4va.com](http://postcards4va.com) team in Hawaii completed over 482 postcards for Virginia House of Delegates Progressive Democrats Dan Helmer and Elizabeth Guzman.
 
-To date
+To date (9/24/19)
 * We've had 11 post card writing parties with 57 volunteers 
 * 17 volunteers have created their own [postcards4va.com](http://postcards4va.com) accounts and are writing more than 1000 GOTV (Get Out The Vote) postcards.
 * We have 1,816 written, addressed and stamped GOTV postcards ready to mail 
