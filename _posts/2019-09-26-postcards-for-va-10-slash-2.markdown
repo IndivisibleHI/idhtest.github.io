@@ -1,5 +1,5 @@
 ---
-title: Postcards for VA (10/2)
+title: Postcards for VA (10/2/19)
 date: 2019-09-26 07:10:00 -10:00
 categories:
 - event
