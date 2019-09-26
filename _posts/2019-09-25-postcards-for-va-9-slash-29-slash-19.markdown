@@ -20,4 +20,4 @@ The purpose of this effort is to help flip the Virginia statehouse blue by reach
  
 We will meet at the Democratic Party Hawaii HQ - free parking on the street if you cannot find parking in front of the building.
 
-Read about why this election is so important for elections in 2020 in "[Searching for Hints About 2020, All Eyes Turned to Reshaped Virginia](https://www.nytimes.com/2019/08/19/us/virginia-election-politics.html)".  
+Learn about why this election is so important for elections in 2020 in "[Searching for Hints About 2020, All Eyes Turned to Reshaped Virginia](https://www.nytimes.com/2019/08/19/us/virginia-election-politics.html)".  
