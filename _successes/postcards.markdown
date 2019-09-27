@@ -14,7 +14,7 @@ Last week our [postcards4va.com](http://postcards4va.com) team in Hawaii complet
 To date (9/24/19)
 * We've had 11 post card writing parties with 57 volunteers 
 * 17 volunteers have created their own [postcards4va.com](http://postcards4va.com) accounts and are writing more than 1000 GOTV (Get Out The Vote) postcards.
-* We have 1,816 written, addressed and stamped GOTV postcards ready to mail 
+* We have close to 2500 written, addressed and stamped GOTV postcards ready to mail 
 
 More parties are scheduled for this weekend. Check the Postcards4VA events on our website. 
 
