@@ -1,5 +1,5 @@
 ---
-title: Last postcards for VA in Kailua (10/9/19)
+title: Last postcards for VA in Kailua (10/16/19)
 date: 2019-10-01 15:27:00 -10:00
 categories:
 - event
@@ -7,8 +7,8 @@ tags:
 - voters
 - natel
 is featured: true
-event-start-date: 2019-10-09 17:00:00 -10:00
-event-end-date: 2019-10-09 19:00:00 -10:00
+event-start-date: 2019-10-16 17:00:00 -10:00
+event-end-date: 2019-10-16 19:00:00 -10:00
 Location: Down to Earth, 573 Kailua Rd, Kailua, Honolulu County
 ---
 
