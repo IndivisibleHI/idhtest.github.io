@@ -1,5 +1,5 @@
 ---
-title: Ed Case Townhall
+title: Ed Case Townhall (10/5/19)
 date: 2019-10-02 15:04:00 -10:00
 categories:
 - event
