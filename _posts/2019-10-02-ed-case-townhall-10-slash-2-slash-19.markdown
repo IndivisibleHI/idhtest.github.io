@@ -3,6 +3,7 @@ title: Ed Case Townhall (10/2/19)
 date: 2019-10-02 14:47:00 -10:00
 categories:
 - event
+tags:
 - other
 is featured: true
 event-start-date: 2019-10-02 18:30:00 -10:00
