@@ -9,7 +9,7 @@ Postcarding for Virginia House of Delegates and State Senate
 
 The purpose of this effort is to help flip the Virginia statehouse blue by reaching out to voters with handwritten postcards up and down the state. We write. We Vote. We WIN!
 
-Over last nine weeks our [postcards4va.com](http://postcards4va.com) team in Hawaii completed almost 3800 postcards for Virginia House of Delegates Progressive Democrats Dan Helmer,Elizabeth Guzman, Lindsey Dougherty, and Virginia State Senate Progressive Democrat Qusam Rashid.
+Over last nine weeks our [postcards4va.com](http://postcards4va.com) team in Hawaii completed almost 3800 postcards for Virginia House of Delegates Progressive Democrats Dan Helmer,Elizabeth Guzman, Lindsey Dougherty, and Virginia State Senate Progressive Democrats Qusam Rashid and Annette Hyde.
 
 To date (10/13/19):
 * We've had 19 post card writing parties with 65 volunteers 
