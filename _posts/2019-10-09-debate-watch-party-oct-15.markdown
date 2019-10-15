@@ -1,6 +1,8 @@
 ---
 title: Debate Watch Party Oct 15
 date: 2019-10-09 14:03:00 -10:00
+categories:
+- event
 tags:
 - Event
 is featured: true
