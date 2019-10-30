@@ -2,7 +2,7 @@
 title: Donate
 date: 2019-01-14 19:52:00 -10:00
 position: 13
-nav: true
+nav: false
 navbutton: true
 ---
 
