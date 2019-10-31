@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - stategov
+- other
 is featured: true
 event-start-date: 2019-11-13 14:00:00 -10:00
 Location: Hawaii State Capitol, Conference Room 016
