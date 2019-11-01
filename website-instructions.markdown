@@ -12,7 +12,7 @@ Once you create an account, you'll be able to add and edit pages on our website.
 
 There are 2 main areas for you to contribute to the website.
 
-The first is to provide an introduction to your team. That's your team page, indivisibleberkeley.org/team/<your team>. You can edit it by logging in to siteleaf.com, clicking "teams" in the left sidebar, and then clicking on your team name in the list that shows up.
+The first is to provide an introduction to your team. That's your team page, indivisiblehawaii.org/team/<your team>. You can edit it by logging in to siteleaf.com, clicking "teams" in the left sidebar, and then clicking on your team name in the list that shows up.
 
 The second is to provide updates for actions and events that your team is attending and/or organizing. In the lexicon of the website, an Action is something that has a due date, and that people can do mostly independently, e.g. "Call Feinstein by this Friday about blah." An Event is where people do something at the same time, and often in the same place, e.g. a phone bank, rally, meeting, General Assembly, etc.
 
@@ -28,7 +28,7 @@ Most of the fields to fill out are self-explanatory, but some are a bit subtle:
 
 + `Location` is automatically turned into a link on Google Maps, using whatever text you put in the field as a search term. So if it's a business, park, plaza, etc., you can put the name, and if it's a house, then the address works well.
 
-+ `Embed-code` is how we get ActionNetwork RSVP forms embedded directly into the website (e.g. [our General Assembly event pages](https://www.indivisibleberkeley.org/event/assembly-sep10)). To find the code for this, go to the ActionNetwork "manage event" page and find the "Embed this event" box, containing a bunch of code. Just copy-paste the code into the box on Siteleaf and our website will take care of the rest!
++ `Embed-code` is how we get RSVP forms embedded directly into the website. To find the code for this, go to the ActionNetwork "manage event" page and find the "Embed this event" box, containing a bunch of code. Just copy-paste the code into the box on Siteleaf and our website will take care of the rest!
 
 + `is featured` controls whether the event shows up on the front page of our website. Please only feature up to two events at a time. We encourage you to feature your next team meeting!
 
