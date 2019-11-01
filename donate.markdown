@@ -8,4 +8,4 @@ exturl: https://secure.actblue.com/donate/indivisiblehon425758363
 basiclink: true
 ---
 
-<div><iframe src="https://secure.actblue.com/donate/indivisiblehon425758363" style='width: 100%;border: none'></iframe></div>
+<div></div>
