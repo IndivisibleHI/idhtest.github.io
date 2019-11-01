@@ -5,7 +5,7 @@ position: 13
 nav: false
 navbutton: true
 exturl: https://secure.actblue.com/donate/indivisiblehon425758363
-basiclink: true
+basiclink: false
 ---
 
 <div><iframe src="https://secure.actblue.com/donate/indivisiblehon425758363" style='width: 100%;border: none'></iframe></div>
