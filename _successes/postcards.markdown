@@ -1,18 +1,12 @@
 ---
-title: Supporting Virginia State Elections
+title: Flipping Virginia Blue
 date: 2019-08-20 09:55:00 -10:00
 is featured: true
-main-image: "/uploads/1CFB1CFC-EB67-476A-9EE4-F2B649B54EA0.JPG"
+main-image: "/uploads/20191013_225407%20(2).jpg"
 ---
 
 Postcarding for Virginia House of Delegates and State Senate
 
-The purpose of this effort is to help flip the Virginia statehouse blue by reaching out to voters with handwritten postcards up and down the state. We write. We Vote. We WIN!
+The purpose of this effort was to help flip the Virginia statehouse blue by reaching out to voters with handwritten postcards up and down the state and we did it.  VIRGINIA JUST GOT BLUER - 55 Dems are now the majority on House side and 21 Dems are now the majority on Senate side.  Over ten week period August to mid-October, 70 Indivisible Hawaii volunteers wrote over 4200 postcards4va GOTV postcards to support the Virginian Democratic candidates.  
 
-Over last ten weeks our [postcards4va.com](http://postcards4va.com) team in Hawaii completed over 4200 postcards and letters for Virginia House of Delegates Progressive Democrats Dan Helmer,Elizabeth Guzman, Lindsey Dougherty, and Virginia State Senate Progressive Democrats Qusam Rashid and Annette Hyde.
-
-To date (10/20/19):
-* We've had 22 post card writing parties with 70 volunteers 
-* 17 volunteers have created their own [postcards4va.com](http://postcards4va.com) accounts and are writing more than 500 GOTV (Get Out The Vote) postcards.
-
-Thanks everyone for all your work! 
+Thanks everyone for all your work! We write. We Vote. We WIN!
