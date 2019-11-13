@@ -5,7 +5,7 @@ position: 11
 nav: true
 ---
 
-**HAWAII ISLAND**
+# **HAWAII ISLAND**
 *
 *
 **Ka'u Voices**
@@ -13,7 +13,7 @@ nav: true
 *ezmeralda5@gmail.com
 *
 *
-**KAUAI**
+# **KAUAI**
 *
 *
 **Kauai Indivisible**
@@ -21,7 +21,7 @@ nav: true
 *kauaiindivisible@gmail.com
 *
 *
-**OAHU**
+# **OAHU**
 *
 *
 **Indivisible Windward Oahu**
