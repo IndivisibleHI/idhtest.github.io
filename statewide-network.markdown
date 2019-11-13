@@ -12,7 +12,7 @@ nav: true
 Laurie Boyle            
 ezmeralda5@gmail.com
 
-## KAUAI
+## **KAUAI**
 
 ### **Kauai Indivisible**
 
