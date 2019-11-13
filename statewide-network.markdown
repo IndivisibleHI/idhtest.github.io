@@ -9,18 +9,18 @@ nav: true
 
 ### **Ka'u Voices**
 
-Laurie Boyle            
-ezmeralda5@gmail.com
+**Laurie Boyle            
+ezmeralda5@gmail.com**
 
 ## **KAUAI**
 
 ### **Kauai Indivisible**
 
-www.kauaiindivisible.com           
-kauaiindivisible@gmail.com
+**www.kauaiindivisible.com           
+kauaiindivisible@gmail.com**
 
 ## **OAHU**
 
 ### **Indivisible Windward Oahu**
 
-indivisiblewindwardoahu@gmail.com
+**indivisiblewindwardoahu@gmail.com**
