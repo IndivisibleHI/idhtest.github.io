@@ -5,24 +5,24 @@ position: 11
 nav: true
 ---
 
-**HAWAII ISLAND**
+# **HAWAII ISLAND**
 *
 *
-**Ka'u Voices**
+## **Ka'u Voices**
 *Laurie Boyle
 *ezmeralda5@gmail.com
 *
 *
-**KAUAI**
+# **KAUAI**
 *
 *
-**Kauai Indivisible**
+## **Kauai Indivisible**
 *www.kauaiindivisible.com
 *kauaiindivisible@gmail.com
 *
 *
-**OAHU**
+# **OAHU**
 *
 *
-**Indivisible Windward Oahu**
+## **Indivisible Windward Oahu**
 *indivisiblewindwardoahu@gmail.com
