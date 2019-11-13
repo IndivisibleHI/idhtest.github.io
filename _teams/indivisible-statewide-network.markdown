@@ -1,5 +1,5 @@
 ---
-title: Indivisible Statewide Network
+title: State Network
 date: 2019-07-11 15:34:00 -10:00
 teamtag: isn
 team-email: isn
