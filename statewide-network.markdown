@@ -9,14 +9,14 @@ nav: true
 
 ### **Ka'u Voices**
 
-**Laurie Boyle**
+**Laurie Boyle**<br />
 **ezmeralda5@gmail.com**
 
 ## **KAUAI**
 
 ### **Kauai Indivisible**
 
-**[www.kauaiindivisible.com](http://kauaiindivisible.com)**
+**[www.kauaiindivisible.com](http://kauaiindivisible.com)**<br />
 **kauaiindivisible@gmail.com**
 
 ## **OAHU**
