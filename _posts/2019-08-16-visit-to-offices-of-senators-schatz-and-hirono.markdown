@@ -1,11 +1,11 @@
 ---
-title: Visit to offices of Senators Schatz and Hirono (9/3/19)
+title: Visit to offices of Senators Schatz and Hirono and Representative Gabbard (12/3/19)
 date: 2019-08-16 13:14:00 -10:00
 categories:
 - event
 is featured: true
-event-start-date: 2019-09-03 11:45:00 -10:00
-event-end-date: 2019-09-03 13:00:00 -10:00
+event-start-date: 2019-12-03 11:45:00 -10:00
+event-end-date: 2019-09-03 13:30:00 -10:00
 Location: Prince Kuihio Bldg., 300 Ala Moana Blvd., Honolulu, HI 96850
 ---
 
