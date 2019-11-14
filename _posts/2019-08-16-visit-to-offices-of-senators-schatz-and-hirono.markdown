@@ -1,5 +1,5 @@
 ---
-title: Visit to offices of Senators Schatz and Hirono and Representative Gabbard (12/3/19)
+title: Visit to offices of Senators Schatz and Hirono and Representative Gabbard
 date: 2019-08-16 13:14:00 -10:00
 categories:
 - event
