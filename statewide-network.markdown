@@ -12,6 +12,10 @@ nav: true
 **Laurie Boyle**<br />
 **ezmeralda5@gmail.com**
 
+**## North Hawaii Action Network**
+**### Patti Cook**
+**(808) 937-2833**
+
 ## **KAUAI**
 
 ### **Kauai Indivisible**
