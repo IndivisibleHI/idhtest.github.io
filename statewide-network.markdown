@@ -10,7 +10,7 @@ nav: true
 ### **Ka'u Voices**
 
 **Laurie Boyle**<br />
-**ezmeralda5@gmail.com**
+**ezmerelda5@gmail.com**
 
 ### **North Hawaii Action Network**          
 **Patti Cook**           
