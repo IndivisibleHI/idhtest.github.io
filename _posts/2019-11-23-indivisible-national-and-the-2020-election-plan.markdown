@@ -4,6 +4,7 @@ date: 2019-11-23 15:40:00 -10:00
 categories:
 - event
 is featured: true
+main-image: "/uploads/https___cdn.evbuc.com_images_82386847_270164262813_1_original.jfif"
 event-start-date: 2019-12-14 14:00:00 -10:00
 event-end-date: 2019-12-14 16:00:00 -10:00
 Location: |-
