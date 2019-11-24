@@ -7,10 +7,8 @@ is featured: true
 main-image: "/uploads/https___cdn.evbuc.com_images_82386847_270164262813_1_original.jfif"
 event-start-date: 2019-12-14 14:00:00 -10:00
 event-end-date: 2019-12-14 16:00:00 -10:00
-Location: |-
-  Kailua district park main building - first floor meeting room
-  21 South Kainalu Drive
-  Kailua, HI 96734
+Location: Kailua district park main building - first floor meeting room, 21 South
+  Kainalu Drive, Kailua, HI 96734
 RSVP-link: https://www.eventbrite.com/e/indivisible-national-and-the-2020-election-plan-tickets-83299169057?aff=ebdssbdestsearch
 ---
 
