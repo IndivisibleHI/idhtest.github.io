@@ -28,6 +28,6 @@ nav: true
 
 ### **Indivisible Windward Oahu**
 
-![2019 Ind Wind base.jpg](/uploads/2019%20Ind%20Wind%20base.jpg)
+<img src="/uploads/2019%20Ind%20Wind%20base.jpg" alt="Indivisible Windward logo" width="200px" />
 
 **[indivisiblewindwardoahu@gmail.com](mailto:indivisiblewindwardoahu@gmail.com)**
