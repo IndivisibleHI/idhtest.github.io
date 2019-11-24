@@ -10,10 +10,11 @@ nav: true
 ### **Ka'u Voices**
 
 **Laurie Boyle**<br />
-**ezmerelda5@gmail.com**
+**ezmeralda5@gmail.com**
 
-### **North Hawaii Action Network**          
-**Patti Cook**           
+### **North Hawaii Action Network**
+
+**Patti Cook**\
 **(808) 937-2833**
 
 ## **KAUAI**
@@ -26,5 +27,7 @@ nav: true
 ## **OAHU**
 
 ### **Indivisible Windward Oahu**
+
+![2019 Ind Wind base.jpg](/uploads/2019%20Ind%20Wind%20base.jpg)
 
 **indivisiblewindwardoahu@gmail.com**
