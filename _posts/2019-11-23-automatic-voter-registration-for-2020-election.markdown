@@ -1,5 +1,5 @@
 ---
-title: Automatic Voter Registration for 2020 Election
+title: Common Cause Meeting on Automatic Voter Registration for 2020 Election
 date: 2019-11-23 16:43:00 -10:00
 categories:
 - event
