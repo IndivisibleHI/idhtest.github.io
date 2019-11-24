@@ -14,7 +14,7 @@ nav: true
 
 ### **North Hawaii Action Network**
 
-**Patti Cook**\
+**Patti Cook**<br />
 **(808) 937-2833**
 
 ## **KAUAI**
