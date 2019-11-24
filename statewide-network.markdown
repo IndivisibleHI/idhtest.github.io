@@ -10,7 +10,7 @@ nav: true
 ### **Ka'u Voices**
 
 **Laurie Boyle**<br />
-**ezmeralda5@gmail.com**
+**[ezmeralda5@gmail.com](mailto:ezmeralda5@gmail.com)**
 
 ### **North Hawaii Action Network**
 
@@ -22,7 +22,7 @@ nav: true
 ### **Kauai Indivisible**
 
 **[www.kauaiindivisible.com](http://kauaiindivisible.com)**<br />
-**kauaiindivisible@gmail.com**
+**[kauaiindivisible@gmail.com](mailto:kauaiindivisible@gmail.com)**
 
 ## **OAHU**
 
@@ -30,4 +30,4 @@ nav: true
 
 ![2019 Ind Wind base.jpg](/uploads/2019%20Ind%20Wind%20base.jpg)
 
-**indivisiblewindwardoahu@gmail.com**
+**[indivisiblewindwardoahu@gmail.com](mailto:indivisiblewindwardoahu@gmail.com)**
