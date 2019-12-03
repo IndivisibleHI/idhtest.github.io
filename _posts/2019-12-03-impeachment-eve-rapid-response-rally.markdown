@@ -4,7 +4,6 @@ date: 2019-12-03 11:11:00 -10:00
 categories:
 - event
 is featured: true
-event-start-date: Impeachment Eve
 ---
 
 # **Join with Indivisible and other groups from across the Country to tell our MOC's that NO ONE IS ABOVE THE LAW.**
