@@ -12,4 +12,4 @@ Location: Kailua district park main building - first floor meeting room, 21 Sout
 RSVP-link: https://www.eventbrite.com/e/indivisible-national-and-the-2020-election-plan-tickets-83299169057?aff=ebdssbdestsearch
 ---
 
-Indivisible Windward will be holding a meeting in Kailua from 2-4pm on 14 Dec 19 at the Kailua district park main building (first floor meeting room) to meet and talk with Ms. Dennessa Atiles, the Indivisible National West Coast organizer. She will be discussing Hawaii and national political races and how people can take action to make a difference in the 2020 election. Join us.
+Indivisible Windward will be holding a meeting in Kailua from 2-4pm on 14 Dec 19 at the Kailua district park main building (first floor meeting room) to meet and talk with Ms. Dennessa Atiles, the Pacific Regional Senior Coordinator for Indivisible National. She will be discussing Hawaii and national political races and how people can take action to make a difference in the 2020 election. Join us.
