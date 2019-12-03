@@ -30,4 +30,4 @@ nav: true
 
 <img src="/uploads/2019-Ind-Wind.jpg" alt="Indivisible Windward logo" width="200px" />
 
-**[IndWind808@gmail.com](mailto:IndWind808@gmail.com)**
+Contact us to be added to the Windward mailing list or for more information: **[IndWind808@gmail.com](mailto:IndWind808@gmail.com)**
