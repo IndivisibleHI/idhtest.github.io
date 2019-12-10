@@ -3,6 +3,7 @@ title: Meeting with Dennessa Atiles, Indivisible Pacific Regional Coordinator
 date: 2019-12-09 17:24:00 -10:00
 categories:
 - event
+is featured: true
 event-start-date: 2019-12-14 10:00:00 -10:00
 event-end-date: 2019-12-14 12:00:00 -10:00
 Location: Varsity Tower, 1110 University Ave., Honolulu (third floor)
