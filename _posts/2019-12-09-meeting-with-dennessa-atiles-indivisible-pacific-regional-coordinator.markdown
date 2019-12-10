@@ -1,5 +1,5 @@
 ---
-title: Meeting with Dennessa Atiles, Indivisible Pacific Regional Senior Coordinator
+title: Indivisible National and the 2020 Election Plan
 date: 2019-12-09 17:24:00 -10:00
 categories:
 - event
@@ -9,4 +9,4 @@ event-end-date: 2019-12-14 12:00:00 -10:00
 Location: Varsity Tower, 1110 University Ave., Honolulu (third floor)
 ---
 
-Come and meet Dennessa Atiles, the Indivisible Pacific Regional Coordinator from Indivisible National headquarters.  Learn about National's plans for 2020 and tools available to help local chapters.
+Come and meet Dennessa Atiles, the Pacific Regional Senior Coordinator for Indivisible National.  Learn about National's plans for 2020 and tools available to help local chapters.
