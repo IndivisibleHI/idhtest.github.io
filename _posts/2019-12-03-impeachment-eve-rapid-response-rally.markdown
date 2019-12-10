@@ -14,6 +14,4 @@ Then the full House will have to vote on whether to move forward with the charge
 
 The night before that vote we need to speak up that **NO ONE IS ABOVE THE LAW.**
 
-**HONOLULU:** 4PM In front of Trump Tower, Waikiki.  Questions?  [Info@indivisiblehawaii.org](mailto:info@indivisiblehawaii.org)
-
 **WINDWARD/KAILUA:** 4pm intersection of Kalanianaole Hwy and Kailua Road (kitty-corner from Castle Hospital).  Street parking on back streets.  Questions?  [IndWind808@gmail.com](mailto:indwind808@gmail.com)
