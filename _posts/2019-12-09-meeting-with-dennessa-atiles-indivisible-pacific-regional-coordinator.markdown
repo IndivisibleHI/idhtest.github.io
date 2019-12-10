@@ -1,5 +1,5 @@
 ---
-title: Meeting with Dennessa Atiles, Indivisible Pacific Regional Coordinator
+title: Meeting with Dennessa Atiles, Indivisible Pacific Regional Senior Coordinator
 date: 2019-12-09 17:24:00 -10:00
 categories:
 - event
