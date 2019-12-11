@@ -2,7 +2,7 @@
 title: Protesting in front of Trump Chump Hotel
 date: 2019-07-30 17:44:00 -10:00
 is featured: true
-main-image: "/uploads/Monday%20120919.jpg"
+main-image: "/uploads/IMG_1191-917ef6.jpg"
 ---
 
 These protests started shortly after Trump was elected. The response has been overwhelmingly favorable.
@@ -21,4 +21,4 @@ For those on our side we are told we are doing God’s work, we are constantly t
 
 * **Questions: email us at info@IndivisibleHawaii.org**
 
-The time may change as sunset becomes earlier. We bring extra signs but feel free to bring your own. 
+The time may change as sunset becomes earlier. We bring extra signs but feel free to bring your own!
