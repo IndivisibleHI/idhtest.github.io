@@ -7,8 +7,7 @@ categories:
 is featured: true
 event-start-date: 2019-12-20 16:00:00 -10:00
 event-end-date: 2019-12-20 18:00:00 -10:00
-Location: intersection of Kalanianaole Hwy and Kailua Road (kitty-corner from Castle
-  Hospital)
+Location: Honolulu and Kailua - click through to see details
 ---
 
 Indivisible is joining with Refuse Fascism Honolulu and other groups from across the Country to tell our MOC's that NO ONE IS ABOVE THE LAW.
