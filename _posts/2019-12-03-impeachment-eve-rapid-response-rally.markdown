@@ -1,5 +1,6 @@
 ---
-title: Impeachment Eve Rapid Response Rally -  TENTATIVE DATE, ACTUAL DATE TBD
+title: Impeachment Eve Rapid Response -  Eve of the House Vote on Articles of Impeachment
+  - TENTATIVE DATE, ACTUAL DATE TBD
 date: 2019-12-03 11:11:00 -10:00
 categories:
 - event
@@ -10,12 +11,12 @@ Location: intersection of Kalanianaole Hwy and Kailua Road (kitty-corner from Ca
   Hospital)
 ---
 
-# **Join with Indivisible and other groups from across the Country to tell our MOC's that NO ONE IS ABOVE THE LAW.**
+Indivisible is joining with Refuse Fascism Honolulu and other groups from across the Country to tell our MOC's that NO ONE IS ABOVE THE LAW.
 
-Right now the Impeachment Inquiry is with Adam Schiff and the House Intelligence Committee.  When this committee completes its investigation it will send conclusions to the House Judiciary Committee which will determine if the evidence indicates impeachable offenses. If the decision is to impeach then the Judiciary Committee will draft the Articles of Impeachment.
+The Impeachment Inquiry is now with Jerry Nadler in the House Judiciary Committee.  The next step will be to take the Articles of Impeachment to the full House for a vote.  This can happen before Christmas.
 
-Then the full House will have to vote on whether to move forward with the charges included in the Articles of Impeachment.
+The night before that vote we need to speak up that NO ONE IS ABOVE THE LAW.
 
-The night before that vote we need to speak up that **NO ONE IS ABOVE THE LAW.**
+**HONOLULU:**  4PM in front of the Federal Building Ewa side between the Federal Building and Halekawila St.  Questions?  [Refusefascismhonolulu@gmail.com]
 
 **WINDWARD/KAILUA:** 4pm **intersection of Kalanianaole Hwy and Kailua Road (kitty-corner from Castle Hospital).**********  Street parking on back streets.  Questions?  [IndWind808@gmail.com](mailto:indwind808@gmail.com)
