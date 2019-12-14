@@ -1,5 +1,5 @@
 ---
-title: Impeachment Eve Rapid Response -  Eve of the House Vote on Articles of Impeachment
+title: 'Rally:  Eve of the House Vote on Articles of Impeachment'
 date: 2019-12-03 11:11:00 -10:00
 categories:
 - event
