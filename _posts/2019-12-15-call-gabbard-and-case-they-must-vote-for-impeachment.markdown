@@ -18,6 +18,7 @@ call-script-text: |-
   (202) 225-4906
   Hawaii Office
   (808) 541-1986
+event-end-date: 2019-12-18 12:00:00 -10:00
 ---
 
 **In this bluest of blue states, our delegates to the U.S. House of Representatives are still dragging their feet on whether or not to vote for impeachment.**  The House vote is currently scheduled for Wednesday, December 18.  
