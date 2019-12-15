@@ -7,7 +7,7 @@ team-description: We're going to flip the White House, flip the U.S. Senate, and
   the U.S. House Blue to protect democracy.
 ---
 
-**Goal**: flip the White House, flip the U.S. Senate, and keep the U.S. House blue
+**Goal**: Beat Trump, flip the U.S. Senate blue, and keep the U.S. House blue
 
-**Philosophy**: We’re going to do the work to protect democracy.  We will support the Democratic Party’s nominees, whoever they are.  We will show up to make calls, travel to flippable districts to knock doors, and do whatever it takes.  
+**Philosophy**: We’re going to do the work to protect democracy.  We will support the Democratic Party’s nominees, whoever they are.  We will show up to write, text, make calls, travel to swing states to knock on doors, and do whatever it takes.  
 
