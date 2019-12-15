@@ -27,3 +27,6 @@ The night before that vote we need to speak up that NO ONE IS ABOVE THE LAW.
 
 
 **WAIMEA** (Island of Hawai’i): **Fronting Parker Ranch Center & the Ikua Purdy Monument** – Sponsored by North Hawai’i Action Network  
+
+
+**KA'U **(ISLAND OF HAWAII).  Meet at the corner of South Point Road and Highway 11 at 4pm with our impeachment signs.  Sponsored by Ka'u Voices.
