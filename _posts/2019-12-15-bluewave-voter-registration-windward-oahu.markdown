@@ -21,7 +21,7 @@ Join us to write letters to register likely Democrats in Arizona, Colorado, Main
 
 We will provide names & addresses, letters, voter registration forms, stamps, and the training.  You bring the enthusiasm and powerful words to talk with new voters.
 
-Mark your calendar every third Thursdays January to September 5PM to 7PM at inside cafe of Down to Earth in Kailua.
+Mark your calendar every third Wednesdays January to September 5PM to 7PM at inside cafe of Down to Earth in Kailua.
 
 When we Vote, We Win. 
 When we write, We Vote.
