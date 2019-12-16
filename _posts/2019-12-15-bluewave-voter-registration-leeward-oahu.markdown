@@ -10,7 +10,7 @@ is featured: true
 main-image: "/uploads/BlueWaveHawaii%20(1).jpg"
 event-start-date: 2020-01-16 17:00:00 -10:00
 event-end-date: 2020-01-16 19:00:00 -10:00
-Location: Please RSVP and we will send you the address of meeting location.
+Location: Please RSVP and we will send you the direction and address of meeting location.
 RSVP-link: https://www.eventbrite.com/e/bluewave-voter-registration-leeward-oahu-tickets-86297727827
 ---
 
