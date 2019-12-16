@@ -5,7 +5,7 @@ categories:
 - event
 is featured: true
 event-start-date: 2019-12-17 17:30:00 -10:00
-event-end-date: 2019-12-17 17:30:00 -10:00
+event-end-date: 2019-12-17 19:30:00 -10:00
 Location: |-
   Gather in the sidewalk area that runs along the mauka side of W Ka’ahumanu Ave, between Wakea and Kane St (that is in front of the Queen Ka’ahumanu shopping center and across from the University of Hawaii Maui College Campus).  Please, park only in areas open to the public.
 
