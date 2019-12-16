@@ -10,7 +10,7 @@ call-script-text: "**HONOLULU:**  4PM in front of the **Federal Building** Ewa s
   Road (kitty-corner from Castle Hospital).**********  Street parking on back streets.
   \ Questions?  [IndWind808@gmail.com](mailto:indwind808@gmail.com)                   \n\n**WAIMEA**
   (Island of Hawai’i): **Fronting Parker Ranch Center & the Ikua Purdy Monument**
-  – Sponsored by North Hawai’i Action Network  \n\n**KA'U**(ISLAND OF HAWAII).  Meet
+  – Sponsored by North Hawai’i Action Network  \n\n**KA'U** (ISLAND OF HAWAII).  Meet
   at the corner of South Point Road and Highway 11 at 4pm with our impeachment signs.
   \ Sponsored by Ka'u Voices."
 event-start-date: 2019-12-17 16:00:00 -10:00
