@@ -20,13 +20,10 @@ The Impeachment Inquiry is now with Jerry Nadler in the House Judiciary Committe
 
 The night before that vote we need to speak up that NO ONE IS ABOVE THE LAW.
 
-**HONOLULU:**  4PM in front of the **Federal Building** Ewa side between the Federal Building and Halekawila St.  Questions?  [Refusefascismhonolulu@gmail.com](mailto:refusefascismhonolulu@gmail.com)       
-
+**HONOLULU:**  4PM in front of the **Federal Building** Ewa side between the Federal Building and Halekawila St.  Questions?  [Refusefascismhonolulu@gmail.com](mailto:refusefascismhonolulu@gmail.com)      
 
 **WINDWARD/KAILUA:** 4pm **intersection of Kalanianaole Hwy and Kailua Road (kitty-corner from Castle Hospital).**********  Street parking on back streets.  Questions?  [IndWind808@gmail.com](mailto:indwind808@gmail.com)                   
 
-
 **WAIMEA** (Island of Hawai’i): **Fronting Parker Ranch Center & the Ikua Purdy Monument** – Sponsored by North Hawai’i Action Network  
-
 
 **KA'U **(ISLAND OF HAWAII).  Meet at the corner of South Point Road and Highway 11 at 4pm with our impeachment signs.  Sponsored by Ka'u Voices.
