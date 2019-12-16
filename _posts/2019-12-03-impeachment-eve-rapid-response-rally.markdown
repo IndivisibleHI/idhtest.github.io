@@ -1,5 +1,5 @@
 ---
-title: 'RALLY:  Eve of the House Vote on Articles of Impeachment'
+title: 'RALLY:  Eve of the House Vote on Articles of Impeachment - Honolulu'
 date: 2019-12-03 11:11:00 -10:00
 categories:
 - event
