@@ -10,8 +10,8 @@ is featured: true
 main-image: "/uploads/BlueWaveHawaii%20(1).jpg"
 event-start-date: 2020-01-15 17:00:00 -10:00
 event-end-date: 2020-01-15 19:00:00 -10:00
-Location: 'Down to Earth Organic & Natural Kailua (Inside Cafe)573 Kailua Road, #Suite
-  101, Kailua, HI, 96734'
+Location: Down to Earth Organic & Natural Kailua (Inside Cafe), 573 Kailua Road, Suite
+  101, Kailua
 RSVP-link: https://www.eventbrite.com/e/bluewave-voter-registration-windward-oahu-tickets-86282115129
 ---
 
