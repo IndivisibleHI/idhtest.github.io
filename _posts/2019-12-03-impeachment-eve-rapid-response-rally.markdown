@@ -4,23 +4,16 @@ date: 2019-12-03 11:11:00 -10:00
 categories:
 - event
 is featured: true
-call-script-text: "**HONOLULU:**  4PM in front of the **Federal Building** Ewa side
-  between the Federal Building and Halekawila St.  Questions?  [Refusefascismhonolulu@gmail.com](mailto:refusefascismhonolulu@gmail.com)
-  \     \n\n**WINDWARD/KAILUA:** 4pm **intersection of Kalanianaole Hwy and Kailua
-  Road (kitty-corner from Castle Hospital).**********  Street parking on back streets.
-  \ Questions?  [IndWind808@gmail.com](mailto:indwind808@gmail.com)                   \n\n**WAIMEA**
-  (Island of Hawai’i): **Fronting Parker Ranch Center & the Ikua Purdy Monument**
-  – Sponsored by North Hawai’i Action Network  \n\n**KA'U** (ISLAND OF HAWAII).  Meet
-  at the corner of South Point Road and Highway 11 at 4pm with our impeachment signs.
-  \ Sponsored by Ka'u Voices."
 event-start-date: 2019-12-17 16:00:00 -10:00
 event-end-date: 2019-12-17 18:00:00 -10:00
-Location: "HONOLULU:  4PM in front of the Federal Building Ewa side between the Federal
+Location: "HONOLULU:  4pm in front of the Federal Building Ewa side between the Federal
   Building and Halekawila St.  Questions?  Refusefascismhonolulu@gmail.com\n\nWINDWARD/KAILUA:
   \ 4pm   intersection of Kalanianaole Hwy and Kailua Road (kitty-corner from Castle
   Hospital).  Street parking on back streets.  Questions?  IndWind808@gmail.com\n\nWAIMEA
-  (Island of Hawai’i): Fronting Parker Ranch Center & the Ikua Purdy Monument – Sponsored
-  by North Hawai’i Action Network  "
+  (Island of Hawai’i):  4 pm Fronting Parker Ranch Center & the Ikua Purdy Monument
+  – Sponsored by North Hawai’i Action Network  \n\nKA'U (Island of Hawaii):  4 pm
+  meet at the corner of South Point Road and Highway 11 with our impeachment signs.
+  \ Sponsored by Ka'u Voices."
 ---
 
 Indivisible is joining with Refuse Fascism Honolulu and other groups from across the Country to tell our MOC's that NO ONE IS ABOVE THE LAW.
