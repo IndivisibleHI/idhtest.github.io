@@ -18,6 +18,7 @@ call-script-text: |-
   (202) 225-4906
   Hawaii Office
   (808) 541-1986
+event-start-date: 2019-12-15 12:00:00 -10:00
 event-end-date: 2019-12-18 12:00:00 -10:00
 ---
 
