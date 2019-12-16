@@ -21,7 +21,7 @@ Join us to write letters to register likely Democrats in Arizona, Colorado, Main
 
 We will provide names & addresses, letters, voter registration forms, stamps, and the training. You bring the enthusiasm and powerful words to talk with new voters.
 
-Mark your calendar every third Thursdays 5PM to 7PM.  RSVP below or email natel+owner@indivisiblehawaii.org so we can inform you of location where we will meet on the Leeward Oahu side.  
+Mark your calendar every third Thursdays 5PM to 7PM January to September.  RSVP below or email natel+owner@indivisiblehawaii.org so we can inform you of location where we will meet on the Leeward Oahu side.  
 
 When we Vote, We Win. 
 When we write, We Vote.
