@@ -1,6 +1,11 @@
 ---
 title: BlueWave Voter Registration - Windward Oahu
 date: 2019-12-15 19:00:00 -10:00
+categories:
+- event
+tags:
+- voters
+- natel
 is featured: true
 main-image: "/uploads/BlueWaveHawaii%20(1).jpg"
 event-start-date: 2020-01-15 17:00:00 -10:00
