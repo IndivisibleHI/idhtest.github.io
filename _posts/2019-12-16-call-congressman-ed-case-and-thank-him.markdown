@@ -1,5 +1,5 @@
 ---
-title: call Congressman Ed Case and thank him
+title: call Congressman Ed Case to thank him
 date: 2019-12-16 15:04:00 -10:00
 categories:
 - action
