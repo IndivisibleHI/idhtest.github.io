@@ -15,7 +15,7 @@ Our goal is Massive Voter turnout for Progressive Democratic Candidates.
 
 We engage our volunteers to support Voter Registration drives in Hawaii and other key states. We encourage all Citizens to participate in our Elections and vote for Progressive candidates. We are strategic in seeking out Citizens who likely will vote Progressive and who may not usually register or vote.
 
-**January to September**: Join us to write letters to register likely Democrats in Arizona, Colorado, Maine and North Carolina. 
+**January to September**: Join us to write letters to register new Democrats in Arizona, Colorado, Maine and North Carolina. 
 
 Windward Oahu: every third Wednesday 5PM to 7PM; 
                Down to Earth, inside cafe, 573 Kailua Rd, Kailua
