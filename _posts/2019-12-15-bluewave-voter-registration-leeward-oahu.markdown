@@ -20,7 +20,7 @@ Join us to write letters to register likely Democrats in Arizona, Colorado, Main
 
 We will provide names & addresses, letters, voter registration forms, stamps, and the training. You bring the enthusiasm and powerful words to talk with new voters.
 
-Mark your calendar every third Thursdays 5PM to 7PM January to September.  Please RSVP so we can inform you of location where we will meet on the Leeward Oahu side.  
+Also mark your calendar every third Wednesday 5PM to 7PM February to September.  Please RSVP so we can inform you of location where we will meet on the Leeward Oahu side.  
 
 When we Vote, We Win. 
 When we write, We Vote.
