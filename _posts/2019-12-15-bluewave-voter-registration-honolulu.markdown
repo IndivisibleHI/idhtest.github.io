@@ -20,7 +20,7 @@ Join us to write letters to register new Democrats in Arizona, Colorado, Maine a
 
 We will provide names & addresses, letters, voter registration forms, stamps, and the training.  You bring the enthusiasm and powerful words to talk with new voters.
 
-Mark your calendar every third Saturdays January to September 3PM to 5PM at Democratic Party Hawaii HQ in Honolulu.  
+Mark your calendar every third Saturday January to September 3PM to 5PM at Democratic Party Hawaii HQ in Honolulu.  
 
 When we Vote, We Win. 
 When we write, We Vote.
