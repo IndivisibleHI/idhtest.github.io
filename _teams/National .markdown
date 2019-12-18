@@ -11,7 +11,7 @@ team-description: We're going to Beat Trump, flip the U.S. Senate blue, and keep
 
 **Philosophy**: We’re going to do the work to protect democracy.  We will support the Democratic Party’s nominees, whoever they are.  We will show up to write, text, make calls, travel to swing states to knock on doors, and do whatever it takes.  
 
-**January to September**: Join us to write letters to register likely Democrats in Arizona, Colorado, Maine and North Carolina. 
+**January to September**: Join us to write letters to register new Democrats in Arizona, Colorado, Maine and North Carolina. 
 
 Windward Oahu: every third Wednesday 5PM to 7PM; 
                Down to Earth, inside cafe, 573 Kailua Rd, Kailua
