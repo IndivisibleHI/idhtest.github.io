@@ -16,7 +16,7 @@ RSVP-link: https://www.eventbrite.com/e/bluewave-voter-registration-honolulu-tic
 
 We need 22 additional electoral votes and 5 additional U.S. Senate seats to **Beat Trump** and to **Flip U.S. Congress Blue** during the 2020 election.
 
-Join us to write letters to register likely Democrats in Arizona, Colorado, Maine and North Carolina.  
+Join us to write letters to register new Democrats in Arizona, Colorado, Maine and North Carolina.  
 
 We will provide names & addresses, letters, voter registration forms, stamps, and the training.  You bring the enthusiasm and powerful words to talk with new voters.
 
