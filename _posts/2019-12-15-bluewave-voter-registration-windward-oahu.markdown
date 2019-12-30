@@ -19,7 +19,7 @@ We need 22 additional electoral votes and 5 additional U.S. Senate seats to **Be
 
 Join us to write letters to register new Democrats in Arizona, Colorado, Maine and North Carolina.  
 
-We will provide names & addresses, letters, voter registration forms, stamps, and the training.  You bring the enthusiasm and powerful words to talk with new voters.
+We will provide names & addresses, letters, voter registration forms, stamps, and the training.  You bring the enthusiasm and powerful words to talk with new voters.  We welcome donation of 55 cents stamps and/or cash.
 
 Mark your calendar every third Wednesday January to September 5PM to 7PM at inside cafe of Down to Earth in Kailua.
 
