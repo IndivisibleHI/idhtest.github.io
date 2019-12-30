@@ -23,7 +23,7 @@ Windward Oahu: every third Wednesday 5PM to 7PM;
 Leeward Oahu: every third Wednesday (third Thursday in January) 5PM to 7PM;
               e-mail natel+owner@indivisiblehawaii.org for the location
 
-Honolulu: every third Saturday 3PM to 5PM; 
+Honolulu: every third Saturday 3:30PM to 5:30PM (3PM to 5PM in January); 
           Democratic Party Hawaii HQ, 627 South St. Suite 105, Honolulu
 
 **August to October**: We will meet to write, text, make calls to Get Out The Vote - details to be determined. We will travel to swing states to knock on doors.  Please e-mail voters+owner@indivisiblehawaii.org if you are interested in traveling to swing states.
