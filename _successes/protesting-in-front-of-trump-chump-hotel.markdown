@@ -2,7 +2,7 @@
 title: Protesting in front of Trump Chump Hotel
 date: 2019-11-04 17:44:00 -10:00
 is featured: true
-main-image: "/uploads/IMG_2478_new.jpg"
+main-image: "/uploads/IMG_2857.jpg"
 ---
 
 These protests started shortly after Trump was elected. The response has been overwhelmingly favorable.
@@ -15,10 +15,10 @@ For those on our side we are told we are doing God’s work, we are constantly t
 
 **Please join us!**
 
-* **When: Every Wednesday and Friday evening, 5:30 - 7:00 pm**
+* **When: Every Wednesday and Friday evening, 5:00 - 7:00 pm**
 
 * **Where: Trump International Hotel Waikiki, 223 Saratoga Rd, Honolulu, HI 96815**
 
 * **Questions: email us at info@IndivisibleHawaii.org**
 
-The time may change as sunset becomes earlier. We bring extra signs but feel free to bring your own!
+Please check our website for any changes in time due to sun setting earlier.  We bring extra signs but feel free to bring your own!
