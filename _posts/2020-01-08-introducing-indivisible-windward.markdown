@@ -20,6 +20,8 @@ As a satellite of Indivisible Hawaii’s statewide network, we can implement our
 
 As part of the Indivisible National effort, we will have access to groups on the ground in key states like Colorado, Arizona, Maine, N Carolina, Kentucky to support their effort to flip their U.S. Senate seats and use the tools they use.
 
+On Dec. 14, we had our initial meeting at the community room at the Kailua District Park. The meeting focused on the local Oahu Democrats and Indivisible National 2020 strategy to support defeating Trump. The intent was for all the attendees to leave with a next step in becoming (or sustaining) an activist.Thanks to Dennessa Atilies, West Coast Organizer – Indivisible Team and Lorna Strand, Chair of the Oahu County Democrats, for their presentations.
+
 **Contact us at**
 
 * **Email:  IndWind808@gmail.com
