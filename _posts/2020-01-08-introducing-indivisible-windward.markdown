@@ -17,10 +17,13 @@ back the White House in 2020!!!
 \
 As a satellite of Indivisible Hawaii’s statewide network, we can implement our share of the team effort - without driving over the Pali!
 
-As part of the Indivisible National effort, we will have access to groups on the ground in key
-states like Colorado, Arizona, Maine, N Carolina, Kentucky to support their effort to flip their U.S.
-Senate seats and use the tools they use.
+As part of the Indivisible National effort, we will have access to groups on the ground in key states like Colorado, Arizona, Maine, N Carolina, Kentucky to support their effort to flip their U.S. Senate seats and use the tools they use.
 
-**Contact us at: IndWind808@gmail.com
-Twitter and Instagram:   @IndWind808
-Indivisible Hawaii website: Indivisiblehawaii.org**
+**Contact us at**
+
+* **Email:  IndWind808@gmail.com
+  **
+
+* **Twitter and Instagram:   @IndWind808**
+
+* **Indivisible Hawaii website: Indivisiblehawaii.org**
