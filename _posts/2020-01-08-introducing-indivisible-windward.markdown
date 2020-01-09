@@ -3,6 +3,7 @@ title: Introducing Indivisible Windward
 date: 2020-01-08 20:56:00 -10:00
 categories:
 - update
+main-image: "/uploads/Initial%20Indivisible%20Windward%20mtg%20-%20Dec%2014.jpg"
 event-start-date: 2020-01-08 00:00:00 -10:00
 event-end-date: 2020-01-31 00:00:00 -10:00
 ---
