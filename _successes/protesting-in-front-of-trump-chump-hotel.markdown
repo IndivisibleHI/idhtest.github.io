@@ -1,6 +1,6 @@
 ---
 title: Protesting in front of Trump Chump Hotel
-date: 2019-11-04 17:44:00 -10:00
+date: 2020-01-06 17:44:00 -10:00
 is featured: true
 main-image: "/uploads/IMG_2857.jpg"
 ---
