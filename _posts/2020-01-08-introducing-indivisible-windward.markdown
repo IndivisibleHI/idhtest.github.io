@@ -15,7 +15,6 @@ but not a cohesive, united effort to fight Trump from the Windward side. We hope
 the clusters of windward Resisters to flip U.S. Senate seats in key states and take the majority, and to win
 back the White House in 2020!!!
 
-\
 As a satellite of Indivisible Hawaii’s statewide network, we can implement our share of the team effort - without driving over the Pali!
 
 As part of the Indivisible National effort, we will have access to groups on the ground in key states like Colorado, Arizona, Maine, N Carolina, Kentucky to support their effort to flip their U.S. Senate seats and use the tools they use.
@@ -24,8 +23,7 @@ On Dec. 14, we had our initial meeting at the community room at the Kailua Distr
 
 **Contact us at**
 
-* **Email:  IndWind808@gmail.com
-  **
+* **Email:  IndWind808@gmail.com**
 
 * **Twitter and Instagram:   @IndWind808**
 
