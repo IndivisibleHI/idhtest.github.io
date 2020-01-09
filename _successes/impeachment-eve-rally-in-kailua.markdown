@@ -1,6 +1,7 @@
 ---
 title: Impeachment Eve Rally in Kailua
 date: 2020-01-08 21:06:00 -10:00
+is featured: true
 main-image: "/uploads/Impeachment%20Eve%20Rally.jpg"
 ---
 
