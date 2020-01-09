@@ -5,7 +5,7 @@ categories:
 - update
 ---
 
-At our recent visit to Senator Schatz's office, his staff shared with us some of the Senator's 2019 successes for Hawaii.
+*At our recent visit to Senator Schatz's office, his staff shared with us some of the Senator's 2019 successes for Hawaii.*
 
 **Raising the Smoking and Vaping Age to 21**
 This legislation prohibits the sale of tobacco products, including e-cigarettes, to anyone under the age of 21.  Research from the National Academy of Medicine shows that raising the minimum legal age of sale of tobacco products to 21 nationwide would reduce the number of new tobacco users, decrease smoking frequency by 12 percent, and save more than 220,000 lives from deaths related to smoking.
