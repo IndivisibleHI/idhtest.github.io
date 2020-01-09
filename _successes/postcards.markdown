@@ -1,7 +1,7 @@
 ---
 title: Flipping Virginia Blue
 date: 2019-08-20 09:55:00 -10:00
-is featured: true
+is featured: false
 main-image: "/uploads/20191013_225407%20(2).jpg"
 ---
 
