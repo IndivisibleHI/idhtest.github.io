@@ -1,5 +1,5 @@
 ---
-title: IMPORTANT NEWS FOR DEMOCRATIC VOTERS IN HAWAII
+title: Important News for Democratic Voters in Hawaii
 date: 2020-01-08 12:04:00 -10:00
 categories:
 - action
