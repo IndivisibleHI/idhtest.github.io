@@ -1,6 +1,8 @@
 ---
 title: Need Help Finding a Location for Indivisible Windward Meetings
 date: 2020-01-08 20:07:00 -10:00
+categories:
+- action
 is featured: true
 event-start-date: 2020-01-08 00:00:00 -10:00
 event-end-date: 2020-01-31 00:00:00 -10:00
