@@ -5,7 +5,7 @@ categories:
 - update
 ---
 
-This note summarizes our Blue Wave actvities for this year.
+This note summarizes our Blue Wave activities for this year.
 
 1. For the next few months we will focus on mailing voter registration forms to residents of Swing States. The Blue Wave Team will use Vote Forward (votefwd.org) to obtain names and addresses for mailings to potential voters. As of now, this website is updating their voter registration database for 2020. Our initial focus will be on Colorado and North Carolina, but we will be adding other states in the future. Our first meeting is tonite, Jan 15 from 5-7pm at Kailua's new Down to Earth indoor cafe.
 
