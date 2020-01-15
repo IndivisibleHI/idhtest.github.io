@@ -4,6 +4,8 @@ date: 2020-01-15 11:23:00 -10:00
 categories:
 - update
 is featured: true
+event-start-date: 2020-01-15 17:00:00 -10:00
+event-end-date: 2020-02-29 00:00:00 -10:00
 ---
 
 This note summarizes our Blue Wave activities for this year.
@@ -17,4 +19,4 @@ This note summarizes our Blue Wave activities for this year.
 
 If you'd like to receive emails from us notifying you of event dates and times, please email us at **IndWind808@gmail.com**.
 
-You can also access our web site to see future events at our website [](https://IndivisibleHawaii.org)
+You can also access our web site to see future events [https://IndivisibleHawaii.org/](https://IndivisibleHawaii.org/)
