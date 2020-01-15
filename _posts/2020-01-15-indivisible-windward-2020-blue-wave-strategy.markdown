@@ -16,4 +16,4 @@ This note summarizes our Blue Wave actvities for this year.
 
 If you'd like to receive emails from us notifying you of event dates and times, please email us at IndWind808@gmail.com.
 
-You can also access the Indivisible Hawaii website  to see future events.
+You can also access our web site to see future events \[https://IndivisibleHawaii.org/\] (https://Indivisible Hawaii.org/).
