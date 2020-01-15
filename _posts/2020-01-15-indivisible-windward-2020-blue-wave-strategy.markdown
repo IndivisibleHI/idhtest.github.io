@@ -3,6 +3,7 @@ title: Indivisible Windward 2020 Blue Wave Strategy
 date: 2020-01-15 11:23:00 -10:00
 categories:
 - update
+is featured: true
 ---
 
 This note summarizes our Blue Wave activities for this year.
@@ -14,6 +15,6 @@ This note summarizes our Blue Wave activities for this year.
 
 3. Lastly, as we approach election day, we can text message to voters in support of U.S. Senate nominees. After the last mailing opportunity, we can textbank in cooperation with their campaigns in Swing States. Usually the software masks your real phone number and uses a cloud temporary number for you.
 
-If you'd like to receive emails from us notifying you of event dates and times, please email us at IndWind808@gmail.com.
+If you'd like to receive emails from us notifying you of event dates and times, please email us at **IndWind808@gmail.com**.
 
-You can also access our web site to see future events \[https://IndivisibleHawaii.org/\] (https://Indivisible Hawaii.org/).
+You can also access our web site to see future events at our website [](https://IndivisibleHawaii.org)
