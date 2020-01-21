@@ -1,5 +1,5 @@
 ---
-title: Great Start on BlueWave 2020
+title: Windward BlueWave 2020 Session
 date: 2020-01-16 14:00:00 -10:00
 is featured: true
 main-image: "/uploads/82593502_10216295792243684_7257482908959506432_o.jpg"
