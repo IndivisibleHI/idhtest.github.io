@@ -4,8 +4,8 @@ date: 2019-10-23 12:17:00 -10:00
 categories:
 - event
 is featured: true
-event-start-date: 2020-01-14 11:45:00 -10:00
-event-end-date: 2020-01-14 13:00:00 -10:00
+event-start-date: 2020-02-11 11:45:00 -10:00
+event-end-date: 2020-02-11 13:00:00 -10:00
 Location: 1132 Bishop St., Suite 1910
 ---
 
