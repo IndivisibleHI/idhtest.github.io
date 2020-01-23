@@ -1,7 +1,7 @@
 ---
 title: Meeting with Indivisible National Regional Coordinators
 date: 2019-12-15 11:59:00 -10:00
-is featured: true
+is featured: false
 main-image: "/uploads/Indivisible%20Hawaii%20meeting%20121419.jpg"
 ---
 
