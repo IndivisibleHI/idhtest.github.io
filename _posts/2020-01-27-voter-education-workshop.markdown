@@ -8,11 +8,11 @@ event-start-date: 2020-01-28 17:30:00 -10:00
 event-end-date: 2020-01-28 19:30:00 -10:00
 ---
 
-**Sorry for the late notice. **
+Sorry for the late notice.
 
 **Who**: Oahu Democratic Party & The League of Women Voters
 
-**What**: Voter Education Workshop 
+**What**: Voter Education Workshop
 
 **When**: Tuesday, January 28, 2020 5:30 to 7:30 p.m.
 
