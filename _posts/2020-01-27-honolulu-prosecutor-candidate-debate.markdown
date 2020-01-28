@@ -10,3 +10,4 @@ event-end-date: 2020-01-28 20:30:00 -10:00
 Location: UH Manoa - Orvis Auditorium, 2411 Dole Street, Honolulu
 ---
 
+Hosted by The Hawaii Innocence Project.  Tired of the corruption?   Come meet the candidates for this important local election.
