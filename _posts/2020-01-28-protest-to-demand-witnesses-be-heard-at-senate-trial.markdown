@@ -4,7 +4,7 @@ date: 2020-01-28 15:38:00 -10:00
 categories:
 - event
 tags:
-- partners
+- other
 is featured: true
 event-start-date: 2020-01-29 16:00:00 -10:00
 event-end-date: 2020-01-29 18:00:00 -10:00
