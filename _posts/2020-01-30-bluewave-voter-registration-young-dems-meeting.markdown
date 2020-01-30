@@ -11,7 +11,7 @@ main-image: "/uploads/BlueWaveHawaii%20(1).jpg"
 event-start-date: 2020-02-26 18:00:00 -10:00
 event-end-date: 2020-02-26 20:00:00 -10:00
 Location: Democratic Party of Hawai'i HQ, 627 South Street, Suite 105, Honolulu
-RSVP-link: https://www.eventbrite.com/e/bluewave-voter-registration-young-dems-meeting-tickets-88419297499?
+RSVP-link: https://www.eventbrite.com/e/bluewave-voter-registration-young-dems-meeting-tickets-92285559593
 ---
 
 We need 22 additional electoral votes and 5 additional U.S. Senate seats to **Beat Trump** and to **Flip U.S. Congress Blue** during the 2020 election.
