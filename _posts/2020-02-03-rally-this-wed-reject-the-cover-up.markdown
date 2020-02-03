@@ -1,5 +1,5 @@
 ---
-title: Rally this Wed - Reject the Cover Up!
+title: Rally to Reject the Cover Up!
 date: 2020-02-03 11:21:00 -10:00
 categories:
 - event
