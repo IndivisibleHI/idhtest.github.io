@@ -6,9 +6,7 @@ categories:
 is featured: true
 event-start-date: 2020-02-05 00:00:00 -10:00
 event-end-date: 2020-02-05 18:00:00 -10:00
-Location: |-
-  Federal Building
-  Ewa side along Ala Moana Building
+Location: Federal Building, ewa side along Ala Moana Blvd
 ---
 
 We, The People, are Rallying to:
