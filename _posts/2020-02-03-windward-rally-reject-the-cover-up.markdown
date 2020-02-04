@@ -27,6 +27,4 @@ Bring signs for you and others. Suggestions?
 
 * No Witnesses = Meaningless Acquittal
 
-* Not an exoneration, a Cover-Up
-
-* Help us Flip the Senate
+* Help us Flip Red U.S. Senate Seats
