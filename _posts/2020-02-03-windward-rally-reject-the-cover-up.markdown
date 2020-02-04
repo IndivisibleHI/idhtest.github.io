@@ -19,14 +19,14 @@ We, The People, are Rallying to:
 
 Mostly, we, The People, are demonstrating our complete and absolute outrage at the sham trial orchestrated by Mitch McConnell and the GOP, who sold us out, sold out democracy and the USA, and delivered a cover-up for Trump!
 
-**Bring signs for you and others. Suggestions?**
+Bring signs for you and others. Suggestions?
 
-* **Trump is NOT above the Law!**
+* Trump is NOT above the Law!
 
-* **Reject the Cover-Up**
+* Reject the Cover-Up
 
-* **No Witnesses = Meaningless Acquittal**
+* No Witnesses = Meaningless Acquittal
 
-* **Not an exoneration, a Cover-Up**
+* Not an exoneration, a Cover-Up
 
-* **Help us Flip the Senate**
+* Help us Flip the Senate
