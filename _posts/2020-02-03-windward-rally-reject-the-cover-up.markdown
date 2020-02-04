@@ -1,5 +1,5 @@
 ---
-title: Windward Rally - Reject the Cover Up
+title: Windward Rally - Reject the Cover Up!
 date: 2020-02-03 14:44:00 -10:00
 categories:
 - event
@@ -30,5 +30,3 @@ Mostly, we, The People, are demonstrating our complete and absolute outrage at t
 * **Not an exoneration, a Cover-Up**
 
 * **Help us Flip the Senate**
-
-**Co-Sponsors:** Common Cause Hawaii, Indivisible Hawaii, Refuse Fascism Honolulu, Young Progressives Demanding Action (YPDA), and Hawaii J-20
