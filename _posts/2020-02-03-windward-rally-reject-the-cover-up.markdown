@@ -1,5 +1,5 @@
 ---
-title: Windward Rally - Reject the Cover Up!
+title: Windward - Rally to Reject the Coverup!
 date: 2020-02-03 14:44:00 -10:00
 categories:
 - event
