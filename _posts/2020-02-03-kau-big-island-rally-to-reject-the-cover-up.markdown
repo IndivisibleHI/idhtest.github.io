@@ -5,6 +5,7 @@ categories:
 - event
 is featured: true
 event-start-date: 2020-02-05 16:00:00 -10:00
+Location: Corner of South Point Rd and Hwy 11
 ---
 
 We, The People, are Rallying to:
