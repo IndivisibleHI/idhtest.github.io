@@ -17,6 +17,6 @@ We, The People, are Rallying to:
 
 * Demand a Free and Fair 2020 Elections
 
-Mostly, we, The People, are demonstrating our complete and absolute outrage at the sham trial orchestrated by Mitch McConnell and the GOP, who sold us out, sold out democracy and the USA, and delivered a cover-up for Trump!
+Mostly, we, The People, are demonstrating our complete and absolute outrage at the sham trial orchestrated by Mitch McConnell and the GOP,  who sold us out, sold out democracy and the USA, and delivered a cover-up for Trump!
 
-Bring signs for you and others. 
+Bring signs for you and others.
