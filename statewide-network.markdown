@@ -22,7 +22,7 @@ nav: true
 ### **Kauai Indivisible**
 
 **[www.kauaiindivisible.com](http://kauaiindivisible.com)**<br />
-**[kauaiindivisible@gmail.com](mailto:kauaiindivisible@gmail.com)**
+jteschner**[@gmail.com](mailto:kauaiindivisible@gmail.com)**
 
 ## **OAHU**
 
