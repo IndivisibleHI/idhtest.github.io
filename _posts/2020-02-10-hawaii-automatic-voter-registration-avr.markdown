@@ -3,6 +3,7 @@ title: Hawaii Automatic Voter Registration (AVR)
 date: 2020-02-10 18:23:00 -10:00
 categories:
 - event
+is featured: true
 event-start-date: 2020-02-12 16:00:00 -10:00
 event-end-date: 2020-02-12 18:00:00 -10:00
 Location: Planned Parenthood, 839 South Beretania Street, Honolulu, HI 96813
