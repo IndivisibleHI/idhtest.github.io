@@ -4,8 +4,8 @@ date: 2019-10-14 15:09:00 -10:00
 categories:
 - event
 is featured: true
-event-start-date: 2020-02-05 17:00:00 -10:00
-event-end-date: 2020-02-05 19:00:00 -10:00
+event-start-date: 2020-02-12 17:00:00 -10:00
+event-end-date: 2020-02-12 19:00:00 -10:00
 Location: Trump International Hotel Waikiki, 223 Saratoga Road, Honolulu, HI 96815
 ---
 
