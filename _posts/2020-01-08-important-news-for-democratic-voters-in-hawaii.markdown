@@ -34,4 +34,4 @@ The most important takeaways:
 
 * When we register new voters, we can also inform and assist them in enrolling in the Democratic Party.
 
-**ENROLL WITH THE HAWAII DEMOCRATS NOW at [https://hawaiidemocrats.org/](https://hawaiidemocrats.org.org/) AND SPREAD THE WORD!**
+**ENROLL WITH THE HAWAII DEMOCRATS NOW at [https://hawaiidemocrats.org/join](https://hawaiidemocrats.org/join) AND SPREAD THE WORD!**
