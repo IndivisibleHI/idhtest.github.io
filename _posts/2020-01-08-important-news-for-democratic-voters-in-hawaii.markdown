@@ -14,7 +14,7 @@ Instead, you must officially join the Democratic party. You will then be mailed 
 
 Good news – no more long lines and torn pieces of paper for ballots. Bad news – you likely aren’t enrolled with the Democratic party.
 
-**ENROLL WITH THE HAWAII DEMOCRATS NOW at [https://hawaiidemocrats.org/](https://hawaiidemocrats.org.org/)**
+**ENROLL WITH THE HAWAII DEMOCRATS NOW at [https://hawaiidemocrats.org/join](https://hawaiidemocrats.org/join)**
 
 More details:
 
