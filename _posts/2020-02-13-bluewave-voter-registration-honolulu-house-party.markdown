@@ -8,7 +8,7 @@ tags:
 - voters
 is featured: true
 main-image: "/uploads/BlueWaveHawaii%20(1).jpg"
-event-start-date: 2020-02-23 17:30:00 -10:00
+event-start-date: 2020-02-23 18:00:00 -10:00
 event-end-date: 2020-02-23 20:00:00 -10:00
 Location: 'Please RSVP by emailing natel+owner@indivisiblehawaii.org so we can send
   you the address of where we will meet for this letter writing house party on Queens
