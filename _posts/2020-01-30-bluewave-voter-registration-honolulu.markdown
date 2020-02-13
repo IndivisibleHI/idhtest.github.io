@@ -1,5 +1,5 @@
 ---
-title: BlueWave Voter Registration - Honolulu
+title: BlueWave Voter Registration - Honolulu Democratic Party office
 date: 2020-01-30 11:19:00 -10:00
 categories:
 - event
