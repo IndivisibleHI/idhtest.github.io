@@ -15,10 +15,9 @@ For those on our side we are told we are doing God’s work, we are constantly t
 
 **Please join us!**
 
-* **When: Every Wednesday and Friday evening, 5:00 - 7:00 pm**
+* **When: Every Monday and Wednesday evening, 5:00 - 7:00 pm**
 
 * **Where: Trump International Hotel Waikiki, 223 Saratoga Rd, Honolulu, HI 96815**
 
 * **Questions: email us at info@IndivisibleHawaii.org**
 
-Please check our website for any changes in time due to sun setting earlier.  We bring extra signs but feel free to bring your own!
