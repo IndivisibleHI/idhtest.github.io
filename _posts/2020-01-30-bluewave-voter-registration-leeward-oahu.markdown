@@ -1,5 +1,5 @@
 ---
-title: BlueWave Voter Registration - Leeward Oahu
+title: BlueWave Voter Registration - Leeward House Party
 date: 2020-01-30 11:04:00 -10:00
 categories:
 - event
