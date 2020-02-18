@@ -7,7 +7,7 @@ tags:
 - natel
 - voters
 is featured: true
-main-image: "/uploads/BlueWave%20Schatz%202.19.20.jpg"
+main-image: "/uploads/BlueWave%20Schatz%202.19.20-156cae.jpg"
 event-start-date: 2020-02-19 17:00:00 -10:00
 event-end-date: 2020-02-19 19:00:00 -10:00
 Location: The Tommy Holmes Community Gathering Space, Planned Parenthood, 839 South
