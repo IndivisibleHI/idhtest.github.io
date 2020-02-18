@@ -18,4 +18,4 @@ Join Indivisible Hawaii BlueWave team in **a conversation in person with Senator
 
 We need 22 additional electoral votes and 5 additional U.S. Senate seats to Beat Trump and to Flip U.S. Congress Blue during the 2020 election. We will provide names & addresses, letters, stamps, and the training. You bring the enthusiasm and powerful words to talk with new voters. We welcome donation of 55 cents stamps and/or cash. 
 
-**Free parking** on upper parking lot (you will see parking gate on your left from South Beretania St)
+**Free parking** on upper parking lot (you will see parking gate on your left from South Beretania St)and take elevator down from the upper parking lot to first floor
