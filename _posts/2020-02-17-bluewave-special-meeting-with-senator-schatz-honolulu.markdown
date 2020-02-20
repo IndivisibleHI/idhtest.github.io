@@ -10,8 +10,8 @@ is featured: true
 main-image: "/uploads/BlueWave%20Schatz%202.19.20.jpg"
 event-start-date: 2020-02-19 17:00:00 -10:00
 event-end-date: 2020-02-19 19:00:00 -10:00
-Location: The Tommy Holmes Community Gathering Space, 839 South Beretania Street,
-  Honolulu
+Location: 2/19 - Location changed to Democratic Party Headquarters, 627 South St,
+  Suite 105, Honolulu
 ---
 
 Join Indivisible Hawaii BlueWave team in **a conversation in person with Senator Brian Schatz** about 2020 national election.  Stay to write GOTV letters to registered Democrats in Colorado and North Carolina.  Bring others who would be interested. 
