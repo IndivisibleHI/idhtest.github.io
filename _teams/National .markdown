@@ -16,13 +16,13 @@ team-description: We're going to Beat Trump, flip the U.S. Senate blue, and keep
 Windward Oahu: every third Wednesday 5PM to 7PM; 
                Down to Earth, inside cafe, 573 Kailua Rd, Kailua
 
-Leeward Oahu: every third Wednesday (third Thursday in January) 5PM to 7PM;
-              e-mail natel+owner@indivisiblehawaii.org for the location
+Leeward Oahu House Party: every third Wednesday (third Thursday in January) 5PM to 7PM;
+                          e-mail natel+owner@indivisiblehawaii.org for the location
 
 Honolulu: every third Saturday 3:30PM to 5:30PM (3PM to 5PM n January);
           Democratic Party Hawaii HQ, 627 South St. Suite 105, Honolulu
 
-          every last Sunday 6PM to 8PM;
+Honolulu House Party: every last Sunday 6PM to 8PM;
           e-mail natel+owner@indivisiblehawaii.org for the location
 
 **August to October**: We will meet to write, text, make calls to Get Out The Vote - details to be determined. We will travel to swing states to knock on doors.  Please e-mail natel+owner@indivisiblehawaii.org if you are interested in traveling to swing states.
