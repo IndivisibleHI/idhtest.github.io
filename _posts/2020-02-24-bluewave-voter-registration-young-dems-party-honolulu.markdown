@@ -1,5 +1,5 @@
 ---
-title: BlueWave Voter Registration Young Dems Party - Honolulu
+title: BlueWave Voter Registration Young Dems - Honolulu
 date: 2020-02-24 09:46:00 -10:00
 categories:
 - event
