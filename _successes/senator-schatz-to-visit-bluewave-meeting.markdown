@@ -1,5 +1,5 @@
 ---
-title: Senator Schatz to Visit BlueWave Meeting
+title: Senator Schatz Volunteers for BlueWave
 date: 2020-02-24 08:51:00 -10:00
 is featured: true
 main-image: "/uploads/IMG_8158.jpg"
