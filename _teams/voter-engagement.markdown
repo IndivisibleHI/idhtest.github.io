@@ -29,4 +29,5 @@ Honolulu: every third Saturday 3:30PM to 5:30PM (3PM to 5PM in January);
           every last Sunday 6PM to 8PM; 
           e-mail natel+owner@indivisiblehawaii.org for the location
 
+
 **August to October**: We will meet to write, text, make calls to Get Out The Vote - details to be determined. We will travel to swing states to knock on doors.  Please e-mail voters+owner@indivisiblehawaii.org if you are interested in traveling to swing states.
