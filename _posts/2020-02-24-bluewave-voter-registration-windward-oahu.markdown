@@ -13,9 +13,9 @@ event-end-date: 2020-03-18 19:00:00 -10:00
 Location: Down To Earth – inside café, 573 Kailua Rd, Kailua
 ---
 
-We need 22 additional electoral votes and 5 additional U.S. Senate seats to Beat Trump and to Flip U.S. Congress Blue during the 2020 election.
+We need 22 additional electoral votes and 5 additional U.S. Senate seats to **Beat Trump** and to **Flip U.S. Congress Blue** during the 2020 election.
 
-Join us to write follow up postcards to register new Democrats in Colorado, and North Carolina.
+Mahalo to all of you who wrote letters 1300 letters to register new Democrats in Colorado and North Carolina!  They are stamped and on their way.  Now join us to write follow up postcards to register new Democrats in Colorado, and North Carolina.
 
 We will provide names & addresses, letters, postcards, stamps, and the training. You bring the enthusiasm and powerful words to talk with new voters. We welcome donation of stamps (either 55 cents or 35 cents) and/or cash.
 
