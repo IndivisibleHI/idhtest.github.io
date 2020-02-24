@@ -10,7 +10,7 @@ is featured: true
 main-image: "/uploads/BlueWaveHawaii%20(1).jpg"
 event-start-date: 2020-03-21 15:30:00 -10:00
 event-end-date: 2020-03-21 17:30:00 -10:00
-Location: Democratic Party of Hawaii HQ, 627 South Street, Suite 105, Honolulu
+Location: Democratic Party of Hawaii HQ, 627 South Street Suite 105, Honolulu
 ---
 
 We need 22 additional electoral votes and 5 additional U.S. Senate seats to **Beat Trump** and to **Flip U.S. Congress Blue** during the 2020 election.
