@@ -10,8 +10,8 @@ is featured: true
 main-image: "/uploads/BlueWaveHawaii%20(1).jpg"
 event-start-date: 2020-03-18 17:00:00 -10:00
 event-end-date: 2020-03-18 19:00:00 -10:00
-Location: RSVP to natel+owner@indivisiblehawaii.org to get the address and direction
-  to the location.
+Location: Email  to natel+owner@indivisiblehawaii.org to get the address and direction
+  to the location which is in Kapolei.
 ---
 
 We need 22 additional electoral votes and 5 additional U.S. Senate seats to **Beat Trump** and to **Flip U.S. Congress Blue** during the 2020 election.
