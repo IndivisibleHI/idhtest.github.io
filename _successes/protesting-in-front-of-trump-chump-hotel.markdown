@@ -2,7 +2,7 @@
 title: Protesting in front of Trump Chump Hotel
 date: 2020-01-06 17:44:00 -10:00
 is featured: true
-main-image: "/uploads/trump%20tower%20.jpg"
+main-image: "/uploads/022420%20Trump%20Tower-20b136.jpg"
 ---
 
 These protests started shortly after Trump was elected. The response has been overwhelmingly favorable.
