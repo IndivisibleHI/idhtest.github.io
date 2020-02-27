@@ -6,9 +6,8 @@ categories:
 is featured: true
 event-start-date: 2020-03-03 15:00:00 -10:00
 event-end-date: 2020-03-03 18:00:00 -10:00
-Location: |-
-  Waikiki Brewery, 831 Queen St, Honolulu
-  Limited parking in front of venue. Street parking available in area.
+Location: Waikiki Brewery, 831 Queen St, Honolulu. Limited parking in front of venue.
+  Street parking available in area.
 ---
 
 Join us to watch the results of the Super Tuesday state primaries and caucuses for the Democratic Presidential nomination.  
