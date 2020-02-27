@@ -1,5 +1,5 @@
 ---
-title: 1200+ letters on their way
+title: 1200+ voter registration letters on their way
 date: 2020-02-26 16:58:00 -10:00
 is featured: true
 main-image: "/uploads/IMG_2866.JPG"
