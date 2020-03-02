@@ -7,13 +7,13 @@ tags:
 - other
 is featured: true
 event-start-date: 2020-03-12 18:00:00 -10:00
-event-end-date: 2020-03-12 20:00:00 -10:00
+event-end-date: 2020-03-12 19:00:00 -10:00
 Location: Planned Parenthood Community Room, 839 S. Beretania Street, Honolulu
 ---
 
-This is an invite from Sandy Ma, Executive Director, Common Cause Hawaii
+**This is an invitation from Sandy Ma, Executive Director, Common Cause Hawaii**
 
-Please reserve **Thursday, March 12, 2020, from 6 to 7 pm** for a meeting to discuss where we are on Automatic Voter Registration in the 2020 legislative session. We’ll be providing food and beverages so come prepared to discuss how to move AVR over the finish line and eat!
+Please reserve Thursday, March 12, 2020, from 6 to 7 pm for a meeting to discuss where we are on Automatic Voter Registration in the 2020 legislative session. We’ll be providing food and beverages so come prepared to discuss how to move AVR over the finish line and eat!
 
 We’ll have the great Hawaii Public Policy Advocates Steve Teves and/or Melissa Pavlicek discuss the status of the two AVR bills (SB2005 and HB2119) and next steps.
 
@@ -42,13 +42,12 @@ Meeting ID: 468 501 090
 **Dial by your location**
 
 * \+1 669 900 6833 US (San Jose)
-  
+
 
 * \+1 929 436 2866 US (New York)
-  
 
-  Meeting ID: 468 501 090
+Meeting ID: 468 501 090
 
-  Find your local number: [https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fzoom.us%2Fu%2FacFSctkSnI&data=02%7C01%7Csma%40commoncause.org%7C2ab182c4096146b3874e08d7bbc3e816%7Cdb39e4b4de324cf9b66e9d02d8172178%7C0%7C0%7C637184322392818942&sdata=fPy8BaPziNBm7eMifqu4Mf17tut0fvEPK5GoWxUhRCA%3D&reserved=0](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fzoom.us%2Fu%2FacFSctkSnI&data=02%7C01%7Csma%40commoncause.org%7C2ab182c4096146b3874e08d7bbc3e816%7Cdb39e4b4de324cf9b66e9d02d8172178%7C0%7C0%7C637184322392818942&sdata=fPy8BaPziNBm7eMifqu4Mf17tut0fvEPK5GoWxUhRCA%3D&reserved=0)\\
+Find your local number: [https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fzoom.us%2Fu%2FacFSctkSnI&data=02%7C01%7Csma%40commoncause.org%7C2ab182c4096146b3874e08d7bbc3e816%7Cdb39e4b4de324cf9b66e9d02d8172178%7C0%7C0%7C637184322392818942&sdata=fPy8BaPziNBm7eMifqu4Mf17tut0fvEPK5GoWxUhRCA%3D&reserved=0](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fzoom.us%2Fu%2FacFSctkSnI&data=02%7C01%7Csma%40commoncause.org%7C2ab182c4096146b3874e08d7bbc3e816%7Cdb39e4b4de324cf9b66e9d02d8172178%7C0%7C0%7C637184322392818942&sdata=fPy8BaPziNBm7eMifqu4Mf17tut0fvEPK5GoWxUhRCA%3D&reserved=0)\\
 
 See you Thursday, 3/12/2020, at 6 pm!
