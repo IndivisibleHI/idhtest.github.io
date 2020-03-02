@@ -48,6 +48,7 @@ Meeting ID: 468 501 090
   
 
   Meeting ID: 468 501 090
+
   Find your local number: [https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fzoom.us%2Fu%2FacFSctkSnI&data=02%7C01%7Csma%40commoncause.org%7C2ab182c4096146b3874e08d7bbc3e816%7Cdb39e4b4de324cf9b66e9d02d8172178%7C0%7C0%7C637184322392818942&sdata=fPy8BaPziNBm7eMifqu4Mf17tut0fvEPK5GoWxUhRCA%3D&reserved=0](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fzoom.us%2Fu%2FacFSctkSnI&data=02%7C01%7Csma%40commoncause.org%7C2ab182c4096146b3874e08d7bbc3e816%7Cdb39e4b4de324cf9b66e9d02d8172178%7C0%7C0%7C637184322392818942&sdata=fPy8BaPziNBm7eMifqu4Mf17tut0fvEPK5GoWxUhRCA%3D&reserved=0)\\
 
 See you Thursday, 3/12/2020, at 6 pm!
