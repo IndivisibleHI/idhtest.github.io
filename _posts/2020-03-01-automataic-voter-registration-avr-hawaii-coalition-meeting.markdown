@@ -2,7 +2,9 @@
 title: Automataic Voter Registration (AVR) Hawaii Coalition Meeting
 date: 2020-03-01 13:21:00 -10:00
 categories:
-- 0ther
+- event
+tags:
+- other
 is featured: true
 event-start-date: 2020-03-12 18:00:00 -10:00
 event-end-date: 2020-03-12 20:00:00 -10:00
