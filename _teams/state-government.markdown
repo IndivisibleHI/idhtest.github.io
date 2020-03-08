@@ -25,10 +25,11 @@ Partner with other activist groups on topics of common interest
 
 Be an information resource for others
 
-# **ACTION WEEK of MARCH 9-13**
+###  **ACTION WEEK of MARCH 9-13**
 Testimonies should be submitted 24 hours prior to the date and time of the hearing.
 
 **Senate Judiciary Committee Tuesday, March 10, at 10am in Room 016**
+
 HB 2738HD1 - Relating to Campaign Finance (restricts ability of foreign nationals and corporations to make donations in elections in Hawaii and includes certain disclosure requirements)
 
 HB 2747 HD3 – Proposing a Constitutional Amendment to Authorize the Legislature to Forfeit the Pensions of Government Employees Convicted of Job Related Felonies (government employees cannot abuse their office and then retire on pensions paid for by the public they are supposed to represent and protect) 
