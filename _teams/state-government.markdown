@@ -17,10 +17,22 @@ Legislature:  The Leg considers 3000-4000 bills each year, approximately half of
 
 The Governor and Executive Agencies (by far the largest branch of government):   we need to encourage the Legislature to increase its oversight function of executive agencies to improve transparency and accountability and to reduce graft and corruption..   What are these agencies doing (or not doing) with our power and our money?
 
-Focus topics:  Identify 3 primary areas of focus (criminal justice reform, voting/elections, environment and land use incl land/air/water use incl development, zoning incl AirB&B and helicopters, climate change, affordable housing and homelessness incl rent control, education incl funding, healthcare incl abortion and mental health, ConCon, taxes, $15 minimum wage)
+Focus topics:  voting/elections and ethics/transparency/accountability
 
 Partner with Indivisible on other islands on topics of common interest; help them get their voices heard 
 
 Partner with other activist groups on topics of common interest
 
 Be an information resource for others
+
+# **ACTION WEEK of MARCH 9-13**
+Testimonies should be submitted 24 hours prior to the date and time of the hearing.
+
+**Senate Judiciary Committee Tuesday, March 10, at 10am in Room 016**
+HB 2738HD1 - Relating to Campaign Finance (restricts ability of foreign nationals and corporations to make donations in elections in Hawaii and includes certain disclosure requirements)
+
+HB 2747 HD3 – Proposing a Constitutional Amendment to Authorize the Legislature to Forfeit the Pensions of Government Employees Convicted of Job Related Felonies (government employees cannot abuse their office and then retire on pensions paid for by the public they are supposed to represent and protect) 
+
+**Senate Government Operations Committee on Tuesday, March 10, at 2:45pm in Room 225**
+
+HB2124 HD1– Relating to the Code of Ethics (regulates lobbying by former legislators and executive-branch employees)
