@@ -1,17 +1,17 @@
 ---
-title: 1,300 Voter Registration Letters on their way
+title: 1,300 Voter Registration Letters on their Way!
 date: 2020-02-26 16:58:00 -10:00
 is featured: true
 main-image: "/uploads/IMG_2866.JPG"
 ---
 
-In February over 72 volunteers worked together to produce 1,300 powerful Voter Registration letters to Citizens in the crucial swing states of Colorado and North Carolina. We are testing if "high impact" personal letters sent to hard to reach, unregistered citizens will generate new voters. We think so. With your powerful letters, we can demonstrate the best way to reach these Golden Voters.
+In February, over 72 volunteers worked together to produce and mail 1,300 powerful Voter Registration letters to Citizens in the crucial swing states of Colorado and North Carolina. We are testing if "high impact" personal letters sent to hard to reach, unregistered citizens will generate new voters. We think so. With your powerful letters, we can demonstrate the best way to reach these Golden Voters.
 
 We also starting to bank GOTV (Get Out The Vote) letters to Democratic leaning voters in our target states of CO, NC, AZ and ME. These will be mailed in October, just before the General Elections.  We've already distributed addresses for 1,120 GOTV letters.  Keep writing.
 
 Our Goals in March are to double the number of our volunteer letter writers. Please recruit friends.
 
-* Write follow-up personal postcards to our 1300 Golden Citizens with personal postcards.
+* Write follow-up, personal postcards to our 1300 Golden Citizens.
 
 * Write more letters to unregistered voters
 
