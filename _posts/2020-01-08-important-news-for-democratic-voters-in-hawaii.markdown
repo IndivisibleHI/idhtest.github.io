@@ -8,7 +8,7 @@ event-start-date: 2020-01-08 00:00:00 -10:00
 event-end-date: 2020-04-04 00:00:00 -10:00
 ---
 
-The Hawaii Democratic Party will no longer conduct caucuses to determine our Presidential nominee. 
+The Hawaii Democratic Party will no longer conduct caucuses to determine our Presidential nominee.
 
 **Do you want to vote in our Democratic Presidential Primary this year?**
 
@@ -20,11 +20,11 @@ Good news – no more long lines and torn pieces of paper for ballots. Bad news 
 
 **Update (3/10)**
 
-* **March 8th was the last date to enroll in the Democrat party online. **
+* **March 8th was the last date to enroll in the Democrat party online.**
 
-* **If you are already a registered voter and have enrolled in the Democratic party, **you should have already received or will soon receive your paper ballot. All mailed ballots or dropped off ballots must be received by 3pm April 4th, 2020 at one of the sites listed below.
+* **If you are already a registered voter and have enrolled in the Democratic party,**  you should have already received or will soon receive your paper ballot. All mailed ballots or dropped off ballots must be received by 3pm April 4th, 2020 at one of the sites listed below.
 
-* **If you haven't yet enrolled in the Democratic party,**  Voter Registration, Party Enrollment and Voting in the Party-ru Presidential Primary (PPP) is possible at one of 21 sites on April 4th, from 7 am to 3 pm HST. All members in line at 3pm HST, and no later than 3pm HST, will be permitted to vote.
+* **If you haven't yet enrolled in the Democratic party,**  Voter Registration, Party Enrollment and Voting in the Party-run Presidential Primary (PPP) is possible at one of 21 sites on April 4th, from 7 am to 3 pm HST. All members in line at 3pm HST, and no later than 3pm HST, will be permitted to vote.
 
 * **PPP sites for all islands are listed here:** [https://hawaiidemocrats.org/wp-content/uploads/2020/03/APRIL-4th-LOCATIONS.pdf](https://hawaiidemocrats.org/wp-content/uploads/2020/03/APRIL-4th-LOCATIONS.pdf)
 
