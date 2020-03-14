@@ -13,7 +13,7 @@ event-end-date: 2020-03-18 19:00:00 -10:00
 Location: Whole Foods - Back Patio, 629 Kailua Road Suite 100, Kailua
 ---
 
-Our BlueWave Person to Person letter writing is more important now to **Beat Trump and flip U.S. Congress Blue** in 2020.  We will provide you the tools, training and materials to step up your letter writing from home. Our March group events will change to one at time (with CDC recommended social distance) exchange of new letters and materials, instructions and training to write letters from home. **Note the new location.**
+Our BlueWave Person to Person letter writing is more important now to **Beat Trump and flip U.S. Congress Blue** in 2020.  We will provide you the tools, training and materials to step up your letter writing from home. Our March group events will change to one at time (with CDC recommended social distance) exchange of new letters and materials, instructions and training to write letters from home. We will be writing letters to get registered Democrats in Arizona, Colorado, Maine and NC out to vote.  **Note the new location.**
 
 Mahalo to all of you who together wrote 1300 letters to register new Democrats in Colorado and North Carolina.  They are stamped and mailed.  
 
