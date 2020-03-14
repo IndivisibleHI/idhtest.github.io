@@ -14,7 +14,8 @@ Location: 'Email natel+owner@indivisiblehawaii.org to get the address and direct
   to the location which is in Kakaako.  '
 ---
 
-Our BlueWave Person to Person letter writing is more important now to **Beat Trump and flip U.S. Congress Blue** in 2020.  We will provide you the tools, training and materials to step up your letter writing from home. Our March group events will change to one at time (with CDC recommended social distance) exchange of new letters and materials, instructions and training to write letters from home. There will be space for you to stay and write letters and postcards together with CDC recommended social distance.
+Our BlueWave Person to Person letter writing is more important now to **Beat Trump and flip U.S. Congress Blue** in 2020.  We will provide you the tools, training and materials to step up your letter writing from home.  
+Our March group events will change to one at time (with CDC recommended social distance) exchange of new letters and materials, instructions and training to write letters from home. There will be space for you to stay and write letters and postcards together with CDC recommended social distance.  We will be writing postcards to register new Democrats in Colorado and NC.  We will be writing letters to get registered Democrats in Arizona, Colorado, Maine and NC out to vote.  
 
 We welcome donation of stamps (either 55 cents or 35 cents) and/or cash.
 
