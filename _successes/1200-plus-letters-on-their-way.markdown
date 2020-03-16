@@ -31,6 +31,6 @@ Option 2. Come by to pick up new materials, sample letters and get training at a
 
 * Honolulu (Kakaako)- Sun, March 29, 6 to 8 pm house party. Address? email [natel\+owner@indivisiblehawaii.org](mailto:natel%2Bowner@indivisiblehawaii.org)
 
-Option 3: Email Gil at wevote20@gmail.com with any questions.
+Email Gil at wevote20@gmail.com with any questions or concerns.
 
 Mahalo to all who showed up at letter writing parties and to all of you who took letters to write at home.  You're making a difference and you'll find letter writing to be therapeutic in these crazy times.  
