@@ -1,5 +1,6 @@
 ---
-title: Hawaii State Legislature closes
+title: Hawaii State Legislature 2020 Session postponed indefinitely starting March
+  17
 date: 2020-03-16 16:20:00 -10:00
 categories:
 - event
