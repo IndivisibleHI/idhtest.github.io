@@ -1,5 +1,7 @@
 ---
-title: Presidential Primary Watch Party - March 17
+title: |-
+  Presidential Primary Watch Party - March 17
+  CANCELLED DUE TO COVID-19 CONCERNS
 date: 2020-03-09 14:41:00 -10:00
 categories:
 - event
