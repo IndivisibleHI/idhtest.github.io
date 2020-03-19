@@ -1,5 +1,5 @@
 ---
-title: BlueWave Voter Registration House Party - Leeward Oahu
+title: BlueWave Voter Registration House Party - Leeward Oahu - CANCELLED due to COVID-19
 date: 2020-02-24 09:34:00 -10:00
 categories:
 - event
