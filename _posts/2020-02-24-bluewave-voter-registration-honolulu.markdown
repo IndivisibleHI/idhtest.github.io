@@ -13,9 +13,7 @@ event-end-date: 2020-03-21 17:30:00 -10:00
 Location: Democratic Party of Hawaii HQ, 627 South Street Suite 105, Honolulu
 ---
 
-Our BlueWave Person to Person letter writing is more important now to **Beat Trump and flip U.S. Congress Blue** in 2020.  We will provide you the tools, training and materials to step up your letter writing from home. Our March group events will change to one at time (with CDC recommended social distance) exchange of new letters and materials, instructions and training to write letters from home. There will be space for 7-8 people to stay and write postcards and letters with CDC recommended social distance. We will be writing postcards to register new Democrats in Colorado and NC.  We will be writing letters to get registered Democrats in Arizona, Colorado, Maine and NC out to vote.
-
-We welcome donation of stamps (either 55 cents or 35 cents) and/or cash.  
+Our BlueWave Person to Person letter writing is more important now to **Beat Trump and flip U.S. Congress Blue** in 2020.  We will provide you the tools, training and materials to step up your letter writing from home. Our March group events will change to one at time (with CDC recommended social distance) exchange of new letters and materials, instructions and training to write letters from home. We will be writing postcards to register new Democrats in Colorado and NC.  We will be writing letters to get registered Democrats in Arizona, Colorado, Maine and NC out to vote.
 
 Mahalo to all of you who together wrote 1300 letters to register new Democrats in Colorado and North Carolina.  They are stamped and mailed.  
 
