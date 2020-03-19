@@ -1,5 +1,5 @@
 ---
-title: BlueWave Voter Registration House Party - Honolulu
+title: BlueWave Voter Registration House Party - Honolulu - CANCELLED due to COVID-19
 date: 2020-02-24 09:50:00 -10:00
 categories:
 - event
