@@ -1,5 +1,5 @@
 ---
-title: BlueWave Voter Registration - Honolulu
+title: BlueWave Voter Registration - Honolulu (Handing Out Packets to Write at Home)
 date: 2020-02-24 09:37:00 -10:00
 categories:
 - event
