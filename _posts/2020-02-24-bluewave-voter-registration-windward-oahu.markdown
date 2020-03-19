@@ -1,5 +1,6 @@
 ---
-title: BlueWave Voter Registration - Windward Oahu (note the new location)
+title: BlueWave Voter Registration - Windward Oahu (Handing Out Packets to Write at
+  Home)
 date: 2020-02-24 09:24:00 -10:00
 categories:
 - event
