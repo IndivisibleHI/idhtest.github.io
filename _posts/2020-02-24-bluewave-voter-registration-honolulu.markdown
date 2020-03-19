@@ -1,5 +1,5 @@
 ---
-title: BlueWave Voter Registration - Honolulu (Handing Out Packets to Write at Home)
+title: 'BlueWave Voter Registration - Honolulu: CANCELLED due to COVID-19'
 date: 2020-02-24 09:37:00 -10:00
 categories:
 - event
