@@ -12,6 +12,7 @@ event-start-date: 2020-03-25 17:00:00 -10:00
 event-end-date: 2020-03-25 18:00:00 -10:00
 Location: |-
   Online meeting - https://zoom.us/j/9026198075
+
   Meeting ID: 902 619 8075
 ---
 
