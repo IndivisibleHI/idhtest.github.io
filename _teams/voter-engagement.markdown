@@ -15,7 +15,7 @@ Our goal is Massive Voter turnout for Progressive Democratic Candidates.
 
 We engage our volunteers to support Voter Registration drives in Hawaii and other key states. We encourage all Citizens to participate in our Elections and vote for Progressive candidates. We are strategic in seeking out Citizens who likely will vote Progressive and who may not usually register or vote.
 
-**January to March**: We wrote to 1300 potential new Democrats in Colorado and North Carolina to register to vote.
+**January to March**: We wrote letters, mailed voter registration forms, and wrote follow up postcards to 1300 potential new Democrats in Colorado and North Carolina to register to vote.
 
 **April to July**: COVID-19 means we need to Vote by Mail to **Beat Trump and flip U.S. Congress Blue** in 2020.  We will provide you the tools and training to step up your letter writing from home. We will write to registered Democrats in swing states to get them signed up to Vote by Mail. 
 
