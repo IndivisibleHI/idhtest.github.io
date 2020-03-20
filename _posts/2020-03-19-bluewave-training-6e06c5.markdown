@@ -10,7 +10,7 @@ is featured: true
 main-image: "/uploads/BlueWaveHawaii%20(1).jpg"
 event-start-date: 2020-04-05 17:00:00 -10:00
 event-end-date: 2020-04-05 18:00:00 -10:00
-Location: Online meeting - https://zoom.us/j/9026198075
+Location: Online Meeting - https://zoom.us/j/9026198075
 ---
 
 COVID-19 means we need to Vote by Mail to **Beat Trump and flip U.S. Congress Blue** in 2020.  We will provide you the tools and training to step up your letter writing from home. We will write to registered Democrats in swing states to get them signed up to Vote by Mail.  
