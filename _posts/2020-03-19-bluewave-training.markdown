@@ -11,7 +11,7 @@ main-image: "/uploads/BlueWaveHawaii%20(1).jpg"
 event-start-date: 2020-03-25 17:00:00 -10:00
 event-end-date: 2020-03-25 18:00:00 -10:00
 Location: |
-  Join online meeting from your computer or phone
+  Online Meeting -
   https://zoom.us/j/9026198075
 ---
 
