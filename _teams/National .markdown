@@ -11,7 +11,7 @@ team-description: We're going to Beat Trump, flip the U.S. Senate blue, and keep
 
 **Philosophy**: We’re going to do the work to protect democracy.  We will support the Democratic Party’s nominees, whoever they are.  We will write, text, make calls, travel to swing states to knock on doors, and do whatever it takes.  
 
-**January to March**: We wrote to 1300 potential new Democrats in Colorado and North Carolina to register to vote.
+**January to March**: We wrote letters, mailed voter registration forms, and wrote follow up postcards to 1300 potential new Democrats in Colorado and North Carolina to register to vote.
 
 **April to July**: COVID-19 means we need to Vote by Mail to **Beat Trump and flip U.S. Congress Blue** in 2020.  We will provide you the tools and training to step up your letter writing from home. We will write to registered Democrats in swing states to get them signed up to Vote by Mail. 
 
