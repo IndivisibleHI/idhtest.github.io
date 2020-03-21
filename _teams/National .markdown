@@ -15,13 +15,12 @@ team-description: We're going to Beat Trump, flip the U.S. Senate blue, and keep
 
 **April to July**: COVID-19 means we need to Vote by Mail to **Beat Trump and flip U.S. Congress Blue** in 2020.  We will provide you the tools and training to step up your letter writing from home. We will write to registered Democrats in swing states to get them signed up to Vote by Mail. 
 
-So far, we have an online training scheduled for Wednesday March 25th 5PM to 6PM and Sunday April 5th 5PM to 6PM.  
+So far, we have an online training scheduled for Wednesday March 25th 5:15PM and Sunday April 5th 5:15PM.  
 
 Option 1: Join Online from your laptop, PC, iPad or smartphone 
 https://zoom.us/j/9026198075
-Meeting ID: 902 619 8075
 
-Join at 4:30PM if this is first time you are using zoom to make sure you are setup OR contact Younghee at natel+owner@indivisiblehawaii.org to setup before March 25th.  
+Join at 4:45PM if this is first time you are using zoom to make sure you are setup OR contact Younghee at natel+owner@indivisiblehawaii.org to setup before March 25th or April 5th.
 
 Option 2: Join by Calling In (option 1 is recommended since we will be showing you screens)
 
