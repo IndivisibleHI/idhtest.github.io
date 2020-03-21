@@ -1,5 +1,5 @@
 ---
-title: BlueWave Training
+title: BlueWave Online Training
 date: 2020-03-19 14:32:00 -10:00
 categories:
 - event
@@ -8,7 +8,7 @@ tags:
 - voters
 is featured: true
 main-image: "/uploads/BlueWaveHawaii%20(1).jpg"
-event-start-date: 2020-04-05 17:00:00 -10:00
+event-start-date: 2020-04-05 17:15:00 -10:00
 event-end-date: 2020-04-05 18:00:00 -10:00
 Location: Online Meeting - https://zoom.us/j/9026198075
 ---
@@ -19,7 +19,7 @@ Option 1: Join Online from your laptop, PC, iPad or smartphone
 https://zoom.us/j/9026198075
 Meeting ID: 902 619 8075
 
-Join at 4:30PM if this is first time you are using zoom to make sure you are setup OR contact Younghee at natel+owner@indivisiblehawaii.org to setup before April 5th.    
+Join at 4:45PM if this is first time you are using zoom to make sure you are setup OR contact Younghee at natel+owner@indivisiblehawaii.org to setup before April 5th.    
 
 Option 2: Join by Calling In (option 1 is recommended since we will be showing you screens)
 
