@@ -23,7 +23,6 @@ So far, we have an online training scheduled for Wednesday March 25th 5:15PM and
 
 Option 1: Join Online from your laptop, PC, iPad or smartphone 
 https://zoom.us/j/9026198075
-Meeting ID: 902 619 8075
 
 Join at 4:45PM if this is first time you are using zoom to make sure you are setup OR contact Younghee at natel+owner@indivisiblehawaii.org to setup before March 25th or April 5th.  
 
