@@ -3,6 +3,7 @@ title: Important Updates for Hawaii's Democratic Presidential Primary
 date: 2020-03-09 16:04:00 -10:00
 categories:
 - update
+- event
 is featured: true
 event-start-date: 2020-04-04 23:59:00 -10:00
 ---
