@@ -1,30 +1,33 @@
 ---
-title: Important news for Hawaii's Democratic Presidential Primary
+title: Important Updates for Hawaii's Democratic Presidential Primary
 date: 2020-03-09 16:04:00 -10:00
 categories:
 - update
-event-start-date: 2020-03-09 12:00:00 -10:00
+is featured: true
+event-start-date: 2020-04-04 23:59:00 -10:00
 ---
-
-The Hawaii Democratic Party will no longer conduct caucuses to determine our Presidential nominee.
 
 **Do you want to vote in our Democratic Presidential Primary this year?**
 
-**You must officially join the Democratic party and then vote in the Party-run Presidential Primary (PPP).** Once enrolled, you will be mailed a  Hawaii Democratic Presidential Preference ballot prior to the April 4 Hawaii Democratic Presidential Primary.
+The Hawaii Democratic Party will no longer conduct caucuses to determine our Presidential nominee.
 
-You can also enroll and vote in person on April 4 at one of 21 PPP sites. See link below for sites on your island.
+**Instead of caucuses, you must officially join the Democratic party and then vote in the Party-run Presidential Primary (PPP).** Once enrolled, you will be mailed a  Hawaii Democratic Presidential Preference ballot which will have to be mailed back.
 
 Good news – no more long lines and torn pieces of paper for ballots. Bad news – you likely aren’t enrolled with the Democratic party.
 
-**Update (3/10)**
+**Update (3/24)**
 
-* **March 8th was the last date to enroll in the Democrat party online.**
+* **Due to COVID 19, walk-in voting on April 4 has been cancelled**
 
-* **If you are already a registered voter and have enrolled in the Democratic party,**  you should have already received or will soon receive your paper ballot. All mailed ballots or dropped off ballots must be received by 3pm April 4th, 2020 at one of the sites listed below.
+* **Enrollment for membership with the Hawaii Democratic Party has been extended from March 8 to April 4**
+  Visit [AlohaVote.com](http://AlohaVote.com) to enroll as a member of the Democratic Party of Hawaii. You can also register to vote with the State of Hawaii at this this site.
 
-* **If you haven't yet enrolled in the Democratic party,**  Voter Registration, Party Enrollment and Voting in the Party-run Presidential Primary (PPP) is possible at one of 21 sites on April 4th, from 7 am to 3 pm HST. All members in line at 3pm HST, and no later than 3pm HST, will be permitted to vote.
+* **This primary supports ranked-choice voting**
+  While most candidates have suspended their campaigns, any candidate who receives 15% of the total ballots cast will receive delegates to the national convention. Voters can choose to vote for only one or two candidates if that is their preference.
 
-* **PPP sites for all islands are listed here:** [https://hawaiidemocrats.org/wp-content/uploads/2020/03/APRIL-4th-LOCATIONS.pdf](https://hawaiidemocrats.org/wp-content/uploads/2020/03/APRIL-4th-LOCATIONS.pdf)
+* **Receipt of mail-in ballots has been extended to mid-May. The exact date will be announced soon.**
+
+**Indivisible Hawaii urges everyone who has received a mail-in ballot or who will be receiving one, to cast your vote and mail it back as soon as possible.**
 
 More details
 
@@ -39,7 +42,3 @@ The most important takeaways:
 * Mail-in ballots will be provided to every Democrat enrolled with the Democratic Party of Hawai'i.
 
 * Voting will be conducted with ranked choice ballots, allowing voters to list their preferred candidates from 1 - 5.
-
-* In-person voting & same day registration options will be provided on Sat, April 4 (only one location on each major island).
-
-* When we register new voters, we can also inform and assist them in enrolling in the Democratic Party.
