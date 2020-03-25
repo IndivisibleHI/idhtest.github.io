@@ -4,7 +4,7 @@ date: 2020-03-09 16:04:00 -10:00
 categories:
 - action
 is featured: true
-event-start-date: 2020-04-04 23:59:00 -10:00
+event-end-date: 2020-04-04 23:59:00 -10:00
 ---
 
 **Do you want to vote in our Democratic Presidential Primary this year?**
