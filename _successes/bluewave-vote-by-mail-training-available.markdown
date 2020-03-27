@@ -7,7 +7,7 @@ main-image: "/uploads/Online%20Training%203.25.20%20-%20vote.org.JPG"
 
 COVID-19 means we need to Vote by Mail to **Beat Trump and flip U.S. Congress Blue** in 2020.  We had first online training to help you write to the registered Democrats in swing states to get them signed up to Vote by Mail. 
 
-Go to https://tinyurl.com/bluewavehi-march25 for the recording of the training.  Go to https://tinyurl.com/bluewavehi-gotv for the instruction.  
+Go to [https://tinyurl.com/bluewavehi-march25](https://zoom.us/rec/play/65Z7fuqopzw3EtKdtgSDB_Z5W9Xuf66s1XIa_PVZzE60UyQENAH1ZudBN7NS9AVdj3asYX6eW1eeIRJR?startTime=1585192880000&fbclid=IwAR1nXT3OtnNui7FFL908v3jl32RgKTlMRiPSqLjRVxM2yArwGMn7xAxFOB8) for the recording of the training.  Go to [https://tinyurl.com/bluewavehi-gotv](https://docs.google.com/document/d/1Yx-pZn-zm6PD-LV8kmRjhE-Ddw5p3G3NaZSVH-0Wxmc/edit) for the instruction.  
 
 See the list of events for information on next training.  
 
