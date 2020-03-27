@@ -2,7 +2,7 @@
 title: BlueWave "Vote by Mail" Training Available
 date: 2020-03-26 15:00:00 -10:00
 is featured: true
-main-image: "/uploads/Online%20Training%203.25.30%20-%20Vote%20by%20Mail%20Doc.JPG"
+main-image: "/uploads/Online%20Training%203.25.20%20-%20vote.org.JPG"
 ---
 
 COVID-19 means we need to Vote by Mail to **Beat Trump and flip U.S. Congress Blue** in 2020.  We had first online training to help you write to the registered Democrats in swing states to get them signed up to Vote by Mail. 
