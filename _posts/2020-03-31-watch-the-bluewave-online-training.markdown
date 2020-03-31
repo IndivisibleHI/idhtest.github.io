@@ -7,7 +7,7 @@ tags:
 - natel
 - voters
 is featured: true
-main-image: "/uploads/Online%20Training%203.25.20%20-%20vote.org.JPG"
+main-image: "/uploads/BlueWaveHawaii%20(1).jpg"
 event-start-date: 2020-03-31 12:00:00 -10:00
 event-end-date: 2020-04-15 12:00:00 -10:00
 ---
