@@ -16,14 +16,16 @@ Location: Online Meeting - https://zoom.us/j/9026198075
 COVID-19 means we need to Vote by Mail to **Beat Trump and flip U.S. Congress Blue** in 2020.  We will provide you the tools and training to step up your letter writing from home. We will write to registered Democrats in swing states to get them signed up to Vote by Mail.  
 
 Option 1: Join Online from your laptop, PC, iPad or smartphone 
-https://zoom.us/j/9026198075
+https://zoom.us/j/9026198075 
+**email us at natel+owner@indivisiblehawaii.org to get the password**
 
-Join at 4:45PM if this is first time you are using zoom to make sure you are setup OR contact Younghee at natel+owner@indivisiblehawaii.org to setup before April 5th.    
+Join at 4:45PM if this is first time you are using zoom to make sure you are setup.    
 
 Option 2: Join by Calling In (option 1 is recommended since we will be showing you screens)
 
 Dial: +1 669 900 9128 
 Meeting ID: 902 619 8075
+Password: **email us at natel+owner@indivisiblehawaii.org to get the password**
 
 Please contact Gil at wevote20@gmail.com for one-on-one training if you cannot make to training on March 25th nor April 5th.
 
