@@ -24,8 +24,6 @@ Option 2: Join by Calling In (option 1 is recommended since we will be showing y
 
 **email us at natel+owner@indivisiblehawaii.org to get the dial in information**
 
-Please contact Gil at wevote20@gmail.com for one-on-one training if you cannot make to training on March 25th nor April 5th.
-
 During past two months, we together wrote 1300 letters to register new Democrats in Colorado and NC and 600 GOTV letters to registered Democrats in Arizona, Colorado, Maine and NC!  We have another 1300 voter registration follow up postcards and 1000 GOTV letters you picked up to write at home.  Mahalo nui loa.
 
 When we Vote, We Win.  
