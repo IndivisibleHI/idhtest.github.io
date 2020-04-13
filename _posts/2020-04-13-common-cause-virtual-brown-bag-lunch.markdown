@@ -16,6 +16,6 @@ Aloha Democracy Advocates,
 
 You are invited to a Virtual Brown Bag lunch on Wednesday, April 15, 2020, at 12:30 pm: [https://zoom.us/webinar/register/WN_XmGQVeNDTwWmtTwCrm7huw?fbclid=IwAR00Rr0C3hIWEI1rNjj1cfOYazlRJkKF8lK2Ax8_xpLDKrNL8S5ZZrTRyc4](https://zoom.us/webinar/register/WN_XmGQVeNDTwWmtTwCrm7huw?fbclid=IwAR00Rr0C3hIWEI1rNjj1cfOYazlRJkKF8lK2Ax8_xpLDKrNL8S5ZZrTRyc4)!
 
-We will be discussing the suspension of the sunshine and public records laws, elections and Vote-By-Mail in August and November 2020 and if t Hawaii State Legislature ever come back in session?
+We will be discussing the suspension of the sunshine and public records laws, elections and Vote-By-Mail in August and November 2020 and if the Hawaii State Legislature will ever come back in session this year.
 
 Hope to be sharing lunch and democracy ideas with all of you virtually!
