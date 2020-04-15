@@ -1,5 +1,5 @@
 ---
-title: Watch the BlueWave online training
+title: Watch Dump Trump Online training
 date: 2020-03-31 11:21:00 -10:00
 categories:
 - action
