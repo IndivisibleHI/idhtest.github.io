@@ -7,7 +7,7 @@ tags:
 - natel
 - voters
 is featured: true
-main-image: "/uploads/BlueWaveHawaii%20(1).jpg"
+main-image: "/uploads/SwingLeft%20Super%20States-b46d6c.JPG"
 event-start-date: 2020-03-31 12:00:00 -10:00
 event-end-date: 2020-04-15 12:00:00 -10:00
 ---
