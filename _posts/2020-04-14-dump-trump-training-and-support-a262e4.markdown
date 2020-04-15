@@ -7,7 +7,7 @@ tags:
 - natel
 - voters
 is featured: true
-main-image: "/uploads/BlueWaveHawaii%20(1).jpg"
+main-image: "/uploads/SwingLeft%20Super%20States-b46d6c.JPG"
 event-start-date: 2020-04-25 10:00:00 -10:00
 event-end-date: 2020-04-25 11:00:00 -10:00
 RSVP-link: 'https://zoom.us/meeting/register/tJEocumgqjMrE9SKw-s-Wg9u8XqeiMb5eWj6 '
