@@ -1,6 +1,11 @@
 ---
 title: Dump Trump Training and Support
 date: 2020-04-14 19:49:00 -10:00
+categories:
+- event
+tags:
+- natel
+- voters
 is featured: true
 main-image: "/uploads/BlueWaveHawaii%20(1).jpg"
 event-start-date: 2020-04-25 10:00:00 -10:00
