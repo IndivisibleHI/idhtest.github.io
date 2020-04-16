@@ -1,5 +1,5 @@
 ---
-title: Textbank to Environmental Voters in Maine
+title: Textbank to Say Good-bye to Susan Collins
 date: 2020-04-16 09:45:00 -10:00
 categories:
 - event
