@@ -7,7 +7,7 @@ team-description: We're going to Beat Trump, flip the U.S. Congress blue to prot
   our Democracy.
 ---
 
-**Goal**: 38 additional electoral votes and 5 additional U.S. Senate seats to Beat Trump and flip U.S. Congress blue during the 2020 election.
+**Goal**: 38 additional electoral votes and 4 additional U.S. Senate seats to Beat Trump and flip U.S. Congress blue during the 2020 election.
 
 **Philosophy**: We’re going to do the work to protect democracy.  We will support the Democratic Party’s nominees, whoever they are.  We will write, text, make calls, travel to [swing states](https://swingleft.org/) to knock on doors, and do whatever it takes.  
 
