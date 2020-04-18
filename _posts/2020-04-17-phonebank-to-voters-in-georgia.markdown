@@ -1,5 +1,5 @@
 ---
-title: Phonebank to voters in Georgia
+title: Phonebank to prep voters in Georgia
 date: 2020-04-17 14:52:00 -10:00
 categories:
 - event
