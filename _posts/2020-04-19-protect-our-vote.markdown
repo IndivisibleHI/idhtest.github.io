@@ -16,8 +16,6 @@ RSVP-link: https://declarationforamericandemocracy.org/townhall/
 
 This event will be streamed on FaceBook.
 
-**To RSVP, hit the RSVP button for the town hall on the Declaration for American's Democracy site** [https://declarationforamericandemocracy.org/townhall/](https://declarationforamericandemocracy.org/townhall/)
-
 Guest speakers will include:
 
 * Senator Amy Klobuchar (D-MN)
@@ -38,6 +36,6 @@ Our guests will discuss the need for swift action from Congress to secure our ri
 
 But we need your help! In this town hall we will also teach you how to take action so that you can ensure no American has to choose between their health and their right to vote.
 
-**To RSVP, hit the RSVP button for the town hall on the Declaration for American's Democracy site** [https://declarationforamericandemocracy.org/townhall/](https://declarationforamericandemocracy.org/townhall/)
-
 You can submit a question for our upcoming town halls here: [https://declarationforamericandemocracy.org/townhall#submitaquestion](https://declarationforamericandemocracy.org/townhall#submitaquestion)
+
+For more details and future town halls, see [https://declarationforamericandemocracy.org/townhall/](https://declarationforamericandemocracy.org/townhall/)
