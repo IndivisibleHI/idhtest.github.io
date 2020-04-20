@@ -10,20 +10,26 @@ event-start-date: 2020-04-20 14:00:00 -10:00
 RSVP-link: https://declarationforamericandemocracy.org/townhall/
 ---
 
-Please join Declaration for American Democracy's virtual townhall.
+**Please join Declaration for American Democracy's virtual townhall.**
 
-This organization is emerging as the grand collaborative entity in the country with over 150 member organizations. 
+**This organization is emerging as the grand collaborative entity in the country with over 150 member organizations.**
 
-This event will be streamed on FaceBook. 
+This event will be streamed on FaceBook.
 
 **To RSVP, hit the RSVP button for the town hall on the Declaration for American's Democracy site** [https://declarationforamericandemocracy.org/townhall/](https://declarationforamericandemocracy.org/townhall/)
 
 Guest speakers will include:
+
 * Senator Amy Klobuchar (D-MN)
+
 * Senator Ron Wyden (D-OR)
+
 * Senator Elizabeth Warren (D-MA)
+
 * Rep. Hakeem Jeffries (D-NY)
+
 * Washington Secretary of State Kim Wyman (R-WA)
+
 * Representatives and partners of the Declaration for American Democracy
 
 Right now, our Democracy is under threat. While health experts urge Americans to stay home, too many states fail to offer options for voters to cast their ballot in a safe and accessible way. While state governments consider adapting their voting laws in response to the crisis, the reality is that states lack funds to implement the vital reforms needed. The Wisconsin primary disaster is a prime example of why we must take action now.
@@ -35,4 +41,3 @@ But we need your help! In this town hall we will also teach you how to take acti
 **To RSVP, hit the RSVP button for the town hall on the Declaration for American's Democracy site** [https://declarationforamericandemocracy.org/townhall/](https://declarationforamericandemocracy.org/townhall/)
 
 You can submit a question for our upcoming town halls here: [https://declarationforamericandemocracy.org/townhall#submitaquestion](https://declarationforamericandemocracy.org/townhall#submitaquestion)
-
