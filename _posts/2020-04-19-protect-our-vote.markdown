@@ -5,8 +5,10 @@ categories:
 - event
 tags:
 - other
+- natel
 is featured: true
 event-start-date: 2020-04-20 14:00:00 -10:00
+event-end-date: 2020-04-20 15:00:00 -10:00
 RSVP-link: https://declarationforamericandemocracy.org/townhall/
 ---
 
