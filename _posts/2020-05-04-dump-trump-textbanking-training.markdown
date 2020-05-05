@@ -9,7 +9,7 @@ tags:
 - voters
 - Event
 is featured: true
-main-image: "/uploads/SwingLeft%20Super%20States-b46d6c.JPG"
+main-image: "/uploads/SwingLeft%20Super%20States.JPG"
 event-start-date: 2020-05-09 09:00:00 -10:00
 event-end-date: 2020-05-09 10:30:00 -10:00
 RSVP-link: https://docs.google.com/forms/d/e/1FAIpQLSfR91RAZLSOg5SUl-aTbBcD7CAliQCPeXYthofMsSysx-dOHQ/viewform
