@@ -1,6 +1,11 @@
 ---
 title: Dump Trump Office Hours
 date: 2020-05-04 14:47:00 -10:00
+categories:
+- event
+tags:
+- natel
+- voters
 is featured: true
 main-image: "/uploads/SwingLeft%20Super%20States-b46d6c.JPG"
 event-start-date: 2020-05-06 17:00:00 -10:00
