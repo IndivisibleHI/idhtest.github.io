@@ -7,7 +7,7 @@ tags:
 - natel
 - voters
 is featured: true
-main-image: "/uploads/SwingLeft%20Super%20States-b46d6c.JPG"
+main-image: "/uploads/Lucy%20Office%20Hours.jpg"
 event-start-date: 2020-05-13 17:00:00 -10:00
 event-end-date: 2020-05-13 17:45:00 -10:00
 RSVP-link: https://us02web.zoom.us/meeting/register/tZAtce6rqz0tHtyKa-SRuynOUbcScR8uExPA
