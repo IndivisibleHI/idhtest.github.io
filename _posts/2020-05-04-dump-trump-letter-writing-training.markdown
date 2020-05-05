@@ -7,7 +7,7 @@ tags:
 - natel
 - voters
 is featured: true
-main-image: "/uploads/SwingLeft%20Super%20States-b46d6c.JPG"
+main-image: "/uploads/SwingLeft%20Super%20States.JPG"
 event-start-date: 2020-05-30 10:00:00 -10:00
 event-end-date: 2020-05-30 11:30:00 -10:00
 RSVP-link: https://us02web.zoom.us/meeting/register/tZIpdO-grjgjHtFYhi8X-4hY0UBJ67CuEnJ0
