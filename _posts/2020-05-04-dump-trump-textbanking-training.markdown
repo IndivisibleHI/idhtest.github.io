@@ -7,6 +7,7 @@ tags:
 - other
 - natel
 - voters
+- Event
 is featured: true
 main-image: "/uploads/SwingLeft%20Super%20States-b46d6c.JPG"
 event-start-date: 2020-05-09 09:00:00 -10:00
