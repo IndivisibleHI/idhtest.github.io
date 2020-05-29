@@ -3,6 +3,7 @@ title: Choronavirus Town Hall with Senators Schatz and Hirono - 5/28
 date: 2020-05-29 11:52:00 -10:00
 categories:
 - update
+main-image: "/uploads/Mazie.jpg"
 ---
 
 Chuck Freedman, from Senator Schatz's office, shared this townhall with us. 
