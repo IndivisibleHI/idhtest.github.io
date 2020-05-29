@@ -4,6 +4,7 @@ date: 2020-05-28 16:47:00 -10:00
 categories:
 - update
 is featured: true
+main-image: "/uploads/Trump-Biden.jpg"
 ---
 
 Martha Nakajima, from Indivisible Hawaii, put together this nice summary of the differences between Trump's and Biden's platforms. Thanks Martha!
