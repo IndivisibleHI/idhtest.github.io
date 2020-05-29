@@ -9,7 +9,9 @@ is featured: true
 Martha Nakajima, from Indivisible Hawaii, put together this nice summary of the differences between Trump's and Biden's platforms. Thanks Martha!
 
 * **IMMIGRATION**
+
   **TRUMP:** Reduce immigration via border wall, maximum enforcement of current laws and new legislation favoring job skills over family unification
+
   **BIDEN:** Halt construction of ineffective wall and cancel emergency declaration which enables transfer of defense appropriations to build it. Focus border enforcement on technology and intelligence to interdict trafficking and contraband. Cease family separations and detentions at the border in favor of a public-private partnership with NGOs to assist asylum seekers humanely in an efficient legal process with an increased number of judges. Limit ICE deportations to violent threats to public safety. Reform immigration laws to reaffirm family unification and offer undocumented immigrants a path to eventual legal status and citizenship. Set minimum 125,000 annual quota for admission of refugees.
 
 
