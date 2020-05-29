@@ -3,6 +3,7 @@ title: '116th Congress (2019): Major House-Passed Bills Stuck in the Senate'
 date: 2020-05-28 17:31:00 -10:00
 categories:
 - update
+main-image: "/uploads/McConnel.jpg"
 ---
 
 Thanks to Martha Nakajima, for pulling together this list. Thanks Mitch McConnell!
