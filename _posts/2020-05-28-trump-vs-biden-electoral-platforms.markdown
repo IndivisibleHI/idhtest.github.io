@@ -40,7 +40,8 @@ Martha Nakajima, from Indivisible Hawaii, put together this nice summary of the 
 
   **TRUMP:** roll-back regulations, withdraw from Paris agreement, promote fossil fuel drilling offshore and on public lands, deny climate science
 
-  **BIDEN:** Target net-zero carbon emissions by 2050, rejoin Paris agreement and engage with the other signatories to achieve ambitious goals. Pressure China to stop promoting coal, including in foreign projects. Pursue global moratorium on offshore drilling. Systematically integrate climate science in all domestic and foreign policymaking and regulatory activities.\
+  **BIDEN:** Target net-zero carbon emissions by 2050, rejoin Paris agreement and engage with the other signatories to achieve ambitious goals. Pressure China to stop promoting coal, including in foreign projects. Pursue global moratorium on offshore drilling. Systematically integrate climate science in all domestic and foreign policymaking and regulatory activities.
+
 
 * **GUN SAFETY**
 
