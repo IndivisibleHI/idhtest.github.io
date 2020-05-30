@@ -1,6 +1,8 @@
 ---
 title: Elections during the COVID-19 Pandemic
 date: 2020-05-29 14:08:00 -10:00
+categories:
+- update
 main-image: "/uploads/Your%20vote%20counts-4224fd.jpg"
 ---
 
