@@ -7,4 +7,4 @@ team-description: We're going to Beat Trump, flip the U.S. Congress blue to prot
   our Democracy.
 ---
 
-![BlueWave Update June 2020.jpg](/uploads/BlueWave%20Update%20June%202020.jpg)
+![BlueWave Update June 2020-4e25de.jpg](/uploads/BlueWave%20Update%20June%202020-4e25de.jpg)
