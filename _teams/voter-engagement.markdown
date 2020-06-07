@@ -13,4 +13,4 @@ When We Vote, We WIN.
 
 Our goal is Massive Voter turnout for Progressive Democratic Candidates.
 
-![BlueWave Update June 2020-4e25de.jpg](/uploads/BlueWave%20Update%20June%202020-4e25de.jpg)
+![BlueWave Update June 2020.jpg](/uploads/BlueWave%20Update%20June%202020.jpg)
