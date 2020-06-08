@@ -4,7 +4,7 @@ date: 2020-01-08 20:38:00 -10:00
 categories:
 - action
 event-start-date: 2020-01-08 00:00:00 -10:00
-event-end-date: 2020-10-31 00:00:00 -10:00
+event-end-date: 2020-06-01 00:00:00 -10:00
 ---
 
 You may want to pursue these additional actions
