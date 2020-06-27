@@ -1,5 +1,5 @@
 ---
-title: 'Training: "pen pal" calling to voters in Arizona'
+title: 'Training: "Pen Pal" calling to Voters in Arizona'
 date: 2020-06-08 11:50:00 -10:00
 categories:
 - event
