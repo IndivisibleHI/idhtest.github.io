@@ -1,5 +1,5 @@
 ---
-title: 'Call to Early Risers: Phone Bank to Voters in NC CD11'
+title: 'Call to Early Risers: Phone Bank to Voters in North Carolina CD11'
 date: 2020-07-03 10:46:00 -10:00
 categories:
 - event
