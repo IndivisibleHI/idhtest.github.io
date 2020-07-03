@@ -19,4 +19,4 @@ Join us to learn how to use VoteFwd to write to Democrats in swing states to sig
 
 When we Vote, We Win.  When we write, We Vote.  When we Text, We Vote.  
 
-BlueWave Hawaii Team
+#BlueWaveHawaii Team
