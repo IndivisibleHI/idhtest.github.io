@@ -18,3 +18,5 @@ COVID-19 means we need to Vote by Mail to **defeat Trump and flip U.S. Congress
 Join us to learn how to use VoteFwd to write to Democrats in swing states to sign up for absentee ballot so they can safely Vote by Mail.  The training will be conducted as a virtual meeting using zoom. **You must RSVP** to get your unique link to the zoom meeting.  
 
 When we Vote, We Win.  When we write, We Vote.  When we Text, We Vote.  
+
+BlueWave Hawaii Team
