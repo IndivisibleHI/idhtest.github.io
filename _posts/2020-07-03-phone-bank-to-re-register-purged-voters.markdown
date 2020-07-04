@@ -10,7 +10,7 @@ tags:
 is featured: true
 main-image: "/uploads/ROV%20Phone%20Banking.png"
 event-start-date: 2020-07-07 10:30:00 -10:00
-event-end-date: 2020-07-07 11:30:00 -10:00
+event-end-date: 2020-07-07 13:30:00 -10:00
 RSVP-link: https://actionnetwork.org/events/reclaim-our-vote-every-tuesday-phone-bank-1?
 ---
 
