@@ -10,6 +10,7 @@ tags:
 is featured: true
 main-image: "/uploads/EVP%20Logo.png"
 event-start-date: 2020-07-21 10:00:00 -10:00
+event-end-date: 2020-07-21 12:00:00 -10:00
 RSVP-link: https://www.environmentalvoter.org/events/60-days-early-voting-day-action
 ---
 
