@@ -10,6 +10,7 @@ tags:
 is featured: true
 main-image: "/uploads/Asheville.JPG"
 event-start-date: 2020-07-11 07:00:00 -10:00
+event-end-date: 2020-07-11 09:00:00 -10:00
 RSVP-link: https://indivisibleavl.org/event/july-virtual-canvass/
 ---
 
