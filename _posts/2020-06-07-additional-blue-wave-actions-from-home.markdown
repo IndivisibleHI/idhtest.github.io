@@ -11,10 +11,14 @@ event-end-date: 2020-10-31 00:00:00 -10:00
 
 The following document  identifies other Blue Wave opportunities offered by our partners.  It gives a brief overview of each organization and how to sign up for their online training and sponsored activities. 
 
-*  **Open Progress (texting)**
-
 * **Environmental Voter Project (phone, text)**
 
-* **Sierra Club's 2020 Battleground Team (postcards, letters, phone, text)**.
+*  **Open Progress (text)**
+
+*  **Reclaim Our Vote (phone)**
+
+* **Sierra Club's 2020 Battleground Team (postcards, letters, phone, text)**
+
+* **Togetherfor2020 (postcards, phone, text, social media)**
 
 See[ https://tinyurl.com/bluewavehi-partners ](https://tinyurl.com/bluewavehi-partners)\
