@@ -3,6 +3,9 @@ title: Additional Blue Wave Actions from Home
 date: 2020-06-07 21:36:00 -10:00
 categories:
 - action
+tags:
+- natel
+- voters
 is featured: true
 main-image: "/uploads/SwingLeft%20Super%20States-b46d6c.JPG"
 event-start-date: 2020-06-07 00:00:00 -10:00
