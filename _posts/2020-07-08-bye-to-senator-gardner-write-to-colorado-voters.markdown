@@ -1,5 +1,5 @@
 ---
-title: 'Bye to Senator Gardner: Write to Colorado Voters'
+title: 'Say GoodBye to Senator Gardner: Write to Colorado Voters'
 date: 2020-07-08 08:43:00 -10:00
 categories:
 - event
