@@ -7,7 +7,7 @@ tags:
 - natel
 - voters
 is featured: true
-main-image: "/uploads/Trumps-Numbers-July-2020.png"
+main-image: "/uploads/Trumps%20Numbers%20July%202020%20Short-898914.JPG"
 event-start-date: 2020-08-02 12:00:00 -10:00
 event-end-date: 2020-08-02 12:45:00 -10:00
 RSVP-link: https://us02web.zoom.us/meeting/register/tZYsf-ivqTsoGt2bO8_q5CIgMF3gq0W42KzE
