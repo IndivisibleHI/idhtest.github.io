@@ -15,7 +15,9 @@ RSVP-link: https://us02web.zoom.us/meeting/register/tZYsf-ivqTsoGt2bO8_q5CIgMF3g
 
 1284 days since Trump took office, [pick your worst nightmare of the Trump Administration].  Now imagine 1460 more days of the Trump Administration. 
 
-READY to SET your goals to ACT to **Beat Trump** and **flip the U.S. Senate** blue?  You must **RSVP/register** to receive your unique link to join "BlueWave Hawaii 100 Day Sprint" zoom meeting Sunday August 2nd NOON HST. 
+Less than 100 days to go until the election day of our life time.  READY to SET your goals to ACT to **Beat Trump** and **flip the U.S. Senate** blue?   Learn about effective actions you can take and Talk Story with other BlueWave activists from Hawaii. 
+
+You must **RSVP/register** to receive your unique link to join "BlueWave Hawaii 100 Day Sprint" zoom meeting Sunday August 2nd NOON HST. 
 
 When we Vote, We Win. When we write, We Vote. When we Text, We Vote. When we Call, We Vote.
 
