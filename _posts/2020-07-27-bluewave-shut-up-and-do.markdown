@@ -1,6 +1,15 @@
 ---
 title: 'BlueWave: Shut Up and Do'
 date: 2020-07-27 14:52:00 -10:00
+categories:
+- event
+tags:
+- natel
+- voters
+is featured: true
+main-image: "/uploads/Trump%20Troops%20Gassing%20Moms.JPG"
+event-start-date: 2020-08-09 12:00:00 -10:00
+RSVP-link: https://us02web.zoom.us/meeting/register/tZcpc-GoqzIsGNN_PAWgNz9XJwGJe8jSCjba
 ---
 
 August 9, 2020
