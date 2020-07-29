@@ -14,6 +14,7 @@ RSVP-link: https://us02web.zoom.us/meeting/register/tZckfuypqj0uE9xhbR9_DtmHy_6N
 
 Staff from Senator's Honolulu and DC offices will be meeting with us. The Senator's schedule is very dynamic, but if possible, she will also join us.
 
+
 We'll meet you in the comfort and safety of your home or wherever you choose to  socially distance, e.g. It's another Zoom meeting!
 
 Register in advance for zoom meeting at
