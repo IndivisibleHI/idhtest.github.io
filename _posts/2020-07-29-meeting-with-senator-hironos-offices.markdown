@@ -4,6 +4,7 @@ date: 2020-07-29 09:34:00 -10:00
 categories:
 - event
 is featured: true
+main-image: "/uploads/Hirono-5da40f.jpg"
 event-start-date: 2020-08-04 11:00:00 -10:00
 event-end-date: 2020-07-29 12:00:00 -10:00
 RSVP-link: https://us02web.zoom.us/meeting/register/tZckfuypqj0uE9xhbR9_DtmHy_6NCuUEIg-1
