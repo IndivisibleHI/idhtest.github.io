@@ -8,12 +8,13 @@ tags:
 - voters
 is featured: true
 main-image: "/uploads/Trump%20Troops%20Gassing%20Moms.JPG"
-event-start-date: 2020-08-09 12:00:00 -10:00
+event-start-date: 2020-08-16 12:00:00 -10:00
+event-end-date: 2020-08-16 13:30:00 -10:00
 RSVP-link: https://us02web.zoom.us/meeting/register/tZcpc-GoqzIsGNN_PAWgNz9XJwGJe8jSCjba
 ---
 
-August 9, 2020
-1297 days since Trump took office, [pick your worst nightmare of the Trump Administration].  Now imagine 1460 more days of the Trump Administration. 
+August 16, 2020
+1304 days since Trump took office, [pick your worst nightmare of the Trump Administration].  Now imagine 1460 more days of the Trump Administration. 
 
 86 days to go until the election day of our life time.  READY to dedicate one or two hours of your time to **Beat Trump** and **flip the U.S. Senate** blue? Using "Shut Up and Write" structure which writers effectively used for years, we will zoom and then write/call/text to the voters in swing states. 
 
