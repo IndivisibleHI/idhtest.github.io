@@ -1,5 +1,5 @@
 ---
-title: 'BlueWave: Training to Write Letters'
+title: 'BlueTsunami: Training to Write Letters'
 date: 2020-07-27 15:21:00 -10:00
 categories:
 - event
@@ -7,7 +7,7 @@ tags:
 - natel
 - voters
 is featured: true
-main-image: "/uploads/Covid%20Death%20July%2027.JPG"
+main-image: "/uploads/BlueWaveHawaii%20(1).jpg"
 event-start-date: 2020-08-30 12:00:00 -10:00
 event-end-date: 2020-08-30 13:00:00 -10:00
 RSVP-link: https://us02web.zoom.us/meeting/register/tZMpduitqDIuHdJjlBStpMCErF3caun38F2U
