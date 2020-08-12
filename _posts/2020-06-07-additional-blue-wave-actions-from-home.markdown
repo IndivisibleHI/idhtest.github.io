@@ -23,4 +23,4 @@ Join grassroot activists across the nation to call, text, write, or raise fund f
 Option 3:
 Join members of Indivisible across the nation to text using easy to use to use IndivisiText.  Sign up for one of the Vote by Mail or Payback events at **https://indivisible.org/indivisible-texting-schedule**.  Learn more about the Payback Project - https://www.paybackproject.org/.  
 
-Let's make this happen.  Let's save our country.  Let's save democracy.  
+Let's make this happen.  Let's save our lives.  Let's save our country.  Let's save democracy.  
