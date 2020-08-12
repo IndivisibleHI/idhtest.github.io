@@ -1,5 +1,5 @@
 ---
-title: 'BlueWave: Shut Up and Do'
+title: 'BlueTsunami: Shut Up and Do'
 date: 2020-07-27 14:52:00 -10:00
 categories:
 - event
@@ -7,7 +7,7 @@ tags:
 - natel
 - voters
 is featured: true
-main-image: "/uploads/Trump%20Troops%20Gassing%20Moms.JPG"
+main-image: "/uploads/BlueWaveHawaii%20(1).jpg"
 event-start-date: 2020-08-16 12:00:00 -10:00
 event-end-date: 2020-08-16 13:30:00 -10:00
 RSVP-link: https://us02web.zoom.us/meeting/register/tZcpc-GoqzIsGNN_PAWgNz9XJwGJe8jSCjba
