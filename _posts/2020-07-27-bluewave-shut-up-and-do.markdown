@@ -18,6 +18,6 @@ August 16, 2020
 
 79 days to go until the election day of our life time.  READY to dedicate one or two hours of your time to **Beat Trump** and **flip the U.S. Senate** blue? Using "Shut Up and Write" structure which writers effectively used for years, we will zoom and then write/call/text to the voters in swing states. 
 
-You must **RSVP/register** to receive your unique link to join "BlueWave Hawaii Shut Up and Do" zoom meeting Sunday August 9th NOON HST. 
+You must **RSVP/register** to receive your unique link to join "BlueWave Hawaii Shut Up and Do" zoom meeting Sunday August 16th NOON HST. 
 
 When we Vote, We Win. When we write, We Vote. When we Text, We Vote. When we Call, We Vote.
