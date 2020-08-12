@@ -1,5 +1,5 @@
 ---
-title: 'BlueTsunami: Training to Write Letters'
+title: 'BlueTsunami: Training - VoteFwd Letters to Swing States'
 date: 2020-07-27 15:21:00 -10:00
 categories:
 - event
