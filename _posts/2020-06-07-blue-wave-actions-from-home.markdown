@@ -14,7 +14,7 @@ event-end-date: 2020-11-03 00:00:00 -10:00
 
 A total of 491,719 (that's less than half million of 128.8 million) votes in Michigan, Wisconsin, Pennsylvania, Florida, North Carolina and Arizona led to Trump's win in 2016.  **These 101 electoral votes will lead to the Blue Tsunami for Biden/Harris ticket** in 2020!  Blue Tsunami because Blue Wave isn't enough!
 
-Ready to build an action plan for next 80 days?  Pick your favorite swing state, choose your favorite task for your action plan.  See options below.
+Ready to build your personal action plan to turnout votes for Dems? Pick your favorite swing state, choose your favorite task for your action plan.  See options below.
 
 Already have an action plan?  Join fellow activists from Hawaii in "Shut Up and Do".  Must register [here](https://us02web.zoom.us/meeting/register/tZcpc-GoqzIsGNN_PAWgNz9XJwGJe8jSCjba)to get your unique zoom link to join.
 
