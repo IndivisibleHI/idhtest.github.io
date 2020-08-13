@@ -1,5 +1,5 @@
 ---
-title: 'BlueWave: 100 Day Sprint'
+title: 'BlueTsunami: 100 Day Sprint'
 date: 2020-07-27 13:30:00 -10:00
 categories:
 - event
