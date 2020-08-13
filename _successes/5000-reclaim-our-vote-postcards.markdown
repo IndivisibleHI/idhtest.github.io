@@ -1,5 +1,5 @@
 ---
-title: 5000 Reclaim Our Vote postcards
+title: Reaching Out to 5000 "Reclaim Our Vote" Voters
 date: 2020-08-12 13:01:00 -10:00
 is featured: true
 main-image: "/uploads/IMG_5710.JPG"
