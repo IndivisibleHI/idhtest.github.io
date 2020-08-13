@@ -12,12 +12,16 @@ event-start-date: 2020-06-07 00:00:00 -10:00
 event-end-date: 2020-11-03 00:00:00 -10:00
 ---
 
-Imagine January 20, 2021.  You have new president, vice-president, and U.S. Senate majority leader.  Are you breathing better? sleeping better? Join the rest of Trump-resisters across the country to **Beat Trump** and **flip entire U.S. Congress** blue.  Get Ready for Blue Tsunami because Blue Wave isn't enough!
+A total of 491,719 votes in Michigan, Wisconsin, Pennsylvania, Florida, North Carolina and Arizona led to Trump's win in 2016.  **These 101 electoral votes will lead to the Blue Tsunami for Biden/Harris ticket** in 2020!  Blue Tsunami because Blue Wave isn't enough!
+
+Ready to build an action plan for next 80 days?  Pick your favorite swing state, choose your favorite task for your action plan.  See options below.
+
+Already have an action plan?  Join fellow activists from Hawaii in "Shut Up and Do".  Must register [here](https://us02web.zoom.us/meeting/register/tZcpc-GoqzIsGNN_PAWgNz9XJwGJe8jSCjba)to get your unique zoom link to join.
 
 **Option 1:** 
 Join Indivisible Hawaii members to write VoteFwd letters or Reclaim Our Vote postcards - sign up at **https://tinyurl.com/bluewavehi-100days** and one of BlueWave Hawaii members will contact you.
 
-You can also register [here](https://us02web.zoom.us/meeting/register/tZcpc-GoqzIsGNN_PAWgNz9XJwGJe8jSCjba) for next "Shut Up and Do" or [here](https://us02web.zoom.us/meeting/register/tZMpduitqDIuHdJjlBStpMCErF3caun38F2U) for next "Training".
+Want training?  Must register [here](https://us02web.zoom.us/meeting/register/tZMpduitqDIuHdJjlBStpMCErF3caun38F2U) to get your unique zoom link for next training.  
 
 **Option 2:**
 Join grassroot activists across the nation to call, text, write, or raise fund for Biden/Harris and other Democratic candidates.  Find your event by selecting a swing state or event type at https://togetherfor2020.org/calendar/ .
