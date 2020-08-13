@@ -5,6 +5,8 @@ categories:
 - event
 tags:
 - other
+- natel
+- voters
 is featured: true
 main-image: "/uploads/Mark%20Kelly-aec705.JPG"
 event-start-date: 2020-08-13 14:30:00 -10:00
