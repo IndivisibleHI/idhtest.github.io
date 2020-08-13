@@ -16,7 +16,7 @@ A total of 491,719 (that's less than half million of 128.8 million) votes in Mic
 
 Ready to build your personal action plan to turnout votes for Dems? Pick your favorite swing state, choose your favorite task for your action plan.  See options below.
 
-Already have an action plan?  Join fellow activists from Hawaii in "Shut Up and Do".  Must register [here](https://us02web.zoom.us/meeting/register/tZcpc-GoqzIsGNN_PAWgNz9XJwGJe8jSCjba)to get your unique zoom link to join.
+Already have an action plan?  Join fellow activists from Hawaii in "Shut Up and Do".  Must register [here](https://us02web.zoom.us/meeting/register/tZcpc-GoqzIsGNN_PAWgNz9XJwGJe8jSCjba) to get your unique zoom link to join.
 
 **Option 1:** 
 Join Indivisible Hawaii members to write VoteFwd letters or Reclaim Our Vote postcards - sign up at **https://tinyurl.com/bluewavehi-100days** and one of BlueWave Hawaii members will contact you.
