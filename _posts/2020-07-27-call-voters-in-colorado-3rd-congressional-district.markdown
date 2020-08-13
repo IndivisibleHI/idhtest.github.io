@@ -5,6 +5,8 @@ categories:
 - event
 tags:
 - other
+- natel
+- voters
 is featured: true
 main-image: "/uploads/CO%20Hicklenlooper%20Bush.jpg"
 event-start-date: 2020-08-12 14:30:00 -10:00
