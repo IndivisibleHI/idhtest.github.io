@@ -20,6 +20,6 @@ The court ordered NC CD-11 to be redrawn (to undo the gerrymandering) which mean
 
 Join SwingLeft/Indivisible Western NC team to call to turnout voters for the Dems.  Don’t worry if you’ve never done something like this before. You will be provided with a phone script, training and a list of voters to call. You’ll need a phone and a laptop computer or tablet to make calls.
 
-**You must RSVP** on SwingLeft.
+**You must RSVP** to receive zoom meeting information.
 
 Go to https://www.calfornc.com/ to learn about Cal Cunningham and https://moedavisforcongress.com/ to learn about Moe Davis.
