@@ -3,6 +3,8 @@ title: Analysis of Hawaii Primary Election
 date: 2020-08-24 08:28:00 -10:00
 categories:
 - event
+tags:
+- other
 is featured: true
 main-image: "/uploads/Common%20Cause%20-%20Aug%2025.jpg"
 event-start-date: 2020-08-25 18:00:00 -10:00
