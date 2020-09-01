@@ -7,7 +7,7 @@ tags:
 - voters
 - natel
 is featured: true
-main-image: "/uploads/Trump%20King.JPG"
+main-image: "/uploads/Biden%20Harris.JPG"
 event-start-date: 2020-10-04 12:00:00 -10:00
 event-end-date: 2020-10-04 13:00:00 -10:00
 RSVP-link: https://us02web.zoom.us/meeting/register/tZUscuCvpz4uGtCUJLZHyUGZ_A7lN0rLnWpx
