@@ -1,5 +1,5 @@
 ---
-title: Almost 8000 VoteFwd Letters Written and 2000 More To Go
+title: Almost 8000 VoteFwd Letters Written and Just 2000 More To Go
 date: 2020-08-31 15:24:00 -10:00
 is featured: true
 main-image: "/uploads/Caroline%20and%20VoteFwd%20Letters.JPG"
