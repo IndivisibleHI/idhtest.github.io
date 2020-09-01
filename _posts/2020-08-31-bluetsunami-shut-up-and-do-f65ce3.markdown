@@ -18,7 +18,7 @@ October 11, 2020
 
 23 days to go until the election day of our life time.  READY to dedicate two hours of your time per week to **Beat Trump** and **flip the U.S. Senate** blue? Using "Shut Up and Write" structure which writers effectively used for years, we will zoom and then write/call/text to the voters in swing states. 
 
-* 11:30AM to NOON HST: **Optional** training on phonebanking, textbanking, VoteFwd letter writing
+* 11:30AM to NOON HST: Optional Training
 * NOON to 1:30PM HST: Shut Up and Do
 
 You must **RSVP/register** to receive your unique link to join "BlueWave Hawaii Shut Up and Do" zoom meeting Sunday October 11th NOON HST (or 11:30AM HST for optional training)
