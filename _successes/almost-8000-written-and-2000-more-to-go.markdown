@@ -1,5 +1,5 @@
 ---
-title: Almost 8000 VoteFwd Letters Ready for BIG SEND
+title: Almost 8000 VoteFwd Letters Ready (2000 more to write) for BIG SEND
 date: 2020-08-31 15:24:00 -10:00
 is featured: true
 main-image: "/uploads/Caroline%20and%20VoteFwd%20Letters.JPG"
