@@ -10,12 +10,12 @@ is featured: true
 main-image: "/uploads/AZ%20PB%20Candidates.JPG"
 event-start-date: 2020-09-30 16:00:00 -10:00
 event-end-date: 2020-09-30 18:00:00 -10:00
-RSVP-link: https://www.mobilize.us/swingleft/event/320861/
+RSVP-link: https://us02web.zoom.us/meeting/register/tZMoc-2sqjIqH9ZVZQ6sOtC4lflu1Pl1Dh2G
 ---
 
 Trump won Arizona in 2016 by only 3.9% and Joe is currently leading by 4.6%. Yeah we can win Arizona this election!
 
-Call to turnout votes for Joe/Kamala for White House and Mark Kelly for U.S. Senate.  You **[must RSVP](https://www.mobilize.us/swingleft/event/320861/)** to receive zoom information and instruction.
+Call to turnout votes for Joe/Kamala for White House and Mark Kelly for U.S. Senate.  You **[must RSVP](https://us02web.zoom.us/meeting/register/tZMoc-2sqjIqH9ZVZQ6sOtC4lflu1Pl1Dh2G)** to receive zoom information and instruction.
 
 Agenda (times in Hawaii time which is 3 hours behind Arizona time):
 * 4PM Training
