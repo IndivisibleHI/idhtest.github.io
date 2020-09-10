@@ -7,7 +7,7 @@ tags:
 - natel
 - voters
 is featured: true
-main-image: "/uploads/NC%20PB%20Candidates-5b7230.JPG"
+main-image: "/uploads/NC%20PB%20Candidates.JPG"
 event-start-date: 2020-09-25 11:00:00 -10:00
 event-end-date: 2020-09-25 13:00:00 -10:00
 RSVP-link: https://www.mobilize.us/swingleft/event/320868/
