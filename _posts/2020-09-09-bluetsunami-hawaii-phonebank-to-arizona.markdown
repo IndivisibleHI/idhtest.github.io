@@ -17,7 +17,7 @@ Trump won Arizona in 2016 by only 3.9% and Joe is currently leading by 4.6%. Yea
 
 Call to turnout votes for Joe/Kamala for White House and Mark Kelly for U.S. Senate.  You **[must RSVP](https://www.mobilize.us/swingleft/event/320861/)** to receive zoom information and instruction.
 
-Agenda (times in Hawaii time which is 3 hours behind Arizona time:
+Agenda (times in Hawaii time which is 3 hours behind Arizona time):
 * 4PM Training
 * 4:30PM Phonebank
 * 5:45PM Debrief
