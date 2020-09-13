@@ -1,5 +1,5 @@
 ---
-title: BlueTsunami 30 Day Sprint Kickoff
+title: BlueTsunami Celebration and 30 Day Sprint Kickoff
 date: 2020-08-31 14:45:00 -10:00
 categories:
 - event
