@@ -10,7 +10,7 @@ is featured: true
 main-image: "/uploads/NC%20PB%20Candidates.JPG"
 event-start-date: 2020-09-25 11:00:00 -10:00
 event-end-date: 2020-09-25 13:00:00 -10:00
-RSVP-link: https://www.mobilize.us/swingleft/event/320868/
+RSVP-link: https://us02web.zoom.us/meeting/register/tZMlce-vrDwqG93LGlpMbG0ViIU8jeur1adv
 ---
 
 Trump won North Carolina in 2016 by only 3.8% and Joe is currently leading by 1.8%. Yeah let's turnout votes for Joe/Kamala so we can win in this southern state this election!
