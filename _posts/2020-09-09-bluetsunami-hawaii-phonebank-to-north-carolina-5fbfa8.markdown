@@ -13,7 +13,7 @@ event-end-date: 2020-09-25 13:00:00 -10:00
 RSVP-link: https://www.mobilize.us/swingleft/event/320868/
 ---
 
-Trump won North Carolina in 2016 by only 3.8% and Joe is currently leading by 1.8%. Yeah we can win in this southern state this election!
+Trump won North Carolina in 2016 by only 3.8% and Joe is currently leading by 1.8%. Yeah let's turnout votes for Joe/Kamala so we can win in this southern state this election!
 
 This one is a 4'fer - Joe/Kamala for White House, Cal Cunningham for U.S. Senate, Re-elect NC Governor Roy Cooper for NC Governor, and Re-elect Chief Justice Cheri Beasley (the first African American woman in NC Supreme Court).
 
