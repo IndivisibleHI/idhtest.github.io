@@ -21,4 +21,4 @@ STTP a Milwaukee tax-exempt organization where Reverend Lewis leads a congregati
 **Reverend Lewis**
 The LA Times  (9-9-2020) did a front page profile of Reverend Lewis. The story underscores the critical role of trusted, community-based organizations like Souls to the Polls. See this link: [Rev Greg Lewis](https://www.latimes.com/politics/story/2020-09-10/black-voters-wisconsin-pandemic-disenfranchisement-pastor)
 
-This is an Indivisible Hawaii event joined by co-sponsors the Secure Elections Network, Defending Cities with Virus Free Voting Project Team, Venice Resistance, Indivisible Chicago and Indivisible Evanston.
+**This is an Indivisible Hawaii event joined by co-sponsors the Secure Elections Network, Defending Cities with Virus Free Voting Project Team, Venice Resistance, Indivisible Chicago and Indivisible Evanston. Please RSVP to join this informative discussion.**
