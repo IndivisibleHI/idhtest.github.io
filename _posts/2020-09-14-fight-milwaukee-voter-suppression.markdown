@@ -17,7 +17,7 @@ Learn why there is an urgent need to take action in Wisconsin now
 Trump won Wisconsin by only 22,748 votes in 2016. Nearly 40 percent of Milwaukee’s population is African American, largely concentrated in the city center zip code of 53206. Driven by a range of voter suppression tactics, the turnout in this and other predominantly African American communities dropped by nearly 29,000 votes in 2016.
 
 **What is Souls to the Polls (STTP)?**
-STTP a Milwaukee tax-exempt organization where Reverend Lewis leads a congregation-based organizing initiative uniting over 100 ministers and their congregations in Milwaukee’s central city. STTP's mission is to fight structural racism, protect the right to vote, and to increase voter turn out. For more info, see this link [](http://soulstothepollsmke.org/http://)
+STTP a Milwaukee tax-exempt organization where Reverend Lewis leads a congregation-based organizing initiative uniting over 100 ministers and their congregations in Milwaukee’s central city. STTP's mission is to fight structural racism, protect the right to vote, and to increase voter turn out. For more info, see this link [Souls to the Polls](http://soulstothepollsmke.org/http://)
 
 **Reverend Lewis**
 The LA Times  (9-9-2020) did a front page profile of Reverend Lewis. The story underscores the critical role of trusted, community-based organizations like Souls to the Polls.
