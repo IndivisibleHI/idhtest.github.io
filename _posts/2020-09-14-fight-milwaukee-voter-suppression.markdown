@@ -6,6 +6,7 @@ categories:
 is featured: true
 main-image: "/uploads/souls2polls-revlewis.png"
 event-start-date: 2020-09-19 14:00:00 -10:00
+event-end-date: 2020-09-19 15:00:00 -10:00
 RSVP-link: https://us02web.zoom.us/webinar/register/WN_N-zG3fE_QjeHZd0CDtGxxw
 ---
 
@@ -23,4 +24,4 @@ The LA Times  (9-9-2020) did a front page profile of Reverend Lewis. The story u
 
 This is an Indivisible Hawaii event with co-sponsors: the Secure Elections Network, Defending Cities with Virus Free Voting Project Team, Venice Resistance, Indivisible Chicago and Indivisible Evanston. 
 
-**Please RSVP to join this informative discussion. Sat, Sept 19, 2pm HST**
+**Please RSVP to join this informative discussion. Sat, Sept 19, 2pm-3pm HST**
