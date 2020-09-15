@@ -10,7 +10,7 @@ RSVP-link: https://us02web.zoom.us/webinar/register/WN_N-zG3fE_QjeHZd0CDtGxxw
 ---
 
 **THE MILWAUKEE STORY:**
-**A conversation with Souls to the Polls President, Reverend Gregory Lewis. Learn why there is an urgent need to take action in Wisconsin now.** 
+A conversation with Souls to the Polls President, Reverend Gregory Lewis. Learn why there is an urgent need to take action in Wisconsin now. 
 
 **Why Milwaukee?** 
 Trump won Wisconsin by only 22,748 votes in 2016. Nearly 40 percent of Milwaukee’s population is African American, largely concentrated in the city center zip code of 53206. Driven by a range of voter suppression tactics, the turnout in this and other predominantly African American communities dropped by nearly 29,000 votes in 2016.
