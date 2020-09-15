@@ -15,9 +15,9 @@ RSVP-link: https://www.mobilize.us/swingleft/event/320868/
 
 Trump won North Carolina in 2016 by only 3.8% and Joe is currently leading by 1.8%. Yeah we can win in this southern state this election!
 
-This one is a 5'fer - Joe/Kamala for White House, Cal Cunningham for U.S. Senate, Re-elect NC Governor Roy Cooper for NC Governor, Re-elect Chief Justice Cheri Beasley (the first African American woman in NC Supreme Court), and for Democratic candidates for NC State Senate and NC State House.
+This one is a 4'fer - Joe/Kamala for White House, Cal Cunningham for U.S. Senate, Re-elect NC Governor Roy Cooper for NC Governor, and Re-elect Chief Justice Cheri Beasley (the first African American woman in NC Supreme Court).
 
-You ** [must RSVP](https://www.mobilize.us/swingleft/event/320868/)** to receive zoom information and instruction.
+You ** [must register/RSVP](https://us02web.zoom.us/meeting/register/tZMlce-vrDwqG93LGlpMbG0ViIU8jeur1adv) ** to receive zoom information and instruction.
 
 Agenda (times in Hawaii time which is 6 hours behind NC time):
 * 11AM Training
