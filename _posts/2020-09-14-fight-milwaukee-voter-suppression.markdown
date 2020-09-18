@@ -5,8 +5,8 @@ categories:
 - event
 is featured: true
 main-image: "/uploads/souls2polls-revlewis.png"
-event-start-date: 2020-09-19 20:07:00 -10:00
-event-end-date: 2020-09-19 21:08:00 -10:00
+event-start-date: 2020-09-19 14:00:00 -10:00
+event-end-date: 2020-09-19 15:00:00 -10:00
 RSVP-link: https://us02web.zoom.us/webinar/register/WN_N-zG3fE_QjeHZd0CDtGxxw
 ---
 
