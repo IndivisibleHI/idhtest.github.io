@@ -26,4 +26,4 @@ This is an Indivisible Hawaii event with co-sponsors: the Secure Elections Netwo
 
 **You must RSVP to join this informative discussion.**
 
-**Sept 19, 2pm HST / 5pm Pacific / 7pm Central / 8pm EST**
+**Sept 19, 2020 - 2pm HST / 5pm Pacific / 7pm Central / 8pm EST**
