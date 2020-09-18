@@ -24,5 +24,6 @@ The LA Times  (9-9-2020) did a front page profile of Reverend Lewis. The story u
 
 This is an Indivisible Hawaii event with co-sponsors: the Secure Elections Network, Defending Cities with Virus Free Voting Project Team, Venice Resistance, Indivisible Chicago and Indivisible Evanston. 
 
-**Please RSVP to join this informative discussion.**
-**2pm HST / 5pm Pacific / 7pm Central / 8pm EST**
+**You must RSVP to join this informative discussion.**
+
+**Sept 19, 2pm HST / 5pm Pacific / 7pm Central / 8pm EST**
