@@ -25,4 +25,4 @@ Agenda (times in Hawaii time which is 3 hours behind Arizona time):
 
 Don’t worry if you’ve never done something like this before. We’ll train you, provide a phone script and a list of voters to call.  Watch [this video](https://www.youtube.com/watch?v=6J9vREXbXlM&feature=youtu.be) to hear from other volunteers.
 
-You’ll need a **phone and a laptop computer or tablet** to make calls.
+You’ll need a **phone and a computer or tablet** to make calls.
