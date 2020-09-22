@@ -19,7 +19,7 @@ September 27, 2020
 37 days to go until the election day of our life time. READY to write to the voters in swing states to **Beat Trump** and **flip U.S. Senate blue**? 
 Join us to learn how to use VoteFwd to write to Democrats in swing states to vote safely from home or vote early.   
 
-You must **RSVP/register** to get your unique link to the zoom meeting.
+You must **[RSVP/register](https://us02web.zoom.us/meeting/register/tZMpduitqDIuHdJjlBStpMCErF3caun38F2U)** to get your unique link to the zoom meeting.
 
 When we Vote, We Win. When we write, We Vote. When we Text, We Vote. When we Call, We Vote.
 
