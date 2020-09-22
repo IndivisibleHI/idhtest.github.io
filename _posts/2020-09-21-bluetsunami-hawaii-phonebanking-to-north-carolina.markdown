@@ -1,5 +1,5 @@
 ---
-title: BlueTsunami Hawaii Phonebanking to North Carolina
+title: BlueTsunami Hawaii Phonebank to North Carolina
 date: 2020-09-21 16:14:00 -10:00
 categories:
 - event
