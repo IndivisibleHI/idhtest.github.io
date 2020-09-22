@@ -1,6 +1,11 @@
 ---
 title: BlueTsunami Hawaii Phonebank to North Carolina
 date: 2020-09-21 16:20:00 -10:00
+categories:
+- event
+tags:
+- natel
+- voters
 is featured: true
 main-image: "/uploads/NC%20PB%20Candidates.JPG"
 event-start-date: 2020-10-23 11:00:00 -10:00
