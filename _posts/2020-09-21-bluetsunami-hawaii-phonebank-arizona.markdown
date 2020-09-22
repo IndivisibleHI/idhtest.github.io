@@ -1,6 +1,11 @@
 ---
-title: BlueTsunami Hawaii Phonebank Arizona
+title: BlueTsunami Hawaii Phonebank to Arizona
 date: 2020-09-21 16:26:00 -10:00
+categories:
+- event
+tags:
+- natel
+- voters
 is featured: true
 main-image: "/uploads/AZ%20PB%20Candidates.JPG"
 event-start-date: 2020-09-30 16:00:00 -10:00
