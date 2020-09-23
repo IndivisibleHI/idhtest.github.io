@@ -29,6 +29,7 @@ defaults:
     type: posts
   values:
     is featured: false
+    pinned: false
     main-image: 
     call-script-text: 
     event-start-date: 

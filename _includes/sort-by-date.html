@@ -27,7 +27,8 @@ The return variable is S_posts, the array of sorted posts.
 {% assign S_event_index = 0 %}
 {% assign S_action_index = 0 %}
 
-{% assign S_posts = '' | split: '' %}
+{% assign S_normal_posts = '' | split: '' %}
+{% assign S_pinned_posts = '' | split: '' %}
 
 {% for S_update in S_updates %}
   {% assign S_posts = S_posts | push: S_update %}
@@ -41,18 +42,18 @@ The return variable is S_posts, the array of sorted posts.
   {% if S_next_act_date == nil or S_next_ev_date < S_next_act_date %}
     {% assign S_next_event = S_events[S_event_index] %}
     {% if S_next_event.pinned == true %}
-      {% assign S_posts = (S_posts | unshift: S_next_event) %}
+      {% assign S_pinned_posts = (S_pinned_posts | push: S_next_event) %}
     {% else %}
-      {% assign S_posts = (S_posts | push: S_next_event) %}
+      {% assign S_normal_posts = (S_normal_posts | push: S_next_event) %}
     {% endif %}
     {% assign S_used_events = (S_used_events | push: S_next_event) %}
     {% assign S_event_index = (S_used_events | size) %}
   {% else %}
     {% assign S_next_action = S_actions[S_action_index] %}
     {% if S_next_action.pinned == true %}
-      {% assign S_posts = (S_posts | unshift: S_next_action %}
+      {% assign S_pinned_posts = (S_pinned_posts | push: S_next_action %}
     {% else %}
-      {% assign S_posts = (S_posts | push: S_next_action) %}
+      {% assign S_normal_posts = (S_normal_posts | push: S_next_action) %}
     {% endif %}
     {% assign S_used_actions = (S_used_actions | push: S_next_action) %}
     {% assign S_action_index = (S_used_actions | size) %}
@@ -65,20 +66,22 @@ The return variable is S_posts, the array of sorted posts.
   {% if S_next_act_date == nil or S_next_ev_date < S_next_act_date %}
     {% assign S_next_event = S_events[S_event_index] %}
     {% if S_next_event.pinned == true %}
-      {% assign S_posts = (S_posts | unshift: S_next_event) %}
+      {% assign S_pinned_posts = (S_pinned_posts | push: S_next_event) %}
     {% else %}
-      {% assign S_posts = (S_posts | push: S_next_event) %}
+      {% assign S_normal_posts = (S_normal_posts | push: S_next_event) %}
     {% endif %}
     {% assign S_used_events = (S_used_events | push: S_next_event) %}
     {% assign S_event_index = (S_used_events | size) %}
   {% else %}
     {% assign S_next_action = S_actions[S_action_index] %}
     {% if S_next_action.pinned == true %}
-      {% assign S_posts = (S_posts | unshift: S_next_action %}
+      {% assign S_pinned_posts = (S_pinned_posts | push: S_next_action %}
     {% else %}
-      {% assign S_posts = (S_posts | push: S_next_action) %}
+      {% assign S_normal_posts = (S_normal_posts | push: S_next_action) %}
     {% endif %}
     {% assign S_used_actions = (S_used_actions | push: S_next_action) %}
     {% assign S_action_index = (S_used_actions | size) %}
   {% endif %}
 {% endfor %}
+
+{% assign S_posts = S_pinned_posts | concat: S_normal_posts %}
