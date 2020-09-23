@@ -1,5 +1,5 @@
 ---
-title: BlueTsunami Hawaii Just Call/Text/Write
+title: Just Call/Text/Write
 date: 2020-09-21 17:18:00 -10:00
 categories:
 - event
