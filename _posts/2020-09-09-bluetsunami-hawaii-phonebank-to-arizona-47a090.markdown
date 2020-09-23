@@ -1,5 +1,5 @@
 ---
-title: BlueTsunami Hawaii Phonebank to Arizona
+title: Phonebank to Arizona
 date: 2020-09-09 17:43:00 -10:00
 categories:
 - event
