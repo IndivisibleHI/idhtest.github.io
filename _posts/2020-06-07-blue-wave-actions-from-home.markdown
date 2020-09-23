@@ -7,6 +7,7 @@ tags:
 - natel
 - voters
 is featured: true
+pinned: true
 main-image: "/uploads/SwingLeft%20Super%20States-b46d6c.JPG"
 event-start-date: 2020-06-07 00:00:00 -10:00
 event-end-date: 2020-11-03 00:00:00 -10:00
