@@ -1,5 +1,5 @@
 ---
-title: BlueTsunami Training - VoteFwd Letters to Swing States
+title: Training - VoteFwd Letters to Swing States
 date: 2020-08-31 14:57:00 -10:00
 categories:
 - event
