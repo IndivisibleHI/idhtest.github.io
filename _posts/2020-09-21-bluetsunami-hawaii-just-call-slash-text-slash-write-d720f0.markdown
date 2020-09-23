@@ -7,7 +7,7 @@ tags:
 - natel
 - voters
 is featured: true
-pinned: true
+pinned: false
 main-image: "/uploads/BlueWaveHawaii%20(1).jpg"
 event-start-date: 2020-10-25 12:00:00 -10:00
 event-end-date: 2020-10-25 13:30:00 -10:00
