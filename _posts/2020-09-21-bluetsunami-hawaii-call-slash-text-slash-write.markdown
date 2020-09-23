@@ -1,5 +1,5 @@
 ---
-title: BlueTsunami Hawaii Just Call/Text/Write
+title: Just Call/Text/Write
 date: 2020-09-21 17:14:00 -10:00
 is featured: true
 main-image: "/uploads/BlueWaveHawaii%20(1).jpg"
