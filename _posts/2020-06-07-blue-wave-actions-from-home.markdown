@@ -1,5 +1,5 @@
 ---
-title: 'BlueTsunami: Pick Your Swing State, Pick Your Favorite Task'
+title: 'Options: Call, Text, Write to Swing States'
 date: 2020-06-07 21:36:00 -10:00
 categories:
 - action
