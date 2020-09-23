@@ -32,6 +32,8 @@ Most of the fields to fill out are self-explanatory, but some are a bit subtle:
 
 + `is featured` controls whether the event shows up on the front page of our website. Please only feature up to two events at a time. We encourage you to feature your next team meeting!
 
++ `pinned` forces an event or action to the top of our homepage. Only one event or one action should be pinned at a time!
+
 On the right sidebar of the new/edit post page, there are a few extra controls:
 
 + The big "Save" button, which (duh) you click on to save your post. Make sure it has the correct "visibility" (see the next point).
