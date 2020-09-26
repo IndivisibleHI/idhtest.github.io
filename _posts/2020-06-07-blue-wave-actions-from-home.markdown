@@ -20,7 +20,7 @@ Ready to build your personal action plan to turnout votes for Dems? Pick your fa
 Already have an action plan?  Join fellow activists from Hawaii in "Just Call/Text/Write".  Must register [here](https://us02web.zoom.us/meeting/register/tZArduGvrjIvHtJMFgItBYBfZcrhY6Qi7Ca0) to get your unique zoom link to join.
 
 **Option 1:** 
-Join Indivisible Hawaii members on October 4th to celebrate the BIG SEND and to kickoff 30 Day Sprint to the last day of election.  **[Reserve You Seat](https://us02web.zoom.us/meeting/register/tZUscuCvpz4uGtCUJLZHyUGZ_A7lN0rLnWpx)** today.  
+Join Indivisible Hawaii members on October 4th to celebrate the BIG SEND and to kickoff 30 Day Sprint to the last day of election.  **[Reserve Your Seat](https://us02web.zoom.us/meeting/register/tZUscuCvpz4uGtCUJLZHyUGZ_A7lN0rLnWpx)** today.  
 
 Want training?  
 * Register [here](https://us02web.zoom.us/meeting/register/tZMoc-2sqjIqH9ZVZQ6sOtC4lflu1Pl1Dh2G) to get trained to phonebank to Arizona
