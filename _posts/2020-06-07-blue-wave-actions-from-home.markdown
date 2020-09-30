@@ -25,8 +25,11 @@ Join Indivisible Hawaii members on October 4th to celebrate the BIG SEND and to 
 Want training?  
 * Register [here](https://us02web.zoom.us/meeting/register/tZMoc-2sqjIqH9ZVZQ6sOtC4lflu1Pl1Dh2G) to get trained to phonebank to Arizona
 * Register [here](https://us02web.zoom.us/meeting/register/tZMlce-vrDwqG93LGlpMbG0ViIU8jeur1adv) to get trained to phonebank to North Carolina
-* Register [here](https://us02web.zoom.us/meeting/register/tZMpduitqDIuHdJjlBStpMCErF3caun38F2U) for VoteFwd letter writing training
-* Email natel+owner@indivisiblehawaii.org if you have any questions about postcarding with [postcards4nc](https://www.postcards4nc.com/)
+* Email natel+owner@indivisiblehawaii.org if you 
+* *  want recommendations on phonebanking or textbanking to Arizona and North Carolina on voter protection
+* *  want recommendations on textbanking 
+* * have any questions about postcarding with [postcards4nc](https://www.postcards4nc.com/) or writing letters with [VoteFwd](htttps://www.votefwd.org)
+
 
 **Option 2:**
 Join volunteers across the nation to call or text eligible but purged voters of color to re-register them.  16 million voters were purged for 2016 election, 4 million more than for 2012 election.  For every one white voter purged, four Latinx voters are purged, nine black voters are purged. Black voter turnout declined significantly in 2016, Latinx voter turnout also declined. [Sign up](https://actionnetwork.org/forms/reclaim-our-vote-signup) to volunteer for Reclaim Our Vote.
