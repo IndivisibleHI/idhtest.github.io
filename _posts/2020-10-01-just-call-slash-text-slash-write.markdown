@@ -8,8 +8,8 @@ tags:
 - voters
 is featured: true
 main-image: "/uploads/BlueWaveHawaii%20(1).jpg"
-event-start-date: 2020-10-18 11:00:00 -10:00
-event-end-date: 2020-10-18 13:00:00 -10:00
+event-start-date: 2020-10-18 12:00:00 -10:00
+event-end-date: 2020-10-18 14:00:00 -10:00
 RSVP-link: https://us02web.zoom.us/meeting/register/tZArduGvrjIvHtJMFgItBYBfZcrhY6Qi7Ca0
 ---
 
