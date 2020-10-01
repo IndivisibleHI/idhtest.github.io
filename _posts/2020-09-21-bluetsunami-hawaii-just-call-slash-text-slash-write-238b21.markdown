@@ -1,5 +1,5 @@
 ---
-title: Just Call/Text/Write
+title: Just Call/Text/Write Nov 1
 date: 2020-09-21 17:18:00 -10:00
 categories:
 - event
@@ -8,14 +8,14 @@ tags:
 - voters
 is featured: true
 main-image: "/uploads/BlueWaveHawaii%20(1).jpg"
-event-start-date: 2020-11-01 12:00:00 -10:00
-event-end-date: 2020-11-01 13:30:00 -10:00
+event-start-date: 2020-11-01 11:00:00 -10:00
+event-end-date: 2020-11-01 13:00:00 -10:00
 RSVP-link: https://us02web.zoom.us/meeting/register/tZArduGvrjIvHtJMFgItBYBfZcrhY6Qi7Ca0
 ---
 
-Pick pick your worst nightmare of the Trump Administration. Now imagine 1460 more days of the Trump Administration.
+Pick your worst nightmare of the Trump Administration. Now imagine 1460 more days of the Trump Administration.  
 
-READY to dedicate few hours of your time per week to Beat Trump and flip the U.S. Senate blue? Using "Shut Up and Write" structure which writers effectively used for years, we will zoom and then call/text/write to the voters in swing states.
+READY to Call/Text/Write to 10 left leaning infrequent voters in a swing state per day? READY to dedicate few hours of your time per week for Joe & Kamala and to flip the U.S. Senate blue? Using "Shut Up and Write" structure which writers effectively used for years, we will zoom and then call/text/write to the voters in swing states.  We will also provide **training to phonebank** to Arizona and North Carolina, and **set you up to write** letters & postcards.  
 
 You must **[register/RSVP](https://us02web.zoom.us/meeting/register/tZArduGvrjIvHtJMFgItBYBfZcrhY6Qi7Ca0)** to receive zoom information and instruction.
 
