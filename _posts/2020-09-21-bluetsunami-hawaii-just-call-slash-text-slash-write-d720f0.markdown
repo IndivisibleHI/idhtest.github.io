@@ -1,5 +1,5 @@
 ---
-title: Just Call/Text/Write
+title: Just Call/Text/Write Oct 25
 date: 2020-09-21 17:26:00 -10:00
 categories:
 - event
