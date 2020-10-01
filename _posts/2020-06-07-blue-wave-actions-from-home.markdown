@@ -22,7 +22,7 @@ Join Indivisible Hawaii members on October 4th to celebrate the BIG SEND and to 
 
 Want training?  
 * Register [here](https://us02web.zoom.us/meeting/register/tZMlce-vrDwqG93LGlpMbG0ViIU8jeur1adv) to get trained to phonebank to North Carolina
-* Register [here](https://us02web.zoom.us/meeting/register/tZArduGvrjIvHtJMFgItBYBfZcrhY6Qi7Ca0) to get trained to phonebank to Arizona or North Carolina, OR to get set up to write [VoteFwd](https://www.votefwd.org) letters and postcarding with [postcards4nc](https://www.postcards4nc.com/) 
+* Register [here](https://us02web.zoom.us/meeting/register/tZArduGvrjIvHtJMFgItBYBfZcrhY6Qi7Ca0) to get trained to phonebank to Arizona or North Carolina, OR to get set up to write [VoteFwd](https://www.votefwd.org) letters and postcarding
 
 Register [here](https://us02web.zoom.us/meeting/register/tZArduGvrjIvHtJMFgItBYBfZcrhY6Qi7Ca0) to just call, text, write to voters in swing states with fellow activists.
 
