@@ -1,5 +1,5 @@
 ---
-title: Just Call/Text/Write
+title: Just Call/Text/Write/Get Trained
 date: 2020-10-01 13:04:00 -10:00
 categories:
 - event
