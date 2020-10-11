@@ -27,11 +27,11 @@ Democrats need to be in the majority in 26 State delegations in the next Congres
  
 **FOCUS ON SIX RACES**
 
-The six candidates we are backing are in very competitive races to win or keep the Democratic majority in their states:  Alaska-Alyse Galvin-Independent supported by the Democratic Party At Large:   Iowa:  Rita Hart-Democrat in IA 2:   Michigan: Hillary Scholten-Democrat in MI 3:   Michigan:  Jon Hoadley-Democrat in MI 6:  Montana:  Kathleen Williams- Democrat At Large:   Pennsylvania-Eugene DePasquale in PA 10  
+**The six candidates we are backing are in very competitive races to win or keep the Democratic majority in their states:**  Alaska: Alyse Galvin-Independent supported by the Democratic Party At Large:   Iowa:  Rita Hart-Democrat in IA 2:   Michigan: Hillary Scholten-Democrat in MI 3:   Michigan:  Jon Hoadley-Democrat in MI 6:  Montana:  Kathleen Williams- Democrat At Large:   Pennsylvania-Eugene DePasquale in PA 10  
 
 [**DONATE TO THE CANDIDATES HERE**](https://secure.actblue.com/donate/12adf_oct16th)
 
-NOTE ON DONATIONS:
+**NOTE ON DONATIONS:**
 
 The Twelfth Amendment Defenders Fund supports 22 candidates whose victories are essential to holding current state delegations and winning four more states to obtain a 12th Amendment safe majority.  The list of 22 candidates from 8 targeted states is below.  We invite you to support the fund either by supporting all 22 candidates or allocating your donation to specific candidates.
 
