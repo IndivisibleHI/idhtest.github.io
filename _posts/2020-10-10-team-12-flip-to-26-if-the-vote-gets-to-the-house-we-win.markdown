@@ -1,7 +1,5 @@
 ---
-title: |-
-  Team 12 – Flip to 26
-  If the Vote Gets to the House, We Win
+title: If the Presidential Vote Gets to the House, We Win
 date: 2020-10-10 14:33:00 -10:00
 categories:
 - event
@@ -11,12 +9,12 @@ event-end-date: 2020-10-16 14:00:00 -10:00
 RSVP-link: https://us02web.zoom.us/webinar/register/WN_hk2fUmGqRQW-tb1V_wt3Qg
 ---
 
-**Join us for a Virtual Event to Support Six Key House Candidates to Win 26 House State Delegations **
+**Join "Team 12 - Flip to 26" for a Virtual Event to Support Six Key House Candidates to Win 26 House State Delegations**
 
 **Friday, October 16, 2020
 7PM EDT / 5PM MT / 4PM PDT / 3PM AK / 1PM HST**
 
-**Guest Speaker: Congressman Jamie Raskin**
+**GUEST SPEAKER: U.S. CONGRESSMAN JAMIE RASKIN**
 
 Congressman Raskin (D-MD) is a distinguished Constitutional scholar and professor of Constitutional Law. At this event, Congressman Raskin will inform us about the Twelfth Amendment, and why securing 26 House Delegations will serve as a critical backstop for this election. 
 
