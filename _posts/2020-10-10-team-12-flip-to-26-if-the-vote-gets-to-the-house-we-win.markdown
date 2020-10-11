@@ -1,5 +1,5 @@
 ---
-title: If the Presidential Vote Gets to the House, We Win
+title: Help us Ensure if the Presidential Vote Goes to the House, We Win
 date: 2020-10-10 14:33:00 -10:00
 categories:
 - event
