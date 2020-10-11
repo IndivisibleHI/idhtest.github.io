@@ -37,7 +37,7 @@ The Twelfth Amendment Defenders Fund supports 22 candidates whose victories are 
 
 **Donate Today:**  Now is the time to take action.  Using this link means your donation will be allocated equally to all 22 of the candidates participating in the Twelfth Amendment Defenders Fund.  Participating candidates are listed below in the shaded box.
 
-**To Allocate Your Donation to Specific Candidate(s): ** First make your donation using the link above.  In a follow up email from the Fund you will be offered the option to allocate your donation to a specific candidate, our targeted 6 candidates or other candidates.  Make sure to fill out the form and return via email to the Fund.
+**To Allocate Your Donation to Specific Candidate(s):** First make your donation using the link above.  In a follow up email from the Fund you will be offered the option to allocate your donation to a specific candidate, our targeted 6 candidates or other candidates.  Make sure to fill out the form and return via email to the Fund.
 
 Contributions and gifts to the Twelfth Amendment Defenders Fund are not deductible for federal income tax purposes.
 
