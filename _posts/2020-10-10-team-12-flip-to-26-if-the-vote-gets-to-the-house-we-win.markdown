@@ -13,7 +13,10 @@ RSVP-link: https://us02web.zoom.us/webinar/register/WN_hk2fUmGqRQW-tb1V_wt3Qg
 
 **Join us for a Virtual Event to Support Six Key House Candidates to Win 26 House State Delegations **
 
-* Guest Speaker: Congressman Jamie Raskin
+**Friday, October 16, 2020
+7PM EDT / 5PM MT / 4PM PDT / 3PM AK / 1PM HST**
+
+**Guest Speaker: Congressman Jamie Raskin**
 
 Congressman Raskin (D-MD) is a distinguished Constitutional scholar and professor of Constitutional Law. At this event, Congressman Raskin will inform us about the Twelfth Amendment, and why securing 26 House Delegations will serve as a critical backstop for this election. 
 
