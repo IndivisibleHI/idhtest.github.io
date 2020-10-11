@@ -28,12 +28,12 @@ Democrats need to be in the majority in 26 State delegations in the next Congres
 **FOCUS ON SIX RACES**
 
 **The six candidates we are backing are in very competitive races to win or keep the Democratic majority in their states**  
-* Alaska: Alyse Galvin-Independent supported by the Democratic Party At Large   
-* Iowa: Rita Hart-Democrat in IA 2   
-* Michigan: Hillary Scholten-Democrat in MI 3   
-* Michigan: Jon Hoadley-Democrat in MI 6  
-* Montana: Kathleen Williams- Democrat At Large  
-* Pennsylvania: Eugene DePasquale in PA 10  
+* Alaska: Alyse Galvin, Independent supported by the Democratic Party At Large   
+* Iowa: Rita Hart, Democrat in IA 2   
+* Michigan: Hillary Scholten, Democrat in MI 3   
+* Michigan: Jon Hoadley, Democrat in MI 6  
+* Montana: Kathleen Williams, Democrat At Large  
+* Pennsylvania: Eugene DePasquale, Democrat in PA 10  
 
 [**DONATE TO THE CANDIDATES HERE**](https://secure.actblue.com/donate/12adf_oct16th)
 
