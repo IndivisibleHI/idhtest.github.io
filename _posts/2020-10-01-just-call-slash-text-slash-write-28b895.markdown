@@ -1,5 +1,5 @@
 ---
-title: Just Call/Text/Write/Get Trained
+title: 'BlueTsunami: Just Do and/or Get Trained'
 date: 2020-10-01 13:04:00 -10:00
 categories:
 - event
