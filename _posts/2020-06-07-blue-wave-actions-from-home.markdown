@@ -30,8 +30,10 @@ As Election Day nears, we're working hard to protect voting rights. Meanwhile, R
 * Email tomrepleh@gmail.com for Ohio voter protection
 
 [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSfupv0s2jcMlrCDA4F9-MOhmg2FFrpMnoRPI_g24MznBYjZ9Q/viewform?edit_requested=true) with DSCC if you can travel for voter protection or interested in another swing state.
+**Option 3: 2020Victory**
+All Hands On Deck -->  all day GOTV phonebanking last three weekends, Monday Nov 2, Tuesday Nov 3!  Fight for NC (aka NC Democratic Party) and Mission for Arizona (aka Arizona Democratic Party) are feeding the data daily from phonebanking to Biden/Harris campaign so they can tweek what they do based on responses.  Interested?  [Sign Up](https://www.mobilize.us/missionforaz/?tag_ids=175) for Arizona and/or [Sign Up](https://www.mobilize.us/nc2020victory/event/345231/) for North Carolina. 
 
-**Option 3: Reclaim Our Vote**
+**Option 4: Reclaim Our Vote**
 Join volunteers across the nation to call or text eligible but purged voters of color to re-register them.  16 million voters were purged for 2016 election, 4 million more than for 2012 election.  For every one white voter purged, four Latinx voters are purged, nine black voters are purged. Black voter turnout declined significantly in 2016, Latinx voter turnout also declined. [Sign up](https://actionnetwork.org/forms/reclaim-our-vote-signup) to volunteer for Reclaim Our Vote.
 
 **Option 4: Call, Text, Write with fellow activists across the nation**
