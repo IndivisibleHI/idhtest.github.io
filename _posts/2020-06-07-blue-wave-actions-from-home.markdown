@@ -30,6 +30,7 @@ As Election Day nears, we're working hard to protect voting rights. Meanwhile, R
 * Email tomrepleh@gmail.com for Ohio voter protection
 
 [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSfupv0s2jcMlrCDA4F9-MOhmg2FFrpMnoRPI_g24MznBYjZ9Q/viewform?edit_requested=true) with DSCC if you can travel for voter protection or interested in another swing state.
+
 **Option 3: 2020Victory**
 All Hands On Deck -->  all day GOTV phonebanking last three weekends, Monday Nov 2, Tuesday Nov 3!  Fight for NC (aka NC Democratic Party) and Mission for Arizona (aka Arizona Democratic Party) are feeding the data daily from phonebanking to Biden/Harris campaign so they can tweek what they do based on responses.  Interested?  [Sign Up](https://www.mobilize.us/missionforaz/?tag_ids=175) for Arizona and/or [Sign Up](https://www.mobilize.us/nc2020victory/event/345231/) for North Carolina. 
 
