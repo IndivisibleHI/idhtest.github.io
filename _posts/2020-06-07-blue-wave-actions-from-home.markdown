@@ -37,7 +37,7 @@ All Hands On Deck -->  all day GOTV phonebanking last three weekends, Monday Nov
 **Option 4: Reclaim Our Vote**
 Join volunteers across the nation to call or text eligible but purged voters of color to re-register them.  16 million voters were purged for 2016 election, 4 million more than for 2012 election.  For every one white voter purged, four Latinx voters are purged, nine black voters are purged. Black voter turnout declined significantly in 2016, Latinx voter turnout also declined. [Sign up](https://actionnetwork.org/forms/reclaim-our-vote-signup) to volunteer for Reclaim Our Vote.
 
-**Option 4: Call, Text, Write with fellow activists across the nation**
+**Option 5: Call, Text, Write with fellow activists across the nation**
 Join grassroot activists across the nation to call, text, write, or raise fund for Biden/Harris and other Democratic candidates.  [Find your event](https://togetherfor2020.org/calendar/) by selecting a swing state or event type at https://togetherfor2020.org/calendar/ .
 
 Let's make this happen.  Let's save our lives.  Let's save our country.  Let's save democracy.  
