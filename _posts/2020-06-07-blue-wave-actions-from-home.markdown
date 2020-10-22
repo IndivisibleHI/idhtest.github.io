@@ -23,10 +23,11 @@ Want training?
 * Register [here](https://us02web.zoom.us/meeting/register/tZArduGvrjIvHtJMFgItBYBfZcrhY6Qi7Ca0) to get trained to phonebank to Arizona or North Carolina, OR to get set up to write [VoteFwd](https://www.votefwd.org) letters and postcarding
 
 **Option 2: Voter Protection**
-As Election Day nears, we're working hard to protect voting rights. Meanwhile, Republicans have made voter suppression a political strategy across the country. Can you phonebank to recruit poll workers, poll observers? staff voter protection hotlines?  
+As Election Day nears, we're working hard to protect voting rights. Meanwhile, Republicans have made voter suppression a political strategy across the country. Can you phonebank to recruit poll workers, poll observers? staff voter assistance hotlines? cure rejected mail-in ballots?
 
 * [Sign up](https://www.mobilize.us/azvoterprotection/event/328107/) for Arizona voter protection
-* [Sign up](https://www.mobilize.us/nc2020victory/event/314753/) for North Carolina voter protection
+* [Sign up](https://www.mobilize.us/nc2020victory/event/314753/) to cure the rejected ballots for North Carolina voter protection
+* [Sign Up](https://www.mobilize.us/ncdems/event/272724/) to recruit volunteers as poll observers and for voter assistance hotlines for North Carolina voter protection
 * Email tomrepleh@gmail.com for Ohio voter protection
 
 [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSfupv0s2jcMlrCDA4F9-MOhmg2FFrpMnoRPI_g24MznBYjZ9Q/viewform?edit_requested=true) with DSCC if you can travel for voter protection or interested in another swing state.
