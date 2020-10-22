@@ -26,7 +26,7 @@ Want training?
 As Election Day nears, we're working hard to protect voting rights. Meanwhile, Republicans have made voter suppression a political strategy across the country. Can you phonebank to recruit poll workers, poll observers? staff voter protection hotlines?  
 
 * [Sign up](https://www.mobilize.us/azvoterprotection/event/328107/) for Arizona voter protection
-* [Sign up](https://www.mobilize.us/ncdems/event/272724/) for North Carolina voter protection
+* [Sign up](https://www.mobilize.us/nc2020victory/event/314753/) for North Carolina voter protection
 * Email tomrepleh@gmail.com for Ohio voter protection
 
 [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSfupv0s2jcMlrCDA4F9-MOhmg2FFrpMnoRPI_g24MznBYjZ9Q/viewform?edit_requested=true) with DSCC if you can travel for voter protection or interested in another swing state.
