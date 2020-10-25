@@ -19,7 +19,8 @@ Ready to call/text/write to 10 left leaning infrequent voters each day for Joe &
 Trump won North Carolina by 3.8% and Arizona by 3.9% in 2016. Biden is slightly favored to win both states.  The Democratic candidates for U.S. Senate in both states also are slightly favored to unseat the GOP incumbent U.S. Senators.  Can you phonebank with activists from across the country to turnout votes for Joe/Kamala and to flip U.S. Senate blue?  
 
 * [Sign up](https://www.mobilize.us/missionforaz/?tag_ids=175) to phonebank with Mission for Arizona (aka Arizona Dems)
-* [Sign up](https://www.mobilize.us/nc2020victory/) to phonebank with Fight for NC (aka NC Dems) 
+* [Sign up](https://www.mobilize.us/nc2020victory/event/345231/) to phonebank with Fight for NC (aka NC Dems) on weekends OR [sign up](https://www.mobilize.us/nc2020victory/event/293672/) to phonebank on weekdays
+* [Sign up](https://www.mobilize.us/nc2020victory/event/344074/) to text with Fight for NC
 
 **Option 2: Voter Protection**
 As Election Day nears, we're working hard to protect voting rights. Meanwhile, Republicans have made voter suppression a political strategy across the country. Can you phonebank to recruit poll observers? staff voter assistance hotlines? cure rejected mail-in ballots?
