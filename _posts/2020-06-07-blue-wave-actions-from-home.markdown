@@ -13,7 +13,7 @@ event-start-date: 2020-06-07 00:00:00 -10:00
 event-end-date: 2020-11-03 00:00:00 -10:00
 ---
 
-Ready to call/text/write to 10 left leaning infrequent voters each day for Joe & Kamala and to flip the entire Congress blue? Here is a list of our recommended options.  Register [here](https://us02web.zoom.us/meeting/register/tZArduGvrjIvHtJMFgItBYBfZcrhY6Qi7Ca0) to join fellow activists from Hawaii Sunday afternoons to just call, text, write to voters in swing states.  Email us natel+owner@indivisiblehawaii.org if you have any questions.  
+Ready to call/text/write to 10 left leaning infrequent voters each day for Joe & Kamala and to flip the entire Congress blue? Here is a list of our recommended options.  Email us natel+owner@indivisiblehawaii.org if you have any questions.  
 
 **Option 1: Get Out the Vote for Arizona and NC**
 Trump won North Carolina by 3.8% and Arizona by 3.9% in 2016. Biden is slightly favored to win both states.  The Democratic candidates for U.S. Senate in both states also are slightly favored to unseat the GOP incumbent U.S. Senators.  Can you **phonebank or textbank** with activists from across the country to turnout votes for Joe/Kamala and to flip U.S. Senate blue?  
