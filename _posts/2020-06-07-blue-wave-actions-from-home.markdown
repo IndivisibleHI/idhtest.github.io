@@ -13,7 +13,7 @@ event-start-date: 2020-06-07 00:00:00 -10:00
 event-end-date: 2020-11-03 00:00:00 -10:00
 ---
 
-Ready to call/text/write to 10 left leaning infrequent voters each day for Joe & Kamala and to flip the entire Congress blue? Here is a list of our recommended options.  Email us natel+owner@indivisiblehawaii.org if you have any questions.  
+Final Dash to BlueTsunami! BlueTsunami: the upcoming Democratic landslide when White House and U.S. Senate are flipped blue; started with BlueWave when U.S. House flipped blue in the 2018 midterm elections. See below for recommended actions you can take.  Email us natel+owner@indivisiblehawaii.org if you have any questions.  
 
 **Option 1: Get Out the Vote for Arizona and NC**
 Trump won North Carolina by 3.8% and Arizona by 3.9% in 2016. Biden is slightly favored to win both states.  The Democratic candidates for U.S. Senate in both states also are slightly favored to unseat the GOP incumbent U.S. Senators.  Can you **phonebank or textbank** with activists from across the country to turnout votes for Joe/Kamala and to flip U.S. Senate blue?  
