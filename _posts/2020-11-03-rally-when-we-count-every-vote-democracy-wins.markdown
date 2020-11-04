@@ -12,13 +12,13 @@ event-end-date: 2020-11-04 18:00:00 -10:00
 Location: Hawaii State Capitol, Beretania St. side
 ---
 
-**Our win is in sight, and we must remain steadfast and project calm, determined confidence that the will of the people will prevail.
+**Our win is in sight, and we must remain steadfast and project calm, determined confidence that the will of the people will prevail.**
 
-Right now it is more important to celebrate that with every hour the Harris/Biden Campaign lead increases.
+**Right now it is more important to celebrate that with every hour the Harris/Biden Campaign lead increases.**
 
-There are millions of votes still outstanding. So, for now, we celebrate and remain on deck should we need to act.
+**There are millions of votes still outstanding. So, for now, we celebrate and remain on deck should we need to act.**
 
-STAY TUNED**.
+**STAY TUNED.**
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
@@ -28,7 +28,7 @@ Indivisible Hawai’i and the Democratic Party of Hawai’i are joining with ***
 
 The Protect the Results coalition includes Indivisible, Stand Up America, Sierra Club, Stand Up Republic, Black Lives Matter, NARAL, Move On, Greenpeace, End Citizens United, Everytown and many others.  Should Trump try to stop counting ballots or challenge the results, the coalition is organized to take action to ensure that all votes are counted and that there is a peaceful transfer of power.
 
-**In Honolulu, we will mobilize on Wednesday, Nov 4, 2020 from 4:30-6:00 pm at the State Capitol (Beretania Street side).**
+**CANCELLED AS OF NOV 4! - In Honolulu, we will mobilize on Wednesday, Nov 4, 2020 from 4:30-6:00 pm at the State Capitol (Beretania Street side).**
 
 * In the event that Donald Trump loses the election and refuses to concede or undermines the results, we will take action to protect our democracy by demanding that all votes are counted and that we have a peaceful transition of power.
 
