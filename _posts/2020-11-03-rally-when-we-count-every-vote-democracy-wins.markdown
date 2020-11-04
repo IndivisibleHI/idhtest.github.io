@@ -12,12 +12,13 @@ event-end-date: 2020-11-04 18:00:00 -10:00
 Location: Hawaii State Capitol, Beretania St. side
 ---
 
-## **Our win is in sight, and we must remain steadfast and project calm, determined confidence that the will of the people will prevail.**
+**Our win is in sight, and we must remain steadfast and project calm, determined confidence that the will of the people will prevail.**
 
-## **Right now it is more important to celebrate that with every hour the Harris/Biden Campaign lead increases.**
+**Right now it is more important to celebrate that with every hour the Harris/Biden Campaign lead increases.**
 
-## **There are millions of votes still outstanding. So, for now, we celebrate and remain on deck should we need to act.\
- STAY TUNED.**
+**There are millions of votes still outstanding. So, for now, we celebrate and remain on deck should we need to act.
+
+**STAY TUNED.**
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
