@@ -1,7 +1,5 @@
 ---
-title: |-
-  Rally - When We Count Every Vote,
-  Democracy Wins
+title: Nov 4 Rally Cancelled - When We Count Every Vote, Democracy Wins
 date: 2020-11-03 12:43:00 -10:00
 categories:
 - event
@@ -11,6 +9,17 @@ event-start-date: 2020-11-04 16:30:00 -10:00
 event-end-date: 2020-11-04 18:00:00 -10:00
 Location: Hawaii State Capitol, Beretania St. side
 ---
+
+## **Our win is in sight, and we must remain steadfast and project calm, determined confidence that the will of the people will prevail.**
+
+## **Right now it is more important to celebrate that with every hour the Harris/Biden Campaign lead increases.**
+
+## **There are millions of votes still outstanding. So, for now, we celebrate and remain on deck should we need to act.\
+ STAY TUNED.**
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+**See below for prior notice. This has been cancelled as of today, Nov 4, 2020.**
 
 Indivisible Hawai’i and the Democratic Party of Hawai’i are joining with ***[Protect the Results](https://ProtectTheResults.com)***, a nation-wide coalition committed to upholding the rule of law and safeguarding the final, legitimate results of the 2020 Presidential Election by holding events across the country to calmly demand that every vote be counted.
 
@@ -27,18 +36,27 @@ The Protect the Results coalition includes Indivisible, Stand Up America, Sierra
 **BRING SIGNS - Such as:**
 
 * Count Every Vote
+
 * Choose Democracy
+
 * When We Count Every Vote, Democracy Wins
 
 **OTHER STATEWIDE EVENTS:**
 
 * Visit ***[Protect the Results](https://ProtectTheResults.com)*** for event information for Neighbor Islands.
+
 * Kauai Indivisible: Rally to Count the Votes on Kauaʻi 4:30pm at the Airport intersection in Lihuʻe at 4:30pm.
+
 * Big Island Ka'u Voices:  Ka'u Voices will meet in Ocean View 4:30-5:30pm at Hwy 11, just north of Aloha Blvd on makai side.
+
 * Watch Facebook pages for the Democratic Party of Hawai’i, Hawai’i County Democrats and Indivisible Hawai’i for updates and more events.
 
 **MORE INFORMATION:**
-* [***INDIVISIBLE HAWAII***](https://IndivisibleHawaii.org)
+
+* ***[INDIVISIBLE HAWAII](https://IndivisibleHawaii.org)***
+
 * ***[PROTECT THE RESULTS](https://ProtectTheResults.com)***
+
 * ***[HAWAII DEMOCRATS](https://HawaiiDemocrats.org)***
+
 * ***[HAWAII COUNTY DEMOCRATS](https://HawaiiCountyDemocrats.org)***
