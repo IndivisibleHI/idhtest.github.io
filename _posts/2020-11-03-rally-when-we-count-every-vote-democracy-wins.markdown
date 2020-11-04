@@ -38,7 +38,7 @@ The Protect the Results coalition includes Indivisible, Stand Up America, Sierra
 * Watch Facebook pages for the Democratic Party of Hawai’i, Hawai’i County Democrats and Indivisible Hawai’i for updates and more events.
 
 **MORE INFORMATION:**
-* ***[INDIVISIBLE HAWAII](https://IndivisibleHawaii.org)***
-* ***[PROECT THE RESULTS](https://ProtectTheResults.com)***
+* [***INDIVISIBLE HAWAII***](https://IndivisibleHawaii.org)
+* ***[PROTECT THE RESULTS](https://ProtectTheResults.com)***
 * ***[HAWAII DEMOCRATS](https://HawaiiDemocrats.org)***
 * ***[HAWAII COUNTY DEMOCRATS](https://HawaiiCountyDemocrats.org)***
