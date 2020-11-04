@@ -1,5 +1,7 @@
 ---
-title: Nov 4 Rally Cancelled!
+title: |-
+  Nov 4 Rally Cancelled!
+  "When We Count Every Vote, Democracy Wins"
 date: 2020-11-03 12:43:00 -10:00
 categories:
 - event
@@ -19,11 +21,7 @@ Location: Hawaii State Capitol, Beretania St. side
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-### **See below for prior notice on cancelled rally, "When We Count Every Vote, Democracy Wins"**\
-
-### **This has been cancelled as of today, Nov 4, 2020.**
-
-### 
+### **See below for prior notice on planned rally that has been cancelled as of today, Nov 4, 2020.**
 
 Indivisible Hawai’i and the Democratic Party of Hawai’i are joining with ***[Protect the Results](https://ProtectTheResults.com)***, a nation-wide coalition committed to upholding the rule of law and safeguarding the final, legitimate results of the 2020 Presidential Election by holding events across the country to calmly demand that every vote be counted.
 
