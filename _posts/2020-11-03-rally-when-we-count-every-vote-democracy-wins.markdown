@@ -10,7 +10,7 @@ event-end-date: 2020-11-04 18:00:00 -10:00
 Location: Hawaii State Capitol, Beretania St. side
 ---
 
-**Congratulations to EVERYONE for your incredible commitment to DEMOCRACY and American values - EVERYONE on this list invested time, money, thought, and passion in the campaign. **
+**Congratulations to EVERYONE for your incredible commitment to DEMOCRACY and American values. You've all invested time, money, thought, and passion in the campaign.**
 
 **Our win is in sight, and we must remain steadfast and project calm, determined confidence that the will of the people will prevail.**
 
