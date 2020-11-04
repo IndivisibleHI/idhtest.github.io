@@ -12,7 +12,7 @@ event-end-date: 2020-11-04 18:00:00 -10:00
 Location: Hawaii State Capitol, Beretania St. side
 ---
 
-Indivisible Hawai’i and the Democratic Party of Hawai’i are joining with [*Protect the Results*](https://ProtectTheResults.com), a nation-wide coalition committed to upholding the rule of law and safeguarding the final, legitimate results of the 2020 Presidential Election by holding events across the country to calmly demand that every vote be counted. 
+Indivisible Hawai’i and the Democratic Party of Hawai’i are joining with [**Protect the Results**](https://ProtectTheResults.com), a nation-wide coalition committed to upholding the rule of law and safeguarding the final, legitimate results of the 2020 Presidential Election by holding events across the country to calmly demand that every vote be counted. 
 
 The Protect the Results coalition includes Indivisible, Stand Up America, Sierra Club, Stand Up Republic, Black Lives Matter, NARAL, Move On, Greenpeace, End Citizens United, Everytown and many others.  Should Trump try to stop counting ballots or challenge the results, the coalition is organized to take action to ensure that all votes are counted and that there is a peaceful transfer of power.
  
