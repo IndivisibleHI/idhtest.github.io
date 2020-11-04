@@ -28,7 +28,7 @@ The Protect the Results coalition includes Indivisible, Stand Up America, Sierra
 * When We Count Every Vote, Democracy Wins
 
 **OTHER STATEWIDE EVENTS:**  
-* Visit [*****Protect the Results*****](https://ProtectTheResults.com) for event information for Neighbor Islands.  
+* Visit [***Protect the Results***](https://ProtectTheResults.com) for event information for Neighbor Islands.  
 * Kauai Indivisible: Rally to Count the Votes on Kauaʻi 4:30pm at the Airport intersection in Lihuʻe at 4:30pm.
 * Big Island Ka'u Voices:  Ka'u Voices will meet in Ocean View 4:30-5:30pm at Hwy 11, just north of Aloha Blvd on makai side.  
 * Watch Facebook pages for the Democratic Party of Hawai’i, Hawai’i County Democrats and Indivisible Hawai’i for updates and more events.   
