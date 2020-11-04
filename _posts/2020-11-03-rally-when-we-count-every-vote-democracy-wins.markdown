@@ -1,5 +1,5 @@
 ---
-title: TODAY'S RALLIES to COUNT THE VOTES ARE CANCELLED
+title: Today's Rallies to Count the Votes - CANCELLED
 date: 2020-11-03 12:43:00 -10:00
 categories:
 - event
