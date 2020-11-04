@@ -1,7 +1,5 @@
 ---
-title: |-
-  Nov 4 Rally Cancelled!
-  "When We Count Every Vote, Democracy Wins"
+title: TODAY'S RALLIES to COUNT THE VOTES ARE CANCELLED
 date: 2020-11-03 12:43:00 -10:00
 categories:
 - event
