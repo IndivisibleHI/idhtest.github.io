@@ -4,6 +4,7 @@ date: 2020-11-11 09:16:00 -10:00
 categories:
 - update
 is featured: true
+main-image: "/uploads/CONSTITUTION_iStock-923052552_2500-1800x1143.jpg"
 ---
 
 Barbara Shimei, from Indivisible Hawaii, has graciously shared her research regarding all the steps required to get us from the elections to inauguration.  
