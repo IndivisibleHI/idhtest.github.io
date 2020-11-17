@@ -26,6 +26,6 @@ Republicans will likely spend half billion between two races.
 
 * **[WRITE](https://votefwd.org/):** Download what you need at https://votefwd.org/ (Georgia campaigns will be launched soon) to write personal letters.
 
-* **[WRITE](https://postcardstoswingstates.com/:** Email natel+owner@indivisiblehawaii.org to write postcards.
+* **[WRITE](https://postcardstoswingstates.com/):** Email natel+owner@indivisiblehawaii.org to write postcards.
 
 Let’s make this happen. Let’s save our lives. Let’s save our country. Let’s save democracy.
