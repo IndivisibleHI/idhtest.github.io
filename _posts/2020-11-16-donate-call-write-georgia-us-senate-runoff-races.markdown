@@ -10,7 +10,7 @@ is featured: true
 pinned: true
 main-image: "/uploads/Warnock%20Ossoff.JPG"
 event-start-date: 2020-11-16 00:00:00 -10:00
-event-end-date: 2020-01-05 12:00:00 -10:00
+event-end-date: 2021-01-05 12:00:00 -10:00
 ---
 
 We turned out in record numbers to pick Joe and Kamala who will care and govern for all Americans.  Now it is time to turnout voters in Georgia to flip U.S. Senate blue. 
