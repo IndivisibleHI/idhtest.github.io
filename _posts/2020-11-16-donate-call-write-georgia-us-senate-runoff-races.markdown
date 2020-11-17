@@ -20,6 +20,7 @@ In Georgia, in order to win, a candidate must earn more than 50% of the votes. B
 HERE IS HOW YOU CAN HELP.
 
 * **[DONATE](https://secure.actblue.com/donate/georgiasenate):**  Donate at www.gasenate.com and your donation will be split between [Ossoff](https://electjon.com/) campaign, [Warnock](https://warnockforgeorgia.com/) campaign, and Stacey Abrahm's [Fair Fight](https://fairfight.com/). 
+
 Republicans will likely spend half billion between two races. 
 
 * **[PHONEBANK](https://www.mobilize.us/georgiademocrats/event/362936/):** with Georgia Democrats. Sign Up at https://www.mobilize.us/georgiademocrats/event/362936/.
