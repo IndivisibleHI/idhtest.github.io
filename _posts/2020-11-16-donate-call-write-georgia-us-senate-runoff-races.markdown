@@ -17,10 +17,10 @@ We turned out in record numbers to pick Joe and Kamala who will care and govern 
 
 In Georgia, in order to win, a candidate must earn more than 50% of the votes. Because neither U.S. Senate races met this requirement during the November 3rd election, we now have two January 5th runoff elections. One between Jon Ossoff (D) and incumbent David Perdue (R), and one between Raphael Warnock (D) and incumbent Kelly Loefflor (R).  By turning out votes for Ossoff and Warnock, we can have 50-50 in U.S. Senate.  
 
-Republicans will likely spend half billion between two races.  **DONATE** at www.gasenate.com and your donation will be split between [Ossoff](https://electjon.com/) campaign, [Warnock](https://warnockforgeorgia.com/) campaign, and [Fair Fight](https://fairfight.com/).  
+Republicans will likely spend half billion between two races.  **[DONATE](https://secure.actblue.com/donate/georgiasenate)** at www.gasenate.com and your donation will be split between [Ossoff](https://electjon.com/) campaign, [Warnock](https://warnockforgeorgia.com/) campaign, and [Fair Fight](https://fairfight.com/).  
 
-**PHONEBANK** with Georgia Democrats. Sign Up at https://www.mobilize.us/georgiademocrats/event/362936/
+**[PHONEBANK](https://www.mobilize.us/georgiademocrats/event/362936/)** with Georgia Democrats. Sign Up at https://www.mobilize.us/georgiademocrats/event/362936/
 
-Download what you need to **WRITE personal letters** at https://votefwd.org/ (Georgia campaigns will be launched week of Nov 16th) OR email natel+owner@indivisiblehawaii.org if you want to **WRITE postcards**.
+Download what you need to **[WRITE](https://votefwd.org/) personal letters** at https://votefwd.org/ (Georgia campaigns will be launched week of Nov 16th) OR email natel+owner@indivisiblehawaii.org if you want to **[WRITE](https://postcardstoswingstates.com/) postcards**.
 
 Let’s make this happen. Let’s save our lives. Let’s save our country. Let’s save democracy.
