@@ -21,6 +21,6 @@ Republicans will likely spend half billion between two races.  **[DONATE](https:
 
 **[PHONEBANK](https://www.mobilize.us/georgiademocrats/event/362936/)** with Georgia Democrats. Sign Up at https://www.mobilize.us/georgiademocrats/event/362936/
 
-Download what you need to **[WRITE](https://votefwd.org/) personal letters** at https://votefwd.org/ (Georgia campaigns will be launched week of Nov 16th) OR email natel+owner@indivisiblehawaii.org if you want to **[WRITE](https://postcardstoswingstates.com/) postcards**.
+Download what you need to **[WRITE](https://votefwd.org/) personal letters** at https://votefwd.org/ (Georgia campaigns will be launched soon) OR email natel+owner@indivisiblehawaii.org if you want to **[WRITE](https://postcardstoswingstates.com/) postcards**.
 
 Let’s make this happen. Let’s save our lives. Let’s save our country. Let’s save democracy.
