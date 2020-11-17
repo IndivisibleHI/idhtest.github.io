@@ -13,14 +13,19 @@ event-start-date: 2020-11-16 00:00:00 -10:00
 event-end-date: 2021-01-05 12:00:00 -10:00
 ---
 
-We turned out in record numbers to pick Joe and Kamala who will care and govern for all Americans.  Now it is time to turnout voters in Georgia to flip U.S. Senate blue. 
+We turned out in record numbers to pick Joe and Kamala who will care and govern for all Americans.  Now it is time to turnout voters in Georgia to flip U.S. Senate blue. Georgia is the Ground Zero.  
 
 In Georgia, in order to win, a candidate must earn more than 50% of the votes. Because neither U.S. Senate races met this requirement during the November 3rd election, we now have two January 5th runoff elections. One between Jon Ossoff (D) and incumbent David Perdue (R), and one between Raphael Warnock (D) and incumbent Kelly Loefflor (R).  By turning out votes for Ossoff and Warnock, we can have 50-50 in U.S. Senate.  
 
-Republicans will likely spend half billion between two races.  **[DONATE](https://secure.actblue.com/donate/georgiasenate)** at www.gasenate.com and your donation will be split between [Ossoff](https://electjon.com/) campaign, [Warnock](https://warnockforgeorgia.com/) campaign, and [Fair Fight](https://fairfight.com/).  
+HERE IS HOW YOU CAN HELP.
 
-**[PHONEBANK](https://www.mobilize.us/georgiademocrats/event/362936/)** with Georgia Democrats. Sign Up at https://www.mobilize.us/georgiademocrats/event/362936/
+* **[DONATE](https://secure.actblue.com/donate/georgiasenate):**  Donate at www.gasenate.com and your donation will be split between [Ossoff](https://electjon.com/) campaign, [Warnock](https://warnockforgeorgia.com/) campaign, and Stacey Abrahm's [Fair Fight](https://fairfight.com/).  
+Republicans will likely spend half billion between two races. 
 
-Download what you need to **[WRITE](https://votefwd.org/) personal letters** at https://votefwd.org/ (Georgia campaigns will be launched soon) OR email natel+owner@indivisiblehawaii.org if you want to **[WRITE](https://postcardstoswingstates.com/) postcards**.
+* **[PHONEBANK](https://www.mobilize.us/georgiademocrats/event/362936/):** with Georgia Democrats. Sign Up at https://www.mobilize.us/georgiademocrats/event/362936/.
+
+* **[WRITE](https://votefwd.org/):** Download what you need at https://votefwd.org/ (Georgia campaigns will be launched soon) to write personal letters.
+
+* **[WRITE](https://postcardstoswingstates.com/:** Email natel+owner@indivisiblehawaii.org to write postcards.
 
 Let’s make this happen. Let’s save our lives. Let’s save our country. Let’s save democracy.
