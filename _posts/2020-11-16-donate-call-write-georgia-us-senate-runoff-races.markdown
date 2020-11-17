@@ -19,12 +19,12 @@ In Georgia, in order to win, a candidate must earn more than 50% of the votes. B
 
 HERE IS HOW YOU CAN HELP.
 
-* **[DONATE](https://secure.actblue.com/donate/georgiasenate):**  Donate at www.gasenate.com and your donation will be split between [Ossoff](https://electjon.com/) campaign, [Warnock](https://warnockforgeorgia.com/) campaign, and Stacey Abrahm's [Fair Fight](https://fairfight.com/). Republicans will likely spend half billion between two races. 
+* **[DONATE](https://secure.actblue.com/donate/georgiasenate):**  Donate at www.gasenate.com and your donation will be split between [Ossoff](https://electjon.com/) campaign, [Warnock](https://warnockforgeorgia.com/) campaign, and Stacey Abrahm's [Fair Fight](https://fairfight.com/).  Republicans will likely spend half billion between two races. 
 
 * **[PHONEBANK](https://www.mobilize.us/georgiademocrats/event/362936/):** with Georgia Democrats. Sign Up at https://www.mobilize.us/georgiademocrats/event/362936/.
 
 * **[WRITE](https://votefwd.org/):** Download what you need at https://votefwd.org/ (Georgia campaigns will be launched soon) to write personal letters.
 
-* **[WRITE](https://postcardstoswingstates.com/):** Email natel+owner@indivisiblehawaii.org to write postcards.
+* **[WRITE](https://postcardstoswingstates.com/):** Email natel+owner@indivisiblehawaii.org to get what you need to write postcards.
 
 Let’s make this happen. Let’s save our lives. Let’s save our country. Let’s save democracy.
