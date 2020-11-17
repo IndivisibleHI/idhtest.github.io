@@ -8,7 +8,7 @@ tags:
 - voters
 is featured: true
 pinned: true
-main-image: "/uploads/Warnock%20Ossoff.JPG"
+main-image: "/uploads/Warnock%20Ossoff-4dbbe1.JPG"
 event-start-date: 2020-11-16 00:00:00 -10:00
 event-end-date: 2021-01-05 12:00:00 -10:00
 ---
