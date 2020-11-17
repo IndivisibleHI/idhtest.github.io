@@ -23,7 +23,7 @@ HERE IS HOW YOU CAN HELP.
 
 * **[PHONEBANK](https://www.mobilize.us/georgiademocrats/event/362936/):** with Georgia Democrats. Sign Up at https://www.mobilize.us/georgiademocrats/event/362936/.
 
-* **[WRITE](https://votefwd.org/):** Download what you need at https://votefwd.org/ (Georgia campaigns will be launched soon) to write personal letters.
+* **[WRITE](https://votefwd.org/):** Download what you need at https://votefwd.org/ to write personal letters.  Georgia campaigns will be launched soon.
 
 * **[WRITE](https://postcardstoswingstates.com/):** Email natel+owner@indivisiblehawaii.org to get what you need to write postcards.
 
