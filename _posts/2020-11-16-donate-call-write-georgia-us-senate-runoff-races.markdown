@@ -1,5 +1,5 @@
 ---
-title: 'Donate, Call, Write: Georgia U.S. Senate Runoff Races'
+title: 'Donate, Call, Text, Write: Georgia U.S. Senate Runoff Races'
 date: 2020-11-16 18:25:00 -10:00
 categories:
 - action
