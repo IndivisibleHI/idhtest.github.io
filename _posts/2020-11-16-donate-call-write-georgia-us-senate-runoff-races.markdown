@@ -19,16 +19,16 @@ In Georgia, in order to win, a candidate must earn more than 50% of the votes. B
 
 HERE IS HOW YOU CAN HELP. 
 
-* **[DONATE](https://secure.actblue.com/donate/georgiasenate):**  Donate at www.gasenate.com and your donation will be split between [Ossoff](https://electjon.com/) campaign, [Warnock](https://warnockforgeorgia.com/) campaign, and Stacey Abram's [Fair Fight](https://fairfight.com/).  Republicans will likely spend half billion between two races. 
+* **[DONATE](https://secure.actblue.com/donate/georgiasenate):**  Donate at [www.gasenate.com](https://secure.actblue.com/donate/georgiasenate) and your donation will be split between [Ossoff](https://electjon.com/) campaign, [Warnock](https://warnockforgeorgia.com/) campaign, and Stacey Abram's [Fair Fight](https://fairfight.com/).  Republicans will likely spend half billion between two races. 
 
-* **[GOTV PHONEBANK](https://www.mobilize.us/georgiademocrats/event/362936/):** with Georgia Democrats. Sign Up at https://www.mobilize.us/georgiademocrats/event/362936/.
+* **[GOTV PHONEBANK](https://www.mobilize.us/georgiademocrats/event/362936/):** with Georgia Democrats. Sign Up at [https://www.mobilize.us/georgiademocrats/event/362936/](https://www.mobilize.us/georgiademocrats/event/362936/).
 
-* **[VOTER PROTECTION PHONEBANK](https://www.mobilize.us/dpgvoterprotection/event/362889/):** with Georgia Democrats. Sign Up at https://www.mobilize.us/dpgvoterprotection/event/362889/ to cure ballots.   Sign Up at https://www.mobilize.us/dpgvoterprotection/event/364644/ to recruit canvassers to cure ballots.  Let's make sure all votes count.
+* **[VOTER PROTECTION PHONEBANK](https://www.mobilize.us/dpgvoterprotection/event/362889/):** with Georgia Democrats. Sign Up at [https://www.mobilize.us/dpgvoterprotection/event/362889/](https://www.mobilize.us/dpgvoterprotection/event/362889/) to cure ballots.   Sign Up at [https://www.mobilize.us/dpgvoterprotection/event/364644/](https://www.mobilize.us/dpgvoterprotection/event/364644/) to recruit canvassers to cure ballots.  Let's make sure all votes count.
 
-* **[GOTV PHONEBANK and TEXT](https://www.mobilize.us/fairfight/):** with Stacey Abram's Fair Fight.  Sign Up at https://www.mobilize.us/fairfight/.
+* **[GOTV PHONEBANK and TEXT](https://www.mobilize.us/fairfight/):** with Stacey Abram's Fair Fight.  Sign Up at [https://www.mobilize.us/fairfight/](https://www.mobilize.us/fairfight/).
 
-* **[GOTV WRITE](https://votefwd.org/):** Download what you need at https://votefwd.org/ to write personal letters.  The letters need to be mailed by Dec 7th.
+* **[GOTV WRITE](https://votefwd.org/):** Download what you need at [https://votefwd.org/](https://votefwd.org/) to write personal letters.  The letters need to be mailed by Dec 7th.
 
-* **[GOTV WRITE](https://postcardstoswingstates.com/):** Get what you need at https://postcardstoswingstates.com/ to write postcards.  The postcards need to be mailed before Christmas.
+* **[GOTV WRITE](https://postcardstoswingstates.com/):** Get what you need at [https://postcardstoswingstates.com/](https://postcardstoswingstates.com/) to write postcards.  The postcards need to be mailed before Christmas.
 
 Let’s make this happen. Let’s save our lives. Let’s save our country. Let’s save democracy.
