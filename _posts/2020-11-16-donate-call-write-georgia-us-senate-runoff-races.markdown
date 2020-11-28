@@ -23,7 +23,7 @@ HERE IS HOW YOU CAN HELP.
 
 * **[GOTV PHONEBANK](https://www.mobilize.us/georgiademocrats/event/362936/):** with Georgia Democrats. Sign Up at [https://www.mobilize.us/georgiademocrats/event/362936/](https://www.mobilize.us/georgiademocrats/event/362936/).
 
-* **[VOTER PROTECTION PHONEBANK](https://www.mobilize.us/dpgvoterprotection/event/362889/):** with Georgia Democrats. Sign Up at [https://www.mobilize.us/dpgvoterprotection/event/362889/](https://www.mobilize.us/dpgvoterprotection/event/362889/) to cure ballots.   Sign Up at [https://www.mobilize.us/dpgvoterprotection/event/364644/](https://www.mobilize.us/dpgvoterprotection/event/364644/) to recruit canvassers to cure ballots.  Let's make sure all votes count.
+* **[VOTER PROTECTION PHONEBANK](https://www.mobilize.us/dpgvoterprotection/event/362889/):** with Georgia Democrats. Let's make sure all votes count. Sign Up at [https://www.mobilize.us/dpgvoterprotection/event/362889/](https://www.mobilize.us/dpgvoterprotection/event/362889/) to cure ballots.   Sign Up at [https://www.mobilize.us/dpgvoterprotection/event/364644/](https://www.mobilize.us/dpgvoterprotection/event/364644/) to recruit canvassers to cure ballots.  
 
 * **[GOTV PHONEBANK and TEXT](https://www.mobilize.us/fairfight/):** with Stacey Abram's Fair Fight.  Sign Up at [https://www.mobilize.us/fairfight/](https://www.mobilize.us/fairfight/).
 
