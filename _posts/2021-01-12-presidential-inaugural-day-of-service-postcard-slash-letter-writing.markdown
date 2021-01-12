@@ -1,5 +1,5 @@
 ---
-title: 'Presidential Inaugural Day of Service: Postcard/Letter Writing'
+title: 'Presidential Inaugural National Day of Service: Postcard/Letter Writing'
 date: 2021-01-12 10:26:00 -10:00
 categories:
 - event
