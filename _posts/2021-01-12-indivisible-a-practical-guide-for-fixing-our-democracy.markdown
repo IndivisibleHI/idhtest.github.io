@@ -5,7 +5,6 @@ title: |-
 date: 2021-01-12 15:44:00 -10:00
 categories:
 - action
-- update
 is featured: true
 pinned: true
 event-end-date: 2021-02-28 23:59:00 -10:00
