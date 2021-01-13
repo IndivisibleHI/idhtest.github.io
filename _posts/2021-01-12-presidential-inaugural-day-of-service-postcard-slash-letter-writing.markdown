@@ -17,5 +17,5 @@ Honor Dr. Martin Luther King Jr. by **writing letters/postcards to thank those w
 
 Bring information on your favorite charity serving those in dire situation due to COVID. Bring information on how attendees can donate to and volunteer for your favorite charity.
 
-Addresses of offices of secretary of state and board of election of states/counties who defended November 2020 election results will be provided. A sample message will also be provided. You can write letters on blank sheet of paper or your own non-partisan postcards but email natel+owner@indivisiblehawaii.org if you want postcards.
+Addresses of offices of secretary of state and board of election of states/counties who defended November 2020 election results will be provided. A sample message will also be provided. You can write letters on blank sheet of paper or your own non-partisan postcards.
 
