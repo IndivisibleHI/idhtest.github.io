@@ -7,7 +7,7 @@ categories:
 - action
 is featured: true
 pinned: true
-main-image: "/uploads/Indivisible%20Democracy%20Guid%20(2).png"
+main-image: "/uploads/Indivisible%20Democracy%20Guid%20(5).png"
 event-end-date: 2021-02-28 23:59:00 -10:00
 ---
 
