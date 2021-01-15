@@ -3,6 +3,8 @@ title: |-
   Encourage Churches, Temples, Mosques
   and Others to Ring Bells to Memorialize Those We've Lost to Covid-19
 date: 2021-01-14 14:24:00 -10:00
+categories:
+- event
 main-image: "/uploads/WIFGT---chris-barbalis-434754-unsplash%20(2).jpg"
 event-start-date: 2021-01-19 00:00:00 -10:00
 event-end-date: 2021-01-19 12:40:00 -10:00
