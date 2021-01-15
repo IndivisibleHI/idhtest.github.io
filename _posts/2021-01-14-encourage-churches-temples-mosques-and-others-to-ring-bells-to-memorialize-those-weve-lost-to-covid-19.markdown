@@ -6,7 +6,7 @@ date: 2021-01-14 14:24:00 -10:00
 categories:
 - event
 is featured: true
-main-image: "/uploads/WIFGT---chris-barbalis-434754-unsplash%20(7).jpg"
+main-image: "/uploads/WIFGT---chris-barbalis-434754-unsplash%20(8).jpg"
 event-start-date: 2021-01-19 12:30:00 -10:00
 event-end-date: 2021-01-19 12:40:00 -10:00
 ---
