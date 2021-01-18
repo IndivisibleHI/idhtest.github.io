@@ -4,7 +4,6 @@ date: 2021-01-18 08:46:00 -10:00
 categories:
 - event
 is featured: true
-main-image: "/uploads/Picture1.png"
 event-start-date: 2021-01-24 15:00:00 -10:00
 event-end-date: 2021-01-18 16:00:00 -10:00
 RSVP-link: https://us02web.zoom.us/meeting/register/tZwvcuGhpzwqHdcxaVJvpKpKjy7CPsMmpZCO
