@@ -9,10 +9,6 @@ event-end-date: 2021-01-28 15:30:00 -10:00
 RSVP-link: https://www.eventbrite.com/e/civil-cafe-2021-legislative-preview-tickets-136371852883?mc_eid=477cc0b993&mc_cid=c836f493de
 ---
 
-**Thursday, Jan 28, 2:00-3:30**
-
-## **About this Event**
-
 **Join Chad Blair, Civil Beat's politics and opinion editor, as he hosts this virtual panel featuring the leaders of the Hawaii Legislature and the head of the good-government nonprofit Common Cause.**
 
 * **Sen. Ron Kouchi, Senate President, Senate District 8**
