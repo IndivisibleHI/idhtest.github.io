@@ -16,9 +16,9 @@ RSVP-link: https://us02web.zoom.us/meeting/register/tZwvcuGhpzwqHdcxaVJvpKpKjy7C
 
 **What is the National Popular Vote?**
 
-* **The national popular vote winner should become President**
-* **One-person, one-vote**
-* **Candidates should have a reason to campaign in all 50 states**
+* The national popular vote winner should become President
+* One-person, one-vote
+* Candidates should have a reason to campaign in all 50 states
 
 The National Popular Vote Interstate Compact (NPVIC) has passed in 15 states (including Hawaii!) and DC representing 196 Electors. When the states in the Compact represent 270 or more electoral votes, all of their electoral votes will be given to the candidate who wins the national popular vote.
 
