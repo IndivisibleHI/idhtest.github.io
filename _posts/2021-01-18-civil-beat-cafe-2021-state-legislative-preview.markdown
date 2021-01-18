@@ -19,8 +19,8 @@ RSVP-link: https://www.eventbrite.com/e/civil-cafe-2021-legislative-preview-tick
 
 **The discussion will be guided by questions from the audience. Submit your questions ahead of time to membership@civilbeat.org**
 
-**Hit the RSVP button, to the left, to register for this event.**
+**Hit the RSVP button, to the left, to register for this event and receive your zoom link.**
 
 **This event will be recorded and sent to all who register for the event.**
 
-*By registering for this event, you'll receive a subscription to Civil Beat's free e-newsletter, the Morning Beat. And don't worry, we hate spam too! You can unsubscribe any time by clicking the link at the bottom of each email.*
+*By registering for this event, you'll also receive a subscription to Civil Beat's free e-newsletter, the Morning Beat. And don't worry, we hate spam too! You can unsubscribe any time by clicking the link at the bottom of each email.*
