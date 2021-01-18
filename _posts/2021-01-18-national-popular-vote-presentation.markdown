@@ -1,5 +1,5 @@
 ---
-title: National Popular Vote Update                    We can make a difference!
+title: National Popular Vote Update.  We can make a difference!
 date: 2021-01-18 08:46:00 -10:00
 categories:
 - event
