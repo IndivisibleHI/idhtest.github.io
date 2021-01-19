@@ -5,7 +5,7 @@ categories:
 - event
 is featured: true
 main-image: "/uploads/Toolkit_PIC_Tune_in_JRB_and_KDH_SocialBanner_1500x500-Tw_Digital_01062021-1.png"
-event-start-date: 2021-01-20 11:30:00 -10:00
+event-start-date: 2021-01-20 06:30:00 -10:00
 event-end-date: 2021-01-20 17:00:00 -10:00
 ---
 
