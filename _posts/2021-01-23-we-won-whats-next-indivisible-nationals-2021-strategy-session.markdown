@@ -15,4 +15,6 @@ We did it! We beat Trump and his cronies, kept The People’s House, and took ba
 
 You’ll have a chance to connect with other Indivisible group leaders, groups members, and activists from across the country. When Indivisibles in rural and urban areas can lean on others and work together, we are stronger than ever. We are so excited to see you on January 31st!
 
+[Full agenda](https://docs.google.com/document/d/1R2cSGsJm1u30ASpodO8Z5AL7klyF7Z3xw8WKizDMp7w/edit?usp=sharing)
+
 **Make sure you register [HERE](https://act.indivisible.org/go/535059?t=18&akid=70328%2E331331%2Ei6h_4o) and we will keep you updated with information as we get closer.**
