@@ -6,7 +6,7 @@ categories:
 is featured: true
 main-image: "/uploads/1f525.png"
 event-start-date: 2021-01-23 15:00:00 -10:00
-event-end-date: 2021-02-28 23:59:00 -10:00
+event-end-date: 2022-02-28 23:59:00 -10:00
 ---
 
 **Read on for your top actions to help put pressure on the new Congress and start holding their feet to the fire -Indivisible style.**
