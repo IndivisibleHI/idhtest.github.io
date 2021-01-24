@@ -1,5 +1,5 @@
 ---
-title: 'New Year, New Plan: Working with Blue Members of Congress (MOC''s) - Feb 4'
+title: 'New Year, New Plan: Working with Blue Members of Congress (MOCs) - Feb 4'
 date: 2021-01-23 16:50:00 -10:00
 categories:
 - event
