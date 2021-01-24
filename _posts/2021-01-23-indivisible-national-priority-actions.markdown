@@ -4,7 +4,8 @@ date: 2021-01-23 15:14:00 -10:00
 categories:
 - action
 is featured: true
-main-image: "/uploads/1f525.png"
+pinned: true
+main-image: "/uploads/Inauguration.jpg"
 event-start-date: 2021-01-23 15:00:00 -10:00
 event-end-date: 2022-02-28 23:59:00 -10:00
 ---
