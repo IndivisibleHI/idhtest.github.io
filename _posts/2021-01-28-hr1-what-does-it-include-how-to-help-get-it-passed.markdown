@@ -1,6 +1,8 @@
 ---
 title: HR1 - What Does It Include? How to Help Get It Passed?
 date: 2021-01-28 16:07:00 -10:00
+categories:
+- event
 is featured: true
 event-start-date: 2021-02-04 14:00:00 -10:00
 event-end-date: 2021-02-04 15:00:00 -10:00
