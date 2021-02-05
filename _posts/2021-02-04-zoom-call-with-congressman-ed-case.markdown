@@ -13,7 +13,7 @@ event-end-date: 2021-02-11 12:00:00 -10:00
 
 Despite this being a very busy time in DC, Congressman Ed Case has agreed to meet with us. Please join us!
 
-Congressman Ed Case, 11am HST, Thursday, Feb 11  
+**Thursday, Feb 11, 11 am HST**  
 
 Zoom link: [https://ushr.zoomgov.com/j/1601441365?pwd=aWNKRkI5dnJPa3lUN1NhUllNcVRFQT09](https://ushr.zoomgov.com/j/1601441365?pwd=aWNKRkI5dnJPa3lUN1NhUllNcVRFQT09)
 
