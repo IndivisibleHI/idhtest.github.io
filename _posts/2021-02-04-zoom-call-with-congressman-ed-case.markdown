@@ -16,6 +16,7 @@ Despite this being a very busy time in DC, Congressman Ed Case has agreed to mee
 Congressman Ed Case, 11am HST, Thursday, Feb 11  
 
 Zoom link: https://ushr.zoomgov.com/j/1601441365?pwd=aWNKRkI5dnJPa3lUN1NhUllNcVRFQT09
+
 Meeting ID: 160 144 1365
 Passcode: 488667
 
