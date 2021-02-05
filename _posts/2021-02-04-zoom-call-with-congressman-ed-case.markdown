@@ -15,10 +15,9 @@ Despite this being a very busy time in DC, Congressman Ed Case has agreed to mee
 
 Congressman Ed Case, 11am HST, Thursday, Feb 11  
 
-Zoom link: https://ushr.zoomgov.com/j/1601441365?pwd=aWNKRkI5dnJPa3lUN1NhUllNcVRFQT09
+Zoom link: [https://ushr.zoomgov.com/j/1601441365?pwd=aWNKRkI5dnJPa3lUN1NhUllNcVRFQT09](https://ushr.zoomgov.com/j/1601441365?pwd=aWNKRkI5dnJPa3lUN1NhUllNcVRFQT09)
 
-Meeting ID: 160 144 1365
-Passcode: 488667
+Meeting ID: 160 144 1365, Passcode: 488667
 
 While we want to hear from our Congressman Case about what he views as critical issues, we want to make sure he talks about the COVID Relief package, HR-1, DC Statehood and Accountability for those members of congress who participated or supported the January 6th insurrection.  
 
