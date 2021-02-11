@@ -1,5 +1,5 @@
 ---
-title: Zoom Call with Congressman Ed Case
+title: Time Change! Zoom Call with Congressman Ed Case
 date: 2021-02-04 21:33:00 -10:00
 categories:
 - event
@@ -13,7 +13,9 @@ event-end-date: 2021-02-11 12:00:00 -10:00
 
 Despite this being a very busy time in DC, Congressman Ed Case has agreed to meet with us. Please join us!
 
-**Thursday, Feb 11, 11 am HST**  
+**Time changed to 1:30pm. Same date. Same link**
+
+**New time - Thursday, Feb 11, 1:30pm HST**  
 
 Zoom link: [https://ushr.zoomgov.com/j/1601441365?pwd=aWNKRkI5dnJPa3lUN1NhUllNcVRFQT09](https://ushr.zoomgov.com/j/1601441365?pwd=aWNKRkI5dnJPa3lUN1NhUllNcVRFQT09)
 
