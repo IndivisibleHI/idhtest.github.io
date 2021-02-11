@@ -5,8 +5,8 @@ categories:
 - event
 is featured: true
 main-image: "/uploads/Inauguration.jpg"
-event-start-date: 2021-02-11 11:00:00 -10:00
-event-end-date: 2021-02-11 12:00:00 -10:00
+event-start-date: 2021-02-11 13:30:00 -10:00
+event-end-date: 2021-02-11 14:30:00 -10:00
 ---
 
 ![Ed Case.jpg](/uploads/Ed%20Case.jpg)
