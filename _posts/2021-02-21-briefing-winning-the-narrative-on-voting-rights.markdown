@@ -15,10 +15,10 @@ Join our messaging briefing on winning the narrative against attacks on voting, 
 
 * **WHAT:** Winning the Narrative on Voting Rights
 
-* **WHEN:** Wednesday, February 24th 9:30am HST
+* **WHEN:** Wednesday, February 24th, 9:30am HST
 
 * **WHO:** Tyler Lewis (Leadership Conference), Jiggy Athilingam (Voting Rights Lab), Anat Shenker-Osorio (ASO Communications)
 
-**RSVP:** https://zoom.us/webinar/register/WN_YhTT_wtjT5mx6PBkx9rYNQ
+* **RSVP:** https://zoom.us/webinar/register/WN_YhTT_wtjT5mx6PBkx9rYNQ
 
 Look forward to seeing you there!
