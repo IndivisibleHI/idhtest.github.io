@@ -60,7 +60,7 @@ Members of our Indivisible Guide chapter come from all kinds of backgrounds and 
 
 At times we will want to do targeted lobbying. A few calls by constituents can make a big difference in local legislation. For example, the following bills are ones that we may not have focused on but could have a big impact on our lives.
 
-**Voting/Election Restrictions introduced Hawaii in 2021:**
+**Voting/Election Restrictions introduced in Hawaii in 2021:**
 
 [https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=853&year=2021](https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=853&year=2021)\
 [https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=789](https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=789)\
