@@ -50,15 +50,15 @@ navbutton: true
 layout: join
 ---
 
-**All are welcome.**
-
 Members of our Indivisible Guide chapter are defined by our action and find solidarity in our shared opposition to Trump and Trumpism. Each of us explicitly reserves our individual stances on specific issues for other forums as we believe resisting Trump is more important than any single issue. We adhere to a Code of Conduct that welcomes and respects everybody.
 
 Members of our Indivisible Guide chapter come from all kinds of backgrounds and political persuasions. Some of us are first-time activists and other have been at this for decades. We are citizens and noncitizens. Most importantly, we are all patriots that want the best for our country and are willing to work for it.
 
-**Why are we asking for so much information? **
+**All are welcome.**
 
-At times we will want to do targeted lobbying. A few calls by constituents can make a big difference in local legislation. For example, the following bills are ones that we may not have focused on but could have a big impact on our lives. 
+**Why are we asking for so much information?**
+
+At times we will want to do targeted lobbying. A few calls by constituents can make a big difference in local legislation. For example, the following bills are ones that we may not have focused on but could have a big impact on our lives.
 
 **Voting/Election restrictions introduced in 2021:**
 
@@ -67,8 +67,8 @@ At times we will want to do targeted lobbying. A few calls by constituents can m
 \
 **Anti-abortion bills from 2020:**
 
-[https://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=1184&year=2020](https://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=1184&year=2020)**\
-**[https://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=SB&billnumber=2237&year=2020](https://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=SB&billnumber=2237&year=2020)
+[https://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=1184&year=2020](https://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=1184&year=2020)\*\*\
+\*\*[https://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=SB&billnumber=2237&year=2020](https://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=SB&billnumber=2237&year=2020)
 
 **Please fill in the form to the left and hit the "Subscribe" button.**
 
@@ -76,6 +76,6 @@ At times we will want to do targeted lobbying. A few calls by constituents can m
 
 * To determine your district numbers, please access the below links.
 
-  -  U.S. House of Representatives districts - [https://www.govtrack.us/congress/members/map](https://www.govtrack.us/congress/members/map)
+  * U.S. House of Representatives districts - [https://www.govtrack.us/congress/members/map](https://www.govtrack.us/congress/members/map)
 
-  -  Hawaii State Senate and House districts. In the block labeled "Enter Street", just enter your street name, not the numeric part of your address. - [https://www.capitol.hawaii.gov/findleg.aspx](https://www.capitol.hawaii.gov/findleg.aspx)
+  * Hawaii State Senate and House districts. In the block labeled "Enter Street", just enter your street name, not the numeric part of your address. - [https://www.capitol.hawaii.gov/findleg.aspx](https://www.capitol.hawaii.gov/findleg.aspx)
