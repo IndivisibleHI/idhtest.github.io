@@ -21,11 +21,15 @@ mailchimp-form-embed: "<!-- Begin Mailchimp Signup Form -->\n<link href=\"//cdn-
   type=\"text\" value=\"\" name=\"MMERGE7\" class=\"\" id=\"mce-MMERGE7\">\n</div>\n<div
   class=\"mc-field-group\">\n\t<label for=\"mce-MMERGE6\">Home Phone </label>\n\t<input
   type=\"text\" value=\"\" name=\"MMERGE6\" class=\"\" id=\"mce-MMERGE6\">\n</div>\n<div
+  class=\"mc-field-group\">\n\t<label for=\"mce-MMERGE8\">Organization </label>\n\t<input
+  type=\"text\" value=\"\" name=\"MMERGE8\" class=\"\" id=\"mce-MMERGE8\">\n</div>\n<div
   class=\"mc-field-group\">\n\t<label for=\"mce-MMERGE19\">Island </label>\n\t<select
   name=\"MMERGE19\" class=\"\" id=\"mce-MMERGE19\">\n\t<option value=\"\"></option>\n\t<option
   value=\"Oahu\">Oahu</option>\n<option value=\"Hawaii\">Hawaii</option>\n<option
   value=\"Maui, Molokai, Lanai\">Maui, Molokai, Lanai</option>\n<option value=\"Kauai\">Kauai</option>\n<option
   value=\"Not a Hawaii Resident\">Not a Hawaii Resident</option>\n\n\t</select>\n</div>\n<div
+  class=\"mc-field-group\">\n\t<label for=\"mce-MMERGE10\">Zip Code </label>\n\t<input
+  type=\"text\" value=\"\" name=\"MMERGE10\" class=\"\" id=\"mce-MMERGE10\">\n</div>\n<div
   class=\"mc-field-group\">\n\t<label for=\"mce-MMERGE28\">U.S. - House District </label>\n\t<select
   name=\"MMERGE28\" class=\"\" id=\"mce-MMERGE28\">\n\t<option value=\"\"></option>\n\t<option
   value=\"1\">1</option>\n<option value=\"2\">2</option>\n\n\t</select>\n</div>\n<div
@@ -41,10 +45,7 @@ mailchimp-form-embed: "<!-- Begin Mailchimp Signup Form -->\n<link href=\"//cdn-
   aria-hidden=\"true\"><input type=\"text\" name=\"b_74faf3187cf78203970ba0b46_f50b79a94d\"
   tabindex=\"-1\" value=\"\"></div>\n    <div class=\"clear\"><input type=\"submit\"
   value=\"Subscribe\" name=\"subscribe\" id=\"mc-embedded-subscribe\" class=\"button\"></div>\n
-  \   </div>\n</form>\n</div>\n<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script
-  type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes
-  = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[7]='MMERGE7';ftypes[7]='text';fnames[6]='MMERGE6';ftypes[6]='text';fnames[19]='MMERGE19';ftypes[19]='dropdown';fnames[28]='MMERGE28';ftypes[28]='dropdown';fnames[30]='MMERGE30';ftypes[30]='number';fnames[18]='MMERGE18';ftypes[18]='number';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='MMERGE5';ftypes[5]='text';fnames[8]='MMERGE8';ftypes[8]='text';fnames[9]='MMERGE9';ftypes[9]='text';fnames[10]='MMERGE10';ftypes[10]='text';fnames[11]='MMERGE11';ftypes[11]='text';fnames[12]='MMERGE12';ftypes[12]='text';fnames[13]='MMERGE13';ftypes[13]='text';fnames[14]='MMERGE14';ftypes[14]='text';fnames[15]='MMERGE15';ftypes[15]='text';fnames[16]='MMERGE16';ftypes[16]='text';fnames[17]='MMERGE17';ftypes[17]='text';fnames[20]='MMERGE20';ftypes[20]='text';fnames[21]='MMERGE21';ftypes[21]='text';fnames[22]='MMERGE22';ftypes[22]='text';fnames[23]='MMERGE23';ftypes[23]='text';fnames[24]='MMERGE24';ftypes[24]='text';fnames[25]='MMERGE25';ftypes[25]='text';}(jQuery));var
-  $mcj = jQuery.noConflict(true);</script>\n<!--End mc_embed_signup-->"
+  \   </div>\n</form>\n</div>\n\n<!--End mc_embed_signup-->"
 nav: true
 navbutton: true
 layout: join
