@@ -66,10 +66,6 @@ At times we will want to do targeted lobbying. A few calls by constituents can m
 [https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=853&year=2021](https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=853&year=2021)\
 [https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=789](https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=789)\
 \
-**Anti-abortion bills introduced in Hawaii in 2020:**
-
-[https://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=1184&year=2020](https://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=1184&year=2020)\*\*\
-\*\*[https://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=SB&billnumber=2237&year=2020](https://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=SB&billnumber=2237&year=2020)
 
 **Please fill in the form to the left and hit the "Subscribe" button.**
 
