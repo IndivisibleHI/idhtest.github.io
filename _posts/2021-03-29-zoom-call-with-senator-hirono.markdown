@@ -4,7 +4,6 @@ date: 2021-03-29 14:27:00 -10:00
 categories:
 - event
 is featured: true
-main-image: "/uploads/Hirono-5da40f.jpg"
 event-start-date: 2021-03-30 09:00:00 -10:00
 event-end-date: 2021-03-29 09:45:00 -10:00
 RSVP-link: https://us02web.zoom.us/meeting/register/tZckdeuqqjgsGdGy-5-P9YHLKZjh6E3hPv1A
