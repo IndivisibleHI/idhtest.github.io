@@ -17,12 +17,20 @@ nav: true
 **Patti Cook**<br />
 **(808) 937-2833**
 
-## **KAUAI**
+## **MAUI**
+
+### Hui Aloha ‘O Maui
+
+**Ellen Caringer**<br /> **[drcaringer@gmail.com](mailto:ezmeralda5@gmail.com)**
+
+**Facebook page: [https://www.facebook/groups/318082992806424](https://www.facebook/groups/318082992806424)**
+
+# **KAUAI**
 
 ### **Kauai Indivisible**
 
 **[www.kauaiindivisible.com](http://kauaiindivisible.com)**<br />
-jteschner**[@gmail.com](mailto:kauaiindivisible@gmail.com)**
+jteschner\*\*[@gmail.com](mailto:kauaiindivisible@gmail.com)\*\*
 
 ## **OAHU**
 
