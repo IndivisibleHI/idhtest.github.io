@@ -19,7 +19,7 @@ nav: true
 
 ## **MAUI**
 
-### **Hui Aloha ‘O Maui Indivisible**
+## **Hui Aloha ‘O Maui Indivisible**
 
 **Ellen Caringer**<br /> **[drcaringer@gmail.com](mailto:ezmeralda5@gmail.com)**
 
