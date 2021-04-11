@@ -19,11 +19,11 @@ nav: true
 
 ## **MAUI**
 
-### Hui Aloha ‘O Maui
+### Hui Aloha ‘O Maui Indivisible
 
 **Ellen Caringer**<br /> **[drcaringer@gmail.com](mailto:ezmeralda5@gmail.com)**
 
-**Facebook page: [https://www.facebook/groups/318082992806424](https://www.facebook/groups/318082992806424)**
+**Facebook page: [https://www.facebook.com/groups/318082992806424](https://www.facebook.com/groups/318082992806424)**
 
 # **KAUAI**
 
