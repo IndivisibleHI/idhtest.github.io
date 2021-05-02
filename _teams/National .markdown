@@ -7,8 +7,8 @@ team-description: We're going to Beat Trump, flip the U.S. Congress blue to prot
   our Democracy.
 ---
 
-We're going to Beat Trump, flip entire U.S. Congress blue to protect our Democracy, to protect our country, to protect our lives.
+Over 570 volunteers from Hawaii called, texted and wrote to register and turnout voters in swing states in 2020 and January 2021 to flip U.S. Senate and White House blue.  We will be calling, texting, writing and knocking on doors in 2022 to keep the U.S House and U.S. Senate blue.  
 
-![BlueWave 100 Day Sprint Goals.jpg](/uploads/BlueWave%20100%20Day%20Sprint%20Goals.jpg)
+Meanwhile [write postcards](https://postcards4va.com/) to keep Virginia blue.
 
-![BlueWave Update June 2020-6e2a37.jpg](/uploads/BlueWave%20Update%20June%202020-6e2a37.jpg)
+![BlueWave Called Texted Wrote.jpg](/uploads/BlueWave%20Called%20Texted%20Wrote.jpg)
