@@ -2,6 +2,7 @@
 title: Over 127,000 letters and postcards sent in 2020
 date: 2021-05-18 12:08:00 -10:00
 is featured: true
+main-image: "/uploads/Gil%20-%20letter%20writing%20(2).jpg"
 ---
 
 **Indivisible Hawaii's BlueWave and statewide partners had 570 volunteers who wrote over 127,000 letters and postcards to swing states just during 2020**
