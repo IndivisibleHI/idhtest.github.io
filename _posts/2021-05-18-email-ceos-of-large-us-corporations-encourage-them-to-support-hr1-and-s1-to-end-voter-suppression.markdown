@@ -10,7 +10,7 @@ event-end-date: 2021-06-30 00:00:00 -10:00
 
 **Please take advantage of this opportunity to send emails to CEOs of large, U.S. based corporations, asking them to speak out against voter suppression laws and to support of the national voting rights legislation - H.R. 1 and S.1.**\
 \
-Ellen Caringer, Ph.D. and Head of Hui Aloha ‘O Maui Indivisible has graciously shared this information with us.\
+Ellen Caringer, Ph.D. and Head of Hui Aloha ‘O Maui Indivisible has graciously shared this information with us.
 
 Hui Aloha ‘O Maui Indivisible members Connie Kissinger and Vollie Scott pulled together a list of CEOs from 50 large, US-based companies, all consumer facing, with headquarters around the US. They then worked with Vote.org to pull together a sample email, with specific actions that their members could send to the CEOs.\
 \
@@ -29,4 +29,4 @@ Some of the writers have already received a letter back from American Airlines. 
 
 **Corporations do listen, so Maui Indivisible has invited others to join them in emailing these CEOs. Go for it!**\
 \
-**[Download document](https://indivisiblehawaii.us3.list-manage.com/track/click?u=74faf3187cf78203970ba0b46&id=347824b6c0&e=14ec7e5cd7) to see document with company names, CEO email addresses, and a sample letter.**\
+**[Download document](https://indivisiblehawaii.us3.list-manage.com/track/click?u=74faf3187cf78203970ba0b46&id=347824b6c0&e=14ec7e5cd7) to see document with company names, CEO email addresses, and a sample letter.**
