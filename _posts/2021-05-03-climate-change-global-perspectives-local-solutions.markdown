@@ -12,6 +12,6 @@ In May, we had a wonderful webinar with Dr. Chip Fletcher, from the University o
 
 The event was designed for anyone looking to get involved in taking action to address climate change.
 
-You can view a recording of Dr. Fletcher's presentation **[here](http://ow.ly/Wi4W50EInya).**
+**You can view a recording of Dr. Fletcher's presentation [here](http://ow.ly/Wi4W50EInya).**
 
 Thank you to Dr. Fletcher, our participating organizations, attendees, and organizers - Citizens' Climate Lobby Hawaii and Faith Action for Community Equity - for making this event a reality.
