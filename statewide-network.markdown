@@ -25,9 +25,8 @@ nav: true
 
 **Facebook page: [facebook.com/groups/318082992806424](https://www.facebook.com/groups/318082992806424)**
 
-**Website: [https://www.ShineYourLight.us](https://www.shineyourlight.us/)**\
-See our **The Shine Your Light Interview Series -* Inspiring Life Stories about Pursuing Purpose and Spreading the Light -***\
- Each week this page will feature interviews with individuals working hard to “shine their light," choosing to make a difference in their communities and across the world.\
+**Website: [https://www.ShineYourLight.us](https://www.shineyourlight.us/)**
+See our **Shine Your Light Interview Series - Inspiring Life Stories about Pursuing Purpose and Spreading the Light**. Each week this page will feature interviews with individuals working hard to “shine their light," choosing to make a difference in their communities and across the world.
 
 # **KAUAI**
 
