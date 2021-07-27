@@ -21,6 +21,6 @@ You can start Today:
 **Go to postcards4va.com and sign up**, choose a candidate you want to support, order postcards and start writing.  Or email natel+owner@indivisiblehawaii.org to arrange to get your postcards in Kailua and instructions. Get ready to mail first batch September 17.
 
 **Need Training?**
-Join us on a Zoom meeting for training, simple instructions and sharing powerful postcard ideas.  You must register/RSVP to receive zoom details.
+Join us on a Zoom meeting for training, simple instructions and sharing powerful postcard ideas.  **You must register/RSVP** to receive zoom details.
 
 When we Vote, We Win. When we write, We Vote. When we Text, We Vote. When we Call, We Vote.
