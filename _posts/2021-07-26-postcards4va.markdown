@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - natel
+- voters
 ---
 
 READY to write to keep Virginia Blue?  In 2019 Indivisible Hawaii Blue Wave team with thousands of other volunteers and millions of voters turned the Virginia Legislature Blue, winning a majority in both Chambers.  The Democratic Legislature along with the Democratic Governor delivered for the voters with Medicare expansion, gun safety, ending the death penalty, and with increased funding for transportation, education and jobs.
