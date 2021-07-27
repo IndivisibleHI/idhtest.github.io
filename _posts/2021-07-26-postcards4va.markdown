@@ -7,7 +7,7 @@ tags:
 - natel
 - voters
 is featured: true
-main-image: "/uploads/postcards4va.JPG"
+main-image: "/uploads/postcards4va-e8a09b.JPG"
 event-start-date: 2021-08-02 10:00:00 -10:00
 event-end-date: 2021-08-02 11:00:00 -10:00
 RSVP-link: https://us02web.zoom.us/meeting/register/tZYtcOGrqzMpGNxlf-b2fzURx60sLPUMKz4_
