@@ -5,7 +5,7 @@ categories:
 - action
 is featured: true
 event-start-date: 2021-08-19 09:00:00 -10:00
-event-end-date: 2021-08-20 12:00:00 -10:00
+event-end-date: 2021-08-19 14:00:00 -10:00
 ---
 
 ## **TAKE URGENT ACTION NOW TO HOLD ED CASE ACCOUNTABLE!**
