@@ -12,11 +12,9 @@ event-end-date: 2021-08-20 12:00:00 -10:00
 
 ## **HE'S NOT ACTING AS A DEMOCRATIC OR SUPPORTING HIS CONSTITUENTS**
 
-## **WHEN:    TODAY AT NOON, THURSDAY, AUG 19, **
+## WHEN:    TODAY AT NOON, THURSDAY, AUG 19, Before the House Budget vote on Monday, Aug 23
 
-## **                   BEFORE HOUSE BUDGET VOTE ON MONDAY AUG 23**
-
-## **WHERE:  TAMARIND PARK (corner King & Bishop Sts, 1003 Bishop St.  Parking at Ali'i Place)**\
+## **WHERE:  TAMARIND PARK (corner King & Bishop Sts, 1003 Bishop St.  Parking at Ali'i Place)**
 
 ### **WEAR MASKS**
 
@@ -32,9 +30,9 @@ event-end-date: 2021-08-20 12:00:00 -10:00
 
 * **ED - YOU WERN'T ELECTED TO BE A REPUBLICAN**
 
-* **ED - SUPPORT TAX FAIRNESS **
+* \*\*ED - SUPPORT TAX FAIRNESS \*\*
 
-* **DON'T KILL SUPPORT FOR CARE, CLIMATE, JOBS AND JUSTICE **
+* \*\*DON'T KILL SUPPORT FOR CARE, CLIMATE, JOBS AND JUSTICE \*\*
 
 * **DON'T KILL FUNDS FOR CLIMATE CHANGE**
 
