@@ -4,7 +4,7 @@ date: 2021-08-19 09:17:00 -10:00
 categories:
 - event
 is featured: true
-event-start-date: 2021-08-19 09:00:00 -10:00
+event-start-date: 2021-08-19 12:00:00 -10:00
 event-end-date: 2021-08-19 14:00:00 -10:00
 ---
 
