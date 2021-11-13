@@ -1,6 +1,6 @@
 ---
 title: Rally for Ed Case's Support
-date: 2021-11-14 09:32:00 -10:00
+date: 2021-11-13 09:32:00 -10:00
 categories:
 - event
 is featured: true
