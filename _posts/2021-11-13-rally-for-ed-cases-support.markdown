@@ -14,7 +14,7 @@ Location: Tamarind Park (corner King and Bishop Streets, 1003 Bishop Street. Par
 
 WHEN: Wednesday November 17th 4PM to 5:45PM
 
-WHERE: Tamarind Park (corner King and Bishop Streets, 1003 Bishop Street. Parking at Ali'i Place)
+WHERE: corner of Hotel and Bishop Streets, 1003 Bishop Street. Parking at Ali'i Place.
 
 **Wear Masks. Bring Signs**
 
