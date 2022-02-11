@@ -10,6 +10,6 @@ team-description: "We Beat Trump and flipped U.S. Congress blue to protect our D
 
 Over 570 volunteers from Hawaii called, texted and wrote to register and turnout voters in swing states in 2020 and January 2021 to flip U.S. Senate and White House blue.  We will be calling, texting, writing and knocking on doors in 2022 to keep the U.S House and U.S. Senate blue.  
 
-Meanwhile [write postcards](https://postcards4va.com/) to keep Virginia blue.
+On Sunday February 27th 4PM HST, we will share our Mid-term strategy, key target states, and crucial races. We will be writing postcards, Vote Forward letters, text banking and calling. Let's save ourselves, and of course, let's save democracy.  [Register](https://us02web.zoom.us/meeting/register/tZMrf-ihqT4qE9AvSKT0bGlNQ5u5o7jdJmn0) to join.
 
-![BlueWave Called Texted Wrote.jpg](/uploads/BlueWave%20Called%20Texted%20Wrote.jpg)
+![BlueWave 2022 Kickoff Mailchimp.jpg](/uploads/BlueWave%202022%20Kickoff%20Mailchimp.jpg)
