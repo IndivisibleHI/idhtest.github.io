@@ -14,6 +14,6 @@ RSVP-link: https://us02web.zoom.us/meeting/register/tZMrf-ihqT4qE9AvSKT0bGlNQ5u5
 
 Ready to Win again?
 
-The Indivisible Hawaii team is gearing up to Defend and Expand Our Democratic majorities this November. On Sunday February 27th 4PM HST, we will share our Mid-term strategy, key target states, and crucial races. We will be writing postcards, Vote Forward letters, text banking and calling. Bring a friend or two.  
+The Indivisible Hawaii team is gearing up to Defend and Expand Our Democratic majorities this November. On Sunday February 27th 4PM HST, we will share our Mid-term strategy, key target states, and crucial races. We will be writing postcards, Vote Forward letters, text banking and calling. 
 
-Let's save ourselves, and of course, let's save democracy. 
+Let's save ourselves, and of course, let's save democracy. Bring a friend or two.
