@@ -7,8 +7,8 @@ tags:
 - natel
 is featured: true
 main-image: "/uploads/BlueWaveHawaii%20(1).jpg"
-event-start-date: 2022-02-27 00:00:00 -10:00
-event-end-date: 2022-02-27 00:00:00 -10:00
+event-start-date: 2022-02-27 16:00:00 -10:00
+event-end-date: 2022-02-27 17:00:00 -10:00
 RSVP-link: https://us02web.zoom.us/meeting/register/tZMrf-ihqT4qE9AvSKT0bGlNQ5u5o7jdJmn0
 ---
 
