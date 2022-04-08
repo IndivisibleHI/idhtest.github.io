@@ -1,5 +1,5 @@
 ---
-title: BlueWave - Training, Voter Lists, Postcards, etc
+title: BlueWave April/May Action
 date: 2022-04-07 19:09:00 -10:00
 categories:
 - action
