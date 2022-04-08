@@ -14,4 +14,4 @@ RSVP-link: https://us02web.zoom.us/meeting/register/tZEqduyorTgqG9UHMaW1lg6C9C7E
 
 Do you really want The Maga Faction back in power?  People like weasel/rightwing pleaser Kevin McCarthy and Marjorie Taylor Green, the GOP whack-job Rep, take control of the House? The conspiracy theorist says women are the “weaker sex,” that anyone supporting Biden’s SCOTUS nominee is “pro-pedophile,” and want to "cancel" Mickey Mouse and Disney. 
 
-Join the Indivisible Hawaii Blue Wave team to ensure that Democrats retain control of the Senate and House and protect our Democracy. Without majorities in the House and Senate, Biden's administration will be blocked from passing our key policies.   Register to join our next BlueWave meeting.  
+Join the Indivisible Hawaii Blue Wave team to ensure that Democrats retain control of the Senate and House and protect our Democracy. Without majorities in the House and Senate, Biden's administration will be blocked from passing our key policies.   RSVP to join our next BlueWave meeting.  
