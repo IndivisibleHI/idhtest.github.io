@@ -2,9 +2,9 @@
 title: BlueWave Next Meeting
 date: 2022-04-07 19:02:00 -10:00
 categories:
-- natel
+- event
 tags:
-- Event
+- natel
 is featured: true
 main-image: "/uploads/BlueWave%202022%20Postcards.JPG"
 event-start-date: 2022-04-26 18:30:00 -10:00
