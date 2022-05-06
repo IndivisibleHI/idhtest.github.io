@@ -7,7 +7,7 @@ tags:
 - natel
 is featured: true
 main-image: "/uploads/Why%20Texting.png"
-event-start-date: 2022-05-14 00:00:00 -10:00
+event-start-date: 2022-05-14 12:00:00 -10:00
 event-end-date: 2022-05-14 14:00:00 -10:00
 RSVP-link: https://www.mobilize.us/allinpa/event/453309/
 ---
