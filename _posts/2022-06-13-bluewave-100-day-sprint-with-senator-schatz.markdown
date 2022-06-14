@@ -13,8 +13,8 @@ Location: via zoom
 RSVP-link: https://us02web.zoom.us/meeting/register/tZMtc-qqpzIrGtEFcuUVCLpthmWZ4tgABAUT
 ---
 
-Ready to Win again?  Do you have an hour or two a week you can volunteer to keep U.S. Congress blue this mid-term election?
+Are you worried that so many Trump backed candidates are winning the primaries in swing states?  What can you do?  Register left leaning voters and get Dems out to vote this election!  
 
-On Saturday July 30th 10AM HST, our U.S. Senator Brian Schatz will be our guest at the Indivisible Hawaii BlueWave 100 Day Sprint to cheer us on and to answer our questions.  We will get you set up to text and write to left leaning voters in swing states.  
+On Saturday July 30th 10AM HST, our U.S. Senator Brian Schatz will be our guest at the Indivisible Hawaii BlueWave 100 Day Sprint. You will learn about our target states, candidates you can support, and hear from volunteers from Hawaii who have been texting and writing postcards.  We will get you set up.
 
 Let's save ourselves, and of course, let's save democracy. Bring a friend or two.
