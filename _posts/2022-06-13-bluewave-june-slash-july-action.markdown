@@ -7,6 +7,8 @@ tags:
 - natel
 is featured: true
 main-image: "/uploads/BlueWave%20Textbanking%20April%202022.jpg"
+event-start-date: 2022-06-01 00:00:00 -10:00
+event-end-date: 2022-07-31 23:59:00 -10:00
 RSVP-link: https://forms.gle/KRrF1P6fr2FkTXvF9
 ---
 
