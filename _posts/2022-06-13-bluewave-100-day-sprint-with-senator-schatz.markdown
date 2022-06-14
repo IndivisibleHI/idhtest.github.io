@@ -6,7 +6,7 @@ categories:
 tags:
 - natel
 is featured: true
-main-image: "/uploads/BlueWave%202022%20Kickoff%20Mailchimp.jpg"
+main-image: "/uploads/220px-Brian_Schatz,_official_portrait,_113th_Congress_2.jpg"
 event-start-date: 2022-07-30 10:00:00 -10:00
 event-end-date: 2022-07-30 11:00:00 -10:00
 Location: via zoom
