@@ -1,0 +1,133 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <!-- HOMEPAGE HEADER -->
+  <div class="clearfix home-header-wrap" {% if site.background-image %}style="background-image: url('{{ site.background-image }}')"{% endif %}>
+
+    {% if site.background-image %}<div class="onionskin absolute"></div>{% endif %}
+
+    <div class="clearfix home-header container relative">
+
+      <!-- SUBTITLE -->
+      <div class="row">
+        <div class="col-md-12">
+          <h1 class="mt-0 mb-0 {% if site.background-image %}text-white{% endif %}">{{ site.subtitle | escape }}</h1>
+        </div>
+      </div>
+
+      {% if page.content %}
+        <div class="spacer clearfix visible-sm-up"></div>
+        {{ content }}
+      {% endif %}
+
+    </div><!-- END HOME HEADER -->
+  </div><!-- END HOME HEADER WRAP -->
+
+  <!-- HOMEPAGE BODY -->
+  <div class="container">
+
+      <div class="hidden-sm-up mt-3 mb-3">
+        <a href="/join.html" class="btn btn-danger btn-block"><strong>Get Involved!</strong></a>
+      </div>
+
+    <div class="row">
+
+      <div class="col-sm-8">
+          <div class="row mt-4">
+              <div class="col-12 col-md-4">
+                  <a href="/actions" class="btn btn-block btn-danger">All current actions</a></br>
+              </div>
+              <div class="col-12 col-md-4">
+                  <a href="/calendar" class="btn btn-block btn-primary">All upcoming events</a></br>
+              </div>
+              <div class="col-12 col-md-4">
+                  <a href="/archive" class="btn btn-block btn-secondary">News</a>
+              </div>
+          </div>
+
+        <!-- Blog Posts -->
+        <h3>Featured Actions and Events</h3>
+        <p>Check out our <a href="/teams">teams page</a> for more upcoming events!</p>
+        <div class="post-list">
+
+          {% assign featured_posts = (site.posts|where_exp:"post","post['is featured'] == true") %}
+          {% assign not_featured_posts = (site.posts|where_exp:"post","post['is featured'] == false") %}
+
+          {% assign posts_to_sort = featured_posts %}
+          {% include sort-by-date.html %}
+          {% assign sorted_featured_posts = S_posts %}
+
+          {% assign curDate = site.time | date: '%s' | times: 1 %}
+          {% assign timeframe = 0 %}
+	  {% assign refDate = curDate | minus: timeframe %}
+          {% for post in S_posts %}
+            {% if post.categories contains 'event' %}
+              {% assign postEndDate = post.event-start-date | date: '%s' | times: 1%}
+            {% elsif post.categories contains 'action' %}
+              {% assign postEndDate = post.event-end-date | date: '%s' | times: 1 %}
+            {% elsif post.categories contains 'update' %}
+              {% assign postEndDate = post.date | date: '%s' | times: 1 %}
+            {% endif %}
+	    {% if postEndDate > refDate %}
+		
+              <hr class="mt-0 mb-2">
+              {% include post-list.html %}
+	    {% endif %}
+          {% endfor %}
+
+        </div><!-- END BLOG POSTS -->
+
+        <!-- Pagination links -->
+        <hr class="mt-2 mb-4">
+        <div class="pagination">
+        </div>
+
+        <div class="spacer clearfix"></div>
+        <div class="spacer clearfix"></div>
+
+      </div>
+
+      <!-- SUCCESSES AND MEMBER COUNT -->
+      <div class="col-sm-4">
+
+        <!-- MEMBER COUND AND INVITE MEMBERS BUTTON -->
+	{% if site.logo %}
+	<div class="hidden-xs-down" style="text-align: right;">
+          <hr class="mt-4 mb-3">
+	  <img src="{{ site.logo }}" style="height: 150px; width: auto;" />
+        </div>
+	{% endif %}
+        <!-- SUCCESSES -->
+        {% if site.successes %}
+          <!-- <div class="spacer"></div> -->
+          <hr class="mt-4 mb-3">
+          <h5 class="mb-2">Successes</h5>
+
+          {% assign featured_successes = (site.successes|where_exp:"successes","successes['is featured'] == true") %}
+          {% assign not_featured_successes = (site.successes|where_exp:"successes","successes['is featured'] == false") %}
+        
+          {% assign sorted_featured_successes = (featured_successes | sort: 'date') | reverse %}
+
+          {% for successes in sorted_featured_successes %}
+        <!-- BADGE FOR FEATURED SUCCESSES -->
+<!--             <span class="badge badge-danger mb-2">PINNED</span> -->
+            {% include success-blurb.html %}
+          {% endfor %}
+
+          <div class="pagination">
+            <a href="/successes.html" class="btn btn-link btn-flush ml-auto">More successes &rarr;</a>
+          </div>
+
+        {% endif %}
+
+      </div><!-- END TEAM MEDIA -->
+
+    </div>
+
+  <div class="spacer clearfix"></div>
+  <div class="spacer clearfix"></div>
+
+</div>
