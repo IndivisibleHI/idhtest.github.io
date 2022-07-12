@@ -28,7 +28,9 @@
             {% endif %}
         {% endif %}
             
-            
+        {% if post.chapter %}
+            <span class="badge badge-danger">{{ post.chapter }}</span>
+        {% endif %}
         </center>
       </div>
       {% if short-post %}
