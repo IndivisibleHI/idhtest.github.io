@@ -29,7 +29,9 @@
         {% endif %}
             
         {% if post.chapter %}
-            <span class="badge badge-danger">{{ post.chapter }}</span>
+            <span class="badge badge-danger">{{ post.island }} - {{ post.chapter }}</span>
+        {% elseif post.island %}
+            <span class="badge badge-danger">{{ post.island }}</span>
         {% endif %}
         </center>
       </div>
