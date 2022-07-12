@@ -3,7 +3,14 @@
       <div class="col-2 col-sm-3 col-lg-2">
         <center>
           <!-- 'ACTION' BADGE -->
-          <span class="badge badge-danger">Action</span>
+          <span class="badge badge-danger">Action
+          {% if post.chapter %}
+               <br />{{ post.island }} - {{ post.chapter }}</span>
+          {% elsif post.island %}
+               <br />{{ post.island }}</span>
+          {% else %}
+               </span>
+          {% endif %}
             
           <!-- ACTION CHECKBOX -->
 <!--           <label class="custom-control align-self-start custom-checkbox d-inline-block mt-1 mr-0 mb-0"> -->
@@ -28,11 +35,11 @@
             {% endif %}
         {% endif %}
             
-        {% if post.chapter %}
-            <br /><span class="badge badge-danger">{{ post.island }} - {{ post.chapter }}</span>
-        {% elsif post.island %}
-            <br /><span class="badge badge-danger">{{ post.island }}</span>
-        {% endif %}
+<!--        {% if post.chapter %} -->
+<!--             <br /><span class="badge badge-danger">{{ post.island }} - {{ post.chapter }}</span> -->
+<!--        {% elsif post.island %} -->
+<!--             <br /><span class="badge badge-danger">{{ post.island }}</span> -->
+<!--        {% endif %} -->
         </center>
       </div>
       {% if short-post %}
