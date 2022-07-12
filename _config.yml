@@ -39,6 +39,7 @@ defaults:
     embed-code: 
     news-link: 
     layout: post
+    island:
     chapter: 
 - scope:
     path: ''
