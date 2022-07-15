@@ -5,11 +5,11 @@
           <!-- 'ACTION' BADGE -->
           <span class="badge badge-danger">Action
           {% if post.chapter %}
-               <br />{{ post.island }} - {{ post.chapter }}</span>
+               <span class="badge badge-danger">{{ post.island }} - {{ post.chapter }}<br />Action</span>
           {% elsif post.island %}
-               <br />{{ post.island }}</span>
+               <span class="badge badge-danger">{{ post.island }}<br />Action</span>
           {% else %}
-               </span>
+               <span class="badge badge-danger">Action</span>
           {% endif %}
             
           <!-- ACTION CHECKBOX -->
