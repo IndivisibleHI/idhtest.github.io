@@ -23,6 +23,10 @@ collections:
   uploads:
     title: Uploads
     output: true
+  chapters:
+    title: Chapters
+    permalink: "/chapter/:path"
+    output: true
 defaults:
 - scope:
     path: ''
@@ -86,6 +90,15 @@ defaults:
     teamtag: 
     team-email: 
     team-description: 
+- scope:
+    path: ''
+    type: chapters
+    values: 
+    layout: chapter
+    island: 
+    chapter: 
+    chapter-description:
+    
 subtitle: Democracy with Aloha
 email: info@indivisiblehawaii.org
 address: 
