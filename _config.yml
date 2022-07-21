@@ -2,6 +2,10 @@
 title: Indivisible Hawaii
 timezone: Pacific/Honolulu
 collections:
+  chapters:
+    title: Chapters
+    output: true
+    permalink: "/chapter/:path"
   posts:
     title: Posts
     output: true
@@ -22,10 +26,6 @@ collections:
     permalink: "/team/:path"
   uploads:
     title: Uploads
-    output: true
-  chapters:
-    title: Chapters
-    permalink: "/chapter/:path"
     output: true
 defaults:
 - scope:
@@ -93,12 +93,11 @@ defaults:
 - scope:
     path: ''
     type: chapters
-  values: 
+  values:
     layout: chapter
     island: 
     chapter: 
     chapter-description: 
-    
 subtitle: Democracy with Aloha
 email: info@indivisiblehawaii.org
 address: 
