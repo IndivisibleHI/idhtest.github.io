@@ -93,11 +93,11 @@ defaults:
 - scope:
     path: ''
     type: chapters
-    values: 
+  values: 
     layout: chapter
     island: 
     chapter: 
-    chapter-description:
+    chapter-description: 
     
 subtitle: Democracy with Aloha
 email: info@indivisiblehawaii.org
