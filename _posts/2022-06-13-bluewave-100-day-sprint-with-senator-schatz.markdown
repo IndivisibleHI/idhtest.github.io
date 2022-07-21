@@ -11,8 +11,6 @@ event-start-date: 2022-07-30 10:00:00 -10:00
 event-end-date: 2022-07-30 11:00:00 -10:00
 Location: via zoom
 RSVP-link: https://us02web.zoom.us/meeting/register/tZMtc-qqpzIrGtEFcuUVCLpthmWZ4tgABAUT
-island: Oahu
-chapter: Windward
 ---
 
 Are you worried that so many Trump backed candidates are winning the primaries in swing states?  Are you worried about attack on our democracy? our reproductive rights? What can you do?  Register left leaning voters and get Dems out to vote this election!  
