@@ -5,7 +5,7 @@ collections:
   chapters:
     title: Chapters
     output: true
-    permalink: "/chapter/:path"
+    permalink: "/chapters/:path"
   posts:
     title: Posts
     output: true

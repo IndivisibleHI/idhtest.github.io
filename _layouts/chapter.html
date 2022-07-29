@@ -51,10 +51,10 @@ layout: default
 	{% endif %}
         <div class="post-list">
 
-          {% if chapter.chapter %}
-            {% assign featured_posts = site.posts | where_exp: "post", "post.chapter == chapter.chapter" %}
+          {% if page.chapter %}
+            {% assign featured_posts = site.posts | where_exp: "post", "post.chapter == page.chapter" %}
           {% else %}
-            {% assign featured_posts = site.posts | where_exp: "post", "post.island == chapter.island" %}
+            {% assign featured_posts = site.posts | where_exp: "post", "post.island == page.island" %}
           {% endif %}
 
           {% assign posts_to_sort = featured_posts %}
