@@ -1,7 +1,7 @@
 ---
 title: Amplify
 date: 2017-08-07 08:41:00 -10:00
-position: 4
+position: 5
 ---
 
 Amplify is an app that delivers the latest IB actions right to your phone or tablet.

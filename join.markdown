@@ -1,7 +1,7 @@
 ---
 title: Join Us
 date: 2017-08-01 14:56:00 -10:00
-position: 14
+position: 16
 mailchimp-form-embed: "<!-- Begin Mailchimp Signup Form -->\n<link href=\"//cdn-images.mailchimp.com/embedcode/classic-10_7.css\"
   rel=\"stylesheet\" type=\"text/css\">\n<style type=\"text/css\">\n\t#mc_embed_signup{background:#fff;
   clear:left; font:14px Helvetica,Arial,sans-serif; }\n\t/* Add your own Mailchimp

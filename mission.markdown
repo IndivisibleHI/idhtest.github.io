@@ -1,7 +1,7 @@
 ---
 title: Mission
 date: 2017-08-24 20:00:00 -10:00
-position: 6
+position: 7
 nav: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Website contributor instructions
 date: 2017-09-03 19:22:00 -10:00
-position: 0
+position: 1
 ---
 
 ### Rules of the road

@@ -1,7 +1,7 @@
 ---
 title: Slack
 date: 2017-08-07 08:36:00 -10:00
-position: 3
+position: 4
 ---
 
 ![slack-logo-tight.png](/uploads/slack-logo-tight.png)
