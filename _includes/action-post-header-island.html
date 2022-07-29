@@ -1,0 +1,70 @@
+
+    <div class="row">
+      <div class="col-2 col-sm-3 col-lg-2">
+        <center>
+          <!-- 'ACTION' BADGE -->
+          <span class="badge badge-danger">Action</span>
+            
+          <!-- ACTION CHECKBOX -->
+<!--           <label class="custom-control align-self-start custom-checkbox d-inline-block mt-1 mr-0 mb-0"> -->
+<!--             <input type="checkbox" class="custom-control-input" name="{{ post.id | escape }}/check"> -->
+<!--             <span class="custom-control-indicator"></span> -->
+<!--           </label> -->
+          <div class="clearfix"></div>
+            
+        <!-- EVENT END DATE INFO -->
+        {% if post.event-end-date %}
+            <p class="mb-1 mt-1">by {{ post.event-end-date | date: "%b" }}</p>
+            {% if short-post %}
+            <h4 class="itemdate">
+            {% else %}
+            <h3 class="itemdate">
+            {% endif %}
+                <strong>{{ post.event-end-date | date: "%-d" }}</strong>
+            {% if short-post %}
+            </h4>
+            {% else %}
+            </h3>
+            {% endif %}
+        {% endif %}
+            
+<!--        {% if post.chapter %} -->
+<!--             <br /><span class="badge badge-danger">{{ post.island }} - {{ post.chapter }}</span> -->
+<!--        {% elsif post.island %} -->
+<!--             <br /><span class="badge badge-danger">{{ post.island }}</span> -->
+<!--        {% endif %} -->
+        </center>
+      </div>
+      {% if short-post %}
+      <div class="col-10 col-sm-9 col-lg-10">
+        <h5 class="d-inline-block mb-2 mt-1 mt-sm-0">
+      {% else %}
+      <div class="col-10 {% if post.main-image %}col-sm-6 col-lg-8{% else %}col-sm-9 col-lg-10{% endif %}">
+        <h3 class="d-inline-block mb-2 mt-1 mt-sm-0">
+      {% endif %}
+          <a class="post-link text-danger" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        {% if short-post %}
+        </h5>
+        {% else %}
+        </h3>
+        {% endif %}
+        <div class="text-muted post-body">
+            {% if short-post %}
+            {{ post.content | strip_html | truncate: 70 }}
+            {% else %}
+            {{ post.content | strip_html | truncate: 140 }}
+            {% endif %}
+        </div>
+      </div>
+      <!-- POST MAIN IMAGE FIELD -->
+      {% if post.main-image %}
+        {% unless short-post %}
+      <div class="col-sm-3 col-lg-2 hidden-xs-down">
+        <a class="thumb-wrap mt-1" href="{{ post.url | relative_url }}" style="background-image: url('{{ post.main-image}}');"></a>
+      </div>
+        {% endunless %}
+      {% endif %}
+      <!-- END POST MAIN IMAGE -->
+    </div>
+
+<div class="spacer-sm clearfix"></div>

@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<article class="post">
+  <div class="container">
+
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title | escape }}</h1>
+    </header>
+    <div class="row">
+      <div class="col col-sm-8">
+        {{ content }}
+      </div>
+    </div>
+
+    <!-- Show 2 posts for each chapter -->
+    <div class="row">
+      {% comment %} sort: "position", "last" means chapters with no
+      position set will go at the end of the list. Positions can easily
+      be changed by dragging-and-dropping the chapter names in the siteleaf
+      interface. {% endcomment %}
+      {% assign sorted_chapters = (site.chapters | sort: "position", "last") %}
+      {% for chapter in sorted_chapters %}
+        <div class="col-12 col-md-6 col-lg-4" style="padding-bottom:40px;">
+
+          <h3>
+              <a class="chapter-title" href="{{ chapter.url | relative_url }}">{{ chapter.title }}</a>
+          </h3>
+          <!-- Blog Posts -->
+          <div class="post-list">
+            <span class="text-muted">
+	    {{ chapter.chapter-description }}
+            </span>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+    <hr>
+
+  </div>
+</article>
