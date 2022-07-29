@@ -94,31 +94,9 @@ layout: default
       <!-- SUCCESSES AND MEMBER COUNT -->
       <div class="col-sm-4">
 
-        <!-- MEMBER COUND AND INVITE MEMBERS BUTTON -->
-        {{ content }}
-{% comment %}        <!-- SUCCESSES -->
-        {% if site.successes %}
-          <!-- <div class="spacer"></div> -->
-          <hr class="mt-4 mb-3">
-          <h5 class="mb-2">Successes</h5>
-
-          {% assign featured_successes = (site.successes|where_exp:"successes","successes['is featured'] == true") %}
-          {% assign not_featured_successes = (site.successes|where_exp:"successes","successes['is featured'] == false") %}
-        
-          {% assign sorted_featured_successes = (featured_successes | sort: 'date') | reverse %}
-
-          {% for successes in sorted_featured_successes %}
-        <!-- BADGE FOR FEATURED SUCCESSES -->
-<!--             <span class="badge badge-danger mb-2">PINNED</span> -->
-            {% include success-blurb.html %}
-          {% endfor %}
-
-          <div class="pagination">
-            <a href="/successes.html" class="btn btn-link btn-flush ml-auto">More successes &rarr;</a>
-          </div>
-
-        {% endif %}
-{% endcomment %}
+        <!-- MEMBER COUNT AND INVITE MEMBERS BUTTON -->
+        <br />
+	{{ content }}
       </div><!-- END TEAM MEDIA -->
 
     </div>
