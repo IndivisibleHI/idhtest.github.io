@@ -19,6 +19,6 @@ people who voted for the First time in 2018 and 2020 and 8 million new voters.
 
 With direct, personal messages that Work.
 
-Empirical studies from FieldTeam6, Reclaim Our Vote, Vote Forward, Activate America show letters and postcards work. Sign up for "Postcards to Win" at https://mobilize.us/s/iQ8XGi.
+Empirical studies from FieldTeam6, Reclaim Our Vote, Vote Forward, Activate America show letters and postcards work. [Sign up](https://mobilize.us/s/iQ8XGi) for "Postcards to Win" at https://mobilize.us/s/iQ8XGi.
 
-Text banking is fast and effective, with a response rate of 10-15%. You can send initial texts out to 5000+ in two hours. To sign up, contact us at natel+owner@indivisiblehawaii.org.
+Text banking is fast and effective, with a response rate of 10-15%. You can send initial texts out to 5000+ in two hours. To sign up, email us at natel+owner@indivisiblehawaii.org.
