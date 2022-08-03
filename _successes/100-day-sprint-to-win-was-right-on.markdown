@@ -1,6 +1,7 @@
 ---
 title: 100 Day Sprint to Win was Right On
 date: 2022-08-02 07:22:00 -10:00
+is featured: true
 main-image: "/uploads/100%20Day%20Sprint%20Cover.png"
 ---
 
