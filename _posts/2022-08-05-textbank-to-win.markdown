@@ -1,5 +1,5 @@
 ---
-title: Texting to Win
+title: Textbank to Win
 date: 2022-08-05 08:35:00 -10:00
 categories:
 - action
