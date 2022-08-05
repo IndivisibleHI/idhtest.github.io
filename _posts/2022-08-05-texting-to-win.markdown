@@ -1,8 +1,14 @@
 ---
 title: Texting to Win
 date: 2022-08-05 08:35:00 -10:00
-is featured: false
+categories:
+- action
+tags:
+- natel
+is featured: true
 main-image: "/uploads/Scale%20to%20Win.png"
+event-start-date: 2022-08-05 00:00:00 -10:00
+event-end-date: 2022-11-09 00:00:00 -10:00
 ---
 
 “Yes we can” Because “Yes we Did.”
