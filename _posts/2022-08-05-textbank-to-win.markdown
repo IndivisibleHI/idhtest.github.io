@@ -29,7 +29,7 @@ Aug 9th 6AM, 8AM [Sign up to text to WI with NextGen](https://www.mobilize.us/ne
 
 Aug 11th 12:30PM [Sign up to get Cheri Beasley of NC elected to U.S. Senate](https://events.democrats.org/event/485365/) 
 
-Aug 12th 7AM [Sign up with FT6 and Turn PA Blue](https://www.mobilize.us/ft6/event/484472/) 
+Aug 12th 7AM Email natel+owner@indivisiblehawaii.org if you want to text with FieldTeam6 and Turn PA Blue to get pro-choice voters registered.  
 
 Aug 20th 9AM [Sign up with Mission for Arizona](https://events.democrats.org/event/487230/)
 
