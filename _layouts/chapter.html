@@ -94,9 +94,32 @@ layout: default
       <!-- SUCCESSES AND MEMBER COUNT -->
       <div class="col-sm-4">
 
-        <!-- MEMBER COUNT AND INVITE MEMBERS BUTTON -->
+        <!-- CHAPTER INFORMATION AREA -->
         <br />
 	{{ content }}
+	<!-- CHAPTER SUCCESSES -->
+	{% if site.successes %}
+          <!-- <div class="spacer"></div> -->
+          <hr class="mt-4 mb-3">
+          <h5 class="mb-2">Successes</h5>
+	  {% if page.chapter %}
+	    {% assign featured_successes = site.successes | where: chapter, page.chapter %}
+	  {% else %}
+	    {% assign featured_successes = site.successes | where: island, page.island %}
+	  {% endif %}
+
+          {% assign sorted_featured_successes = (featured_successes | sort: 'date') | reverse %}
+
+          {% for successes in sorted_featured_successes %}
+	      {% include success-blurb.html %}
+          {% endfor %}
+
+          <div class="pagination">
+            <a href="/successes.html" class="btn btn-link btn-flush ml-auto">More successes &rarr;</a>
+          </div>
+
+        {% endif %}
+
       </div><!-- END TEAM MEDIA -->
 
     </div>

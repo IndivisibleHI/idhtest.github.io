@@ -64,6 +64,8 @@ defaults:
     is featured: false
     main-image: 
     layout: media-item
+    island: 
+    chapter: 
 - scope:
     path: ''
     type: resources
