@@ -110,7 +110,7 @@ layout: default
 
           {% assign sorted_featured_successes = (featured_successes | sort: 'date') | reverse %}
 
-          {% for successes in sorted_featured_successes %}
+          {% for successes in sorted_featured_successes limit:5 %}
 	      {% include success-blurb.html %}
           {% endfor %}
 
