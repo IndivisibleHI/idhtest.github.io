@@ -8,9 +8,11 @@ exturl: https://secure.actblue.com/donate/indivisiblehon425758363
 basiclink: true
 ---
 
-## [Donate to Indivisible Hawaii's Statewide Fund](https://secure.actblue.com/donate/indivisiblehon425758363)
+### [Donate to Indivisible Hawaii's Statewide Fund](https://secure.actblue.com/donate/indivisiblehon425758363)
 
-Indivisible Hawaii's statewide fund is used to support activities and events at the statewide level, as well as providing funds for local activities and events. You can donate to the statewide fund [here](https://secure.actblue.com/donate/indivisiblehon425758363).
+Indivisible Hawaii's statewide fund is used to support activities and events at the statewide level, as well as providing funds for local activities and events.  
+
+<a style="btn btn-block btn-danger" href="https://secure.actblue.com/donate/indivisiblehon425758363">Donate</a>
 
 ### Donate to a Local Chapter
 
