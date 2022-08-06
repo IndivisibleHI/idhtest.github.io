@@ -7,4 +7,3 @@ donate_url:
 ---
 
 This is the page for the Kauai chapter of Indivisible Hawaii.\
-<a class="btn btn-block btn-danger" style="text-decoration: none !important" href="/donate">Donate to Kauai Indivisible</a>
