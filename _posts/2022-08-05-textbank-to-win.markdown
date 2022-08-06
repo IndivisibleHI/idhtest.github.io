@@ -37,4 +37,6 @@ Aug 18th 7AM [Sign up to text to PA with Team Fetterman](https://www.mobilize.us
 
 Aug 20th 9AM [Sign up with Mission for Arizona](https://events.democrats.org/event/487230/)
 
+Aug 20th 9AM [Sign up with PA Dems](https://www.mobilize.us/allinpa/event/488234/)
+
 Tuesdays and Thursdays 7AM and 2PM [Sign up with DNC's Organize Everywhere](https://events.democrats.org/event/418266/)
