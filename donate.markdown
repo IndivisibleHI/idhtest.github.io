@@ -12,7 +12,7 @@ basiclink: true
 
 Indivisible Hawaii's statewide fund is used to support activities and events at the statewide level, as well as providing funds for local activities and events.
 
-<a class="btn btn-block btn-danger" style="text-decoration: none !important" href="https://secure.actblue.com/donate/indivisiblehon425758363">Donate</a>
+<a class="btn btn-danger" style="text-decoration: none !important" href="https://secure.actblue.com/donate/indivisiblehon425758363">Donate</a>
 
 ### Donate to a Local Chapter
 
