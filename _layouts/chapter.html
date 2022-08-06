@@ -97,6 +97,10 @@ layout: default
         <!-- CHAPTER INFORMATION AREA -->
         <br />
 	{{ content }}
+	{% if page.donate_url %}
+	  <br />
+	  <a href="{{ page.donate_url }}" class="btn btn-danger">Donate to this chapter</a>
+	{% endif %}
 	<!-- CHAPTER SUCCESSES -->
 	{% if site.successes %}
           <!-- <div class="spacer"></div> -->
