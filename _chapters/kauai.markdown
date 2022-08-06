@@ -6,4 +6,4 @@ chapter-description: Kauai Indivisible is the Indivisible chapter on Kauai.
 donate_url: https://indivisiblehawaii.org/donate
 ---
 
-This is the page for the Kauai chapter of Indivisible Hawaii.\
+This is the page for the Kauai chapter of Indivisible Hawaii.
