@@ -31,7 +31,7 @@ layout: default
         {% for chapter in site.chapters %}
           {% if chapter.donate_url %}
             <h4>{% if chapter.chapter %} {{ chapter.chapter }} {% else %} {{ chapter.island }} {% endif %}</h4><br />
-            <a href="{{ chapter.donate_url }}" class="btn btn-block btn-danger">Donate</a>
+            <a href="{{ chapter.donate_url }}" class="btn btn-danger">Donate</a>
           {% endif %}
         {% endfor %}
     </div>
