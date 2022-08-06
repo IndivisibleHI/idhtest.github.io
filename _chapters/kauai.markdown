@@ -5,6 +5,5 @@ island: Kauai
 chapter-description: Kauai Indivisible is the Indivisible chapter on Kauai.
 ---
 
-This is the page for the Kauai chapter of Indivisible Hawaii.
-
-<a class="btn btn-block btn-danger" href="/donate">Donate to Kauai Indivisible</a>
+This is the page for the Kauai chapter of Indivisible Hawaii.  
+<a class="btn btn-block btn-danger" style="text-decoration: none !" href="/donate">Donate to Kauai Indivisible</a>
