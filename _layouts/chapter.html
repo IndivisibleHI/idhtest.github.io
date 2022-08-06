@@ -103,9 +103,9 @@ layout: default
           <hr class="mt-4 mb-3">
           <h5 class="mb-2">Successes</h5>
 	  {% if page.chapter %}
-	    {% assign featured_successes = site.successes | where: chapter, page.chapter %}
+	    {% assign featured_successes = site.successes | where_exp: "successes", "successes.chapter == page.chapter" %}
 	  {% else %}
-	    {% assign featured_successes = site.successes | where: island, page.island %}
+	    {% assign featured_successes = site.successes | where_exp: "successes", "successes.island == page.island" %}
 	  {% endif %}
 
           {% assign sorted_featured_successes = (featured_successes | sort: 'date') | reverse %}
