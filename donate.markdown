@@ -6,6 +6,7 @@ nav: true
 navbutton: true
 exturl: https://secure.actblue.com/donate/indivisiblehon425758363
 basiclink: true
+layout: donate
 ---
 
 ### [Donate to Indivisible Hawaii's Statewide Fund](https://secure.actblue.com/donate/indivisiblehon425758363)
