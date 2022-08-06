@@ -81,7 +81,6 @@ At times we will want to do targeted lobbying. A few calls by constituents can m
 
 [https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=853&year=2021](https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=853&year=2021)\
 [https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=789](https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=789)\
-\
 
 **Please fill in the form to the left and hit the "Subscribe" button.**
 
