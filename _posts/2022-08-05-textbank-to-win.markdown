@@ -19,6 +19,8 @@ Text banking is fast and effective, with a response rate of 10-15%. You can send
 
 Sign up to register and turnout Democratic voters. Times listed below are HST.
 
+**Tuesdays and Thursdays 7AM and 2PM [Sign up with DNC's Organize Everywhere](https://events.democrats.org/event/418266/)**
+
 Aug 8th 5AM [sign up with WISDEMS](https://events.democrats.org/event/476162/)
 
 Aug 8th 6AM, 8AM, 10AM, 12PM [Sign up to text to WI with NextGen](https://www.mobilize.us/nextgen/event/479725/)  
@@ -44,5 +46,3 @@ Aug 20th 9AM [Sign up with PA Dems](https://www.mobilize.us/allinpa/event/488234
 Aug 27th 9AM Email natel+owner@indivisiblehawaii.org if you want to text with Mission for Arizona (there will likely be one but it's not posted on mobilize)
 
 Aug 30th 12PM [Sign up to be trained by NextGen](https://www.mobilize.us/nextgen/event/483762/)
-
-Tuesdays and Thursdays 7AM and 2PM [Sign up with DNC's Organize Everywhere](https://events.democrats.org/event/418266/)
