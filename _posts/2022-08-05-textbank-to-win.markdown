@@ -43,4 +43,6 @@ Aug 20th 9AM [Sign up with PA Dems](https://www.mobilize.us/allinpa/event/488234
 
 Aug 27th 9AM Aug 13th 9AM Email natel+owner@indivisiblehawaii.org if you want to text with Mission for Arizona (there will likely be one but it's not posted on mobilize)
 
+Aug 30th 12PM [Sign up to be trained by NextGen](https://www.mobilize.us/nextgen/event/483762/)
+
 Tuesdays and Thursdays 7AM and 2PM [Sign up with DNC's Organize Everywhere](https://events.democrats.org/event/418266/)
