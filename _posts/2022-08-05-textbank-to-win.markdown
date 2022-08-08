@@ -33,10 +33,14 @@ Aug 11th 12:30PM [Sign up to get Cheri Beasley of NC elected to U.S. Senate](htt
 
 Aug 12th 7AM Email natel+owner@indivisiblehawaii.org if you want to text with FieldTeam6 and Turn PA Blue to get pro-choice voters registered.  
 
+Aug 13th 9AM Email natel+owner@indivisiblehawaii.org if you want to text with Mission for Arizona (there will likely be one but it's not posted on mobilize)
+
 Aug 18th 7AM [Sign up to text to PA with Team Fetterman](https://www.mobilize.us/johnfettermanforsenate/event/475576/)
 
 Aug 20th 9AM [Sign up with Mission for Arizona](https://events.democrats.org/event/487230/)
 
 Aug 20th 9AM [Sign up with PA Dems](https://www.mobilize.us/allinpa/event/488234/)
+
+Aug 27th 9AM Aug 13th 9AM Email natel+owner@indivisiblehawaii.org if you want to text with Mission for Arizona (there will likely be one but it's not posted on mobilize)
 
 Tuesdays and Thursdays 7AM and 2PM [Sign up with DNC's Organize Everywhere](https://events.democrats.org/event/418266/)
