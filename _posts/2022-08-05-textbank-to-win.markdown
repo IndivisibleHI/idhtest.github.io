@@ -29,7 +29,7 @@ Aug 13th 9AM Email natel+owner@indivisiblehawaii.org if you want to text with Mi
 
 Aug 18th 7AM [Sign up to text to PA with Team Fetterman](https://www.mobilize.us/johnfettermanforsenate/event/475576/)
 
-Aug 20th 9AM [Sign up with Mission for Arizona](https://events.democrats.org/event/487230/)
+Aug 20th 9AM Email natel+owner@indivisiblehawaii.org if you want to text with Mission for Arizona (there will likely be one but it's not posted on mobilize)
 
 Aug 20th 9AM [Sign up with PA Dems](https://www.mobilize.us/allinpa/event/488234/)
 
