@@ -11,6 +11,8 @@ event-start-date: 2022-08-11 16:30:00 -10:00
 event-end-date: 2022-08-11 17:30:00 -10:00
 Location: 'Ulu La''au Waimea Nature Park, behind Canada France HQ, outdoors in the
   covered picnic area '
+island: Hawaii Island
+chapter: Waimea
 ---
 
 The 100 day push to the election has begun.  Are you ready to save democracy?
