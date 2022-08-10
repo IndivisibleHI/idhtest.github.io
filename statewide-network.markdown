@@ -33,7 +33,7 @@ See website for our **Shine Your Light Interview Series - Inspiring Life Stories
 
 ### **Kauai Indivisible**
 
-**[Kauai Indivisible Chapter Page](/chapters/kauai)**
+**[Kauai Indivisible Chapter Page](/chapters/kauai)**  
 **Contact: [Margie Merryman](mailto:indivisiblekauai1@gmail.com)**
 
 ## **OAHU**
