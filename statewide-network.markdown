@@ -19,7 +19,7 @@ nav: true
 
 ## **MAUI**
 
-## **Hui Aloha ‘O Maui Indivisible**
+### **Hui Aloha ‘O Maui Indivisible**
 
 **Ellen Caringer**<br /> **[drcaringer@gmail.com](mailto:ezmeralda5@gmail.com)**
 
@@ -29,7 +29,7 @@ nav: true
 
 See website for our **Shine Your Light Interview Series - Inspiring Life Stories about Pursuing Purpose and Spreading the Light**. Each week this page will feature interviews with individuals working hard to “shine their light," choosing to make a difference in their communities and across the world.
 
-# **KAUAI**
+## **KAUAI**
 
 ### **Kauai Indivisible**
 
