@@ -6,7 +6,7 @@ categories:
 tags:
 - natel
 is featured: true
-main-image: "/uploads/68064105524__6993325C-0295-4685-A906-8E9A1A475733.jpg"
+main-image: "/uploads/FT6%20Postcards%20Front.png"
 event-start-date: 2022-08-17 10:00:00 -10:00
 event-end-date: 2022-08-17 11:00:00 -10:00
 RSVP-link: https://www.mobilize.us/swingleft/event/484624/
