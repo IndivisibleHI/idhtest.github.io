@@ -25,9 +25,15 @@ Aug 12th 7AM Email natel+owner@indivisiblehawaii.org if you want to text with Fi
 
 Aug 13th 9AM Email natel+owner@indivisiblehawaii.org if you want to text with Mission for Arizona (there will likely be one but it's not posted on mobilize)
 
+Aug 15th 7AM [Sign up with NextGen to text to youth in New Hampshire](https://www.mobilize.us/nextgen/event/487770/)
+
+Aug 17th 7AM [Sign up with NextGen to text to youth in New Hampshire](https://www.mobilize.us/nextgen/event/487770/)
+
 Aug 18th 7AM [Sign up to text to PA with Team Fetterman](https://www.mobilize.us/johnfettermanforsenate/event/475576/)
 
 August 18th 12:30PM [Sign up to get Cheri Beasley of NC elected to U.S. Senate](https://www.mobilize.us/blueunityin2022/event/485365/)
+
+Aug 19th 7AM [Sign up with NextGen to text to youth in New Hampshire](https://www.mobilize.us/nextgen/event/487770/)
 
 Aug 20th 9AM Email natel+owner@indivisiblehawaii.org if you want to text with Mission for Arizona (there will likely be one but it's not posted on mobilize)
 
