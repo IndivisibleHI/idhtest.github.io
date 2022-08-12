@@ -41,6 +41,6 @@ Aug 20th 9AM [Sign up with PA Dems](https://www.mobilize.us/allinpa/event/488234
 
 Aug 27th 9AM Email natel+owner@indivisiblehawaii.org if you want to text with Mission for Arizona (there will likely be one but it's not posted on mobilize)
 
-Aug 30th 10AM [Sign up with AAPI Coalition to text to PA] (https://www.mobilize.us/allinpa/event/488409/) 
+Aug 30th 10AM [Sign up with AAPI Coalition to text to PA](https://www.mobilize.us/allinpa/event/488409/)
 
 Aug 30th 12PM [Sign up to be trained by NextGen](https://www.mobilize.us/nextgen/event/483762/)
