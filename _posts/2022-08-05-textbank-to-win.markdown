@@ -21,8 +21,6 @@ Sign up to register and turnout Democratic voters. Times listed below are HST.
 
 **Tuesdays and Thursdays 7AM and 2PM [Sign up with DNC's Organize Everywhere](https://events.democrats.org/event/418266/)**
 
-Aug 13th 9AM [Sign up with Mission for Arizona](https://www.mobilize.us/missionforaz/event/487230/)
-
 Aug 15th 7AM [Sign up with NextGen to text to youth in New Hampshire](https://www.mobilize.us/nextgen/event/487770/)
 
 Aug 17th 7AM [Sign up with NextGen to text to youth in New Hampshire](https://www.mobilize.us/nextgen/event/487770/)
@@ -33,7 +31,7 @@ August 18th 12:30PM [Sign up to get Cheri Beasley of NC elected to U.S. Senate](
 
 Aug 19th 7AM [Sign up with NextGen to text to youth in New Hampshire](https://www.mobilize.us/nextgen/event/487770/)
 
-Aug 20th 9AM Email natel+owner@indivisiblehawaii.org if you want to text with Mission for Arizona (there will likely be one but it's not posted on mobilize)
+Aug 20th 9AM [Sign up with Mission for Arizona](https://www.mobilize.us/missionforaz/event/487230/)
 
 Aug 20th 9AM [Sign up with PA Dems](https://www.mobilize.us/allinpa/event/488234/)
 
@@ -42,3 +40,5 @@ Aug 27th 9AM Email natel+owner@indivisiblehawaii.org if you want to text with Mi
 Aug 30th 10AM [Sign up with AAPI Coalition to text to PA](https://www.mobilize.us/allinpa/event/488409/)
 
 Aug 30th 12PM [Sign up to be trained by NextGen](https://www.mobilize.us/nextgen/event/483762/)
+
+NextGen is also training new textbankers on Tuesdays and Thursdays 11AM HST.  [Sign up for one](https://www.mobilize.us/nextgen/event/476432/).
