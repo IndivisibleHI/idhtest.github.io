@@ -21,7 +21,7 @@ Sign up to register and turnout Democratic voters. Times listed below are HST.
 
 **Tuesdays and Thursdays 7AM and 2PM [Sign up with DNC's Organize Everywhere](https://events.democrats.org/event/418266/)**
 
-Aug 13th 9AM Email natel+owner@indivisiblehawaii.org if you want to text with Mission for Arizona (there will likely be one but it's not posted on mobilize)
+Aug 13th 9AM [Sign up with Mission for Arizona](https://www.mobilize.us/missionforaz/event/487230/)
 
 Aug 15th 7AM [Sign up with NextGen to text to youth in New Hampshire](https://www.mobilize.us/nextgen/event/487770/)
 
