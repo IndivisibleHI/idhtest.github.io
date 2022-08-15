@@ -25,7 +25,7 @@ Aug 15th 7AM [Sign up with NextGen to text to youth in New Hampshire](https://ww
 
 Aug 17th 7AM [Sign up with NextGen to text to youth in New Hampshire](https://www.mobilize.us/nextgen/event/487770/)
 
-Aug 18th 7AM [Sign up to text to PA with Team Fetterman](https://www.mobilize.us/johnfettermanforsenate/event/475576/)
+Aug 18th 7AM Email natel+owner@indivisiblehawaii.org if you want to text with Team Fetterman, U.S. Senate candidate from PA (there will likely be one but it's not posted on mobilize)
 
 August 18th 12:30PM [Sign up to get Cheri Beasley of NC elected to U.S. Senate](https://www.mobilize.us/blueunityin2022/event/485365/)
 
