@@ -21,8 +21,6 @@ Sign up to register and turnout Democratic voters. Times listed below are HST.
 
 **Tuesdays and Thursdays 7AM and 2PM [Sign up with DNC's Organize Everywhere](https://events.democrats.org/event/418266/)**
 
-Aug 15th 7AM [Sign up with NextGen to text to youth in New Hampshire](https://www.mobilize.us/nextgen/event/487770/)
-
 Aug 17th 7AM [Sign up with NextGen to text to youth in New Hampshire](https://www.mobilize.us/nextgen/event/487770/)
 
 Aug 18th 7AM Email natel+owner@indivisiblehawaii.org if you want to text with Team Fetterman, U.S. Senate candidate from PA (there will likely be one but it's not posted on mobilize)
