@@ -7,8 +7,8 @@ tags:
 - natel
 is featured: true
 main-image: "/uploads/FT6%20Postcards%20Front.png"
-event-start-date: 2022-08-24 10:00:00 -10:00
-event-end-date: 2022-08-24 11:00:00 -10:00
+event-start-date: 2022-08-17 10:00:00 -10:00
+event-end-date: 2022-08-17 11:00:00 -10:00
 RSVP-link: https://www.mobilize.us/swingleft/event/484624/
 ---
 
