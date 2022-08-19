@@ -21,10 +21,6 @@ Sign up to register and turnout Democratic voters. Times listed below are HST.
 
 **Tuesdays and Thursdays 7AM and 2PM [Sign up with DNC's Organize Everywhere](https://events.democrats.org/event/418266/)**
 
-August 18th 12:30PM [Sign up to get Cheri Beasley of NC elected to U.S. Senate](https://www.mobilize.us/blueunityin2022/event/485365/)
-
-Aug 19th 7AM [Sign up with NextGen to text to youth in New Hampshire](https://www.mobilize.us/nextgen/event/487770/)
-
 Aug 20th 9AM [Sign up with Mission for Arizona](https://www.mobilize.us/missionforaz/event/487230/)
 
 Aug 20th 9AM [Sign up with PA Dems](https://www.mobilize.us/allinpa/event/488234/)
