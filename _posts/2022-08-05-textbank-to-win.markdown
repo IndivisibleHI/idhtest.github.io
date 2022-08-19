@@ -31,12 +31,20 @@ Aug 20th 9AM [Sign up with PA Dems](https://www.mobilize.us/allinpa/event/488234
 
 Aug 23rd 7AM Email natel+owner@indivisiblehawaii.org if you want to text with Team Fetterman, U.S. Senate candidate from PA (there will likely be one but it's not posted on mobilize)
 
+Aug 23rd 12:30PM [Sign up to get Cheri Beasley of NC elected to U.S. Senate](https://www.mobilize.us/blueunityin2022/event/491659/)
+
 Aug 25th 7AM Email natel+owner@indivisiblehawaii.org if you want to text with Team Fetterman, U.S. Senate candidate from PA (there will likely be one but it's not posted on mobilize)
+
+Aug 25th 12:30PM [Sign up to get Cheri Beasley of NC elected to U.S. Senate](https://www.mobilize.us/blueunityin2022/event/491659/)
 
 Aug 27th 9AM Email natel+owner@indivisiblehawaii.org if you want to text with Mission for Arizona (there will likely be one but it's not posted on mobilize)
 
 Aug 30th 10AM [Sign up with AAPI Coalition to text to PA](https://www.mobilize.us/allinpa/event/488409/)
 
 Aug 30th 12PM [Sign up to be trained by NextGen](https://www.mobilize.us/nextgen/event/483762/)
+
+Aug 30th 12:30PM [Sign up to get Cheri Beasley of NC elected to U.S. Senate](https://www.mobilize.us/blueunityin2022/event/491659/)
+
+Sept 1st 12:30PM [Sign up to get Cheri Beasley of NC elected to U.S. Senate](https://www.mobilize.us/blueunityin2022/event/491659/)
 
 NextGen is also training new textbankers on Tuesdays and Thursdays 11AM HST.  [Sign up for one](https://www.mobilize.us/nextgen/event/476432/).
