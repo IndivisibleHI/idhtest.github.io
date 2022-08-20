@@ -23,7 +23,7 @@ Sign up to register and turnout Democratic voters. Times listed below are HST.
 
 **Tuesdays and Thursdays 7AM and 2PM [Sign up for a training by DNC's Organize Everywhere](https://events.democrats.org/event/418266/)**
 
-Tuesdays and Thursdays 11AM [Sign up for a training by NextGen to get youth out to vote](https://www.mobilize.us/nextgen/event/476432/).
+Tuesdays and Thursdays 11AM [Sign up for a training by NextGen to register and get youth out to vote](https://www.mobilize.us/nextgen/event/476432/).
 
 **Tuesdays and Thursdays 12:30PM [Sign up to get Cheri Besley, Dem candidate from NC for U.S. Senate, and other Dems elected](https://www.mobilize.us/blueunityin2022/event/491659/)**
 
