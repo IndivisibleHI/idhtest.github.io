@@ -31,7 +31,7 @@ Tuesdays and Thursdays 11AM [Sign up for a training by NextGen to register and g
 
 Saturdays 9AM Email natel+owner@indivisiblehawaii.org if you want to text with Mission for Arizona (there will likely be one but it's not posted on mobilize)
 
-Aug 23rd 1PM [Sign up with Activate America and Planned Parenthood to reach out to pro-choice voters ](https://www.mobilize.us/activateamerica/event/482538/)
+Aug 23rd 1PM [Sign up with Activate America and Planned Parenthood to reach out to pro-choice voters in NC ](https://www.mobilize.us/activateamerica/event/482538/)
 
 Aug 30th 10AM [Sign up with AAPI Coalition to text to PA](https://www.mobilize.us/allinpa/event/488409/)
 
