@@ -19,13 +19,13 @@ Text banking is fast and effective, with a response rate of 10-15%. You can send
 
 Sign up to register and turnout Democratic voters. Times listed below are HST.
 
-## AUGUST to SEPTEMBER 1:## 
+### AUGUST to SEPTEMBER 1
 
 **Tuesdays and Thursdays 7AM and 2PM [Sign up with training by DNC's Organize Everywhere](https://events.democrats.org/event/418266/)**
 
 NextGen is also training new textbankers on Tuesdays and Thursdays 11AM  [Sign up for one](https://www.mobilize.us/nextgen/event/476432/).
 
-**Tuesdays and Thursdays 12:30PM [Sign up to get Cheri Besley of NC elected to U.S. Senate](https://www.mobilize.us/blueunityin2022/event/491659/)**
+**Tuesdays and Thursdays 12:30PM [Sign up to get Cheri Besley, Dem candidate from NC for U.S. Senate, and other Dems elected](https://www.mobilize.us/blueunityin2022/event/491659/)**
 
 Tuesdays and Thursdays 7AM Email natel+owner@indivisiblehawaii.org if you want to text with Team Fetterman, U.S. Senate candidate from PA (there will likely be one but it's not posted on mobilize)
 
@@ -33,11 +33,11 @@ Saturdays 9AM Email natel+owner@indivisiblehawaii.org if you want to text with M
 
 Aug 30th 10AM [Sign up with AAPI Coalition to text to PA](https://www.mobilize.us/allinpa/event/488409/)
 
-## SEPTEMBER:## 
+### SEPTEMBER
 
 Tuesdays and Saturdays 9AM [Sign up with All in PA/PA Dems](https://www.mobilize.us/allinpa/event/445934/)
 
-**Tuesdays and Thursdays 12:30PM [Sign up to get Cheri Besley of NC elected to U.S. Senate](https://www.mobilize.us/blueunityin2022/event/491659/)**
+**Tuesdays and Thursdays 12:30PM [Sign up to get Cheri Besley, Dem candidate from NC for U.S. Senate, and other Dems elected](https://www.mobilize.us/blueunityin2022/event/491659/)**
 
 Tuesdays and Thursdays 7AM Email natel+owner@indivisiblehawaii.org if you want to text with Team Fetterman, U.S. Senate candidate from PA (there will likely be one but it's not posted on mobilize)
 
