@@ -35,9 +35,9 @@ Aug 30th 10AM [Sign up with AAPI Coalition to text to PA](https://www.mobilize.u
 
 ### SEPTEMBER
 
-Tuesdays and Saturdays 9AM [Sign up with All in PA/PA Dems](https://www.mobilize.us/allinpa/event/445934/)
-
 **Tuesdays and Thursdays 12:30PM [Sign up to get Cheri Beasley, Dem candidate from NC for U.S. Senate, and other Dems elected](https://www.mobilize.us/blueunityin2022/event/491659/)**
+
+Tuesdays and Saturdays 9AM [Sign up with All in PA/PA Dems](https://www.mobilize.us/allinpa/event/445934/)
 
 Tuesdays and Thursdays 7AM Email natel+owner@indivisiblehawaii.org if you want to text with Team Fetterman, U.S. Senate candidate from PA (there will likely be one but it's not posted on mobilize)
 
