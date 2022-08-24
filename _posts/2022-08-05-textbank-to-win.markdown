@@ -19,19 +19,19 @@ Text banking is fast and effective, with a response rate of 10-15%. You can send
 
 Sign up to register and turnout Democratic voters. Times listed below are HST.
 
+WE RECOMMEND YOU TAKE DNC TRAINING IN AUGUST. DNC is offering textbanking opportunities everyday and it's likely they won't offer the training after September 1st. 
+
+NC TEAM CAN REALLY USE OUR HELP.  NC is new to textbanking and need volunteers.  
+
 ### AUGUST to SEPTEMBER 1
 
-**Tuesdays and Thursdays 7AM and 2PM [Sign up for a training by DNC's Organize Everywhere](https://events.democrats.org/event/418266/)**
-
-Tuesdays and Thursdays 7AM Email natel+owner@indivisiblehawaii.org if you want to text with Team Fetterman, U.S. Senate candidate from PA (there will likely be one but it's not posted on mobilize)
+**Tuesdays and Thursdays 7AM and 2PM [Sign up for a training by DNC's Organize Everywhere](https://events.democrats.org/event/418266/)**  
 
 Tuesdays and Thursdays 11AM [Sign up for a training by NextGen to register and get youth out to vote](https://www.mobilize.us/nextgen/event/476432/).
 
 **Tuesdays and Thursdays 12:30PM [Sign up to get Cheri Beasley, Dem candidate from NC for U.S. Senate, and other Dems elected](https://www.mobilize.us/blueunityin2022/event/491659/)**
 
 Saturdays 9AM Email natel+owner@indivisiblehawaii.org if you want to text with Mission for Arizona (there will likely be one but it's not posted on mobilize)
-
-Aug 23rd 1PM [Sign up with Activate America and Planned Parenthood to reach out to pro-choice voters in NC ](https://www.mobilize.us/activateamerica/event/482538/)
 
 Aug 30th 10AM [Sign up with AAPI Coalition to text to PA](https://www.mobilize.us/allinpa/event/488409/)
 
