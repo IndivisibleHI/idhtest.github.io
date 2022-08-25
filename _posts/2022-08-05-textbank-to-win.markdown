@@ -33,6 +33,8 @@ Saturdays 9AM Email natel+owner@indivisiblehawaii.org if you want to text with M
 
 Aug 30th 10AM [Sign up with AAPI Coalition to text to PA](https://www.mobilize.us/allinpa/event/488409/)
 
+September 1st NOON [Sign up with Field Team 6 to text to WI to get pro-choice voters registered](https://www.mobilize.us/ft6/event/494121/)
+
 ### SEPTEMBER
 
 Tuesdays and Thursdays 7AM Email natel+owner@indivisiblehawaii.org if you want to text with Team Fetterman, U.S. Senate candidate from PA (there will likely be one but it's not posted on mobilize)
