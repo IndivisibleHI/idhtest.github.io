@@ -7,8 +7,8 @@ tags:
 - natel
 is featured: true
 main-image: "/uploads/Waimea%20Postcards%20to%20Win%20Graphic.png"
-event-start-date: 2022-08-25 16:30:00 -10:00
-event-end-date: 2022-08-25 17:30:00 -10:00
+event-start-date: 2022-09-01 16:30:00 -10:00
+event-end-date: 2022-09-01 17:30:00 -10:00
 Location: 'Ulu La''au Waimea Nature Park, behind Canada France HQ, outdoors in the
   covered picnic area '
 island: Hawaii Island
