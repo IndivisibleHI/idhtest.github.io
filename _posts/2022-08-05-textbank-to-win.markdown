@@ -25,7 +25,7 @@ NC TEAM CAN REALLY USE OUR HELP.  NC team is new to textbanking and need more vo
 
 ### AUGUST to SEPTEMBER 1
 
-**Tuesdays and Thursdays 7AM and 2PM [Sign up for a training by DNC's Organize Everywhere](https://events.democrats.org/event/418266/)**  
+**Tuesdays and Thursdays 7AM and 2PM [Sign up for a training by DNC's Organize Everywhere](https://events.democrats.org/event/418266/)**  Once you are trained by DNC, you can join in DNC textbanking which take place Monday thru Friday. 
 
 Tuesdays and Thursdays 11AM [Sign up for a training by NextGen to register and get youth out to vote](https://www.mobilize.us/nextgen/event/476432/).
 
