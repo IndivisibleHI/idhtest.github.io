@@ -19,7 +19,9 @@ Text banking is fast and effective, with a response rate of 10-15%. You can send
 
 Sign up to register and turnout Democratic voters. Times listed below are HST.
 
-WE RECOMMEND YOU TAKE DNC TRAINING IN AUGUST. DNC is offering textbanking opportunities everyday and it's likely they won't offer the training after September 1st. NC TEAM CAN REALLY USE OUR HELP.  NC team is new to textbanking and need more volunteers.  
+WE RECOMMEND YOU TAKE DNC TRAINING IN AUGUST. DNC is offering textbanking opportunities everyday and it's likely they won't offer the training after September 1st. Once you are trained by DNC, you can join in DNC textbanking which take place Monday thru Friday.  
+
+NC TEAM CAN REALLY USE OUR HELP.  NC team is new to textbanking and need more volunteers.  
 
 ### AUGUST to SEPTEMBER 1
 
