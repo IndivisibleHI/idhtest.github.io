@@ -44,7 +44,6 @@ September 17th 9AM [Sign up with PA Dems Weekend of Action ](https://events.demo
 September 20th 6AM, 8AM, 10AM, NOON [Sign up with NextGen to register youth in AZ, NV, PA on the National Voter Registration Day](https://www.mobilize.us/nextgen/event/493919/)
 
 ### Indivisible Textbanking Schedule
-IndivisiCandidates below, and stay tuned as we add even more dates soon:
 
 September 12th 3PM [Register](https://indivisible.zoom.us/meeting/register/tZEvdeihqj0vGNXIRCcem-4UcKr_SG_sJhht) to text for Katie Porter and Mike Levin (CA-47 & CA-49)
 
