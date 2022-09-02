@@ -22,26 +22,26 @@ Sign up to register and turnout Democratic voters. Times listed below are HST.
 ### Weekly Schedule
 
 Tuesdays 
-* 9AM [Sign up with All in PA/PA Dems](https://www.mobilize.us/allinpa/event/445934/)
-* 12:30PM [Sign up to get Cheri Beasley, Dem candidate from NC for U.S. Senate, and other Dems elected](https://www.mobilize.us/blueunityin2022/event/491659/)
+* 9AM [Sign up](https://www.mobilize.us/allinpa/event/445934/) with All in PA/PA Dems
+* 12:30PM [Sign up](https://www.mobilize.us/blueunityin2022/event/491659/) to text for Cheri Beasley and NC Dems
 
 Thursdays
-* 12:30PM [Sign up to get Cheri Beasley, Dem candidate from NC for U.S. Senate, and other Dems elected](https://www.mobilize.us/blueunityin2022/event/491659/)
+* 12:30PM [Sign up](https://www.mobilize.us/blueunityin2022/event/491659/) to text for Cheri Beasley and NC Dems
 
 Fridays
-* 9AM [Sign up with WI Dems](https://www.mobilize.us/wisdems/event/476162/)
+* 9AM [Sign up](https://www.mobilize.us/wisdems/event/476162/) with WI Dems
 
 Saturdays
-* 9AM [Sign up with All in PA/PA Dems](https://www.mobilize.us/allinpa/event/445934/)
+* 9AM [Sign up](https://www.mobilize.us/allinpa/event/445934/) with All in PA/PA Dems
 * 9AM Email natel+owner@indivisiblehawaii.org if you want to text with Mission for Arizona (there will likely be one but it's not posted on mobilize)
 
 ### One Day Textbanking September Schedule
 
-September 12th 6AM, 8AM, NOON [Sign up with NextGen to turnout youth voters in NH](https://www.mobilize.us/nextgen/event/499590/)
+September 12th 6AM, 8AM, NOON [Sign up](https://www.mobilize.us/nextgen/event/499590/) with NextGen to turnout youth voters in NH
 
-September 17th 9AM [Sign up with PA Dems Weekend of Action ](https://events.democrats.org/event/496294/)
+September 17th 9AM [Sign up](https://events.democrats.org/event/496294/) with PA Dems Weekend of Action
 
-September 20th 6AM, 8AM, 10AM, NOON [Sign up with NextGen to register youth in AZ, NV, PA on the National Voter Registration Day](https://www.mobilize.us/nextgen/event/493919/)
+September 20th 6AM, 8AM, 10AM, NOON [Sign up](https://www.mobilize.us/nextgen/event/493919/) with NextGen to register youth in AZ, NV, PA on the National Voter Registration Day
 
 ### Indivisible Textbanking Schedule
 
