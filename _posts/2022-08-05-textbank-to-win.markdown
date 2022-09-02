@@ -42,3 +42,18 @@ September 12th 6AM, 8AM, NOON [Sign up with NextGen to turnout youth voters in N
 September 17th 9AM [Sign up with PA Dems Weekend of Action ](https://events.democrats.org/event/496294/)
 
 September 20th 6AM, 8AM, 10AM, NOON [Sign up with NextGen to register youth in AZ, NV, PA on the National Voter Registration Day](https://www.mobilize.us/nextgen/event/493919/)
+
+### Indivisible Textbanking Schedule
+IndivisiCandidates below, and stay tuned as we add even more dates soon:
+
+September 12th 3PM [Register](https://indivisible.zoom.us/meeting/register/tZEvdeihqj0vGNXIRCcem-4UcKr_SG_sJhht) to text for Katie Porter and Mike Levin (CA-47 & CA-49)
+
+September 15th 1PM [Register](https://indivisible.zoom.us/meeting/register/tZUrf-CupjgjG9AGLkILQtsbezml36s9UEkD) to text for Lauren Underwood (IL-14)
+
+September 19th 3PM [Register](https://indivisible.zoom.us/meeting/register/tZMod-2uqDgrGt1qy6UaNk08XtJqcHBIrJ3D) to text for Jamie McLeod-Skinner (OR-05)
+
+September 29th 9AM [Register](https://indivisible.zoom.us/meeting/register/tZckceGoqT0rGdWVZsveSyA0Z0FOjuooTzQu) to text for Lauren Underwood (IL-14) 
+
+October 3rd NOON [Register](https://indivisible.zoom.us/meeting/register/tZwrdeiprj4iHdEY4g03puFXVT1yzRELmROx) to text for Andy Kim (NJ-03)
+
+October 6th NOON [Register](https://indivisible.zoom.us/meeting/register/tZEpduqspj8iGdBSz2MuSRRhR2HSjs52zMl8) to text for John Fetterman and Matt Cartwright (PA-Sen & PA-08)
