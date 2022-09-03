@@ -19,10 +19,12 @@ Text banking is fast and effective, with a response rate of 10-15%. You can send
 
 Sign up to register and turnout Democratic voters. Times listed below are HST.
 
-### State Dems Weekly Textbanking Schedule
+### Dems Weekly Textbanking Schedule
+
+**Monday - Friday 9AM or NOON Email natel+owner@indivisiblehawaii.org if you want to text with DNC (DNC is texting but it's not posted on mobilize)**
 
 Tuesdays 
-* 9AM [Sign up](https://www.mobilize.us/allinpa/event/445934/) with All in PA/PA Dems
+* 9AM [Sign up](https://www.mobilize.us/allinpa/event/445934/) with PA Dems
 * 12:30PM [Sign up](https://www.mobilize.us/blueunityin2022/event/491659/) to text for Cheri Beasley and NC Dems
 
 Thursdays
@@ -32,10 +34,11 @@ Fridays
 * 9AM [Sign up](https://www.mobilize.us/wisdems/event/476162/) with WI Dems
 
 Saturdays
-* 9AM [Sign up](https://www.mobilize.us/allinpa/event/445934/) with All in PA/PA Dems
+* 9AM [Sign up](https://www.mobilize.us/allinpa/event/445934/) with PA Dems
 * September 17th 9AM [Sign up](https://events.democrats.org/event/496294/) with PA Dems Weekend of Action
 * 9AM Email natel+owner@indivisiblehawaii.org if you want to text with Mission for Arizona (there will likely be one but it's not posted on mobilize)
 
+        
 
 ### Indivisible Textbanking Schedule
 
@@ -52,7 +55,8 @@ October 3rd NOON [Register](https://indivisible.zoom.us/meeting/register/tZwrdei
 October 6th NOON [Register](https://indivisible.zoom.us/meeting/register/tZEpduqspj8iGdBSz2MuSRRhR2HSjs52zMl8) to text for John Fetterman and Matt Cartwright (PA-Sen & PA-08)
 
 
-### NextGen Textbanking Schedule - Register and GOTV Youth Voters
+      
+### NextGen Textbanking Schedule (Youth Voters)
 
 **[Sign up](https://www.mobilize.us/nextgen/event/476432/) to get trained first - training offered in September and only need to be trained once**
 
