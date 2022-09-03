@@ -19,7 +19,7 @@ Text banking is fast and effective, with a response rate of 10-15%. You can send
 
 Sign up to register and turnout Democratic voters. Times listed below are HST.
 
-### State Dems Textbanking Schedule
+### State Dems Weekly Textbanking Schedule
 
 Tuesdays 
 * 9AM [Sign up](https://www.mobilize.us/allinpa/event/445934/) with All in PA/PA Dems
@@ -36,6 +36,7 @@ Saturdays
 * September 17th 9AM [Sign up](https://events.democrats.org/event/496294/) with PA Dems Weekend of Action
 * 9AM Email natel+owner@indivisiblehawaii.org if you want to text with Mission for Arizona (there will likely be one but it's not posted on mobilize)
 
+
 ### Indivisible Textbanking Schedule
 
 September 12th 3PM [Register](https://indivisible.zoom.us/meeting/register/tZEvdeihqj0vGNXIRCcem-4UcKr_SG_sJhht) to text for Katie Porter and Mike Levin (CA-47 & CA-49)
@@ -49,6 +50,7 @@ September 29th 9AM [Register](https://indivisible.zoom.us/meeting/register/tZckc
 October 3rd NOON [Register](https://indivisible.zoom.us/meeting/register/tZwrdeiprj4iHdEY4g03puFXVT1yzRELmROx) to text for Andy Kim (NJ-03)
 
 October 6th NOON [Register](https://indivisible.zoom.us/meeting/register/tZEpduqspj8iGdBSz2MuSRRhR2HSjs52zMl8) to text for John Fetterman and Matt Cartwright (PA-Sen & PA-08)
+
 
 ### NextGen Textbanking Schedule - Register and GOTV Youth Voters
 
