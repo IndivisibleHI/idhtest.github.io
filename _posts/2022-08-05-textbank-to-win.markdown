@@ -19,7 +19,7 @@ Text banking is fast and effective, with a response rate of 10-15%. You can send
 
 Sign up to register and turnout Democratic voters. Times listed below are HST.
 
-### Weekly Schedule
+### State Dems Textbanking Schedule
 
 Tuesdays 
 * 9AM [Sign up](https://www.mobilize.us/allinpa/event/445934/) with All in PA/PA Dems
@@ -33,15 +33,8 @@ Fridays
 
 Saturdays
 * 9AM [Sign up](https://www.mobilize.us/allinpa/event/445934/) with All in PA/PA Dems
+* September 17th 9AM [Sign up](https://events.democrats.org/event/496294/) with PA Dems Weekend of Action
 * 9AM Email natel+owner@indivisiblehawaii.org if you want to text with Mission for Arizona (there will likely be one but it's not posted on mobilize)
-
-### One Day Textbanking September Schedule
-
-September 12th 6AM, 8AM, NOON [Sign up](https://www.mobilize.us/nextgen/event/499590/) with NextGen to turnout youth voters in NH
-
-September 17th 9AM [Sign up](https://events.democrats.org/event/496294/) with PA Dems Weekend of Action
-
-September 20th 6AM, 8AM, 10AM, NOON [Sign up](https://www.mobilize.us/nextgen/event/493919/) with NextGen to register youth in AZ, NV, PA on the National Voter Registration Day
 
 ### Indivisible Textbanking Schedule
 
@@ -56,3 +49,13 @@ September 29th 9AM [Register](https://indivisible.zoom.us/meeting/register/tZckc
 October 3rd NOON [Register](https://indivisible.zoom.us/meeting/register/tZwrdeiprj4iHdEY4g03puFXVT1yzRELmROx) to text for Andy Kim (NJ-03)
 
 October 6th NOON [Register](https://indivisible.zoom.us/meeting/register/tZEpduqspj8iGdBSz2MuSRRhR2HSjs52zMl8) to text for John Fetterman and Matt Cartwright (PA-Sen & PA-08)
+
+### NextGen Textbanking Schedule - Register and GOTV Youth Voters
+
+**[Sign up](https://www.mobilize.us/nextgen/event/476432/) to get trained first - training offered in September and only need to be trained once**
+
+Monday - Friday 7AM [Sign up](https://www.mobilize.us/nextgen/event/501401/) with NextGen to text youth to get out the vote
+
+September 12th 6AM, 8AM, NOON [Sign up](https://www.mobilize.us/nextgen/event/499590/) with NextGen to turnout youth voters in NH
+
+September 20th 6AM, 8AM, 10AM, NOON [Sign up](https://www.mobilize.us/nextgen/event/493919/) with NextGen to register youth in AZ, NV, PA on the National Voter Registration Day
