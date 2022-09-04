@@ -23,8 +23,8 @@ Sign up to register and turnout Democratic voters. Times listed below are HST.
 
 **Monday - Friday 9AM or NOON Email natel+owner@indivisiblehawaii.org if you want to text with DNC (DNC is texting but it's not posted on mobilize)**
 
-Tuesdays 
-* 9AM [Sign up](https://www.mobilize.us/allinpa/event/445934/) with PA Dems
+Tuesdays
+* 9AM [Sign up ](https://www.mobilize.us/allinpa/event/445934/)with PA Dems
 * 12:30PM [Sign up](https://www.mobilize.us/blueunityin2022/event/491659/) to text for Cheri Beasley and NC Dems
 
 Thursdays
