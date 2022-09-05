@@ -1,5 +1,5 @@
 ---
-title: Kalaheo - Postcards to Win
+title: Kalaheo, Kauai - Postcards to Win
 date: 2022-09-05 12:04:00 -10:00
 categories:
 - event
