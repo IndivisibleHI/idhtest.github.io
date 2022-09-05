@@ -1,6 +1,10 @@
 ---
 title: Kalaheo - Postcards to Win
 date: 2022-09-05 12:04:00 -10:00
+categories:
+- event
+tags:
+- natel
 is featured: true
 main-image: "/uploads/Kauai%20Postcarding%20Team%20June%202022.png"
 event-start-date: 2022-09-10 10:00:00 -10:00
