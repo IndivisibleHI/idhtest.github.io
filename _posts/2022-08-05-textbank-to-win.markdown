@@ -23,23 +23,19 @@ Sign up to register and turnout Democratic voters. Times listed below are HST.
 
 **Monday - Friday 9AM or NOON Email natel+owner@indivisiblehawaii.org if you want to text with DNC (DNC is texting but it's not posted on mobilize)**
 
-**Tuesdays**
-9AM [Sign up ](https://www.mobilize.us/allinpa/event/445934/)with PA Dems
+Tuesdays 9AM [Sign up ](https://www.mobilize.us/allinpa/event/445934/)with PA Dems
 
-12:30PM [Sign up](https://www.mobilize.us/blueunityin2022/event/491659/) to text for Cheri Beasley and NC Dems
+Tuesdays 12:30PM [Sign up](https://www.mobilize.us/blueunityin2022/event/491659/) to text for Cheri Beasley and NC Dems
 
-**Thursdays**
-12:30PM [Sign up](https://www.mobilize.us/blueunityin2022/event/491659/) to text for Cheri Beasley and NC Dems
+Thursdays 12:30PM [Sign up](https://www.mobilize.us/blueunityin2022/event/491659/) to text for Cheri Beasley and NC Dems
 
-**Fridays**
-9AM [Sign up](https://www.mobilize.us/wisdems/event/476162/) with WI Dems
+Fridays 9AM [Sign up](https://www.mobilize.us/wisdems/event/476162/) with WI Dems
 
-**Saturdays**
-9AM [Sign up](https://www.mobilize.us/allinpa/event/445934/) with PA Dems
+Saturdays 9AM [Sign up](https://www.mobilize.us/allinpa/event/445934/) with PA Dems
 
-September 17th 9AM [Sign up](https://events.democrats.org/event/496294/) with PA Dems Weekend of Action
+Saturday September 17th 9AM [Sign up](https://events.democrats.org/event/496294/) with PA Dems Weekend of Action
 
-9AM Email natel+owner@indivisiblehawaii.org if you want to text with Mission for Arizona (there will likely be one but it's not posted on mobilize)
+Saturdays 9AM Email natel+owner@indivisiblehawaii.org if you want to text with Mission for Arizona (there will likely be one but it's not posted on mobilize)
 
         
 
