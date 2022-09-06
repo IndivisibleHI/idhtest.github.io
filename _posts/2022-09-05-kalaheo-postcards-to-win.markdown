@@ -16,6 +16,6 @@ Help be the change we want!  We will sit in a tropical garden setting under a ca
 
 **When: Every Saturday through October, 10AM - NOON HST**
 
-**Where: 3756 Papalina Road, Kalaheo **
+**Where: 3756 Papalina Road, Kalaheo**
 
 We have refreshments and a lot of fun while we work to help save our democracy. We use ink stamps for decor and colored pens. it’s fun while we write our message. 
