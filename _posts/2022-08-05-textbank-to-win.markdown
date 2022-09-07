@@ -21,11 +21,13 @@ Sign up to register and turnout Democratic voters. Times listed below are HST.
 
 ### Dems Weekly Textbanking Schedule
 
-**Monday - Friday 9AM or NOON Email natel+owner@indivisiblehawaii.org if you want to text with DNC (DNC is texting but it's not posted on mobilize)**
+Tuesdays 7AM or 2PM [Sign up](https://events.democrats.org/event/418266/) to get trained for textbanking with DNC. Once you are trained, you will be plugged into DNC textbanking which takes place Monday to Friday 9AM or NOON. You only have to be trained once.
 
 Tuesdays 9AM [Sign up ](https://www.mobilize.us/allinpa/event/445934/)with PA Dems
 
 Tuesdays 12:30PM [Sign up](https://www.mobilize.us/blueunityin2022/event/491659/) to text for Cheri Beasley and NC Dems
+
+Thursdays 7AM or 2PM [Sign up](https://events.democrats.org/event/418266/) to get trained for textbanking with DNC. Once you are trained, you will be plugged into DNC textbanking which takes place Monday to Friday 9AM or NOON. You only have to be trained once.
 
 Thursdays 12:30PM [Sign up](https://www.mobilize.us/blueunityin2022/event/491659/) to text for Cheri Beasley and NC Dems
 
