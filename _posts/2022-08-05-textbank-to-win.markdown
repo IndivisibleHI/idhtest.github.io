@@ -21,23 +21,22 @@ Sign up to register and turnout Democratic voters. Times listed below are HST.
 
 ### Dems Weekly Textbanking Schedule
 
-Tuesdays 7AM or 2PM [Sign up](https://events.democrats.org/event/418266/) to get trained for textbanking with DNC. Once you are trained, you will be plugged into DNC textbanking which takes place Monday to Friday 9AM or NOON. You only have to be trained once.
+**Democratic National Committee**: Tuesdays and Thursdays 7AM or 2PM [Sign up](https://events.democrats.org/event/418266/) to get trained for textbanking with DNC. Once you are trained, you will be plugged into DNC textbanking which takes place Monday to Friday 9AM or NOON. You only have to be trained once.
 
-Tuesdays 12:30PM [Sign up](https://www.mobilize.us/blueunityin2022/event/491659/) to text for Cheri Beasley and NC Dems
+**Arizona **(September): Saturdays 9AM  [Sign up](https://events.democrats.org/event/497722/) to text for Mark Kelly and other Arizona Democratic candidates
 
-Thursdays 7AM or 2PM [Sign up](https://events.democrats.org/event/418266/) to get trained for textbanking with DNC. Once you are trained, you will be plugged into DNC textbanking which takes place Monday to Friday 9AM or NOON. You only have to be trained once.
+**Arizona** (October): Tuesdays to Fridays 2PM, Saturdays and Sundays 9AM  [Sign up](https://www.mobilize.us/missionforaz/event/507375/) to text for Mark Kelly and other Arizona Democratic candidates
 
-Thursdays 12:30PM [Sign up](https://www.mobilize.us/blueunityin2022/event/491659/) to text for Cheri Beasley and NC Dems
+**North Carolina**: Wednesdays 12PM  [Sign up](https://events.democrats.org/event/488159/) to text for Cheri Beasley and other WOMEN North Carolina Democratic candidates
 
-Fridays September 16th 9AM [Sign up](https://www.mobilize.us/wisdems/event/476162/) with WI Dems
+**North Carolina**: Tuesdays and Thursdays 12:30PM [Sign up](https://www.mobilize.us/blueunityin2022/event/491659/) to text for Cheri Beasley and other North Carolina Democratic candidates
 
+**Pennsylvania**: Email natel+owner@indivisiblehawaii.org if you are interested.  Nothing is posted yet but textbanking for John Fetterman and other PA Democratic candidates is resuming soon.
+
+**Wisconsin**: various times [Sign up](https://www.mobilize.us/wisdems/event/509912/) to text for Mandela Barnes and other Wisconsin Democratic candidates
      
 
 ### Indivisible Textbanking Schedule
-
-September 12th 3PM [Register](https://indivisible.zoom.us/meeting/register/tZEvdeihqj0vGNXIRCcem-4UcKr_SG_sJhht) to text for Katie Porter and Mike Levin (CA-47 & CA-49)
-
-September 15th 1PM [Register](https://indivisible.zoom.us/meeting/register/tZUrf-CupjgjG9AGLkILQtsbezml36s9UEkD) to text for Lauren Underwood (IL-14)
 
 September 19th 3PM [Register](https://indivisible.zoom.us/meeting/register/tZMod-2uqDgrGt1qy6UaNk08XtJqcHBIrJ3D) to text for Jamie McLeod-Skinner (OR-05)
 
@@ -55,6 +54,10 @@ October 6th NOON [Register](https://indivisible.zoom.us/meeting/register/tZEpduq
 
 Monday - Friday 7AM [Sign up](https://www.mobilize.us/nextgen/event/501401/) with NextGen to text youth to get out the vote
 
-September 12th 6AM, 8AM, NOON [Sign up](https://www.mobilize.us/nextgen/event/499590/) with NextGen to turnout youth voters in NH
+### Working Families Party
 
-September 20th 6AM, 8AM, 10AM, NOON [Sign up](https://www.mobilize.us/nextgen/event/493919/) with NextGen to register youth in AZ, NV, PA on the National Voter Registration Day
+**Georgia**: Tuesdays and Thursdays 12PM  [Sign up](https://www.mobilize.us/workingfamilies/event/492565/) to text for Stacey Abrams and other Georgia WFP endorsed candidates
+
+Wisconsin, Georgia, Pennsylvania, Texas: Tuesdays 12PM [Sign up](https://www.mobilize.us/workingfamilies/event/427058/) to text for Mandela Barnes, Stacey Abrams, John Fetterman, Michelle Vallejo and other WFP endorsed candidates
+
+Arizona, Oregon, New Mexico: Wednesdays 3PM [Sign up](https://www.mobilize.us/workingfamilies/event/427058/) to text for WFP endorsed candidates
