@@ -62,4 +62,6 @@ Arizona, Oregon, New Mexico: Wednesdays 3PM [Sign up](https://www.mobilize.us/wo
 
 ### Field Team 6
 
-Field Team 6 is partnering to text to PA, WI, NC, AZ, FL, TX, GA, and NV on various dates/times.  [Check out](https://www.fieldteam6.org/volunteer-ops) the textbanking schedule on Field Team 6's Volunteer website and RSVP.  We recommend the textbanking with Spoke (using your computer including tablet) rather than BYOP (using your phone).  All the textbanking listed seem to be using Spoke.  
+Field Team 6 is partnering to text to PA, WI, NC, AZ, FL, TX, GA, and NV on various dates/times.  [Check out](https://www.fieldteam6.org/volunteer-ops) the textbanking schedule on Field Team 6's Volunteer website and RSVP. The textbanking schedule is almost at the bottom of the page.  We recommend the superfast textbanking (using spoke app on your computer/tablet) rather than BYOP (using your phone). 
+
+Tuesdays 12PM  [Donate and/or sign up](https://secure.actblue.com/donate/ft6arcade22) to text to PA, TX, NV, NC and WI to register likely women Dems with pro-choice message.  The textbanking expense is paid by your donation of $25.
