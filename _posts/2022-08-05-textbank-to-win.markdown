@@ -44,13 +44,13 @@ October 3rd NOON [Register](https://indivisible.zoom.us/meeting/register/tZwrdei
 
 October 6th NOON [Register](https://indivisible.zoom.us/meeting/register/tZEpduqspj8iGdBSz2MuSRRhR2HSjs52zMl8) to text for John Fetterman and Matt Cartwright (PA-Sen & PA-08)
 
-
       
 ### NextGen Textbanking Schedule (Youth Voters)
 
 **[Sign up](https://www.mobilize.us/nextgen/event/476432/) to get trained first - training offered in September and only need to be trained once**
 
 Monday - Friday 7AM [Sign up](https://www.mobilize.us/nextgen/event/501401/) with NextGen to text youth to get out the vote
+
 
 ### Working Families Party
 
@@ -59,6 +59,7 @@ Monday - Friday 7AM [Sign up](https://www.mobilize.us/nextgen/event/501401/) wit
 Wisconsin, Georgia, Pennsylvania, Texas: Tuesdays 12PM [Sign up](https://www.mobilize.us/workingfamilies/event/427058/) to text for Mandela Barnes, Stacey Abrams, John Fetterman, Michelle Vallejo and other WFP endorsed candidates
 
 Arizona, Oregon, New Mexico: Wednesdays 3PM [Sign up](https://www.mobilize.us/workingfamilies/event/427058/) to text for WFP endorsed candidates
+
 
 ### Field Team 6
 
