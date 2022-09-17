@@ -59,3 +59,7 @@ Monday - Friday 7AM [Sign up](https://www.mobilize.us/nextgen/event/501401/) wit
 Wisconsin, Georgia, Pennsylvania, Texas: Tuesdays 12PM [Sign up](https://www.mobilize.us/workingfamilies/event/427058/) to text for Mandela Barnes, Stacey Abrams, John Fetterman, Michelle Vallejo and other WFP endorsed candidates
 
 Arizona, Oregon, New Mexico: Wednesdays 3PM [Sign up](https://www.mobilize.us/workingfamilies/event/427058/) to text for WFP endorsed candidates
+
+### Field Team 6
+
+Field Team 6 is partnering to text to PA, WI, NC, AZ, FL, TX, GA, and NV on various dates/times.  [Check out](https://www.fieldteam6.org/volunteer-ops) the textbanking schedule on Field Team 6's Volunteer website and RSVP.  We recommend the textbanking with Spoke (using your computer including tablet) rather than BYOP (using your phone).  All the textbanking listed seem to be using Spoke.  
