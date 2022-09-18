@@ -21,7 +21,7 @@ Sign up to register and turnout Democratic voters. Times listed below are HST.
 
 ### Dems Weekly Textbanking Schedule
 
-**Democratic National Committee: Tuesdays and Thursdays 7AM or 2PM [Sign up](https://events.democrats.org/event/418266/) to get trained for textbanking with DNC.  Training ends after September.  You only have to be trained once.**
+**Democratic National Committee: Sept 20, 22, 27, 29 7AM or 2PM [Sign up](https://events.democrats.org/event/418266/) to get trained for textbanking with DNC.    You only have to be trained once.**
 
 Once you are trained, you will be plugged into DNC textbanking which takes place Monday to Friday 9AM or NOON. 
 
