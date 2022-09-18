@@ -1,5 +1,5 @@
 ---
-title: Postcards to Win
+title: Postcards to Win (over zoom)
 date: 2022-07-27 11:08:00 -10:00
 categories:
 - event
