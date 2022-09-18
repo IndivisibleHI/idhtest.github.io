@@ -17,11 +17,12 @@ In 2018 and 2020, we Won. We will win the Midterms by focusing on 15 million peo
 
 Text banking is fast and effective, with a response rate of 10-15%. You can send initial texts out to 5000+ in two hours. 
 
-Sign up to register and turnout Democratic voters. Times listed below are HST.
+Sign up to register and turnout Democratic voters. Slots are getting filled fast. 
+Times listed below are HST.
 
 ### Dems Weekly Textbanking Schedule
 
-**Democratic National Committee: Sept 20, 22, 27, 29 7AM or 2PM [Sign up](https://events.democrats.org/event/418266/) to get trained for textbanking with DNC.    You only have to be trained once.**
+**Democratic National Committee: Sept 20th, 22nd, 27th, 29th 7AM or 2PM [Sign up](https://events.democrats.org/event/418266/) to get trained for textbanking with DNC.    You only have to be trained once.**
 
 Once you are trained, you will be plugged into DNC textbanking which takes place Monday to Friday 9AM or NOON. 
 
@@ -49,7 +50,7 @@ October 6th NOON [Register](https://indivisible.zoom.us/meeting/register/tZEpduq
       
 ### NextGen Textbanking Schedule (Youth Voters)
 
-** Sept 22, 27, 29 11AM  [Sign up](https://www.mobilize.us/nextgen/event/476432/) to get trained first and only need to be trained once.**
+** Sept 22nd, 27th, 29th 11AM  [Sign up](https://www.mobilize.us/nextgen/event/476432/) to get trained first and only need to be trained once.**
 
 Monday - Friday 7AM [Sign up](https://www.mobilize.us/nextgen/event/501401/) with NextGen to text youth to get out the vote
 
