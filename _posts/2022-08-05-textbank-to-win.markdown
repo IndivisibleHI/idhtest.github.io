@@ -18,7 +18,7 @@ In 2018 and 2020, we Won. We will win the Midterms by focusing on 15 million peo
 Text banking is fast and effective, with a response rate of 10-15%. You can send initial texts out to 5000+ in two hours. 
 
 Sign up to register and turnout Democratic voters. **Slots are getting filled fast.**
-Times listed below are HST.
+Times listed below are HST.  All sessions are conducted over zoom.  
 
 ### Dems Weekly Textbanking Schedule
 
