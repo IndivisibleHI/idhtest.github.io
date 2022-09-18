@@ -7,8 +7,8 @@ tags:
 - natel
 is featured: true
 main-image: "/uploads/68064105524__6993325C-0295-4685-A906-8E9A1A475733.jpg"
-event-start-date: 2022-09-13 17:30:00 -10:00
-event-end-date: 2022-09-13 18:30:00 -10:00
+event-start-date: 2022-09-20 17:30:00 -10:00
+event-end-date: 2022-09-20 18:30:00 -10:00
 RSVP-link: https://www.mobilize.us/swingleft/event/484624/
 ---
 
