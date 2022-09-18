@@ -21,7 +21,7 @@ Sign up to register and turnout Democratic voters. Times listed below are HST.
 
 ### Dems Weekly Textbanking Schedule
 
-**Democratic National Committee: Tuesdays and Thursdays 7AM or 2PM [Sign up](https://events.democrats.org/event/418266/) to get trained for textbanking with DNC. Once you are trained, you will be plugged into DNC textbanking which takes place Monday to Friday 9AM or NOON. You only have to be trained once.**
+**Democratic National Committee: Tuesdays and Thursdays 7AM or 2PM [Sign up](https://events.democrats.org/event/418266/) to get trained for textbanking with DNC.  Training ends after September. Once you are trained, you will be plugged into DNC textbanking which takes place Monday to Friday 9AM or NOON. You only have to be trained once.**
 
 **Arizona**: Tuesdays to Fridays 2PM, Saturdays and Sundays 9AM  [Sign up](https://www.mobilize.us/missionforaz/event/507375/) to text for Mark Kelly and other Arizona Democratic candidates
 
