@@ -1,5 +1,5 @@
 ---
-title: Textbank to Win (Zoom)
+title: Textbank to Win (over zoom)
 date: 2022-08-05 08:35:00 -10:00
 categories:
 - action
