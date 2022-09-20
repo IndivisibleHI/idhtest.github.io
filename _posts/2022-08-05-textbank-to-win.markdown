@@ -32,7 +32,7 @@ Once you are trained, you will be plugged into DNC textbanking which takes place
 
 **North Carolina**: Tuesdays and Thursdays 12:30PM [Sign up](https://www.mobilize.us/blueunityin2022/event/491659/) to text for Cheri Beasley and other North Carolina Democratic candidates
 
-**Pennsylvania**: Email natel+owner@indivisiblehawaii.org if you are interested.  Nothing is posted yet but textbanking for John Fetterman and other PA Democratic candidates will resume soon.
+**Pennsylvania**: Oct 8th, Nov 1st, Nov 4th 9AM [Sign up](https://www.mobilize.us/allinpa/event/445934/) to text for John Fetterman and other Pennsylvania Democratic candidates
 
 **Wisconsin**: various times [Sign up](https://www.mobilize.us/wisdems/event/509912/) to text for Mandela Barnes and other Wisconsin Democratic candidates
      
