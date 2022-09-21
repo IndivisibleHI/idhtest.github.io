@@ -22,7 +22,7 @@ Times listed below are HST.
 
 ### Dems Weekly Textbanking Schedule
 
-**Democratic National Committee: Sept 20th, 22nd, 27th, 29th 7AM or 2PM [Sign up](https://events.democrats.org/event/418266/) to get trained for textbanking with DNC.    You only have to be trained once.**
+**Democratic National Committee: Sept 22nd, 27th, 29th 7AM or 2PM [Sign up](https://events.democrats.org/event/418266/) to get trained for textbanking with DNC.    You only have to be trained once.**
 
 Once you are trained, you will be plugged into DNC textbanking which takes place Monday to Friday 9AM or NOON. 
 
@@ -38,8 +38,6 @@ Once you are trained, you will be plugged into DNC textbanking which takes place
      
 
 ### Indivisible Textbanking Schedule
-
-September 19th 3PM [Register](https://indivisible.zoom.us/meeting/register/tZMod-2uqDgrGt1qy6UaNk08XtJqcHBIrJ3D) to text for Jamie McLeod-Skinner (OR-05)
 
 September 29th 9AM [Register](https://indivisible.zoom.us/meeting/register/tZckceGoqT0rGdWVZsveSyA0Z0FOjuooTzQu) to text for Lauren Underwood (IL-14) 
 
