@@ -50,7 +50,7 @@ October 6th NOON [Register](https://indivisible.zoom.us/meeting/register/tZEpduq
 
 **Sept 22nd, 27th, 29th 11AM  [Sign up](https://www.mobilize.us/nextgen/event/476432/) to get trained first and only need to be trained once.**
 
-Monday - Friday 7AM [Sign up](https://www.mobilize.us/nextgen/event/501401/) with NextGen to text youth to get out the vote
+Monday - Friday 7AM, 9AM, 10AM [Sign up](https://www.mobilize.us/nextgen/event/501401/) with NextGen to text youth to get out the vote
 
 
 ### Working Families Party
