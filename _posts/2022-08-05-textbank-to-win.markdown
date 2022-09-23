@@ -48,7 +48,7 @@ October 6th NOON [Register](https://indivisible.zoom.us/meeting/register/tZEpduq
       
 ### NextGen Textbanking Schedule (Youth Voters)
 
-**Sept 22nd, 27th, 29th 11AM  [Sign up](https://www.mobilize.us/nextgen/event/476432/) to get trained first and only need to be trained once.**
+**Sept 27th, 29th 11AM  [Sign up](https://www.mobilize.us/nextgen/event/476432/) to get trained first and only need to be trained once.**
 
 Monday - Sunday 7AM, 9AM, 10AM [Sign up](https://www.mobilize.us/nextgen/event/501401/) with NextGen to text youth to get out the vote
 
