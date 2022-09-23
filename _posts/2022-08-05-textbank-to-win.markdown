@@ -17,8 +17,7 @@ In 2018 and 2020, we Won. We will win the Midterms by focusing on 15 million peo
 
 Text banking is fast and effective, with a response rate of 10-15%. You can send initial texts out to 5000+ in two hours. 
 
-Sign up to register and turnout Democratic voters. **Slots are filling up fast.**
-Times listed below are HST.   
+Sign up to register and turnout Democratic voters. **Slots are filling up fast.**  Email natel+owner@indivisiblehawaii.org if the time slots you can textbank are filled up.  Times listed below are HST.   
 
 ### Dems Weekly Textbanking Schedule
 
@@ -33,7 +32,7 @@ Once you are trained, you will be plugged into DNC textbanking which takes place
 **North Carolina**: Tuesdays and Thursdays 12:30PM [Sign up](https://www.mobilize.us/blueunityin2022/event/491659/) to text for Cheri Beasley and other North Carolina Democratic candidates
 
 **Pennsylvania**: Tuesdays, Fridays, and Satursdays 9AM starting October 8th 
-[Sign up here](https://www.mobilize.us/allinpa/event/445934/) or [sign up here](https://www.mobilize.us/allinpa/event/511901/) to text for John Fetterman and other Pennsylvania Democratic candidates.  Slots are filling up fast.  Email natel+owner@indivisiblehawaii.org if time slots you are interested are filled up.
+[Sign up here](https://www.mobilize.us/allinpa/event/445934/) or [sign up here](https://www.mobilize.us/allinpa/event/511901/) to text for John Fetterman and other Pennsylvania Democratic candidates.  
 
 **Wisconsin**: various times [Sign up](https://www.mobilize.us/wisdems/event/509912/) to text for Mandela Barnes and other Wisconsin Democratic candidates
      
