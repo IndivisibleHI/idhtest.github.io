@@ -32,7 +32,8 @@ Once you are trained, you will be plugged into DNC textbanking which takes place
 
 **North Carolina**: Tuesdays and Thursdays 12:30PM [Sign up](https://www.mobilize.us/blueunityin2022/event/491659/) to text for Cheri Beasley and other North Carolina Democratic candidates
 
-**Pennsylvania**: Oct 8th, Nov 1st, Nov 4th 9AM [Sign up](https://www.mobilize.us/allinpa/event/445934/) to text for John Fetterman and other Pennsylvania Democratic candidates
+**Pennsylvania**: Tuesdays, Fridays, and Satursdays 9AM starting October 8th 
+[Sign up here](https://www.mobilize.us/allinpa/event/445934/) or [sign up here](https://www.mobilize.us/allinpa/event/511901/) to text for John Fetterman and other Pennsylvania Democratic candidates.  Slots are filling up fast.  Email natel+owner@indivisiblehawaii.org if time slots you are interested are filled up.
 
 **Wisconsin**: various times [Sign up](https://www.mobilize.us/wisdems/event/509912/) to text for Mandela Barnes and other Wisconsin Democratic candidates
      
@@ -51,7 +52,6 @@ October 6th NOON [Register](https://indivisible.zoom.us/meeting/register/tZEpduq
 **Sept 22nd, 27th, 29th 11AM  [Sign up](https://www.mobilize.us/nextgen/event/476432/) to get trained first and only need to be trained once.**
 
 Monday - Sunday 7AM, 9AM, 10AM [Sign up](https://www.mobilize.us/nextgen/event/501401/) with NextGen to text youth to get out the vote
-
 
 ### Working Families Party
 
