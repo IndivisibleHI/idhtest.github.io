@@ -22,7 +22,7 @@ Times listed below are HST.
 
 ### Dems Weekly Textbanking Schedule
 
-**Democratic National Committee: Sept 22nd, 27th, 29th 7AM or 2PM [Sign up](https://events.democrats.org/event/418266/) to get trained for textbanking with DNC.    You only have to be trained once.**
+**Democratic National Committee: Sept 27th, 29th 7AM or 2PM [Sign up](https://events.democrats.org/event/418266/) to get trained for textbanking with DNC.    You only have to be trained once.**
 
 Once you are trained, you will be plugged into DNC textbanking which takes place Monday to Friday 9AM or NOON. 
 
