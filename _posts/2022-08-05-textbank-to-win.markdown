@@ -27,19 +27,16 @@ Monday to Friday 9AM or NOON to different swing states.  If you want to textbank
 
 **Arizona**: Tuesdays to Fridays 2PM, Saturdays and Sundays 9AM  [Sign up](https://www.mobilize.us/missionforaz/event/507375/) to text for Mark Kelly and other Arizona Democratic candidates
 
-**North Carolina**: Wednesdays 12PM  [Sign up](https://events.democrats.org/event/488159/) to text for Cheri Beasley and other **women** North Carolina Democratic candidates
-
 **North Carolina**: Tuesdays and Thursdays 12:30PM [Sign up](https://www.mobilize.us/blueunityin2022/event/491659/) to text for Cheri Beasley and other North Carolina Democratic candidates
 
-**Pennsylvania**: Tuesdays, Fridays, and Satursdays 9AM starting October 8th 
-[Sign up here](https://www.mobilize.us/allinpa/event/445934/) or [sign up here](https://www.mobilize.us/allinpa/event/511901/) to text for John Fetterman and other Pennsylvania Democratic candidates.  
+**Pennsylvania**: Tuesdays, Fridays, and Satursdays 9AM starting October 8th and 4 days leading to the election day [Sign up here](https://www.mobilize.us/allinpa/event/445934/) or [sign up here](https://www.mobilize.us/allinpa/event/511901/) to text for John Fetterman and other Pennsylvania Democratic candidates.  
 
 **Wisconsin**: various times [Sign up](https://www.mobilize.us/wisdems/event/509912/) to text for Mandela Barnes and other Wisconsin Democratic candidates
      
 
 ### Indivisible Textbanking Schedule
 
-October 3rd NOON [Register](https://indivisible.zoom.us/meeting/register/tZwrdeiprj4iHdEY4g03puFXVT1yzRELmROx) to text for Andy Kim (NJ-03)
+October 3rd NOON [Register](https://indivisible.zoom.us/meeting/register/tZwrdeiprj4iHdEY4g03puFXVT1yzRELmROx) to text for Andy Kim (NJ-03), Shamaine Daniels (PA-10), and John Fetterman (PA-Sen)
 
 October 6th NOON [Register](https://indivisible.zoom.us/meeting/register/tZEpduqspj8iGdBSz2MuSRRhR2HSjs52zMl8) to text for John Fetterman and Matt Cartwright (PA-Sen & PA-08)
 
