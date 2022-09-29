@@ -21,9 +21,9 @@ Sign up to register and turnout Democratic voters. **Slots are filling up fast.*
 
 ### Dems Weekly Textbanking Schedule
 
-**Democratic National Committee: Sept 27th, 29th 7AM or 2PM [Sign up](https://events.democrats.org/event/418266/) to get trained for textbanking with DNC.    You only have to be trained once.**
+**Democratic National Committee**
 
-Once you are trained, you will be plugged into DNC textbanking which takes place Monday to Friday 9AM or NOON. 
+Monday to Friday 9AM or NOON to different swing states.  If you want to textbank with DNC but have not been trained yet, email natel+owner@indivisiblehawaii.org
 
 **Arizona**: Tuesdays to Fridays 2PM, Saturdays and Sundays 9AM  [Sign up](https://www.mobilize.us/missionforaz/event/507375/) to text for Mark Kelly and other Arizona Democratic candidates
 
@@ -39,8 +39,6 @@ Once you are trained, you will be plugged into DNC textbanking which takes place
 
 ### Indivisible Textbanking Schedule
 
-September 29th 9AM [Register](https://indivisible.zoom.us/meeting/register/tZckceGoqT0rGdWVZsveSyA0Z0FOjuooTzQu) to text for Lauren Underwood (IL-14) 
-
 October 3rd NOON [Register](https://indivisible.zoom.us/meeting/register/tZwrdeiprj4iHdEY4g03puFXVT1yzRELmROx) to text for Andy Kim (NJ-03)
 
 October 6th NOON [Register](https://indivisible.zoom.us/meeting/register/tZEpduqspj8iGdBSz2MuSRRhR2HSjs52zMl8) to text for John Fetterman and Matt Cartwright (PA-Sen & PA-08)
@@ -48,7 +46,7 @@ October 6th NOON [Register](https://indivisible.zoom.us/meeting/register/tZEpduq
       
 ### NextGen Textbanking Schedule (Youth Voters)
 
-**Sept 27th, 29th 11AM  [Sign up](https://www.mobilize.us/nextgen/event/476432/) to get trained first and only need to be trained once.**
+**Sept 29th, Oct 4th, Oct 6th 11AM  [Sign up](https://www.mobilize.us/nextgen/event/476432/) to get trained first and only need to be trained once.**
 
 Monday - Sunday 7AM, 9AM, 10AM [Sign up](https://www.mobilize.us/nextgen/event/501401/) with NextGen to text youth to get out the vote
 
