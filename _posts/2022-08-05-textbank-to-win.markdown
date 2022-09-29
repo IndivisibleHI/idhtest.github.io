@@ -21,7 +21,7 @@ Sign up to register and turnout Democratic voters. **Slots are filling up fast.*
 
 ### Dems Weekly Textbanking Schedule
 
-**Democratic National Committee**
+**Democratic National Committee (DNC)**
 
 Monday to Friday 9AM or NOON to different swing states.  If you want to textbank with DNC but have not been trained yet, email natel+owner@indivisiblehawaii.org
 
