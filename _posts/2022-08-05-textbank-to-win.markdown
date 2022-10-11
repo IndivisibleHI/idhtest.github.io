@@ -27,6 +27,8 @@ Monday to Friday 9AM or NOON to different swing states.  If you want to textbank
 
 **Arizona**: Tuesdays to Fridays 2PM, Saturdays and Sundays 9AM  [Sign up](https://www.mobilize.us/missionforaz/event/507375/) to text for Mark Kelly and other Arizona Democratic candidates
 
+**North Carolina**: Saturdays, Sundays, Nov 7th 3AM, 6AM, 9AM and all day Nov 8th [Sign up](https://www.mobilize.us/blueunityin2022/event/519193/) to text for Cheri Beasley and other North Carolina Democratic candidates
+
 **Pennsylvania**: 4 days leading to the election day [Sign up here](https://www.mobilize.us/allinpa/event/511901/) to text for John Fetterman and other Pennsylvania Democratic candidates.  
 
 **Wisconsin**: various times [Sign up](https://www.mobilize.us/wisdems/event/509912/) to text for Mandela Barnes and other Wisconsin Democratic candidates
