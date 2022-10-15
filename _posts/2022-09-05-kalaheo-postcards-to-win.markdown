@@ -7,8 +7,8 @@ tags:
 - natel
 is featured: true
 main-image: "/uploads/Kauai%20Postcarding%20Team%20June%202022.png"
-event-start-date: 2022-10-15 10:00:00 -10:00
-event-end-date: 2022-10-15 12:00:00 -10:00
+event-start-date: 2022-10-22 10:00:00 -10:00
+event-end-date: 2022-10-22 12:00:00 -10:00
 Location: 3756 Papalina Road
 island: Kauai
 chapter: Kauai
