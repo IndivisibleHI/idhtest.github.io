@@ -7,8 +7,8 @@ tags:
 - natel
 is featured: true
 main-image: "/uploads/Waimea%20Postcarding%20Team%208.14.22.jpg"
-event-start-date: 2022-10-13 16:30:00 -10:00
-event-end-date: 2022-10-13 17:30:00 -10:00
+event-start-date: 2022-10-20 16:30:00 -10:00
+event-end-date: 2022-10-20 17:30:00 -10:00
 Location: 'Ulu La''au Waimea Nature Park, behind Canada France HQ, outdoors in the
   covered picnic area '
 island: Hawaii Island
