@@ -31,6 +31,8 @@ Monday to Friday 9AM or NOON to different swing states.  If you want to textbank
 
 **Pennsylvania**: 4 days leading to the election day [Sign up here](https://www.mobilize.us/allinpa/event/511901/) to text for John Fetterman and other Pennsylvania Democratic candidates.  
 
+Saturdays 7AM [Sign up](https://www.mobilize.us/turnpablue/event/527937/) here with Turn PA Blue.  
+
 **Wisconsin**: various times [Sign up](https://www.mobilize.us/wisdems/event/509912/) to text for Mandela Barnes and other Wisconsin Democratic candidates
      
    
