@@ -34,6 +34,10 @@ Monday to Friday 9AM or NOON to different swing states.  If you want to textbank
 Saturdays 7AM [Sign up](https://www.mobilize.us/turnpablue/event/527937/) here with Turn PA Blue.  
 
 **Wisconsin**: various times [Sign up](https://www.mobilize.us/wisdems/event/509912/) to text for Mandela Barnes and other Wisconsin Democratic candidates
+
+### Fair Fight
+
+[Sign up](https://www.mobilize.us/fairfight/event/380601/) to be trained to text to Georgia for John Warnock on Tuesday 2:30PM.  Once you are trained, you will have access to texting.  Email natel+owner@indivisiblehawaii.org if you want to text to Georgia but cannot make to this training.
      
    
 ### NextGen Textbanking Schedule (Youth Voters)
@@ -49,10 +53,6 @@ Monday - Sunday 7AM, 9AM, 10AM [Sign up](https://www.mobilize.us/nextgen/event/5
 Wisconsin, Georgia, Pennsylvania, Texas: Tuesdays 12PM [Sign up](https://www.mobilize.us/workingfamilies/event/427058/) to text for Mandela Barnes, Stacey Abrams, John Fetterman, Michelle Vallejo and other WFP endorsed candidates
 
 Arizona, Oregon, New Mexico: Wednesdays 3PM [Sign up](https://www.mobilize.us/workingfamilies/event/427058/) to text for WFP endorsed candidates
-
-### Fair Fight
-
-[Sign up](https://www.mobilize.us/fairfight/event/380601/) to be trained to text to Georgia on Tuesday 2:30PM.  Once you are trained, you will have access to texting.  Email natel+owner@indivisiblehawaii.org if you want to text to Georgia but cannot make to this training.
 
 ### Field Team 6
 
