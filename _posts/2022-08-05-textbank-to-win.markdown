@@ -37,7 +37,7 @@ Saturdays 7AM [Sign up](https://www.mobilize.us/turnpablue/event/527937/) here w
 
 ### Fair Fight
 
-[Sign up](https://www.mobilize.us/fairfight/event/380601/) to be trained to text to Georgia for John Warnock on Tuesday 2:30PM.  Once you are trained, you will have access to texting.  Email natel+owner@indivisiblehawaii.org if you want to text to Georgia but cannot make to this training.
+[Sign up](https://www.mobilize.us/fairfight/event/380601/) to be trained to text to Georgia on Tuesdays 2:30PM for U.S. Senator Warnock and other Democratic candidates in Georgia. Once you are trained, you will have access to texting.  Email natel+owner@indivisiblehawaii.org if you want to text to Georgia but cannot make to this training.
      
    
 ### NextGen Textbanking Schedule (Youth Voters)
