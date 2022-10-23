@@ -50,6 +50,9 @@ Wisconsin, Georgia, Pennsylvania, Texas: Tuesdays 12PM [Sign up](https://www.mob
 
 Arizona, Oregon, New Mexico: Wednesdays 3PM [Sign up](https://www.mobilize.us/workingfamilies/event/427058/) to text for WFP endorsed candidates
 
+### Fair Fight
+
+[Sign up](https://www.mobilize.us/fairfight/event/380601/) to be trained to text to Georgia on Tuesday 2:30PM.  Once you are trained, you will have access to texting.  Email natel+owner@indivisiblehawaii.org if you want to text to Georgia but cannot make to this training.
 
 ### Field Team 6
 
