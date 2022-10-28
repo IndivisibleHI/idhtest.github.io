@@ -17,7 +17,7 @@ In 2018 and 2020, we Won. We will win the Midterms by focusing on 15 million peo
 
 Text banking is fast and effective, with a response rate of 10-15%. You can send initial texts out to 5000+ in two hours. 
 
-Sign up to register and turnout Democratic voters. **Slots are filling up fast.**  Email natel+owner@indivisiblehawaii.org if the time slots you can textbank are filled up.  Times listed below are HST.   
+Sign up to register and turnout Democratic voters. **Email natel+owner@indivisiblehawaii.org if the time slots you can textbank are filled up.** Times listed below are HST.   
 
 ### Dems Weekly Textbanking Schedule
 
@@ -42,9 +42,11 @@ Saturdays 7AM [Sign up](https://www.mobilize.us/turnpablue/event/527937/) here w
    
 ### NextGen Textbanking Schedule (Youth Voters)
 
-**Tuesdays and Thursdays 11AM  [Sign up](https://www.mobilize.us/nextgen/event/476432/) to get trained first and only need to be trained once.**
+**Monday thru Friday 11AM  [Sign up](https://www.mobilize.us/nextgen/event/476432/) to get trained first and only need to be trained once.**
 
 Monday - Sunday 7AM, 9AM, 10AM [Sign up](https://www.mobilize.us/nextgen/event/501401/) with NextGen to text youth to get out the vote
+
+[Sign up](https://www.mobilize.us/nextgen/event/526255/) for Final Four Days
 
 ### Working Families Party
 
