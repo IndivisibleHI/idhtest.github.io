@@ -3,10 +3,9 @@ title: National Elections
 date: 2019-07-11 15:32:00 -10:00
 teamtag: natel
 team-email: natel
-team-description: "We Beat Trump and flipped U.S. Congress blue in 2020 to protect
-  our Democracy.  We grassroot volunteers kept U.S. Senate blue and almost kept U.S.
-  House blue.  Let's Take Back the House in 2024.  Let's keep the White House and
-  Senate blue in 2024.  Let's protect our Democracy, our earth, and our lives.\n\n"
+team-description: "We are the progressive volunteers from Hawaii who called, texted,
+  and wrote to register and turnout left leaning voters in swing states since 2017.
+  \ We do what we do to protect our Democracy, our earth, and our lives.\n\n"
 ---
 
 Keep the Momentum.  Let's finish the Job.
