@@ -1,5 +1,5 @@
 ---
-title: Waimea Big Island - Postcard to Win in 2024
+title: Waimea Big Island - Postcard to Win
 date: 2023-05-09 16:03:00 -10:00
 categories:
 - event
