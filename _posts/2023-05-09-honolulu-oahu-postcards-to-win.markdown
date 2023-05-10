@@ -1,5 +1,5 @@
 ---
-title: Honolulu Oahu - Postcards to Win
+title: Honolulu downtown Oahu - Postcards to Win
 date: 2023-05-09 16:31:00 -10:00
 categories:
 - event
