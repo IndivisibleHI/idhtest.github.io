@@ -22,4 +22,4 @@ Postcard Writing & Plans to Win in 2024
 Bring your own drink and pupu to share, if desired. We will provide supplies and will have postcards to take home + info on texts, calls & other actions. Bring Family and Friends.
 
 If you can’t attend & but are interested, contact us! Younghee: yoverly@gmail.com 
-Amy amymonk99@hotmail.com
+Amy: amymonk99@hotmail.com
