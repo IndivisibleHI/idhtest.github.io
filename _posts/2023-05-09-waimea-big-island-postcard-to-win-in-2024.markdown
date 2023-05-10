@@ -10,6 +10,7 @@ main-image: "/uploads/Waimea%20Postcarding%20Team%208.14.22.jpg"
 event-start-date: 2023-05-16 16:30:00 -10:00
 event-end-date: 2023-05-16 18:00:00 -10:00
 Location: Ulu La'au Waimea Nature Park, 66-1246 Mamalahoa Hwy, Waimea, HI 96743
+island: Hawaii Island
 ---
 
 Postcard Writing & Plans to Win in 2024
