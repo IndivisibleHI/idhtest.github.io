@@ -1,5 +1,5 @@
 ---
-title: Na’alehu Big Island - Postcards to Win
+title: Na’alehu - Postcards to Win
 date: 2023-06-13 08:47:00 -10:00
 categories:
 - event
