@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - natel
-is featured: false
+is featured: true
 main-image: "/uploads/FT6%20American%20Flag%20Postcard%20Front.png"
 event-start-date: 2023-07-16 16:00:00 -10:00
 event-end-date: 2023-07-16 17:00:00 -10:00
