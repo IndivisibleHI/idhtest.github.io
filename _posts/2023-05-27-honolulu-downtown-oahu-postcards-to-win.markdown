@@ -15,7 +15,7 @@ island: Oahu
 
 Postcard Writing & Plans to Win in 2024
 
-**When: Saturday, May 27 10AM - NOON**
+**When: Saturday, June 24th 10AM - NOON**
 
 **Where: Democratic Party of Hawaiʻi Office**, 627 South St Suite 105, Honolulu, HI 96813
 
