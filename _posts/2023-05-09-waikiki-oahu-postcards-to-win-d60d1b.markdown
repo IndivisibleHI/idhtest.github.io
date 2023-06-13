@@ -1,5 +1,5 @@
 ---
-title: Waikiki Oahu - Postcards to Win
+title: Waikiki - Postcards to Win
 date: 2023-05-09 16:58:00 -10:00
 categories:
 - event
