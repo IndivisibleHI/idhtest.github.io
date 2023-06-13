@@ -15,9 +15,9 @@ island: Big Island
 
 Postcard Writing & Plans to Win in 2024
 
-When: Sunday, July 9th 2PM-3PM
+**When: Sunday, July 9th 2PM-3PM
 
-Where: Punalu’u Bake Shop, upper pavillion, Na’alehu
+Where: Punalu’u Bake Shop, upper pavillion, Na’alehu**
 
 We will postcards, names and supplies. Bring Family and Friends.
 
