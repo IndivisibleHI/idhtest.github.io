@@ -6,7 +6,7 @@ categories:
 tags:
 - natel
 is featured: true
-main-image: "/uploads/FT6%20American%20Flag%20Postcard%20Front.png"
+main-image: "/uploads/20230607%20Alice%20Smith.jpg"
 event-start-date: 2023-07-16 16:00:00 -10:00
 event-end-date: 2023-07-16 17:00:00 -10:00
 Location: Pacific Heights, Honolulu
