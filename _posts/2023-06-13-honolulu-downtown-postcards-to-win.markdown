@@ -9,7 +9,7 @@ is featured: true
 main-image: "/uploads/FT6%20American%20Flag%20Postcard%20Front.png"
 event-start-date: 2023-07-29 10:00:00 -10:00
 event-end-date: 2023-07-29 12:00:00 -10:00
-Location: 627 South St Suite 105, Honolulu, HI 96813
+Location: Waikiki, Honolulu
 island: Oahu
 ---
 
