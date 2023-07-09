@@ -15,10 +15,10 @@ island: Oahu
 
 Postcard Writing & Plans to Win in 2024
 
-**When: Saturday, August 10th 10AM - NOON**
+**When: Saturday, August 12th 10AM - NOON**
 
 **Where: Martha's in Waikiki**
 
 Bring your own drink and pupu to share, if desired. We will provide supplies and will have postcards to take home.  Bring Family and Friends.
 
-RSVP to Martha.Nakajima1@gmail.com to get the address and direction.  Please RSVP by Thursday August 8th if you need a parking space. 
+RSVP to Martha.Nakajima1@gmail.com to get the address and direction.  Please RSVP by Thursday August 10th if you need a parking space. 
