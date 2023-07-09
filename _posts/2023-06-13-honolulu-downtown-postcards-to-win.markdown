@@ -1,5 +1,5 @@
 ---
-title: Honolulu Downtown - Postcards to Win
+title: Waikiki - Postcards to Win
 date: 2023-06-13 08:57:00 -10:00
 categories:
 - event
