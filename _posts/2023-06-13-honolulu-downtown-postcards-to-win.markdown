@@ -6,7 +6,7 @@ categories:
 tags:
 - natel
 is featured: true
-main-image: "/uploads/20230527_110807.jpg"
+main-image: "/uploads/FT6%20American%20Flag%20Postcard%20Front.png"
 event-start-date: 2023-07-29 10:00:00 -10:00
 event-end-date: 2023-07-29 12:00:00 -10:00
 Location: 627 South St Suite 105, Honolulu, HI 96813
@@ -17,8 +17,8 @@ Postcard Writing & Plans to Win in 2024
 
 **When: Saturday, July 29th 10AM - NOON**
 
-**Where: Democratic Party of Hawaiʻi Office** 627 South St Suite 105, Honolulu, HI 96813
+**Where: Martha's in Waikiki**
 
-Bring your own drink and pupu to share, if desired. We will provide supplies and will have postcards to take home + info on texts, calls & other actions. Bring Family and Friends.
+Bring your own drink and pupu to share, if desired. We will provide supplies and will have postcards to take home.  Bring Family and Friends.
 
-If you can’t attend but are interested, contact us! Younghee: yoverly@gmail.com Amy: amymonk99@hotmail.com .
+RSVP to Martha.Nakajima1@gmail.com to get the address and direction.  Please RSVP by Thursday July 27th if you need a parking space. 
