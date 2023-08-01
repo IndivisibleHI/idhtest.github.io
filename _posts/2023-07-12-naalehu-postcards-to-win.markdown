@@ -19,6 +19,6 @@ Postcard Writing & Plans to Win in 2024
 
 **Where: Punalu’u Bake Shop, upper pavillion, Na’alehu**
 
-We will postcards, names and supplies. Bring Family and Friends.
+We will provide postcards, addresses and supplies. Bring Family and Friends.
 
 If you can’t attend & but are interested, contact Laurie: ezmerelda5@gmail.com
