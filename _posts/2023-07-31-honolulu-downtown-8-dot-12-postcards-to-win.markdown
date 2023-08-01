@@ -9,7 +9,7 @@ is featured: true
 main-image: "/uploads/20230527_110807.jpg"
 event-start-date: 2023-08-12 10:00:00 -10:00
 event-end-date: 2023-08-12 12:00:00 -10:00
-Location: DPH HQ, 627 South Street Suite 105, Honolulu, HI 96813
+Location: DPH HQ, 627 South Street Suite 105, Honolulu
 island: Oahu
 ---
 
