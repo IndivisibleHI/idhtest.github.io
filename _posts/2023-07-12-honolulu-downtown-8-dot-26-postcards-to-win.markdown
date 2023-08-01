@@ -14,7 +14,7 @@ Location: Democratic Party of Hawaii HQ Office, 627 South St Suite 105, Honolulu
 island: Oahu
 ---
 
-Postcard Writing & Plans to Win in 2024
+Postcard Writing to Win Back Virginia State House
 
 **When: Saturday, August 26th 10AM - NOON**
 
