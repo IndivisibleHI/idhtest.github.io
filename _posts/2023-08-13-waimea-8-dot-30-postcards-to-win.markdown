@@ -1,6 +1,16 @@
 ---
 title: Waimea 8.30 - Postcards to Win
 date: 2023-08-13 08:47:00 -10:00
+categories:
+- event
+tags:
+- natel
+is featured: true
+main-image: "/uploads/Waimea%20Postcarding%20Team%208.14.22.jpg"
+event-start-date: 2023-08-30 16:00:00 -10:00
+event-end-date: 2023-08-30 17:15:00 -10:00
+Location: Ulu La'au Waimea Nature Park, 66-1246 Mamalahoa Hwy, Waimea, HI 96743
+island: Big Island
 ---
 
 Postcard Writing to Win Back Virginia State House
