@@ -1,5 +1,5 @@
 ---
-title: Honolulu Downtown 9.2 - Postcards to Win
+title: DPH HQ Honolulu 9.2 - Postcards to Win
 date: 2023-07-31 16:06:00 -10:00
 categories:
 - event
