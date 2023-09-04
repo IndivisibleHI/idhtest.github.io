@@ -6,7 +6,7 @@ categories:
 tags:
 - natel
 is featured: true
-main-image: "/uploads/20200215_162657.jpg"
+main-image: "/uploads/20230902_105113.jpg"
 event-start-date: 2023-09-30 10:00:00 -10:00
 event-end-date: 2023-09-30 00:00:00 -10:00
 Location: DPH HQ, 627 South Street Suite 105, Honolulu
