@@ -1,6 +1,10 @@
 ---
 title: NextGen Text to Win Training 9.18
 date: 2023-09-06 11:55:00 -10:00
+categories:
+- event
+tags:
+- natel
 is featured: true
 main-image: "/uploads/NextGen%20America%20Logo.jpg"
 event-start-date: 2023-09-18 12:00:00 -10:00
