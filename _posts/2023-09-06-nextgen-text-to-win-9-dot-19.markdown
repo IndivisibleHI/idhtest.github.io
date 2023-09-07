@@ -20,7 +20,7 @@ Tuesday September 19th 7AM, 9AM, 11AM HST for textbanking
 
 **You MUST sign up** [here](https://www.mobilize.us/nextgen/event/576938/) to textbank and [here](https://www.mobilize.us/nextgen/event/563581/) for training.  
 
-WHERE: DPH HQ, 627 South St Suite 105, Honolulu if you want join other textbankers from Honolulu and/or need an in-person help with the texting platform. **We will be at DPH HQ at NOON on September 18th for training and for the 9AM and 11AM textbanking sessions on September 19th**.  There are parking in the lot front of the building and on the street.  
+WHERE: DPH HQ, 627 South St Suite 105, Honolulu if you want join other textbankers from Honolulu and/or need an in-person help with the texting platform. **We will be at DPH HQ at NOON on September 18th for training and for the 9AM and 11AM textbanking sessions on September 19th**.  Parking available in the lot front of the building and on the street.  
 
 September 19th is National Voter Registration Day.  Building the power of the youth vote is crticial to win 2024, to save democracy, and to protect our freedom.  Let's join [NextGen America](https://nextgenamerica.org/) to register youth. NextGen will provide the script, training, texting platform, and the virtual field office.  
 
