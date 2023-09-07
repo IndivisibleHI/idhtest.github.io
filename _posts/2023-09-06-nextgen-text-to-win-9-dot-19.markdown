@@ -1,6 +1,10 @@
 ---
 title: NextGen Text to Win 9.19
 date: 2023-09-06 11:37:00 -10:00
+categories:
+- event
+tags:
+- natel
 is featured: true
 main-image: "/uploads/NextGen%20America%20Logo.jpg"
 event-start-date: 2023-09-19 09:00:00 -10:00
