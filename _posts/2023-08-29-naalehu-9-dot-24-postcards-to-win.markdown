@@ -7,15 +7,15 @@ tags:
 - natel
 is featured: true
 main-image: "/uploads/Kau%20Postcarding%20Laurie%20Boyle.jpg"
-event-start-date: 2023-09-24 16:00:00 -10:00
-event-end-date: 2023-09-24 17:00:00 -10:00
+event-start-date: 2023-09-24 14:00:00 -10:00
+event-end-date: 2023-09-24 15:00:00 -10:00
 Location: Punaluʻu Bake Shop 95-5642 Mamalahoa Hwy, Nāʻālehu, HI 96772
 island: Big Island
 ---
 
 Postcard Writing to Register Voters to Win in 2024
 
-**When: Sunday, September 24th, 4PM-5PM 
+**When: Sunday, September 24th, 2PM-3PM 
 
 Where: Punaluʻu Bake Shop, upper pavillion, Naʻalehu**
 
