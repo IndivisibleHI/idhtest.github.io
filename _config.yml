@@ -111,8 +111,8 @@ twitter_username: "@IndivisibleHI"
 twitter-embed: <a class="twitter-timeline" data-height="400" href="https://twitter.com/IndivisibleHI?ref_src=twsrc%5Etfw">Tweets
   by IndivisibleHI</a> <script async src="https://platform.twitter.com/widgets.js"
   charset="utf-8"></script>
-facebook_username: Indivisible-Hawaii-102454510271701
-facebook_feed: <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FIndivisible-Hawaii-102454510271701&tabs=timeline&width=300&height=400&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=364621774216107"
+facebook_username: IndivisibleHawaii
+facebook_feed: <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FIndivisibleHawaii&tabs=timeline&width=300&height=400&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=364621774216107"
   width="300" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
   allowTransparency="true" allow="encrypted-media"></iframe>
 background-image: "/uploads/website%20pix%2011.jpg"
@@ -131,4 +131,3 @@ exclude:
 - Gemfile.lock
 google_analytics: 
 permalink: "/:categories/:title"
-emptyArray: []
