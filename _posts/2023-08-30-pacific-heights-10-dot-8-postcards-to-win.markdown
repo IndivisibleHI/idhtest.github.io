@@ -15,9 +15,9 @@ island: Oahu
 
 Postcard Writing to Register Voters to Win in 2024
 
-**When: Sunday, October 8th 4PM to 5PM
+**When: Sunday, October 8th 4PM to 5PM**
 
-Where: Alice’s in Pacific Heights, Honolulu**
+**Where: Alice’s in Pacific Heights, Honolulu**
 
 Bring your own drink and pupu to share, if desired. We will provide supplies and will have postcards to take home. Bring Family and Friends.
 
