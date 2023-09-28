@@ -9,7 +9,7 @@ is featured: true
 main-image: "/uploads/DPH%20HQ%20Postcards%20to%20VA.jpg"
 event-start-date: 2023-10-07 10:00:00 -10:00
 event-end-date: 2023-10-07 12:00:00 -10:00
-Location: DPH HQ, 627 South Street Suite 105, Honolulu
+Location: 627 South Street Suite 105, Honolulu
 island: Oʻahu
 ---
 
