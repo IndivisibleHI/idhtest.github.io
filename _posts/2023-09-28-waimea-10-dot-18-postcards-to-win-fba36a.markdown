@@ -15,7 +15,7 @@ island: Big Island
 
 Postcard Writing to Win Back Virginia State House
 
-**When: Wednesday, October 11th, 4PM-5:15PM
+**When: Wednesday, October 18th, 4PM-5:15PM
 
 Where: Ulu La’au Waimea Nature Park, behind Canada France HQ, outdoors in the covered picnic area**
 
