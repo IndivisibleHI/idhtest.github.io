@@ -15,9 +15,9 @@ island: Big Island
 
 Postcard Writing to Register Voters to Win in 2024
 
-**When: Sunday, September 24th, 2PM-3PM 
+**When: Sunday, September 24th, 2PM-3PM **
 
-Where: Punaluʻu Bake Shop, upper pavillion, Nāʻālehu**
+**Where: Punaluʻu Bake Shop**, upper pavillion, Nāʻālehu
 
 We will postcards, names and supplies. Bring Family and Friends.
 
