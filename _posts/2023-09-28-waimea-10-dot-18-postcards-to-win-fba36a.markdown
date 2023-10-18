@@ -13,7 +13,7 @@ Location: Ulu La'au Waimea Nature Park, 66-1246 Mamalahoa Hwy, Waimea, HI 96743
 island: Big Island
 ---
 
-Postcard Writing to Win Back Virginia State House
+Postcard Writing to Win Back Virginia this November
 
 **When: Wednesday, October 18th, 4PM-5:15PM**
 
