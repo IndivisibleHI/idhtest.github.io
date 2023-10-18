@@ -13,7 +13,7 @@ Location: 627 South St Suite 105, Honolulu, HI 96813
 island: Oʻahu
 ---
 
-Postcard Writing to Win Back Virginia State House
+Postcard Writing to Win Back Virginia this November
 
 **When: Saturday, October 21st 10AM - NOON**
 
