@@ -10,6 +10,7 @@ main-image: "/uploads/DPH%20HQ%20Postcards%20to%20VA.jpg"
 event-start-date: 2023-11-18 10:00:00 -10:00
 event-end-date: 2023-11-18 12:00:00 -10:00
 Location: 627 South St Suite 105, Honolulu, HI 96813
+RSVP-link: https://www.mobilize.us/swingleft/event/563295/
 island: Oʻahu
 ---
 
