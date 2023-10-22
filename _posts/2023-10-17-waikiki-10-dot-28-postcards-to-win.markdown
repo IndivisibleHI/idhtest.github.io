@@ -16,10 +16,6 @@ island: Oʻahu
 
 Postcard Writing to Win Back Virginia this November
 
-**When: Saturday, October 28th 10AM - NOON** 
-
-**Where: Martha's in Waikīkī, Honolulu**
-
 Bring your own drink and pupu to share, if desired. We will provide supplies and will have postcards to take home.  Bring Family and Friends.
 
-RSVP to get direction and by Thursday October 26th if you need a parking space.
+RSVP to get direction and by Thursday October 26th if you need a parking space. If you can’t attend & but are interested, email us at natel+owner@indivisiblehawaii.org.
