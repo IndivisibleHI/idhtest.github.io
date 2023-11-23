@@ -14,4 +14,6 @@ It's not too early to get organized to keep the White House, Senate majority, an
 
 ![image (2).png](/uploads/image%20(2).png)
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Pacific%2FHonolulu&src=aW5mb0BpbmRpdmlzaWJsZWhhd2FpaS5vcmc&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
                 
