@@ -6,6 +6,7 @@ categories:
 tags:
 - natel
 is featured: true
+pinned: true
 main-image: "/uploads/Kau%20Postcarding%202023.png"
 event-start-date: 2023-12-10 14:00:00 -10:00
 event-end-date: 2023-12-10 15:00:00 -10:00
