@@ -6,8 +6,6 @@ layout: page
 ---
 
 
-![Ka'u pic 6.jpg](/uploads/Ka'u%20pic%206.jpg)
-
 Ka'u Voices was formed after the historic January 21, 2017 Women's March.  We decided to align with Indivisible, using its online guide, Indivisible: A Practical Guide for Resisting theTrump Agenda, as a tool to help protect and strengthen our Democracy.
 
 Ka'u Voices has been actively engaged with issues of the environment, human rights, women's rights, affordable healthcare, humane immigration reform and economic justice. 
