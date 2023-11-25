@@ -9,6 +9,7 @@ chapter-description: "Ka'u Voices was formed after the historic January 21, 2017
   our Democracy.\n\nKa'u Voices has been actively engaged with issues of the environment,
   human rights, women's rights, affordable healthcare, humane immigration reform and
   economic justice. "
+layout: page
 ---
 
 ![Ka'u pic 4.jpg](/uploads/Ka'u%20pic%204.jpg)
