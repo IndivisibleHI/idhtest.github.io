@@ -16,6 +16,8 @@ Ka'u Voices has been actively engaged with issues of the environment, human righ
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Pacific%2FHonolulu&src=aW5mb0BpbmRpdmlzaWJsZWhhd2FpaS5vcmc&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+
+
 **2017-2023 Actions/Events:**
 * Voter registration drives
 * Local signwaving events
