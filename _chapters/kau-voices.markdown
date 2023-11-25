@@ -2,13 +2,6 @@
 title: Ka’u Voices
 date: 2023-11-25 07:15:00 -10:00
 permalink: "/kau-voices"
-island: Island of Hawaiʻi
-chapter-description: "Ka'u Voices was formed after the historic January 21, 2017 Women's
-  March.  We decided to align with Indivisible, using its online guide, Indivisible:
-  A Practical Guide for Resisting theTrump Agenda, as a tool to help protect and strengthen
-  our Democracy.\n\nKa'u Voices has been actively engaged with issues of the environment,
-  human rights, women's rights, affordable healthcare, humane immigration reform and
-  economic justice. "
 layout: page
 ---
 
