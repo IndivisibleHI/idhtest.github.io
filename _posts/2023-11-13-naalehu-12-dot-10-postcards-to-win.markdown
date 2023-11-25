@@ -12,6 +12,7 @@ event-start-date: 2023-12-10 14:00:00 -10:00
 event-end-date: 2023-12-10 15:00:00 -10:00
 Location: 95-5642 Mamalahoa Hwy, Nāʻālehu, HI 96772 (Punalu'u Bake Shop, upper pavillion)
 island: BIg Island
+chapter: Ka’u Voices
 ---
 
 Did you know that Dems lost U.S. House by 6675 votes?  
