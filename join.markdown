@@ -38,17 +38,6 @@ Members of our Indivisible Guide chapter come from all kinds of backgrounds and 
 
 At times we will want to do targeted lobbying. A few calls by constituents can make a big difference in local legislation. For example, the following bills are ones that we may not have focused on but could have a big impact on our lives.
 
-**Voting/Election Restrictions introduced in Hawaii in 2021:**
-
-[https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=853&year=2021](https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=853&year=2021)  
-[https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=789](https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=789)
-
 **Please fill in the form to the left and hit the "Subscribe" button.**
 
 * Your email is the only required field. However, we appreciate you filling in all the fields.
-
-* To determine your district numbers, please access the below links.
-
-  * U.S. House of Representatives districts - [https://www.govtrack.us/congress/members/map](https://www.govtrack.us/congress/members/map)
-
-  * Hawaii State Senate and House districts. In the block labeled "Enter Street", just enter your street name, not the numeric part of your address. - [https://www.capitol.hawaii.gov/findleg.aspx](https://www.capitol.hawaii.gov/findleg.aspx)
