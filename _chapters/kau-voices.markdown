@@ -10,7 +10,7 @@ Ka'u Voices was formed after the historic January 21, 2017 Women's March.  We de
 
 Ka'u Voices has been actively engaged with issues of the environment, human rights, women's rights, affordable healthcare, humane immigration reform and economic justice. 
 
-**Chapter Leads: Laurie Boyle, Missy Wheeler (email: kauvoices@indivisiblehawaii.org) **
+**Chapter Leads**: Laurie Boyle, Missy Wheeler (email: kauvoices@indivisiblehawaii.org) 
 
 **Ka'u Voices meets the second Sunday of each month 2-3pm at the upper pavilion of the Punalu'u Bake Shop.**
 
