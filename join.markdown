@@ -40,4 +40,4 @@ At times we will want to do targeted lobbying. A few calls by constituents can m
 
 **Please fill in the form to the left and hit the "Subscribe" button.**
 
-Your email is the only required field. However, we appreciate you filling in all the fields.
+Your email is the only required field. However, we appreciate you filling in all the fields.  We will assume you are interested in everything we do if you do not select chapter(s) and team(s) of your interest.
