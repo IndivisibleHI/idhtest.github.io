@@ -1,6 +1,7 @@
 ---
 title: Ka’u Voices
 date: 2023-11-25 07:15:00 -10:00
+permalink: "/kau-voices"
 island: Island of Hawaiʻi
 chapter-description: "Ka'u Voices was formed after the historic January 21, 2017 Women's
   March.  We decided to align with Indivisible, using its online guide, Indivisible:
