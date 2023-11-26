@@ -13,6 +13,20 @@ Ka'u Voices has been actively engaged with issues of the environment, human righ
 
 Ka'u Voices meets the **second Sunday of each month 2-3pm** at the upper pavilion of the Punalu'u Bake Shop.
 
+<iframe id="iframe-container" style="margin: 0px auto; display: block;" xml="lang" src="https://events.humanitix.com/event-listings?w=true&amp;u=85fUNSzXPzYYLWo8kQkwx8Tiwy52&amp;o=6553ca312f19c7f220327d3b&amp;bc=%23ca4948&amp;bt=Learn%20More&amp;tc=%23FFFFFF" width="560" height="315" frameborder="0"></iframe>
+<script>
+                        window.addEventListener('message', function (e) {
+                            if (e.origin !== "https://events.humanitix.com"){
+                                return;
+                            }   
+                            var messageData = e.data;
+                            var iframeEl = document.getElementById('iframe-container');
+                            if (iframeEl && messageData && !isNaN(messageData.scrollHeight) && messageData.location === iframeEl.src) {
+                                iframeEl.style.height = messageData.scrollHeight + 20 + 'px'; }
+                        }, false);
+                    </script>
+
+
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Pacific%2FHonolulu&src=aW5mb0BpbmRpdmlzaWJsZWhhd2FpaS5vcmc&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
