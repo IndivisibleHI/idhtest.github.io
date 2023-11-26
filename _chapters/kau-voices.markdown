@@ -35,7 +35,7 @@ Ka'u Voices meets the **second Sunday of each month 2-3pm** at the upper pavilio
 
 
 
-## 2017-2023 Actions/Events:
+### 2017-2023 Actions/Events:
 * Voter registration drives
 * Local signwaving events
 * Hosting candidate forums, including a 2022 debate for the U.S. House Hawai'i, Dist. 2
@@ -43,7 +43,8 @@ Ka'u Voices meets the **second Sunday of each month 2-3pm** at the upper pavilio
 * Reaching out to our local, state and federal elected officials
 * Providing testimony on important bills in the HI legislature
 
-## In addition to the above, our goals for 2024 include:
+### Our goals for 2024:
+* What is above and 
 * GOTV for a Democratic trifecta 
 * Expand our membership 
 * Explore/Initiate a Hawai'i Island Economic development project
