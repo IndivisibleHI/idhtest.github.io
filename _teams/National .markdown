@@ -10,7 +10,9 @@ team-description: "We are the progressive volunteers from Hawaii who called, tex
 
 ### Don’t let Crazy MAGA Republicans take away your Freedom. 
 
-[Protect Reproductive Freedom](https://ballotpedia.org/2023_and_2024_abortion-related_ballot_measures), [Your Health Care](https://www.youtube.com/watch?v=9Az7fsmHJ_k), [Freedom to Read and Learn](https://www.youtube.com/watch?v=kuWVqxNL7xQ). [Biden’s 2024 chances are much stronger than people think.](https://www.msnbc.com/opinion/msnbc-opinion/biden-2024-election-polls-strong-rcna130507?)
+[Protect Reproductive Freedom](https://ballotpedia.org/2023_and_2024_abortion-related_ballot_measures), [Your Health Care](https://www.youtube.com/watch?v=9Az7fsmHJ_k), [Freedom to Read and Learn](https://www.youtube.com/watch?v=kuWVqxNL7xQ). 
+
+[Biden’s 2024 chances are much stronger than people think.](https://www.msnbc.com/opinion/msnbc-opinion/biden-2024-election-polls-strong-rcna130507?)
 
 Dems lost U.S. House by 6675 votes in 2022.  The point being every vote counts. 
 
