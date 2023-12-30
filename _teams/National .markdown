@@ -12,11 +12,11 @@ team-description: "We are the progressive volunteers from Hawaii who called, tex
 
 [Protect Reproductive Freedom](https://ballotpedia.org/2023_and_2024_abortion-related_ballot_measures), [Your Health Care](https://www.youtube.com/watch?v=9Az7fsmHJ_k), [Freedom to Read and Learn](https://www.youtube.com/watch?v=kuWVqxNL7xQ). 
 
-[Biden’s 2024 chances are much stronger than people think.](https://www.msnbc.com/opinion/msnbc-opinion/biden-2024-election-polls-strong-rcna130507?)
+[Biden’s 2024 chances are much stronger than people think.](https://www.msnbc.com/opinion/msnbc-opinion/biden-2024-election-polls-strong-rcna130507?)  [Bidenomics is working.](https://www.youtube.com/watch?v=J3Kdeu7fSu0)
 
 Dems lost U.S. House by 6675 votes in 2022.  The point being every vote counts. 
 
-**Got 15 minutes?  Register a left leaning voter!** Join us at one of our gatherings.   Contact us at bluewave@indivisiblehawaii.org if you have any questions.
+**Got 15 minutes?  Register a left leaning voter!  You can make the difference.** Join us at one of our gatherings.   Contact us at bluewave@indivisiblehawaii.org if you have any questions.
 
 We are the pro-democracy citizens from Hawaiʻi  who wrote, texted, called and knocked on doors to register and turnout left leaning voters in swing states since 2017.  We do what we do to protect our freedom, our democracy, our earth, and our lives.
 
