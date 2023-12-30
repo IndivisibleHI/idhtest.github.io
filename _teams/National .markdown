@@ -22,7 +22,7 @@ We are the pro-democracy citizens from Hawaiʻi  who wrote, texted, called and k
 #     
 ### 2024 Trifecta Strategy and Plan
 
-![BlueWave 2024 Trifecta.png](/uploads/BlueWave%202024%20Trifecta.png)
+![BlueWave 2024 Trifecta-f85615.png](/uploads/BlueWave%202024%20Trifecta-f85615.png)
 
 **January through mid-October**: 
 Write postcards to register left leaning voters in swing states listed above.  About 1 out of 3 (32.8%) “contacted” registered as a Democrat or Independent.  Learn more about our partner, [FieldTeam6](https://www.fieldteam6.org/).  See the calendar for details on our “Postcards to Win” gatherings.  
