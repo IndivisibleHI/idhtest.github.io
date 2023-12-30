@@ -16,7 +16,7 @@ team-description: "We are the progressive volunteers from Hawaii who called, tex
 
 Dems lost U.S. House by 6675 votes in 2022.  The point being every vote counts. 
 
-**Got 15 minutes?  Register a left leaning voter!  You can make the difference.** Join us at one of our gatherings.   Contact us at bluewave@indivisiblehawaii.org if you have any questions.
+**Got 15 minutes?  Register a left leaning voter!  You can make the difference.** Join us at one of our "Postcards to Win" events.  Find the details on the calendar below. We meet at DPH in Honolulu/Waikiki every Saturdays 10AM.  We meet at a bakery in Nāʻālehu every second Sundays 2PM.  Contact us at bluewave@indivisiblehawaii.org if you have any questions.
 
 We are the pro-democracy citizens from Hawaiʻi  who wrote, texted, called and knocked on doors to register and turnout left leaning voters in swing states since 2017.  We do what we do to protect our freedom, our democracy, our earth, and our lives.
 
