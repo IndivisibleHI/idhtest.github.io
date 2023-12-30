@@ -19,7 +19,7 @@ Dems lost U.S. House by 6675 votes in 2022.  Point being every vote counts.
 We are the pro-democracy citizens from Hawaiʻi  who wrote, texted, called and knocked on doors to register and turnout left leaning voters in swing states since 2017.  We do what we do to protect our freedom, our democracy, our earth, and our lives.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Pacific%2FHonolulu&title=BlueWave%20Hawaii%20Events%20and%20Actions&src=Ymx1ZXdhdmVAaW5kaXZpc2libGVoYXdhaWkub3Jn&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
+#     
 ### 2024 Trifecta Strategy and Plan
 
 ![BlueWave 2024 Trifecta.png](/uploads/BlueWave%202024%20Trifecta.png)
