@@ -31,7 +31,7 @@ Write postcards to register left leaning voters in swing states listed above.  A
 **May through November 5th, 2024**:                                                                                                     Write postcards, text and call to turnout left leaning voters in swing states listed above.  Learn more about our partners, [Reclaim Our Vote](https://www.centerforcommonground.org/reclaim-our-vote) and [SwingLeft](https://swingleft.org/).  
 
 
-We would also partner with various campaign teams, state Democratic Parties, Working Family Party, and NextGen to write, text and call to turnout left leaning voters.  
+We will also partner with various campaign teams, state Democratic Parties, Working Family Party, and NextGen to write, text and call to turnout left leaning voters.  
 
 
 We will post the volunteer opportunities and training schedule on the calendar as they become available.
