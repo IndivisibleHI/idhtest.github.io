@@ -24,11 +24,11 @@ We are the pro-democracy citizens from Hawaiʻi  who wrote, texted, called and k
 
 ![BlueWave 2024 Trifecta.png](/uploads/BlueWave%202024%20Trifecta.png)
 
-January through mid-October: 
+**January through mid-October**: 
 Write postcards to register left leaning voters in swing states listed above.  About 1 out of 3 (32.8%) “contacted” registered as a Democrat or Independent.  Learn more about our partner, [FieldTeam6](https://www.fieldteam6.org/).  See the calendar for details on our “Postcards to Win” gatherings.  
 
 
-May through November 5th, 2024:                                                                                                     Write postcards, text and call to turnout left leaning voters in swing states listed above.  Learn more about our partners, [Reclaim Our Vote](https://www.centerforcommonground.org/reclaim-our-vote) and [SwingLeft](https://swingleft.org/).  
+**May through November 5th, 2024**:                                                                                                     Write postcards, text and call to turnout left leaning voters in swing states listed above.  Learn more about our partners, [Reclaim Our Vote](https://www.centerforcommonground.org/reclaim-our-vote) and [SwingLeft](https://swingleft.org/).  
 
 
 We would also partner with various campaign teams, state Democratic Parties, Working Family Party, and NextGen to write, text and call to turnout left leaning voters.  
