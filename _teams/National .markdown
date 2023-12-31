@@ -9,7 +9,7 @@ team-description: |+
 
 ---
 
-### Don’t let Crazy MAGA Republicans take away your Freedom. Imagine what would happen [if Trump Wins](https://www.theatlantic.com/if-trump-wins/) in 2024.
+### Imagine what would happen [if Trump Wins](https://www.theatlantic.com/if-trump-wins/) in 2024. Don’t let Crazy MAGA Republicans take away your Freedom.
 
 [Protect Reproductive Freedom](https://ballotpedia.org/2023_and_2024_abortion-related_ballot_measures), [Your Health Care](https://www.youtube.com/watch?v=9Az7fsmHJ_k), [Freedom to Read and Learn](https://www.youtube.com/watch?v=kuWVqxNL7xQ). 
 
