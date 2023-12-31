@@ -3,9 +3,10 @@ title: National Elections
 date: 2019-07-11 15:32:00 -10:00
 teamtag: natel
 team-email: natel
-team-description: "We are the progressive volunteers from Hawaii who called, texted,
-  and wrote to register and turnout left leaning voters in swing states since 2017.
-  \ We do what we do to protect our Democracy, our earth, and our lives.\n\n"
+team-description: |+
+  We are the pro-democracy citizens from Hawaiʻi  who wrote, texted, called and knocked on doors to register and turnout left leaning voters in swing states since 2017.  We do what we do to protect our freedom, our democracy, our earth, and our lives.
+
+
 ---
 
 ### Don’t let Crazy MAGA Republicans take away your Freedom. Think what would happen [if Trump Wins](https://www.theatlantic.com/if-trump-wins/)
