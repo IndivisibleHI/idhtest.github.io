@@ -20,7 +20,7 @@ layout: default
       position set will go at the end of the list. Positions can easily
       be changed by dragging-and-dropping the team names in the siteleaf
       interface. {% endcomment %}
-      {% assign sorted_issue = (site.issues | sort: "position", "last") %}
+      {% assign sorted_issues = (site.issues | sort: "position", "last") %}
       {% for issue in sorted_issues %}
         <div class="col-12 col-md-6 col-lg-4" style="padding-bottom:40px;">
 
