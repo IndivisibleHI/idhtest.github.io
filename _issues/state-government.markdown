@@ -7,7 +7,8 @@ tags:
 - stategov
 issuetag: stategov
 issue-email: stategov
-issue-description: 'Our government, our power: work with all branches of state government to address our priorities and improve transparency and accountability'
+issue-description: 'Our government, our power: work with all branches of state government
+  to address our priorities and improve transparency and accountability'
 ---
 
 Mission:  To work with the Hawaii State government to improve transparency and accountability on topics of interest to us
