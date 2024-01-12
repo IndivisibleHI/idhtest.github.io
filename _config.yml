@@ -9,7 +9,7 @@ collections:
   issues:
     title: Issues
     output: true
-    permalink: "/issues/:path"
+    permalink: "/issue/:path"
   posts:
     title: Posts
     output: true
@@ -96,6 +96,14 @@ defaults:
     teamtag: 
     team-email: 
     team-description: 
+- scope:
+    path: ''
+    type: issues
+  values:
+    layout: team
+    issuetag: 
+    issue-email: 
+    issue-description: 
 - scope:
     path: ''
     type: chapters
