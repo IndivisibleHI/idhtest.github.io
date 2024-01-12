@@ -27,7 +27,7 @@ collections:
   issues:
     title: Issues
     output: true
-    permalink: "/issue/:path"
+    permalink: "/issues/:path"
   uploads:
     title: Uploads
     output: true
