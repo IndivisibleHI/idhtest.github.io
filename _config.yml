@@ -9,7 +9,7 @@ collections:
   issues:
     title: Issues
     output: true
-    permalink: "/issue/:path"
+    permalink: "/issues/:path"
   posts:
     title: Posts
     output: true
@@ -28,10 +28,6 @@ collections:
     title: Teams
     output: true
     permalink: "/team/:path"
-  issues:
-    title: Issues
-    output: true
-    permalink: "/issues/:path"
   uploads:
     title: Uploads
     output: true
