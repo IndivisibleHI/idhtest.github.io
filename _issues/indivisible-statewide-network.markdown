@@ -1,9 +1,9 @@
 ---
 title: State Network
 date: 2019-07-11 15:34:00 -10:00
-teamtag: isn
-team-email: isn
-team-description: To share ideas, resources and to  increase collaboration, Indivisible
+issuetag: isn
+issue-email: isn
+issue-description: To share ideas, resources and to  increase collaboration, Indivisible
   Hawaii is in the process of creating a statewide network of Indivisible chapters
   on all islands.
 ---

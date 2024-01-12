@@ -2,9 +2,9 @@
 title: Voter Engagement
 date: 2019-07-10 19:30:00 -10:00
 published: false
-teamtag: voters
-team-email: voters
-team-description: |-
+issuetag: voters
+issue-email: voters
+issue-description: |-
   When We Vote, We Win.
 
   Our goal is Massive Voter turnout for Progressive Democratic Candidates.

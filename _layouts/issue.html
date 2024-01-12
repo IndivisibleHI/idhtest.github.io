@@ -3,9 +3,9 @@ layout: default
 ---
 
 {% assign email-domain = "@indivisiblehawaii.org" %}
-{% assign email-subscribe = (page.team-email | append: "+subscribe" | append: email-domain) %}
-{% assign email-owner = (page.team-email | append: "+owner" | append: email-domain) %}
-{% assign email-list = (page.team-email | append: email-domain) %}
+{% assign email-subscribe = (page.issue-email | append: "+subscribe" | append: email-domain) %}
+{% assign email-owner = (page.issue-email | append: "+owner" | append: email-domain) %}
+{% assign email-list = (page.issue-email | append: email-domain) %}
   <div class="container">
 
     <div class="clearfix spacer"></div>
@@ -20,31 +20,31 @@ layout: default
       <div class="col-sm-5 col-md-4 col-lg-3">
         <div class="card">
           <div class="card-header bg-medium">
-            <strong>Team info</strong>
+            <strong>Issue Info</strong>
           </div>
           <ul class="list-group list-group-flush">
-            {% if page.team-email %}
+            {% if page.issue-email %}
               <li class="list-group-item">
 		      <small style="text-align: center;">JOIN THE TEAM<br />CLICK BELOW</small>
               <br>
-              <a href="mailto:{{ email-subscribe }}" target="_blank" style="text-align: center;">{{ page.team-email }}+subscribe
+              <a href="mailto:{{ email-subscribe }}" target="_blank" style="text-align: center;">{{ page.issue-email }}+subscribe
                   <br><small>{{ email-domain }}</small></a>
               </li>
               <li class="list-group-item">
 		      <small style="text-align: center;">CONTACT THE TEAM LEADERS<br />CLICK BELOW</small>
               <br>
-              <a id="myBtn" href="#" style="text-align: center;">{{ page.team-email }}+owner
+              <a id="myBtn" href="#" style="text-align: center;">{{ page.issue-email }}+owner
                   <br><small>{{ email-domain }}</small></a>
               </li>
             {% else %}
               <li class="list-group-item">
-                  This team hasn't uploaded its email contact info yet. Check
-                  out our <a href="/teams">teams page</a> instead.
+                  This issue team hasn't uploaded its email contact info yet. Check
+                  out our <a href="/issues">issues page</a> instead.
               </li>
             {% endif %}
-            {% if page.team-slack %}
+            {% if page.issue-slack %}
               <li class="list-group-item">
-              <small>SLACK</small><br>#{{ page.team-slack }}
+              <small>SLACK</small><br>#{{ page.issue-slack }}
               </li>
             {% endif %}
           </ul>
@@ -59,13 +59,13 @@ layout: default
           {% assign sortedEvents = (site.categories.event | sort: 'event-start-date') %}
           {% assign activeEvents = false %}
           {% for post in sortedEvents %}
-            {% if post.tags contains page.teamtag %}
+            {% if post.tags contains page.issuetag %}
               {% assign postStartDate = post.event-start-date | date: '%s' %}
               {% if postStartDate >= curDate %}
-                {% comment %} only display team events heading if there are
-             team events to display {% endcomment %}
+                {% comment %} only display issue events heading if there are
+             issue events to display {% endcomment %}
                 {% if activeEvents == false %}
-                    <h3 class="mb-2">Team Events</h3>
+                    <h3 class="mb-2">Issue Events</h3>
                 {% endif %}
                 {% assign activeEvents = true %}
                 {% include post-list.html %}
@@ -80,13 +80,13 @@ layout: default
           {% assign sortedActions = (site.categories.action | sort: 'event-end-date') %}
           {% assign activeActions = false %}
           {% for post in sortedActions %}
-            {% if post.tags contains page.teamtag %}
+            {% if post.tags contains page.issuetag %}
               {% assign postEndDate = post.event-end-date | date: '%s' %}
               {% if postEndDate >= curDate %}
-                {% comment %} only display team actions heading if there are
-             team actions to display {% endcomment %}
+                {% comment %} only display issue actions heading if there are
+             issue actions to display {% endcomment %}
                 {% if activeActions == false %}
-                    <h3 class="mb-2">Team Actions</h3>
+                    <h3 class="mb-2">Issue Actions</h3>
                 {% endif %}
                 {% assign activeActions = true %}
                 {% include post-list.html %}
@@ -107,11 +107,11 @@ layout: default
           {% assign sortedEvents = (site.categories.event | sort: 'event-start-date') | reverse %}
           {% assign pastEvents = false %}
           {% for post in sortedEvents %}
-            {% if post.tags contains page.teamtag %}
+            {% if post.tags contains page.issuetag %}
               {% assign postStartDate = post.event-start-date | date: '%s' %}
               {% if postStartDate < curDate %}
-                {% comment %} only display team events heading if there are
-             team events to display {% endcomment %}
+                {% comment %} only display issue events heading if there are
+             issue events to display {% endcomment %}
                 {% if pastEvents == false %}
                     <h3 class="mb-2">Past Events</h3>
                 {% endif %}
@@ -128,7 +128,7 @@ layout: default
           {% assign sortedActions = (site.categories.action | sort: 'event-end-date') | reverse %}
           {% assign pastActions = false %}
           {% for post in sortedActions %}
-            {% if post.tags contains page.teamtag %}
+            {% if post.tags contains page.issuetag %}
               {% assign postEndDate = post.event-end-date | date: '%s' %}
               {% if postEndDate < curDate %}
                 {% comment %} only display team actions heading if there are

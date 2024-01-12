@@ -100,7 +100,7 @@ defaults:
     path: ''
     type: issues
   values:
-    layout: team
+    layout: issue
     issuetag: 
     issue-email: 
     issue-description: 

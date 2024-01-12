@@ -3,9 +3,9 @@ title: First Amendment
 date: 2017-08-07 09:02:00 -10:00
 published: false
 position: 7
-teamtag: firstamendment
-team-email: firstamendment
-team-slack: firstamendment
+issuetag: firstamendment
+issue-email: firstamendment
+issue-slack: firstamendment
 layout: team
 ---
 
