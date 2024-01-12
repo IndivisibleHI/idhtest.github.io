@@ -2,7 +2,7 @@
 title: State Network
 date: 2019-07-09 15:36:00 -10:00
 position: 12
-nav: true
+nav: false
 ---
 
 ## **HAWAII ISLAND**
