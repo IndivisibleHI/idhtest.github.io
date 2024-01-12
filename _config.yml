@@ -6,6 +6,10 @@ collections:
     title: Chapters
     output: true
     permalink: "/chapters/:path"
+  issues:
+    title: Issues
+    output: true
+    permalink: "/issue/:path"
   posts:
     title: Posts
     output: true
