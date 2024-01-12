@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<article class="post">
+  <div class="container">
+
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title | escape }}</h1>
+    </header>
+    <div class="row">
+      <div class="col col-sm-8">
+        {{ content }}
+      </div>
+    </div>
+
+    <!-- Show 2 posts for each team -->
+    <div class="row">
+      {% comment %} sort: "position", "last" means teams with no
+      position set will go at the end of the list. Positions can easily
+      be changed by dragging-and-dropping the team names in the siteleaf
+      interface. {% endcomment %}
+      {% assign sorted_issue = (site.issues | sort: "position", "last") %}
+      {% for team in sorted_issues %}
+        <div class="col-12 col-md-6 col-lg-4" style="padding-bottom:40px;">
+
+          <h3>
+              <a class="team-title" href="{{ issue.url | relative_url }}">{{ issue.title }}</a>
+          </h3>
+          <!-- Blog Posts -->
+          <div class="post-list">
+            <span class="text-muted">
+	    {{ issue.team-description }}
+            </span>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+    <hr>
+
+  </div>
+</article>

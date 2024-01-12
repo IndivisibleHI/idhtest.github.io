@@ -1,0 +1,199 @@
+---
+layout: default
+---
+
+{% assign email-domain = "@indivisiblehawaii.org" %}
+{% assign email-subscribe = (page.team-email | append: "+subscribe" | append: email-domain) %}
+{% assign email-owner = (page.team-email | append: "+owner" | append: email-domain) %}
+{% assign email-list = (page.team-email | append: email-domain) %}
+  <div class="container">
+
+    <div class="clearfix spacer"></div>
+
+    <h1>{{ page.title | escape }}</h1>
+
+    <div class="clearfix spacer"></div>
+
+    <!-- BODY CONTENT -->
+    <div class="row">
+      <!-- TEAM CONTACT INFO -->
+      <div class="col-sm-5 col-md-4 col-lg-3">
+        <div class="card">
+          <div class="card-header bg-medium">
+            <strong>Team info</strong>
+          </div>
+          <ul class="list-group list-group-flush">
+            {% if page.team-email %}
+              <li class="list-group-item">
+		      <small style="text-align: center;">JOIN THE TEAM<br />CLICK BELOW</small>
+              <br>
+              <a href="mailto:{{ email-subscribe }}" target="_blank" style="text-align: center;">{{ page.team-email }}+subscribe
+                  <br><small>{{ email-domain }}</small></a>
+              </li>
+              <li class="list-group-item">
+		      <small style="text-align: center;">CONTACT THE TEAM LEADERS<br />CLICK BELOW</small>
+              <br>
+              <a id="myBtn" href="#" style="text-align: center;">{{ page.team-email }}+owner
+                  <br><small>{{ email-domain }}</small></a>
+              </li>
+            {% else %}
+              <li class="list-group-item">
+                  This team hasn't uploaded its email contact info yet. Check
+                  out our <a href="/teams">teams page</a> instead.
+              </li>
+            {% endif %}
+            {% if page.team-slack %}
+              <li class="list-group-item">
+              <small>SLACK</small><br>#{{ page.team-slack }}
+              </li>
+            {% endif %}
+          </ul>
+        </div>
+        <div class="clearfix spacer"></div>
+
+      </div>
+      <div class="col-sm-8">
+        
+        <div class="post-list"> <!-- ACTIVE EVENTS -->
+          {% assign curDate = site.time | date: '%s' %}
+          {% assign sortedEvents = (site.categories.event | sort: 'event-start-date') %}
+          {% assign activeEvents = false %}
+          {% for post in sortedEvents %}
+            {% if post.tags contains page.teamtag %}
+              {% assign postStartDate = post.event-start-date | date: '%s' %}
+              {% if postStartDate >= curDate %}
+                {% comment %} only display team events heading if there are
+             team events to display {% endcomment %}
+                {% if activeEvents == false %}
+                    <h3 class="mb-2">Team Events</h3>
+                {% endif %}
+                {% assign activeEvents = true %}
+                {% include post-list.html %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+
+        </div> <!-- END ACTIVE EVENTS -->
+        
+        <div class="post-list"> <!-- ACTIVE ACTIONS -->
+          {% assign curDate = site.time | date: '%s' %}
+          {% assign sortedActions = (site.categories.action | sort: 'event-end-date') %}
+          {% assign activeActions = false %}
+          {% for post in sortedActions %}
+            {% if post.tags contains page.teamtag %}
+              {% assign postEndDate = post.event-end-date | date: '%s' %}
+              {% if postEndDate >= curDate %}
+                {% comment %} only display team actions heading if there are
+             team actions to display {% endcomment %}
+                {% if activeActions == false %}
+                    <h3 class="mb-2">Team Actions</h3>
+                {% endif %}
+                {% assign activeActions = true %}
+                {% include post-list.html %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+
+        </div> <!-- END ACTIVE ACTIONS -->
+        <hr>
+
+        {{ content }}
+
+        <div class="clearfix spacer"></div>
+        <hr>
+
+        <div class="post-list" id="past-events"> <!-- PAST EVENTS -->
+          {% assign curDate = site.time | date: '%s' %}
+          {% assign sortedEvents = (site.categories.event | sort: 'event-start-date') | reverse %}
+          {% assign pastEvents = false %}
+          {% for post in sortedEvents %}
+            {% if post.tags contains page.teamtag %}
+              {% assign postStartDate = post.event-start-date | date: '%s' %}
+              {% if postStartDate < curDate %}
+                {% comment %} only display team events heading if there are
+             team events to display {% endcomment %}
+                {% if pastEvents == false %}
+                    <h3 class="mb-2">Past Events</h3>
+                {% endif %}
+                {% assign pastEvents = true %}
+                {% include post-list.html %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+
+        </div><!-- END PAST EVENTS -->
+        
+        <div class="post-list" id="past-actions"> <!-- PAST ACTIONS -->
+          {% assign curDate = site.time | date: '%s' %}
+          {% assign sortedActions = (site.categories.action | sort: 'event-end-date') | reverse %}
+          {% assign pastActions = false %}
+          {% for post in sortedActions %}
+            {% if post.tags contains page.teamtag %}
+              {% assign postEndDate = post.event-end-date | date: '%s' %}
+              {% if postEndDate < curDate %}
+                {% comment %} only display team actions heading if there are
+             team actions to display {% endcomment %}
+                {% if pastActions == false %}
+                    <h3 class="mb-2">Past Actions</h3>
+                {% endif %}
+                {% assign pastActions = true %}
+                {% include post-list.html %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+
+        </div><!-- END PAST ACTIONS -->
+        
+      </div>
+    </div>
+
+
+  </div><!-- END CONTAINER -->
+
+  <!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <form name="input" method="POST" action="https://formspree.io/{{ email-owner }}">
+      <p>Name:<br /><input type="text" name="Name" placeholder="Your Name" required></p>
+      <p>Email:<br /><input type="email" name="_replyto" placeholder="Your email" required></p>
+      <p>Subject:<br /><input type="text" name="_subject" value="I'm interested in your group"></p>
+      <p>Message:<br /><textarea name="message" placeholder="Type your message here" required></textarea></p>
+      <input type="submit" value="Send">
+    </form>
+  </div>
+  <script>
+    // Get the modal
+    var modal = document.getElementById("myModal");
+    
+    // Get the button that opens the modal
+    var btn = document.getElementById("myBtn");
+    
+    // Get the <span> element that closes the modal
+    var span = document.getElementsByClassName("close")[0];
+    
+    // When the user clicks the button, open the modal
+    btn.onclick = function() {
+      modal.style.display = "block";
+    }
+    
+    // When the user clicks on <span> (x), close the modal
+    span.onclick = function() {
+      modal.style.display = "none";
+    }
+  
+    // When the user clicks anywhere outside of the modal, close it
+    window.onclick = function(event) {
+      if (event.target == modal) {
+        modal.style.display = "none";
+      }
+    }
+  </script>
+
+
+</div>
+
+  <div class="clearfix spacer"></div>
+  <div class="clearfix spacer"></div>
