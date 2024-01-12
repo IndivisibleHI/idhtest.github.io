@@ -14,14 +14,14 @@ layout: default
       </div>
     </div>
 
-    <!-- Show 2 posts for each team -->
+    <!-- Show 2 posts for each issue -->
     <div class="row">
       {% comment %} sort: "position", "last" means teams with no
       position set will go at the end of the list. Positions can easily
       be changed by dragging-and-dropping the team names in the siteleaf
       interface. {% endcomment %}
       {% assign sorted_issue = (site.issues | sort: "position", "last") %}
-      {% for team in sorted_issues %}
+      {% for issue in sorted_issues %}
         <div class="col-12 col-md-6 col-lg-4" style="padding-bottom:40px;">
 
           <h3>
@@ -30,7 +30,7 @@ layout: default
           <!-- Blog Posts -->
           <div class="post-list">
             <span class="text-muted">
-	    {{ issue.team-description }}
+	    {{ issue.issue-description }}
             </span>
           </div>
         </div>
