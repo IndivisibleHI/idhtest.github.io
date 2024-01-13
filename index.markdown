@@ -49,4 +49,5 @@ Set up an account on [https://www.capitol.hawaii.gov/](https://www.capitol.hawai
 
 **SIGN UP FOR EMAIL ALERTS**
 
-Sign up to get email alerts from Indivisible Hawaii [here.](https://mahlon.xyz/join/)
+Sign up to get email alerts from Indivisible Hawaii [here.](/join/)
+
