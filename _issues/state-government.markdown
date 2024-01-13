@@ -6,6 +6,7 @@ categories:
 - stategov
 tags:
 - stategov
+position: 3
 issuetag: stategov
 issue-email: stategov
 issue-description: 'Our government, our power: work with all branches of state government

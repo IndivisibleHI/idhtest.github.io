@@ -1,6 +1,7 @@
 ---
 title: Local Voter Registration & Turnout
 date: 2024-01-12 18:26:00 -10:00
+position: 0
 issuetag: localvoter
 issue-description: Our mission is to assist unregistered voters in Hawaii to register.
 ---

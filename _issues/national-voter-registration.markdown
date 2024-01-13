@@ -1,6 +1,7 @@
 ---
 title: National Voter Registration
 date: 2019-07-11 15:32:00 -10:00
+position: 1
 issuetag: natel
 issue-email: natel
 issue-description: |+
