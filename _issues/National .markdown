@@ -23,6 +23,7 @@ Find the details on the calendar below. We meet at:
 * DPH in Honolulu/Martha's condo in Waikiki every Saturdays 10AM
 * Waimea Ulu La'au Nature Park every Wednesdays 4PM
 * Punalu'u Bake Shop in Nāʻālehu every second Sundays 2PM.  
+
 Contact us at bluewave@indivisiblehawaii.org if you have any questions.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Pacific%2FHonolulu&title=BlueWave%20Hawaii%20Events%20and%20Actions&src=Ymx1ZXdhdmVAaW5kaXZpc2libGVoYXdhaWkub3Jn&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
