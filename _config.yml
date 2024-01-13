@@ -140,3 +140,4 @@ exclude:
 google_analytics: 
 permalink: "/:categories/:title"
 Field name: 
+emptyArray: []
