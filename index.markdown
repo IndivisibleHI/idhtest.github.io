@@ -7,11 +7,11 @@ excerpt: Our mission is to resist the Trump agenda by engaging our elected offic
 layout: home
 ---
 
-# Events and Actions You Can Take
+## Events and Actions You Can Take
 
 **LEGISLATURE OPENING DAY** – Wednesday, January 17, 2024
 
-**TAKE ADVOCACY TRAINING **by January 18th 7PM
+\*\*TAKE ADVOCACY TRAINING\*\* by January 18th 7PM
 
 The 2024 Regular Session is just around the corner (it opens on Wednesday, January 17, at 10:00 a.m.). Register for one of the Public Access Room’s “Use Your Voice at the Legislature” training sessions and learn more about advocacy, the legislature’s website, and the session calendar’s deadlines. [Go here for more information.](https://lrb.hawaii.gov/par/sign-up-for-a-training-session/)
 
@@ -43,7 +43,7 @@ January 24, 2024 – 4:00 – 5:15pm\
 February 11, 2024 – 2:00 – 3:00pm\
 Punalu’u Bake shop, 95-5642 Mamalahoa Hwy, Naalehu (Upper Pavillion)
 
-**CREATE AN ACCOUNT ON CAPITOL WEBSITE **to use “Your Voice” by January 22nd
+\*\*CREATE AN ACCOUNT ON CAPITOL WEBSITE \*\*to use “Your Voice” by January 22nd
 
 Set up an account on [https://www.capitol.hawaii.gov/](https://www.capitol.hawaii.gov/).
 
