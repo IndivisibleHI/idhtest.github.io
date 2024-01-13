@@ -2,6 +2,7 @@
 title: Maui
 date: 2024-01-12 18:08:00 -10:00
 position: 3
+chapter-description: Hui Aloha 'O Maui focuses on issues affecting Maui.
 ---
 
 # Hui Aloha 'O Maui
