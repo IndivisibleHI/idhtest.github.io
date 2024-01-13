@@ -28,15 +28,15 @@ layout: default
         <a href="/join.html" class="btn btn-danger btn-block"><strong>Get Involved!</strong></a>
       </div>
 
-      {% if page.content %}
-        <div class="spacer clearfix visible-sm-up"></div>
-        {{ content }}
-      {% endif %}
 
     <div class="row">
 
       <div class="col-sm-8">
-          <div class="row mt-4">
+      {% if page.content %}
+        <div class="spacer clearfix visible-sm-up"></div>
+        {{ content }}
+      {% endif %}
+	  <div class="row mt-4">
               <div class="col-12 col-md-4">
                   <a href="/actions" class="btn btn-block btn-danger">All current actions</a></br>
               </div>
