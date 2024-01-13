@@ -5,6 +5,7 @@ position: 4
 chapter-description: North Hawaii Action Network formed in 2018 to unite the efforts
   of Hawai'i Island community members. While most events are held in Waimea, we welcome
   anyone to join us.
+layout: page
 ---
 
 ***CONTACT:***
