@@ -18,3 +18,6 @@ We support the following groups:\
 \
 Common Cause\
 Clean Elections
+
+![Barbara-Shimei-Lead-Gun-Safety-Local-Voter-Registration-Government-accountability-gigapixel-standard-width-600px-copy-300x300.png](/uploads/Barbara-Shimei-Lead-Gun-Safety-Local-Voter-Registration-Government-accountability-gigapixel-standard-width-600px-copy-300x300.png)\
+Team Lead: Barbara Shimei
