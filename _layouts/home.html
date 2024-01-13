@@ -18,11 +18,6 @@ layout: default
         </div>
       </div>
 
-      {% if page.content %}
-        <div class="spacer clearfix visible-sm-up"></div>
-        {{ content }}
-      {% endif %}
-
     </div><!-- END HOME HEADER -->
   </div><!-- END HOME HEADER WRAP -->
 
@@ -32,6 +27,11 @@ layout: default
       <div class="hidden-sm-up mt-3 mb-3">
         <a href="/join.html" class="btn btn-danger btn-block"><strong>Get Involved!</strong></a>
       </div>
+
+      {% if page.content %}
+        <div class="spacer clearfix visible-sm-up"></div>
+        {{ content }}
+      {% endif %}
 
     <div class="row">
 
