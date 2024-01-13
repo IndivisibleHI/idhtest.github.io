@@ -1,5 +1,5 @@
 ---
-title: Nāʻālehu 12.10 Postcards to Win
+title: Nāʻālehu 1.20 Postcards to Win
 date: 2023-11-13 17:44:00 -10:00
 categories:
 - event
@@ -8,8 +8,8 @@ tags:
 is featured: true
 pinned: true
 main-image: "/uploads/Kau%20Postcarding%202023.png"
-event-start-date: 2023-12-10 14:00:00 -10:00
-event-end-date: 2023-12-10 15:00:00 -10:00
+event-start-date: 2024-01-20 14:00:00 -10:00
+event-end-date: 2024-01-20 15:00:00 -10:00
 Location: 95-5642 Mamalahoa Hwy, Nāʻālehu, HI 96772 (Punalu'u Bake Shop, upper pavillion)
 island: BIg Island
 chapter: Ka’u Voices
