@@ -24,22 +24,12 @@ layout: default
           </div>
           <ul class="list-group list-group-flush">
             {% if page.issue-email %}
-              <li class="list-group-item">
-		      <small style="text-align: center;">JOIN THE TEAM<br />CLICK BELOW</small>
-              <br>
-              <a href="mailto:{{ email-subscribe }}" target="_blank" style="text-align: center;">{{ page.issue-email }}+subscribe
-                  <br><small>{{ email-domain }}</small></a>
-              </li>
-              <li class="list-group-item">
-		      <small style="text-align: center;">CONTACT THE TEAM LEADERS<br />CLICK BELOW</small>
-              <br>
-              <a id="myBtn" href="#" style="text-align: center;">{{ page.issue-email }}+owner
-                  <br><small>{{ email-domain }}</small></a>
+	      <li class="list-group-item">
+                <a id="myBtn" href="mailto:{{ page.issue-email }}" style="text-align: center;">{{ page.issue-email }}</a>
               </li>
             {% else %}
               <li class="list-group-item">
-                  This issue team hasn't uploaded its email contact info yet. Check
-                  out our <a href="/issues">issues page</a> instead.
+                  This team hasn't uploaded its email contact info yet.
               </li>
             {% endif %}
             {% if page.issue-slack %}
