@@ -1,6 +1,7 @@
 ---
 title: Kauai
 date: 2022-07-28 15:44:00 -10:00
+position: 0
 island: Kauai
 chapter-description: Kauai Indivisible is the Indivisible chapter on Kauai.
 donate_url: https://indivisiblehawaii.org/donate

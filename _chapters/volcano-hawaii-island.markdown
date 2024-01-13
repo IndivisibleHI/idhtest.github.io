@@ -1,6 +1,7 @@
 ---
 title: Volcano (Hawaiʻi Island)
 date: 2024-01-12 18:10:00 -10:00
+position: 6
 chapter-description: Volcano Community Action Network (V-Can) was born in the wake
   of the 2016 election. We partner with Invidivisble Hawai'i and Ka'u Voices on Hawai'i
   Island.
