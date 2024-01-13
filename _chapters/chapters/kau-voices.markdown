@@ -17,7 +17,7 @@ Kaʻū Voices has been actively engaged with issues of the environment, human ri
 
 **Chapter Leads**: Laurie Boyle, Missy Wheeler (email: kauvoices@gmail.com)
 
-Kaʻū Voices meets the **second Sunday of each month 2-3pm** at the upper pavilion of the Punaluʻu Bake Shop.
+Kaʻū Voices meets the **second Sunday of each month 2-3pm** at the upper pavilion of the Punaluʻu Bake Shop.  [Join us](https://swingleft.org/event/register/mobilize:584057?s=u) to register left leaning voters in swing states.
 
 ![Ka'u pic 6 (1).jpg](/uploads/Ka'u%20pic%206%20(1).jpg)
 
