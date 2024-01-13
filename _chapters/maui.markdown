@@ -3,7 +3,7 @@ title: Maui
 date: 2024-01-12 18:08:00 -10:00
 ---
 
-Hui Aloha 'O Maui
+# Hui Aloha 'O Maui
 
 Facebook page: [facebook.com/groups/318082992806424](https://www.facebook.com/groups/318082992806424)
 
