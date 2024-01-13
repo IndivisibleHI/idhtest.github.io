@@ -2,13 +2,11 @@
 title: Healthcare
 date: 2024-01-12 18:33:00 -10:00
 issuetag: healthcare
+issue-email: northhawaii@indivisiblehawaii.org
 issue-description: The Indivisible Hawaii (IH) Healthcare Team was formed to advocate
   for progressive solutions to the problem of a growing shortage of health providers
   and services in Hawaii, especially on Neighbor Islands.
 ---
-
-***CONTACT:***\
-[northhawaii@indivisiblehawaii.org](mailto:northhawaii@indivisiblehawaii.org)
 
 The Indivisible Hawaii (IH) Healthcare Team was formed to advocate for progressive solutions to the problem of a growing shortage of health providers and services in Hawaii, especially on Neighbor Islands. We are a new team, formed in mid-2023, and comprised of grassroots advocates with deep professional and lived experience with Hawaii’s health care system. Those of us who are Neighbor Island residents live with the day-to-day reality of scarce health resources. Meetings are held monthly via Zoom. The team is currently focused on 3 areas of research, collaboration and action:
 
