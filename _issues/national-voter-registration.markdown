@@ -3,6 +3,7 @@ title: National Voter Registration
 date: 2019-07-11 15:32:00 -10:00
 position: 1
 issuetag: natel
+issue-email: bluewave@indivisiblehawaii.org
 issue-description: |+
   We are the pro-democracy citizens from Hawaiʻi  who wrote, texted, called and knocked on doors to register and turnout left leaning voters in swing states since 2017.  We do what we do to protect our freedom, our democracy, our earth, and our lives.
 
