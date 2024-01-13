@@ -17,7 +17,7 @@ Dems lost U.S. House by 6675 votes in 2022.  The point being every vote counts.
 
 **Got 15 minutes?  Register a left leaning voter!  You can make the difference.** 
 
-Join us at one of our "Postcards to Win" events to register left leaning voters in swing states NOW to WIN 2024!  Handwritten postcards are powerful and proven ways to reach voters in swing states. We will provide postcards, names and addresses, instructions including sample messages, etc and will have postcards to take home + info on texts, calls & other actions. Bring Family and Friends.
+Join us at one of our "Postcards to Win" events to register left leaning voters in swing states NOW to WIN 2024!  Handwritten postcards are powerful and proven ways to reach voters in swing states. We will provide postcards, names + addresses, instructions including sample messages, etc and will have postcards to take home + info on texts, calls & other actions. Bring Family and Friends.
 
 Find the details on the calendar below. We meet at: 
 * DPH in Honolulu/Martha's condo in Waikiki every Saturdays 10AM
