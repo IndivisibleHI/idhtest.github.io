@@ -3,6 +3,9 @@ title: Kaʻū Voices (Hawaiʻi Island)
 date: 2023-11-25 07:15:00 -10:00
 permalink: "/kau-voices"
 position: 6
+chapter-description: Kaʻū Voices has been actively engaged with issues of the environment,
+  human rights, women’s rights, affordable healthcare, humane immigration reform and
+  economic justice.
 layout: page
 ---
 
