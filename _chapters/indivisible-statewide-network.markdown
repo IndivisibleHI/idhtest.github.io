@@ -2,7 +2,7 @@
 title: State Network
 date: 2019-07-11 15:34:00 -10:00
 published: false
-position: 3
+position: 5
 teamtag: isn
 team-email: isn
 team-description: To share ideas, resources and to  increase collaboration, Indivisible

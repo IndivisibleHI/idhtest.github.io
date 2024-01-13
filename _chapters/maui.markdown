@@ -1,7 +1,7 @@
 ---
 title: Maui
 date: 2024-01-12 18:08:00 -10:00
-position: 5
+position: 3
 ---
 
 # Hui Aloha 'O Maui
