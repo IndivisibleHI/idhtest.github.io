@@ -2,7 +2,7 @@
 title: Kaʻū Voices (Hawaiʻi Island)
 date: 2023-11-25 07:15:00 -10:00
 permalink: "/kau-voices"
-position: 4
+position: 5
 layout: page
 ---
 
