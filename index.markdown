@@ -9,7 +9,7 @@ layout: home
 
 **LEGISLATURE OPENING DAY** – Wednesday, January 17, 2024
 
-The 2024 Regular Session is just around the corner. It opens on Wednesday, January 17, at 10:00 a.m. Meet fellow Indivisible Hawai'i members at 1pm at the capitol, by the FAther Damien statue, to take a few photos and videos for our new website. Wear a turquoise Indivisible Hawai'i t-shirt if you have one.
+The 2024 Regular Session is just around the corner. It opens on Wednesday, January 17, at 10:00 a.m. Meet fellow Indivisible Hawai'i members at 1pm at the capitol, by the Father Damien statue, to take a few photos and videos for our new website. Wear a turquoise Indivisible Hawai'i t-shirt if you have one.
 
 **TAKE ADVOCACY TRAINING** by January 18th 7PM
 
