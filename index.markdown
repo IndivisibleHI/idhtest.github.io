@@ -45,7 +45,7 @@ Uahi Grill, 33 Aulike St, Kailua
 February 11, 2024 – 2:00 – 3:00pm ([more details](https://swingleft.org/event/register/mobilize:584057?s=u))\
 Punalu’u Bake shop, 95-5642 Mamalahoa Hwy, Naalehu (Upper Pavilion)
 
-Email [bluewave@indivisiblehawaii.org](mailto:bluewave@indivisiblehawaii.org) if you are interested but cannot join us in person. We can have a package of what you need for a pickup or a delivery. 
+Email [bluewave@indivisiblehawaii.org](mailto:bluewave@indivisiblehawaii.org) if you are interested but cannot join us in person. We can have a package of what you need ready for a pickup or a delivery. 
 
 **SIGN UP FOR EMAIL ALERTS**
 
