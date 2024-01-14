@@ -15,17 +15,18 @@ The 2024 Regular Session is just around the corner. It opens on Wednesday, Janua
 
 The 2024 Regular Session is just around the corner. Register for one of the Public Access Room’s "Use Your Voice at the Legislature" training sessions and learn about advocacy, the legislature’s website, and the session calendar’s deadlines. [Go here for more information.](https://lrb.hawaii.gov/par/sign-up-for-a-training-session/)
 
+**CREATE AN ACCOUNT ON CAPITOL WEBSITE** to use “Your Voice” by January 22nd
+
+Set up an account on [https://www.capitol.hawaii.gov/](https://www.capitol.hawaii.gov/).
+
+
 **NATIONAL VOTER REGISTRATION**
 
-Imagine [if Trump wins](https://www.pbs.org/video/washington-week-with-the-atlantic-full-episode-122923-jqefhy/)… Got 15 minutes? Register a left leaning voter!
-
+Imagine [if Trump wins](https://www.pbs.org/video/washington-week-with-the-atlantic-full-episode-122923-jqefhy/)… ***Got 15 minutes? Register a left leaning voter!**
+*
 Handwritten postcards are a powerful and proven way to reach voters in swing states.
 
 You can make the difference!
-
-We meet EVERY SATURDAY at 10AM usually at the Democratic Party Hawaii HQ office in downtown Honolulu but we sometimes meet at Martha’s condo in Waikiki. We provide postcards, addresses, instructions, pens, stickers.
-
-RSVP and we will let you know where we are meeting. Email [bluewave@indivisiblehawaii.org](mailto:bluewave@indivisiblehawaii.org) if you are interested but cannot join us in person.
 
 UPCOMING POSTCARDS TO WIN/KICKOFFS:
 
@@ -46,10 +47,6 @@ Punalu’u Bake shop, 95-5642 Mamalahoa Hwy, Naalehu (Upper Pavilion)
 
 Email [bluewave@indivisiblehawaii.org](mailto:bluewave@indivisiblehawaii.org) if you are interested but cannot join us in person. We can have a package of what you need for a pickup or a delivery. 
 
-**CREATE AN ACCOUNT ON CAPITOL WEBSITE **to use “Your Voice” by January 22nd
-
-Set up an account on [https://www.capitol.hawaii.gov/](https://www.capitol.hawaii.gov/).
-
 **SIGN UP FOR EMAIL ALERTS**
 
-Sign up to get email alerts from Indivisible Hawaii [here.](/join/)
+Sign up to get email alerts from Indivisible Hawaii [here](https://indivisiblehawaii.org/join).
