@@ -28,7 +28,7 @@ Handwritten postcards are a powerful and proven way to reach voters in swing sta
 
 You can make the difference!
 
-UPCOMING POSTCARDS TO WIN/KICKOFFS:
+UPCOMING POSTCARDS TO WIN/2024 BLUEWAVE KICKOFFS:
 
 January 17, 2024 – 4:00 – 5:15pm ([more details](https://swingleft.org/event/register/mobilize:597464?s=u))\
 66-1246 Mamalahoa Hwy, Waimea, Ulu La’au Waimea Nature Park behind Canada France HQ – outdoors in the covered picnic area.
