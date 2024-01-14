@@ -20,7 +20,7 @@ The 2024 Regular Session is just around the corner. Register for one of the Publ
 Set up an account on [https://www.capitol.hawaii.gov/](https://www.capitol.hawaii.gov/).
 
 
-**NATIONAL VOTER REGISTRATION**
+**NATIONAL VOTER REGISTRATION EVENTS**
 
 Imagine [if Trump wins](https://www.pbs.org/video/washington-week-with-the-atlantic-full-episode-122923-jqefhy/)… **Got 15 minutes? Register a left leaning voter!**
 
