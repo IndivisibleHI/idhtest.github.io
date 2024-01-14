@@ -22,8 +22,8 @@ Set up an account on [https://www.capitol.hawaii.gov/](https://www.capitol.hawai
 
 **NATIONAL VOTER REGISTRATION**
 
-Imagine [if Trump wins](https://www.pbs.org/video/washington-week-with-the-atlantic-full-episode-122923-jqefhy/)… ***Got 15 minutes? Register a left leaning voter!**
-*
+Imagine [if Trump wins](https://www.pbs.org/video/washington-week-with-the-atlantic-full-episode-122923-jqefhy/)… **Got 15 minutes? Register a left leaning voter!**
+
 Handwritten postcards are a powerful and proven way to reach voters in swing states.
 
 You can make the difference!
