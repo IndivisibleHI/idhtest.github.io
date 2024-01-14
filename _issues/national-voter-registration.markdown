@@ -24,6 +24,8 @@ Find the details on the calendar below. We meet at:
 * DPH in Honolulu/condo in Waikiki every Saturdays 10AM
 * Waimea Ulu La'au Nature Park every Wednesdays 4PM
 * Punalu'u Bake Shop in Nāʻālehu every second Sundays 2PM.  
+* Home in Kailua Saturday January 27th 2:30PM
+* Uahi Grill in Kailua Thursday February 8th 4:30PM
 
 Contact us at bluewave@indivisiblehawaii.org if you have any questions.
 
