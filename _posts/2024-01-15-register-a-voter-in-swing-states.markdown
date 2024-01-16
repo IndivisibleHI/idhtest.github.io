@@ -1,5 +1,5 @@
 ---
-title: Register a Voter in Swing States
+title: Register Left Leaning Voters in Swing States
 date: 2024-01-15 17:38:00 -10:00
 categories:
 - action
