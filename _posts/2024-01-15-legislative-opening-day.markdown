@@ -3,8 +3,6 @@ title: Hawaiʻi State Legislature Opening Day
 date: 2024-01-15 17:12:00 -10:00
 categories:
 - event
-tags:
-- stategov
 is featured: true
 main-image: "/uploads/Civil%20Beat%20Opening%20Day.png"
 event-start-date: 2024-01-17 13:00:00 -10:00
