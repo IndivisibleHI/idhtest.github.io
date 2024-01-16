@@ -7,7 +7,7 @@ tags:
 - stategov
 is featured: true
 main-image: "/uploads/Civil%20Beat%20Opening%20Day.png"
-event-start-date: 2024-01-17 00:00:00 -10:00
+event-start-date: 2024-01-17 13:00:00 -10:00
 event-end-date: 2024-01-17 14:00:00 -10:00
 Location: Hawaii State Capitol by Father Damien Statue
 island: Oahu
