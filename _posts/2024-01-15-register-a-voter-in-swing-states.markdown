@@ -5,7 +5,7 @@ categories:
 - action
 is featured: true
 main-image: "/uploads/Windward%20VoteFwd%20Letter%20Writing%20(1)-caa7ae.jpg"
-event-start-date: 2024-01-01 00:00:00 -10:00
+event-start-date: 2024-01-06 10:00:00 -10:00
 event-end-date: 2024-11-05 17:00:00 -10:00
 ---
 
