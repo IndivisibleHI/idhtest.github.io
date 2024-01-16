@@ -1,5 +1,5 @@
 ---
-title: Hawaiʻi State Legislature Opening Day - Photo Op
+title: Hawaiʻi State Legislature Opening Day (Photo Op)
 date: 2024-01-15 17:12:00 -10:00
 categories:
 - event
