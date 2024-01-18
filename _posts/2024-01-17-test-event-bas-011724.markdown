@@ -1,6 +1,10 @@
 ---
 title: Test Event BAS 011724
 date: 2024-01-17 23:24:00 -10:00
+categories:
+- event
+tags:
+- natel
 is featured: true
 call-script-text: test event created by BAS 01/17/2024
 event-start-date: 2024-01-19 00:00:00 -10:00
