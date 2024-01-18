@@ -1,6 +1,6 @@
 ---
 title: Environment - Clean Water
-date: 2024-01-18 18:20:00 -10:00
+date: 2024-01-12 18:20:00 -10:00
 issuetag: environment
 issue-email: info@indivisiblehawaii.org
 issue-description: We are the team that are fighting to keep Hawaii’s land and water
