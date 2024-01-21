@@ -3,13 +3,12 @@ title: Meeting with Senator Schatz
 date: 2024-01-20 16:10:00 -10:00
 categories:
 - event
-tags:
-- healthcare
 is featured: true
 call-script-text: Hi, this is (your name) from (your town). I wanted to speak to you
   about peanut butter. Peanut butter is delicious.
 event-start-date: 2024-01-24 11:00:00 -10:00
 Location: Hawaii Capitol Building, Honolulu, HI
+chapter: Honolulu (Oahu)
 ---
 
 We're meeting with senator schatz to discuss funding for **peanut butter**.
